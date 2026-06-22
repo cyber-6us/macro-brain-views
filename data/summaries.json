@@ -2,7 +2,7 @@
   "generated_at": "2026-06-22",
   "today": {
     "date": "2026-06-22",
-    "entries_count": 18,
+    "entries_count": 19,
     "buy_side_bullets": [],
     "sell_side_bullets": [],
     "whats_new": [],
@@ -10,7 +10,8 @@
     "vs_market_sell": [],
     "buy_vs_sell_divergence": [],
     "aligned": [],
-    "trade_ideas": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
     "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
@@ -18,7 +19,7 @@
   "week": {
     "period_start": "2026-06-15",
     "period_end": "2026-06-22",
-    "entries_count": 18,
+    "entries_count": 19,
     "buy_side_bullets": [],
     "sell_side_bullets": [],
     "whats_new": [],
@@ -26,7 +27,8 @@
     "vs_market_sell": [],
     "buy_vs_sell_divergence": [],
     "aligned": [],
-    "trade_ideas": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
     "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
@@ -34,7 +36,7 @@
   "month": {
     "period_start": "2026-05-23",
     "period_end": "2026-06-22",
-    "entries_count": 18,
+    "entries_count": 19,
     "buy_side_bullets": [],
     "sell_side_bullets": [],
     "whats_new": [],
@@ -42,7 +44,8 @@
     "vs_market_sell": [],
     "buy_vs_sell_divergence": [],
     "aligned": [],
-    "trade_ideas": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
     "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
