@@ -635,7 +635,7 @@ function renderAskTab() {
         <button class="scope-btn ${askScope==='today'?'active':''}" onclick="setScope('today')">Today only</button>
         <button class="scope-btn ${askScope==='7d'?'active':''}" onclick="setScope('7d')">Last 7 days</button>
         <button class="scope-btn ${askScope==='30d'?'active':''}" onclick="setScope('30d')">Last 30 days</button>
-        <button class="scope-btn ${askScope==='all'?'active':''}" onclick="setScope('all')">All (90 days)</button>
+        <button class="scope-btn ${askScope==='all'?'active':''}" onclick="setScope('all')">All</button>
       </div>
 
       <div class="query-box">
@@ -738,7 +738,7 @@ async function submitQuery() {
   const relevant = getRelevantEntries(query);
   const context = buildContext(relevant);
 
-  const scopeLabel = { today: 'today', '7d': 'last 7 days', '30d': 'last 30 days', all: 'last 90 days' }[askScope];
+  const scopeLabel = { today: 'today', '7d': 'last 7 days', '30d': 'last 30 days', all: 'all available data' }[askScope];
 
   const systemPrompt = `You are Macro Brain, a research assistant synthesising views from top macro investors and sell-side strategists.
 
