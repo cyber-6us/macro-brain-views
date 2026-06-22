@@ -210,22 +210,14 @@
     .response-meta { font-size: 11px; color: #8b949e; margin-top: 10px; padding-top: 10px; border-top: 1px solid #30363d; }
     .inline-spinner { width: 16px; height: 16px; border: 2px solid #30363d; border-top-color: #58a6ff; border-radius: 50%; animation: spin 0.7s linear infinite; display: inline-block; vertical-align: middle; margin-right: 6px; }
 
-    /* ── Ask bullet cards ── */
-    .ask-bullets { display: flex; flex-direction: column; gap: 10px; margin-bottom: 14px; }
-    .ask-bullet-card {
-      background: #161b22; border: 1px solid #30363d; border-left: 3px solid #58a6ff;
-      border-radius: 7px; padding: 12px 14px;
-    }
-    .ask-bullet-headline {
-      font-size: 14px; font-weight: 600; color: #e6edf3; line-height: 1.4; margin-bottom: 6px;
-    }
-    .ask-bullet-headline::first-letter { }
-    .ask-bullet-rationale {
-      font-size: 13px; color: #8b949e; line-height: 1.6;
-    }
-    .ask-sources-row { font-size: 12px; color: #8b949e; margin-bottom: 12px; padding: 8px 0; border-top: 1px solid #21262d; }
-    .ask-sources-label { font-weight: 600; color: #58a6ff; margin-right: 4px; }
-    .ask-sources-names { color: #c9d1d9; }
+    /* ── Ask bullet output ── */
+    .ask-bullets { margin-bottom: 16px; }
+    .ask-bullet-card { margin-bottom: 14px; }
+    .ask-bullet-headline { font-size: 14px; font-weight: 600; color: #e6edf3; line-height: 1.5; }
+    .ask-bullet-headline::before { content: '• '; color: #58a6ff; }
+    .ask-bullet-rationale { font-size: 13px; color: #8b949e; line-height: 1.65; margin-top: 3px; padding-left: 14px; }
+    .ask-sources-row { font-size: 12px; color: #8b949e; margin-bottom: 12px; padding-top: 8px; border-top: 1px solid #21262d; }
+    .ask-sources-label { font-weight: 600; color: #8b949e; margin-right: 4px; }
 
     /* ── Ask response ── */
     .ask-key-point {
@@ -762,22 +754,21 @@ Do NOT summarise who thinks what. Speak as the investor. Form a view, defend it,
 Corpus (${scopeLabel}, ${relevant.length} relevant entries):
 ${ctx || 'No relevant entries found — answer from your own knowledge and note the corpus is empty.'}
 
-RESPONSE FORMAT — return exactly this, no JSON, no markdown headers:
+RESPONSE FORMAT — plain text, exactly as below:
 BULLETS
-• [Punchy headline insight — one line]
-  [2-3 sentences of rationale: why this is the right call, what evidence supports it, what the key risk is]
-• [next bullet]
-  [rationale]
-[4-6 bullets total]
+• [One-line conviction statement]
+  [2-3 sentences: the reasoning, supporting evidence, and key risk or implication]
+• [next point]
+  [reasoning]
+[4-6 bullets]
 SOURCES
-[comma-separated list of investor names whose views most informed this answer, or "General macro knowledge" if corpus was thin]
+[comma-separated names whose views informed this answer]
 
 Rules:
-- Lead with your view, not a name. Do not start bullets with "According to..." or "X thinks..."
-- Each bullet should be independently useful — insight + reason + implication
-- Be direct and confident. If the evidence points one way, say so clearly
-- Note meaningful disagreements within the corpus only if they materially affect the answer
-- Keep total response under 450 words`;
+- Never start a bullet with a name or "According to..."
+- Every bullet must have rationale — a headline without reasoning is useless
+- Be direct. Take a position. Do not hedge everything
+- Keep total response under 500 words`;
 
   try {
     const res = await fetch('https://api.anthropic.com/v1/messages', {
