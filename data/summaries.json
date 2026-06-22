@@ -3,21 +3,15 @@
   "today": {
     "date": "2026-06-22",
     "entries_count": 18,
-    "buy_side_theme": "Buy-side practitioners are broadly cautious on expensive mega-cap tech and broad equities, with Dalio warning of 1929/2000-style bubble valuations, Burry shorting Nvidia, and PTJ warning S&P 500 buyers risk a decade of losses — yet most are not outright bears, instead rotating tactically. Druckenmiller has dumped 94% of Amazon to buy semiconductors, Argentine equities, and copper; Tepper cut Microsoft by 82% to chase AI memory stocks; and Ackman went all-in on Microsoft while exiting Alphabet, arguing quality AI plays beat speculative 'new new' stocks. The dominant buy-side posture is selective rotation — away from saturated mega-cap AI narratives toward inflation hedges (Bitcoin per PTJ, gold per Gundlach), commodities, and structural AI infrastructure, while Gundlach warns Warsh will not cut rates, making the Fed the critical macro overhang.",
-    "sell_side_theme": "Sell-side strategists are split but increasingly cautious on equities: Hartnett calls the AI rally the 'biggest bubble since railroads,' flagging that only 4% of S&P 500 stocks are at new highs in an echo of March 2000, while Rosenberg explicitly warns of stagflation with inflation rising and growth decelerating. On the other side, Yardeni remains bullish through 2028 on FEMO (Fabulous Earnings Momentum) and Slok argues the US economy is running hot with zero evidence of AI job destruction; Hatzius cuts US recession risk to just 15% and favors long US equities over Europe. Wilson sees only 5-7% further downside before a bottom but identifies sticky inflation and rate uncertainty as the final hurdle, while Reid frames the environment as '1999 meets 1990' — tech exuberance colliding with recession risk.",
-    "key_divergence": "The sharpest tension is that buy-side money managers (Dalio, PTJ, Burry, Marks) are actively reducing broad equity exposure and warning of bubble conditions comparable to 1929 and 2000, while sell-side strategists Yardeni and Slok remain constructively bullish on earnings momentum and economic strength — the practitioners putting real capital at risk are fading the rally that the strategists are still endorsing.",
-    "trade_ideas": [
-      "1. Long Argentine equities: Druckenmiller is building a new position in Argentina as a high-conviction emerging market play on 'shock therapy' structural economic reforms with asymmetric upside. Source: Stan Druckenmiller",
-      "2. Short Nvidia: Burry has initiated a short position on Nvidia, arguing the stock is fundamentally overvalued relative to earnings despite its AI leadership narrative, consistent with his broader view that growth/tech pricing is disconnected from reality. Source: Michael Burry",
-      "3. Long Bitcoin: PTJ identifies Bitcoin as the 'best' inflation hedge in the current environment, where AI-driven dollar risks and expansionary fiscal policy create persistent purchasing-power erosion, and has increased his AI infrastructure bet (IREN +57%). Source: Paul Tudor Jones",
-      "4. Long copper: Druckenmiller is positioning long copper as a commodity-cycle and inflation hedge, viewing it as a beneficiary of AI infrastructure buildout demand and potential policy-driven reflation in 2026. Source: Stan Druckenmiller",
-      "5. Fade hyperscaler valuations / Short mega-cap tech: Berezin argues hyperscaler FCF projections (near-zero in 2026 surging to $700B by 2030 against $1T capex) are unrealistic, supporting a fade of mega-cap AI platform stocks; Druckenmiller's Amazon exit and Tepper's Microsoft cut reinforce this rotation. Source: Peter Berezin, Stan Druckenmiller, David Tepper"
-    ],
-    "dominant_themes": [
-      "AI valuation bubble risk — multiple practitioners and strategists drawing explicit parallels to 1929, 2000 dot-com, and railroad-era bubbles, with narrow market breadth (4% of S&P at new highs) as a warning signal",
-      "Inflation and Fed hawkishness — Gundlach warns Warsh faces a 1970s-style inflation challenge and will not cut rates; Rosenberg sees stagflation; Bessent calls Iran-driven inflation transitory but geopolitical risk persists",
-      "Mega-cap tech rotation — broad consensus among active managers to reduce saturated large-cap AI exposure (Amazon, Microsoft, Alphabet exits) in favor of semiconductors, AI memory, commodities, Argentina, and Bitcoin"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "trade_ideas": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
@@ -25,21 +19,15 @@
     "period_start": "2026-06-15",
     "period_end": "2026-06-22",
     "entries_count": 18,
-    "buy_side_theme": "Buy-side practitioners are broadly rotating out of mega-cap tech into more selective AI infrastructure, commodities, and emerging markets, while maintaining deep caution on broad equity valuations. Druckenmiller dumped 94% of Amazon and is now long semiconductors, copper, and Argentine equities; Tepper cut Microsoft by 82% and pivoted into AI memory stocks; Ackman went all-in on Microsoft while dumping Alphabet, arguing it is the quality AI play versus speculative 'new new' names. Meanwhile, Dalio, Burry, and Gundlach are outright bearish — Dalio warns of 1929/2000-level bubble conditions, Burry is shorting Nvidia and rotating into undervalued healthcare, and Gundlach warns that new Fed Chair Warsh will not deliver easy money, making rate cuts hard to justify in a 1970s-style inflation environment.",
-    "sell_side_theme": "Sell-side strategists are deeply split: Yardeni and Slok remain constructively bullish, with Yardeni citing FEMO (Fabulous Earnings Momentum) and Slok arguing the US economy is running hot with zero evidence of AI-driven job destruction. However, Hartnett at BofA warns of the 'biggest bubble since railroads,' flagging that only 4% of S&P 500 stocks are at new highs — an ominous breadth divergence echoing March 2000 — while Reid at Deutsche Bank frames the setup as '1999 meets 1990,' combining tech exuberance with recession risk. Rosenberg is the most pessimistic, warning of stagflationary deterioration with inflation rising and growth decelerating, while Wilson offers a middle path, calling the correction largely done but projecting another 5-7% downside before equities can rally on rate clarity.",
-    "key_divergence": "The sharpest gap is between sell-side bulls like Yardeni and Slok, who see earnings momentum and a hot economy as justifying elevated valuations, and the majority of buy-side practitioners — Dalio, Burry, Gundlach, Tudor Jones — who are actively reducing broad equity exposure and rotating into inflation hedges, shorts, and defensive assets, suggesting real-money managers see a bubble that strategists are still rationalizing.",
-    "trade_ideas": [
-      "1. Long Argentine equities: Druckenmiller is building a new position in Argentina as a structural emerging market play on Milei's 'shock therapy' economic reforms. Source: Stan Druckenmiller",
-      "2. Short Nvidia: Burry is actively shorting Nvidia, viewing it as overvalued and disconnected from fundamental value amid AI bubble dynamics, while simultaneously going long undervalued healthcare stocks as the rotation target. Source: Michael Burry",
-      "3. Long Bitcoin: Tudor Jones identifies Bitcoin as the 'best' inflation hedge, superior to traditional alternatives, amid concerns that AI bubble dynamics — not geopolitical events — represent the primary threat to the dollar. Source: Paul Tudor Jones",
-      "4. Long copper: Druckenmiller is building copper exposure as an inflation hedge and commodity cycle positioning trade, complementing his broader macro reallocation away from AI-dominated mega-cap narratives. Source: Stan Druckenmiller",
-      "5. Fade hyperscaler valuations (short/underweight): Berezin recommends fading mega-cap hyperscaler stocks given unrealistic free cash flow projections — near-zero FCF in 2026 surging to $700B by 2030 against $1T in ongoing capex — while simultaneously buying stocks in AI supply-chain shortage-affected industries as a paired trade. Source: Peter Berezin"
-    ],
-    "dominant_themes": [
-      "AI bubble vs. structural opportunity: near-universal acknowledgment of bubble-like conditions in AI/mega-cap tech, but sharp disagreement on timing and whether selective AI infrastructure plays remain valid",
-      "Inflation and Fed hawkishness: Gundlach's Warsh/1970s warning, Rosenberg's stagflation call, Bessent's 'transitory' counter-narrative, and Tudor Jones's inflation hedge positioning all converge on rates staying higher for longer",
-      "Mega-cap tech rotation: Druckenmiller, Tepper, Burry, and Ackman are all actively repositioning out of or within mega-cap tech, with semiconductors, AI memory, healthcare, and indirect AI beneficiaries identified as preferred destinations"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "trade_ideas": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
@@ -47,21 +35,15 @@
     "period_start": "2026-05-23",
     "period_end": "2026-06-22",
     "entries_count": 18,
-    "buy_side_theme": "Buy-side practitioners are broadly cautious on mega-cap tech and broad equity indices, with Dalio warning valuations approach 1929/2000 bubble levels, Burry actively shorting Nvidia, and Tudor Jones warning S&P 500 buyers risk a decade of losses. Druckenmiller and Tepper are executing tactical rotations — Druckenmiller dumping 94% of Amazon and rotating into semiconductors, copper, and Argentine equities, while Tepper slashed Microsoft by 82% to pivot into high-growth AI memory stocks. Inflation hedges are a consensus long across the cohort, with Tudor Jones bullish on Bitcoin, Gundlach citing gold and gold miners, and Druckenmiller accumulating copper, while Ackman bucks the bearish tech trend by going all-in on Microsoft as a quality AI play versus dumping Alphabet.",
-    "sell_side_theme": "Sell-side strategists are split between bubble warnings and fundamental resilience: Hartnett flags the 'biggest bubble since railroads' with only 4% of S&P 500 at new highs echoing March 2000, while Reid describes a '1999 meets 1990' environment combining tech exuberance with recession risk. Yardeni and Slok provide the bull counter — Yardeni argues gains are driven by FEMO (Fabulous Earnings Momentum) not speculation with a bull case through 2028, and Slok sees the US economy running 'pretty hot' with zero evidence of AI job destruction. Hatzius sits in the middle, cutting US recession risk to 15% while flagging Iran geopolitical tail risks and projecting European growth slowing by half, with Wilson anticipating only 5-7% further downside before equities bottom once rate clarity emerges.",
-    "key_divergence": "The sharpest divergence is that buy-side heavyweights like Dalio, Burry, and Tudor Jones are actively reducing or shorting high-valuation AI and growth exposures — Burry is short Nvidia, Druckenmiller dumped Amazon — while sell-side bulls Yardeni and Slok dismiss bubble concerns entirely, arguing earnings momentum and a hot economy justify current valuations; practitioners are hedging with gold, Bitcoin, and copper while strategists are still calling for equity longs.",
-    "trade_ideas": [
-      "1. Long Argentine equities: Structural reform 'shock therapy' under Milei creates asymmetric emerging market opportunity as macro reallocation away from saturated mega-cap tech accelerates. Source: Stan Druckenmiller",
-      "2. Long copper: Inflation hedge and commodity cycle positioning for 2026 strength, with potential policy-driven inflation risk under Warsh Fed adding further upside catalyst. Source: Stan Druckenmiller",
-      "3. Short Nvidia: Overvalued growth asset disconnected from fundamental value in the context of broader AI bubble dynamics and excessive speculation in semiconductor space. Source: Michael Burry",
-      "4. Long Bitcoin: Best available inflation hedge against 1970s-style inflationary pressures and dollar vulnerability driven by AI bubble dynamics rather than geopolitical events. Source: Paul Tudor Jones",
-      "5. Long US equities relative to European equities: Divergent growth trajectories with US GDP continuing to expand while European growth slows by approximately half, supported by AI tailwinds and unlikely near-term rate hikes. Source: Jan Hatzius"
-    ],
-    "dominant_themes": [
-      "AI bubble parallels to 2000 dot-com / 1929 with valuation warnings from multiple buy-side and sell-side voices",
-      "Inflation resurgence and hawkish Fed reality under Warsh driving rotation into hard assets — gold, Bitcoin, copper",
-      "Mega-cap tech rotation: practitioners exiting Amazon, Microsoft, Alphabet in favor of semiconductors, AI memory, and emerging markets"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "trade_ideas": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   }

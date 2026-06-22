@@ -52,7 +52,8 @@ def generate_summary(entries: list[dict], period_label: str, period_days: int) -
         "vs_market_sell": [],
         "buy_vs_sell_divergence": [],
         "aligned": [],
-        "trade_ideas": [],
+        "buy_side_trades": [],
+        "sell_side_trades": [],
         "dominant_themes": [],
         "buy_side_sentiment": "mixed",
         "sell_side_sentiment": "mixed",
@@ -129,12 +130,19 @@ Produce a JSON synthesis with EXACTLY these fields. All bullet arrays must be so
     "...",
     "..."
   ],
-  "trade_ideas": [
-    "1. Long/Short [specific asset]: [rationale in 1 sentence]. Source: [investor name]",
-    "2. ...",
-    "3. ...",
-    "4. ...",
-    "5. ..."
+  "buy_side_trades": [
+    "Long/Short [specific asset]: [rationale]. Source: [buy-side investor name]",
+    "...",
+    "...",
+    "...",
+    "..."
+  ],
+  "sell_side_trades": [
+    "Long/Short [specific asset]: [rationale]. Source: [sell-side strategist name]",
+    "...",
+    "...",
+    "...",
+    "..."
   ],
   "dominant_themes": ["theme 1", "theme 2", "theme 3"],
   "buy_side_sentiment": "bullish or bearish or neutral or mixed",

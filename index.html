@@ -419,10 +419,21 @@ function renderPeriod(data, key, allEntries) {
     html += `</div>`;
   }
 
-  // ── Trade Ideas ──
-  if (data.trade_ideas && data.trade_ideas.length) {
+  // ── Trade Ideas (split buy vs sell) ──
+  const hasTrades = (data.buy_side_trades && data.buy_side_trades.length)
+                 || (data.sell_side_trades && data.sell_side_trades.length);
+  if (hasTrades) {
     html += `<div class="sec-label trade">Top Trade Ideas</div>
-      ${bulletList(data.trade_ideas, 'trade-bullet')}`;
+      <div class="two-col">
+        <div class="col-block">
+          <div style="font-size:10px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:#58a6ff;margin-bottom:8px">Buy-Side Trades</div>
+          ${bulletList(data.buy_side_trades, 'trade-bullet')}
+        </div>
+        <div class="col-block">
+          <div style="font-size:10px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:#e3b341;margin-bottom:8px">Sell-Side Trades</div>
+          ${bulletList(data.sell_side_trades, 'trade-bullet')}
+        </div>
+      </div>`;
   }
 
   // ── Themes ──
