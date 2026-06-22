@@ -21,7 +21,7 @@ import anthropic
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 CONTENT_FILE = "data/content.json"
 TODAY = date.today().isoformat()
-CUTOFF_90D = (date.today() - timedelta(days=90)).isoformat()
+CUTOFF_90D = "2000-01-01"  # keep all entries indefinitely
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "

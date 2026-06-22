@@ -451,7 +451,7 @@ function getRelevantEntries(query) {
   if (!content) return [];
   const tokens = query.toLowerCase().split(/\s+/).filter(t => t.length > 3);
   const today = new Date().toISOString().split('T')[0];
-  const cutoffs = { today, '7d': offset(7), '30d': offset(30), all: offset(90) };
+  const cutoffs = { today, '7d': offset(7), '30d': offset(30), all: '2000-01-01' };
   const cutoff = cutoffs[askScope] || offset(30);
   const filtered = content.entries.filter(e => e.date >= cutoff);
   const scored = filtered.map(e => {
