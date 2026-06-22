@@ -748,36 +748,26 @@ SELL-SIDE: Jim Reid (DB), Torsten Slok (Apollo), Michael Hartnett (BofA), Albert
 Corpus (${scopeLabel}, ${relevant.length} entries):
 ${ctx || 'No relevant entries found.'}
 
-Return ONLY a JSON object — no prose, no markdown fences — with this exact shape:
+Return ONLY a JSON object — no prose, no markdown fences:
 {
   "key_points": [
     {
-      "point": "Concise insight answering the question (max 20 words)",
+      "point": "Concise insight (max 20 words)",
       "agreeing": [{"name": "Investor Name", "side": "buy or sell", "stance": "one short phrase"}],
       "disagreeing": [{"name": "Investor Name", "side": "buy or sell", "stance": "one short phrase"}]
-    }
-  ],
-  "individual_views": [
-    {
-      "investor": "Name",
-      "side": "buy or sell",
-      "sentiment": "bullish or bearish or mixed or neutral",
-      "view": "2-3 sentence summary of their specific view relevant to the question",
-      "trade": "specific trade idea if any, else empty string"
     }
   ]
 }
 
 Rules:
-- key_points: 3-5 bullets max, most market-important first
-- BULLET FORMAT: lead with the CONTENT/INSIGHT, never start with a name. Names go in agreeing/disagreeing only.
-  GOOD: "Equities at generational valuation extremes — reducing risk."
-  BAD: "Dalio warns equities are overvalued."
-- CHANGE OF VIEW: if a view shifted vs earlier in corpus, add suffix to name: {"name": "Dalio ↑ shift", "side": "buy", "stance": "escalated from cautious to explicit bubble call"}
-- EVOLVING VIEW: if a view intensified without fully reversing, use "↑ evolving" suffix instead
-- agreeing/disagreeing: only include investors present in the corpus
-- individual_views: one entry per relevant investor; note any view changes in the view text
-- If corpus is empty or irrelevant, return {"key_points": [{"point": "No relevant data found for this query in the selected scope.", "agreeing": [], "disagreeing": []}], "individual_views": []}`;
+- Return ONLY valid JSON with key_points array — no other fields, no prose
+- 3-5 bullets only, most market-important first
+- BULLET FORMAT: content first, never start with a name
+  GOOD: "Equities at generational extremes — reducing risk."  BAD: "Dalio warns..."
+- CHANGE OF VIEW: suffix the name: {"name": "Dalio ↑ shift", "side": "buy", "stance": "escalated to bubble call"}
+- EVOLVING VIEW: use "↑ evolving" suffix if intensified without reversing
+- agreeing/disagreeing: corpus investors only, max 5 per bullet
+- If no relevant data: {"key_points": [{"point": "No relevant data found.", "agreeing": [], "disagreeing": []}]}`;
 
   try {
     const res = await fetch('https://api.anthropic.com/v1/messages', {
@@ -848,31 +838,33 @@ function renderAskResponse(parsed, relevant, scopeLabel, usage) {
     html += `</div></div>`;
   });
 
-  // Individual views (collapsed by default)
-  const views = parsed.individual_views || [];
-  if (views.length) {
-    const listId = 'ask-ind-list-' + Date.now();
+  // Individual views — built directly from corpus data (no Claude needed)
+  if (relevant.length) {
     html += `<div class="ask-individuals">
       <div class="ask-ind-toggle" onclick="this.nextElementSibling.classList.toggle('open');this.querySelector('.tog-icon').textContent=this.nextElementSibling.classList.contains('open')?'▾':'▸'">
-        <span class="tog-icon">▸</span> Individual views (${views.length} investors)
+        <span class="tog-icon">▸</span> Individual views (${relevant.length} investors in scope)
       </div>
-      <div class="ask-ind-list" id="${listId}">`;
+      <div class="ask-ind-list">`;
 
-    views.forEach(v => {
-      const slugId = 'ind-' + v.investor.replace(/\s+/g,'-').toLowerCase();
-      const srcs = (sourceMap[v.investor] || []).slice(0,3);
+    relevant.forEach(e => {
+      const slugId = 'ind-' + e.investor.replace(/\s+/g,'-').toLowerCase();
+      const srcs = (e.sources || []).slice(0, 3);
       const srcHtml = srcs.length
-        ? `<div class="ask-src">${srcs.map((s,i)=>`<a href="${s}" target="_blank" rel="noopener">Source ${i+1}</a>`).join('')}</div>`
+        ? `<div class="ask-src">${srcs.map((s,i) => `<a href="${s}" target="_blank" rel="noopener">Source ${i+1}</a>`).join('')}</div>`
         : '';
+      const trades = (e.trade_ideas || []).filter(Boolean);
+      const sentClass = sentCls[e.sentiment] || 'sent-mixed';
       html += `<div class="ask-ind-card" id="${slugId}">
         <div class="ask-ind-header" onclick="this.nextElementSibling.classList.toggle('open')">
-          <span class="investor-side ${v.side==='buy'?'side-buy':'side-sell'}">${v.side==='buy'?'Buy':'Sell'}</span>
-          <span class="ask-ind-name">${v.investor}</span>
-          <span class="sentiment-badge ${sentCls[v.sentiment]||'sent-mixed'}" style="font-size:10px">${v.sentiment||'mixed'}</span>
+          <span class="investor-side ${e.side==='buy'?'side-buy':'side-sell'}">${e.side==='buy'?'Buy':'Sell'}</span>
+          <span class="ask-ind-name">${e.investor}</span>
+          <span class="sentiment-badge ${sentClass}" style="font-size:10px">${e.sentiment||'mixed'}</span>
+          <span style="font-size:11px;color:#8b949e;margin-left:auto">${e.date}</span>
         </div>
         <div class="ask-ind-body">
-          <p style="margin:10px 0 6px">${v.view}</p>
-          ${v.trade ? `<div style="font-size:12px;color:#3fb950;font-style:italic">→ ${v.trade}</div>` : ''}
+          <p style="margin:10px 0 6px">${e.summary||''}</p>
+          ${(e.key_views||[]).length ? `<ul style="margin:4px 0 6px;padding-left:16px;font-size:12px;color:#8b949e">${e.key_views.map(v=>`<li>${v}</li>`).join('')}</ul>` : ''}
+          ${trades.length ? `<div style="font-size:12px;color:#3fb950;font-style:italic;margin-top:4px">→ ${trades.join(' · ')}</div>` : ''}
           ${srcHtml}
         </div>
       </div>`;
