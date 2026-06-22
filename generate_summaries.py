@@ -152,6 +152,7 @@ Produce a JSON synthesis with EXACTLY these fields. All bullet arrays must be so
 Rules:
 - Every bullet must name at least one investor
 - Sort ALL arrays most-important first
+- Keep every bullet under 25 words — be punchy, no filler
 - whats_new: only include genuine changes vs period start, skip if unchanged
 - vs_market: use your knowledge of current market implied levels (equity valuations, rate expectations, credit spreads, vol) to anchor the comparison
 - Return only valid JSON, no other text"""
@@ -159,7 +160,7 @@ Rules:
     try:
         response = client.messages.create(
             model="claude-sonnet-4-6",
-            max_tokens=4000,
+            max_tokens=8000,
             messages=[{"role": "user", "content": prompt}]
         )
         text = response.content[0].text.strip()
