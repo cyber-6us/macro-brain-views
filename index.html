@@ -751,23 +751,18 @@ ${ctx || 'No relevant entries found.'}
 Return ONLY a JSON object — no prose, no markdown fences:
 {
   "key_points": [
-    {
-      "point": "Concise insight (max 20 words)",
-      "agreeing": [{"name": "Investor Name", "side": "buy or sell", "stance": "one short phrase"}],
-      "disagreeing": [{"name": "Investor Name", "side": "buy or sell", "stance": "one short phrase"}]
-    }
+    {"point": "Concise insight (max 20 words)", "agree": ["Name1", "Name2 ↑ shift"], "disagree": ["Name3"]}
   ]
 }
 
 Rules:
-- Return ONLY valid JSON with key_points array — no other fields, no prose
-- 3-5 bullets only, most market-important first
-- BULLET FORMAT: content first, never start with a name
-  GOOD: "Equities at generational extremes — reducing risk."  BAD: "Dalio warns..."
-- CHANGE OF VIEW: suffix the name: {"name": "Dalio ↑ shift", "side": "buy", "stance": "escalated to bubble call"}
-- EVOLVING VIEW: use "↑ evolving" suffix if intensified without reversing
-- agreeing/disagreeing: corpus investors only, max 5 per bullet
-- If no relevant data: {"key_points": [{"point": "No relevant data found.", "agreeing": [], "disagreeing": []}]}`;
+- MINIMAL JSON — each key_point has only: point (string), agree (array of names), disagree (array of names)
+- 3-5 bullets, most market-important first
+- BULLET FORMAT: content first, never start with a name. GOOD: "Equities at extremes — cutting risk." BAD: "Dalio warns..."
+- agree/disagree: just the investor's last name (or full name if ambiguous), corpus only, max 5 per bullet
+- CHANGE OF VIEW: append " ↑ shift" to the name — e.g. "Dalio ↑ shift"
+- EVOLVING VIEW: append " ↑ evolving" instead if the view intensified without fully reversing
+- If no relevant data: {"key_points": [{"point": "No relevant data found.", "agree": [], "disagree": []}]}`;
 
   try {
     const res = await fetch('https://api.anthropic.com/v1/messages', {
@@ -812,26 +807,43 @@ function renderAskResponse(parsed, relevant, scopeLabel, usage) {
   relevant.forEach(e => { sourceMap[e.investor] = e.sources || []; });
 
   // Key points
+  // Build a name→side lookup from corpus entries
+  const sideMap = {};
+  relevant.forEach(e => { sideMap[e.investor.toLowerCase()] = e.side; });
+  function lookupSide(rawName) {
+    const base = rawName.replace(/\s*↑\s*(shift|evolving)/i, '').trim().toLowerCase();
+    // Try exact match, then last-name match
+    if (sideMap[base]) return sideMap[base];
+    for (const [k, v] of Object.entries(sideMap)) {
+      if (k.includes(base) || base.includes(k.split(' ').pop())) return v;
+    }
+    return 'buy'; // fallback
+  }
+
   let html = '';
   (parsed.key_points || []).forEach(kp => {
     html += `<div class="ask-key-point">
       <div class="ask-point-text">${kp.point}</div>
       <div class="ask-agree-row">`;
 
-    if (kp.agreeing && kp.agreeing.length) {
+    const agrees = kp.agree || kp.agreeing || [];
+    const disagrees = kp.disagree || kp.disagreeing || [];
+
+    if (agrees.length) {
       html += `<span class="ask-agree-label">Agrees:</span>`;
-      kp.agreeing.forEach(p => {
-        html += `<span class="ask-name-tag ${p.side}" title="${p.stance}" onclick="scrollToIndividual('${p.name.replace(/'/g,"\\'")}')">
-          ${p.name}
-        </span>`;
+      agrees.forEach(raw => {
+        const name = typeof raw === 'object' ? (raw.name || '') : raw;
+        const side = typeof raw === 'object' ? raw.side : lookupSide(name);
+        const slug = name.replace(/\s*↑\s*(shift|evolving)/i,'').trim().replace(/'/g,"\\'");
+        html += `<span class="ask-name-tag ${side}" onclick="scrollToIndividual('${slug}')">${name}</span>`;
       });
     }
-    if (kp.disagreeing && kp.disagreeing.length) {
+    if (disagrees.length) {
       html += `<span class="ask-agree-label" style="margin-left:8px">Disagrees:</span>`;
-      kp.disagreeing.forEach(p => {
-        html += `<span class="ask-name-tag dis" title="${p.stance}" onclick="scrollToIndividual('${p.name.replace(/'/g,"\\'")}')">
-          ${p.name}
-        </span>`;
+      disagrees.forEach(raw => {
+        const name = typeof raw === 'object' ? (raw.name || '') : raw;
+        const slug = name.replace(/\s*↑\s*(shift|evolving)/i,'').trim().replace(/'/g,"\\'");
+        html += `<span class="ask-name-tag dis" onclick="scrollToIndividual('${slug}')">${name}</span>`;
       });
     }
 
