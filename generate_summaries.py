@@ -92,50 +92,57 @@ Produce a JSON synthesis with EXACTLY these fields.
 
 STRICT RULES — read before writing a single word:
 - Every array: 3 to 5 items maximum, sorted by MARKET IMPORTANCE (most price-moving first)
-- Every bullet: under 20 words, punchy, no filler — name the investor, state the view, done
-- whats_new: only real changes vs period start — omit entirely if nothing changed
+- BULLET FORMAT: lead with the CONTENT/INSIGHT, put names in brackets at the end. Never start with a name.
+  GOOD: "Equities near 1929/2000 bubble levels — cutting risk aggressively. [Dalio, Hartnett]"
+  BAD:  "Dalio warns equities near bubble levels."
+- If the same view is held by multiple investors, list all of them in the brackets
+- CHANGE OF VIEW: if an investor's recent stance differs from their older stance in this period, append "↑ shift" inside the brackets
+  E.g. "Recession risk rising faster than expected — front-loading defensive positioning. [Dalio ↑ shift, Rosenberg]"
+- EVOLVING VIEW: if a view has intensified/escalated without fully reversing, append "↑ evolving"
+  E.g. "Dollar weakness thesis strengthening as fiscal deficit concerns mount. [Bass ↑ evolving]"
+- whats_new: focus on genuine shifts — what was said differently or newly in the recent period vs older
 - vs_market: anchor to current market pricing (equity multiples, rate expectations, credit spreads)
 - Return ONLY valid JSON — no markdown, no explanation
 
 {{
   "buy_side_bullets": [
-    "Druckenmiller cut Amazon 94%, rotating into semis — AI infra over software.",
-    "Dalio: US equities near 1929/2000 bubble levels, cutting risk.",
-    "3rd most important buy-side view, attributed."
+    "AI infrastructure capex cycle creating durable semis demand — rotating out of software. [Druckenmiller]",
+    "Equity valuations at generational extremes — reducing risk. [Dalio, Burry ↑ shift]",
+    "3rd most important buy-side insight. [Names]"
   ],
   "sell_side_bullets": [
-    "Hartnett (BofA): biggest bubble since railroads, parallels 1999.",
-    "Slok (Apollo): economy running hot, no cuts needed.",
-    "3rd most important sell-side view, attributed."
+    "Largest equity bubble since railroads — historical parallels point to painful unwind. [Hartnett]",
+    "Economy running hotter than consensus — no rate cuts warranted. [Slok ↑ evolving]",
+    "3rd most important sell-side insight. [Names]"
   ],
   "whats_new": [
-    "Genuine change vs period start only. E.g. Dalio moved from cautious to outright bubble call this week.",
-    "2nd change if any."
+    "Recession probability raised sharply — moved from cautious to explicit warning. [Dalio ↑ shift]",
+    "2nd genuine change if any."
   ],
   "vs_market_buy": [
-    "Buy-side view vs what market prices. E.g. Burry short growth while market prices 20x forward PE.",
+    "Shorting growth equities while market prices 20x+ forward PE — significant valuation disconnect. [Burry, Einhorn]",
     "2nd divergence if material."
   ],
   "vs_market_sell": [
-    "Sell-side view vs market. E.g. Rosenberg sees stagflation; credit spreads at 2-year tights disagree.",
+    "Stagflation risk elevated while credit spreads at 2-year tights — market appears complacent. [Rosenberg, Edwards]",
     "2nd divergence if material."
   ],
   "buy_vs_sell_divergence": [
-    "Biggest practitioner vs strategist disagreement. E.g. Gundlach (buy) no cuts vs Slok (sell) strong economy needs none — same conclusion, opposite reasoning.",
+    "No Fed cuts this year on fiscal/inflation grounds vs strong-economy-needs-no-cuts — same outcome, opposite logic. [Gundlach vs Slok]",
     "2nd divergence if material."
   ],
   "aligned": [
-    "Where both camps agree. E.g. Dalio + Hartnett both call bubble — market disagrees, still rallying.",
+    "Bubble-like equity valuations — but market still making highs, both camps ignored so far. [Dalio, Hartnett, Edwards]",
     "2nd consensus if any."
   ],
   "buy_side_trades": [
-    "Short mega-cap tech (Nvidia, Microsoft). Source: Druckenmiller, Burry.",
-    "Long gold / BTC as inflation hedge. Source: Tudor Jones.",
+    "Short mega-cap tech / long semis — AI infra over AI software. [Druckenmiller]",
+    "Long gold and BTC — inflation hedge, dollar debasement. [Tudor Jones ↑ evolving]",
     "3rd trade if supported."
   ],
   "sell_side_trades": [
-    "Underweight equities, overweight cash. Source: Hartnett (BofA).",
-    "Long duration bonds on recession risk. Source: Rosenberg.",
+    "Underweight equities, overweight cash — bubble risk not priced. [Hartnett]",
+    "Long duration bonds — recession will force cuts. [Rosenberg]",
     "3rd trade if supported."
   ],
   "dominant_themes": ["AI bubble valuation", "Fed path uncertainty", "inflation regime shift"],

@@ -770,8 +770,13 @@ Return ONLY a JSON object — no prose, no markdown fences — with this exact s
 
 Rules:
 - key_points: 3-5 bullets max, most market-important first
+- BULLET FORMAT: lead with the CONTENT/INSIGHT, never start with a name. Names go in agreeing/disagreeing only.
+  GOOD: "Equities at generational valuation extremes — reducing risk."
+  BAD: "Dalio warns equities are overvalued."
+- CHANGE OF VIEW: if a view shifted vs earlier in corpus, add suffix to name: {"name": "Dalio ↑ shift", "side": "buy", "stance": "escalated from cautious to explicit bubble call"}
+- EVOLVING VIEW: if a view intensified without fully reversing, use "↑ evolving" suffix instead
 - agreeing/disagreeing: only include investors present in the corpus
-- individual_views: one entry per investor who has a relevant view, all investors in corpus who are relevant
+- individual_views: one entry per relevant investor; note any view changes in the view text
 - If corpus is empty or irrelevant, return {"key_points": [{"point": "No relevant data found for this query in the selected scope.", "agreeing": [], "disagreeing": []}], "individual_views": []}`;
 
   try {
