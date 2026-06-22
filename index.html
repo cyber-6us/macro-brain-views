@@ -210,6 +210,23 @@
     .response-meta { font-size: 11px; color: #8b949e; margin-top: 10px; padding-top: 10px; border-top: 1px solid #30363d; }
     .inline-spinner { width: 16px; height: 16px; border: 2px solid #30363d; border-top-color: #58a6ff; border-radius: 50%; animation: spin 0.7s linear infinite; display: inline-block; vertical-align: middle; margin-right: 6px; }
 
+    /* ── Ask bullet cards ── */
+    .ask-bullets { display: flex; flex-direction: column; gap: 10px; margin-bottom: 14px; }
+    .ask-bullet-card {
+      background: #161b22; border: 1px solid #30363d; border-left: 3px solid #58a6ff;
+      border-radius: 7px; padding: 12px 14px;
+    }
+    .ask-bullet-headline {
+      font-size: 14px; font-weight: 600; color: #e6edf3; line-height: 1.4; margin-bottom: 6px;
+    }
+    .ask-bullet-headline::first-letter { }
+    .ask-bullet-rationale {
+      font-size: 13px; color: #8b949e; line-height: 1.6;
+    }
+    .ask-sources-row { font-size: 12px; color: #8b949e; margin-bottom: 12px; padding: 8px 0; border-top: 1px solid #21262d; }
+    .ask-sources-label { font-weight: 600; color: #58a6ff; margin-right: 4px; }
+    .ask-sources-names { color: #c9d1d9; }
+
     /* ── Ask response ── */
     .ask-key-point {
       background: #161b22; border: 1px solid #30363d; border-left: 3px solid #58a6ff;
@@ -726,43 +743,41 @@ async function submitQuery() {
   const box = document.getElementById('responseBox');
   btn.disabled = true; btn.textContent = '...';
   box.className = 'response-box visible';
-  box.innerHTML = '<span class="inline-spinner"></span> Searching corpus...';
+  box.innerHTML = '<span class="inline-spinner"></span> Thinking...';
 
   const relevant = getRelevantEntries(query);
   const scopeLabel = {today:'today', '7d':'last 7 days', '30d':'last 30 days', all:'all available data'}[askScope];
 
-  // Build enriched context including sources per investor
-  const ctx = relevant.map(e => {
-    const side = e.side === 'buy' ? 'BUY-SIDE' : 'SELL-SIDE';
-    return `[${e.date}] ${e.investor} (${side}, ${(e.sentiment||'').toUpperCase()})
-  View: ${e.summary}
-  Key: ${(e.key_views||[]).join(' | ')}
-  Trades: ${(e.trade_ideas||[]).join(' | ')}`;
-  }).join('\n\n');
+  const ctx = relevant.map(e =>
+    `[${e.date}] ${e.investor} (${e.side==='buy'?'BUY-SIDE':'SELL-SIDE'}, ${(e.sentiment||'').toUpperCase()})
+  ${e.summary}
+  ${(e.key_views||[]).join(' | ')}
+  Trades: ${(e.trade_ideas||[]).join(' | ')}`
+  ).join('\n\n');
 
-  const sys = `You are Macro Brain, synthesising views from top macro investors and strategists.
+  const sys = `You are the world's leading macro investor — with decades of experience navigating every cycle, crisis, and regime change. You have absorbed and stress-tested the views of the sharpest minds in the business (corpus below), but your answer is your own: a conviction-driven, first-person view based on the best available evidence.
 
-BUY-SIDE: Stan Druckenmiller, Ray Dalio, Paul Tudor Jones, Howard Marks, George Soros, David Tepper, Jeffrey Gundlach, Kyle Bass, Michael Burry, Alan Howard, Scott Bessent, Bill Ackman, David Einhorn, Crispin Odey.
-SELL-SIDE: Jim Reid (DB), Torsten Slok (Apollo), Michael Hartnett (BofA), Albert Edwards (SocGen), David Rosenberg, Ed Yardeni, Jan Hatzius (GS), Mike Wilson (MS), Russell Napier, Peter Berezin (BCA), Liz Ann Sonders (Schwab), Barry Bannister (Stifel), Jordi Visser (22V Research), John Mauldin (Mauldin Economics).
+Do NOT summarise who thinks what. Speak as the investor. Form a view, defend it, own it. Where the corpus supports it, use it. Where it is thin, draw on your broader macro expertise. Be direct, be specific, be useful.
 
-Corpus (${scopeLabel}, ${relevant.length} entries):
-${ctx || 'No relevant entries found.'}
+Corpus (${scopeLabel}, ${relevant.length} relevant entries):
+${ctx || 'No relevant entries found — answer from your own knowledge and note the corpus is empty.'}
 
-Return ONLY a JSON object — no prose, no markdown fences:
-{
-  "key_points": [
-    {"point": "Concise insight (max 20 words)", "agree": ["Name1", "Name2 ↑ shift"], "disagree": ["Name3"]}
-  ]
-}
+RESPONSE FORMAT — return exactly this, no JSON, no markdown headers:
+BULLETS
+• [Punchy headline insight — one line]
+  [2-3 sentences of rationale: why this is the right call, what evidence supports it, what the key risk is]
+• [next bullet]
+  [rationale]
+[4-6 bullets total]
+SOURCES
+[comma-separated list of investor names whose views most informed this answer, or "General macro knowledge" if corpus was thin]
 
 Rules:
-- MINIMAL JSON — each key_point has only: point (string), agree (array of names), disagree (array of names)
-- 3-5 bullets, most market-important first
-- BULLET FORMAT: content first, never start with a name. GOOD: "Equities at extremes — cutting risk." BAD: "Dalio warns..."
-- agree/disagree: just the investor's last name (or full name if ambiguous), corpus only, max 5 per bullet
-- CHANGE OF VIEW: append " ↑ shift" to the name — e.g. "Dalio ↑ shift"
-- EVOLVING VIEW: append " ↑ evolving" instead if the view intensified without fully reversing
-- If no relevant data: {"key_points": [{"point": "No relevant data found.", "agree": [], "disagree": []}]}`;
+- Lead with your view, not a name. Do not start bullets with "According to..." or "X thinks..."
+- Each bullet should be independently useful — insight + reason + implication
+- Be direct and confident. If the evidence points one way, say so clearly
+- Note meaningful disagreements within the corpus only if they materially affect the answer
+- Keep total response under 450 words`;
 
   try {
     const res = await fetch('https://api.anthropic.com/v1/messages', {
@@ -774,87 +789,67 @@ Rules:
         'anthropic-dangerous-direct-browser-access': 'true'
       },
       body: JSON.stringify({
-        model: 'claude-sonnet-4-6', max_tokens: 4000,
-        system: sys, messages: [{role:'user', content:query}]
+        model: 'claude-sonnet-4-6', max_tokens: 1200,
+        system: sys, messages: [{role:'user', content: query}]
       })
     });
     if (!res.ok) { const e = await res.json(); throw new Error(e.error?.message || `HTTP ${res.status}`); }
     const data = await res.json();
-
-    let parsed;
-    try {
-      let raw = data.content[0].text.trim();
-      if (raw.includes('```')) raw = raw.split('```')[1].replace(/^json/,'').trim();
-      parsed = JSON.parse(raw);
-    } catch(e) {
-      box.innerHTML = `<div style="color:#f85149">Could not parse response. Raw: ${data.content[0].text.slice(0,200)}</div>`;
-      btn.disabled = false; btn.textContent = 'Ask';
-      return;
-    }
-
-    box.innerHTML = renderAskResponse(parsed, relevant, scopeLabel, data.usage);
+    box.innerHTML = renderAskResponse(data.content[0].text, relevant, scopeLabel, data.usage);
   } catch(err) {
     box.innerHTML = `<div style="color:#f85149">Error: ${err.message}</div>`;
   }
   btn.disabled = false; btn.textContent = 'Ask';
 }
 
-function renderAskResponse(parsed, relevant, scopeLabel, usage) {
+function renderAskResponse(text, relevant, scopeLabel, usage) {
   const sentCls = {bullish:'sent-bullish', bearish:'sent-bearish', mixed:'sent-mixed', neutral:'sent-neutral'};
 
-  // Build source map from corpus entries
-  const sourceMap = {};
-  relevant.forEach(e => { sourceMap[e.investor] = e.sources || []; });
+  // Split on BULLETS / SOURCES markers
+  const bulletsMatch = text.match(/BULLETS\s*([\s\S]*?)(?=SOURCES|$)/i);
+  const sourcesMatch = text.match(/SOURCES\s*([\s\S]*?)$/i);
+  const rawBullets = bulletsMatch ? bulletsMatch[1].trim() : text.trim();
+  const sourcesText = sourcesMatch ? sourcesMatch[1].trim() : '';
 
-  // Key points
-  // Build a name→side lookup from corpus entries
-  const sideMap = {};
-  relevant.forEach(e => { sideMap[e.investor.toLowerCase()] = e.side; });
-  function lookupSide(rawName) {
-    const base = rawName.replace(/\s*↑\s*(shift|evolving)/i, '').trim().toLowerCase();
-    // Try exact match, then last-name match
-    if (sideMap[base]) return sideMap[base];
-    for (const [k, v] of Object.entries(sideMap)) {
-      if (k.includes(base) || base.includes(k.split(' ').pop())) return v;
+  // Parse bullets: lines starting with • or - are headlines; indented lines are rationale
+  const lines = rawBullets.split('\n');
+  let bullets = [];
+  let current = null;
+  lines.forEach(line => {
+    const trimmed = line.trim();
+    if (!trimmed) return;
+    if (trimmed.startsWith('•') || trimmed.startsWith('-')) {
+      if (current) bullets.push(current);
+      current = { headline: trimmed.replace(/^[•\-]\s*/, ''), rationale: [] };
+    } else if (current) {
+      current.rationale.push(trimmed);
     }
-    return 'buy'; // fallback
+  });
+  if (current) bullets.push(current);
+
+  let html = '<div class="ask-bullets">';
+  bullets.forEach(b => {
+    html += `<div class="ask-bullet-card">
+      <div class="ask-bullet-headline">▸ ${b.headline}</div>
+      ${b.rationale.length ? `<div class="ask-bullet-rationale">${b.rationale.join(' ')}</div>` : ''}
+    </div>`;
+  });
+  html += '</div>';
+
+  // Sources + collapsed individual views
+  if (sourcesText || relevant.length) {
+    html += `<div class="ask-sources-row">`;
+    if (sourcesText) {
+      html += `<span class="ask-sources-label">Informed by:</span> <span class="ask-sources-names">${sourcesText}</span>`;
+    }
+    html += `</div>`;
   }
 
-  let html = '';
-  (parsed.key_points || []).forEach(kp => {
-    html += `<div class="ask-key-point">
-      <div class="ask-point-text">${kp.point}</div>
-      <div class="ask-agree-row">`;
-
-    const agrees = kp.agree || kp.agreeing || [];
-    const disagrees = kp.disagree || kp.disagreeing || [];
-
-    if (agrees.length) {
-      html += `<span class="ask-agree-label">Agrees:</span>`;
-      agrees.forEach(raw => {
-        const name = typeof raw === 'object' ? (raw.name || '') : raw;
-        const side = typeof raw === 'object' ? raw.side : lookupSide(name);
-        const slug = name.replace(/\s*↑\s*(shift|evolving)/i,'').trim().replace(/'/g,"\\'");
-        html += `<span class="ask-name-tag ${side}" onclick="scrollToIndividual('${slug}')">${name}</span>`;
-      });
-    }
-    if (disagrees.length) {
-      html += `<span class="ask-agree-label" style="margin-left:8px">Disagrees:</span>`;
-      disagrees.forEach(raw => {
-        const name = typeof raw === 'object' ? (raw.name || '') : raw;
-        const slug = name.replace(/\s*↑\s*(shift|evolving)/i,'').trim().replace(/'/g,"\\'");
-        html += `<span class="ask-name-tag dis" onclick="scrollToIndividual('${slug}')">${name}</span>`;
-      });
-    }
-
-    html += `</div></div>`;
-  });
-
-  // Individual views — built directly from corpus data (no Claude needed)
+  // Collapsible raw corpus cards
   if (relevant.length) {
     html += `<div class="ask-individuals">
       <div class="ask-ind-toggle" onclick="this.nextElementSibling.classList.toggle('open');this.querySelector('.tog-icon').textContent=this.nextElementSibling.classList.contains('open')?'▾':'▸'">
-        <span class="tog-icon">▸</span> Individual views (${relevant.length} investors in scope)
+        <span class="tog-icon">▸</span> Corpus detail (${relevant.length} investors)
       </div>
       <div class="ask-ind-list">`;
 
@@ -865,12 +860,11 @@ function renderAskResponse(parsed, relevant, scopeLabel, usage) {
         ? `<div class="ask-src">${srcs.map((s,i) => `<a href="${s}" target="_blank" rel="noopener">Source ${i+1}</a>`).join('')}</div>`
         : '';
       const trades = (e.trade_ideas || []).filter(Boolean);
-      const sentClass = sentCls[e.sentiment] || 'sent-mixed';
       html += `<div class="ask-ind-card" id="${slugId}">
         <div class="ask-ind-header" onclick="this.nextElementSibling.classList.toggle('open')">
           <span class="investor-side ${e.side==='buy'?'side-buy':'side-sell'}">${e.side==='buy'?'Buy':'Sell'}</span>
           <span class="ask-ind-name">${e.investor}</span>
-          <span class="sentiment-badge ${sentClass}" style="font-size:10px">${e.sentiment||'mixed'}</span>
+          <span class="sentiment-badge ${sentCls[e.sentiment]||'sent-mixed'}" style="font-size:10px">${e.sentiment||'mixed'}</span>
           <span style="font-size:11px;color:#8b949e;margin-left:auto">${e.date}</span>
         </div>
         <div class="ask-ind-body">
@@ -881,30 +875,11 @@ function renderAskResponse(parsed, relevant, scopeLabel, usage) {
         </div>
       </div>`;
     });
-
     html += `</div></div>`;
   }
 
-  html += `<div class="response-meta">${relevant.length} entries searched (${scopeLabel}) · ${usage?.input_tokens||'?'} in / ${usage?.output_tokens||'?'} out tokens</div>`;
+  html += `<div class="response-meta">${relevant.length} entries searched (${scopeLabel}) · ${usage?.output_tokens||'?'} tokens used</div>`;
   return html;
-}
-
-function scrollToIndividual(name) {
-  // Expand the individual views section and scroll to the investor
-  const listEl = document.querySelector('.ask-ind-list');
-  if (listEl) {
-    listEl.classList.add('open');
-    const icon = document.querySelector('.tog-icon');
-    if (icon) icon.textContent = '▾';
-  }
-  const slugId = 'ind-' + name.replace(/\s+/g,'-').toLowerCase();
-  const el = document.getElementById(slugId);
-  if (el) {
-    el.scrollIntoView({behavior:'smooth', block:'center'});
-    el.querySelector('.ask-ind-body')?.classList.add('open');
-    el.style.borderColor = '#58a6ff';
-    setTimeout(() => { el.style.borderColor = ''; }, 2000);
-  }
 }
 
 // ── Init ───────────────────────────────────────────────────────────────────────
