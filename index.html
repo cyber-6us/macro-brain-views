@@ -210,8 +210,16 @@
     .response-meta { font-size: 11px; color: #8b949e; margin-top: 10px; padding-top: 10px; border-top: 1px solid #30363d; }
     .inline-spinner { width: 16px; height: 16px; border: 2px solid #30363d; border-top-color: #58a6ff; border-radius: 50%; animation: spin 0.7s linear infinite; display: inline-block; vertical-align: middle; margin-right: 6px; }
 
-    /* ── Ask bullet output ── */
-    .ask-text { font-size: 14px; line-height: 1.6; white-space: pre-wrap; font-family: inherit; margin: 0 0 12px 0; color: #c9d1d9; }
+    /* ── Ask output ── */
+    .ask-direct { font-size: 14px; color: #c9d1d9; line-height: 1.6; margin: 0 0 16px 0; }
+    .ask-bullets { margin: 0 0 12px 0; padding: 0; list-style: none; }
+    .ask-bullets > li { margin: 0 0 12px 0; padding: 0; }
+    .ask-bullets > li:last-child { margin-bottom: 0; }
+    .ask-main-pt { font-size: 14px; font-weight: 600; color: #e6edf3; line-height: 1.5; display: block; }
+    .ask-main-pt::before { content: '• '; color: #8b949e; font-weight: 400; }
+    .ask-subs { margin: 3px 0 0 16px; padding: 0; list-style: none; }
+    .ask-subs > li { font-size: 13px; color: #8b949e; line-height: 1.5; margin: 0; padding: 0; }
+    .ask-subs > li::before { content: '– '; color: #484f58; }
     .ask-sources-row { font-size: 12px; color: #8b949e; margin-bottom: 12px; padding-top: 8px; border-top: 1px solid #21262d; }
     .ask-sources-label { font-weight: 600; color: #8b949e; margin-right: 4px; }
 
@@ -771,23 +779,29 @@ Speak in first person. Be blunt. Be useful.
 Corpus (${scopeLabel}, ${relevant.length} relevant entries):
 ${ctx || 'No relevant entries found — answer from your own knowledge and note the corpus is empty.'}
 
-RESPONSE FORMAT — plain text, exactly as below:
+RESPONSE FORMAT — plain text, exactly as below, no deviations:
+ANSWER
+[2-3 direct sentences giving your bottom line answer. No names, no hedging, just the call.]
 BULLETS
-• [One-line conviction statement]
-  [2-3 sentences: the core argument, what is currently priced in vs what you expect, and the key catalyst that gets you there]
-• [next point]
-  [same structure: argument → what market prices → catalyst]
-[4-6 bullets]
+• [Bold main point — one line conviction]
+- [sub bullet: core argument or evidence]
+- [sub bullet: what market currently prices vs your view, with specific levels if possible]
+- [sub bullet: the specific catalyst that closes the gap]
+• [next main point]
+- [sub bullet]
+- [sub bullet]
+- [sub bullet]
+[3-5 main bullets]
 SOURCES
-[comma-separated names whose views informed this answer]
+[comma-separated names]
 
 Rules:
-- ONE view, one direction — do not present multiple scenarios or "it depends"
-- Never start a bullet with a name or "According to..."
-- Every bullet must address: (1) what the market is currently pricing, (2) why that is wrong or incomplete, (3) what specific catalyst closes the gap
-- If you must acknowledge a risk, one sentence at the very end only
-- Be specific on levels where relevant (e.g. "market prices 2 cuts; we see zero")
-- Keep total response under 450 words`;
+- ANSWER must be 2-3 sentences max, direct, no fluff
+- Each main bullet (•) is a single bold headline — one line only
+- Each sub bullet (-) is one tight sentence
+- 2-3 sub bullets per main bullet
+- ONE direction — no "on the other hand"
+- Keep total under 500 words`;
 
   try {
     const res = await fetch('https://api.anthropic.com/v1/messages', {
@@ -815,34 +829,45 @@ Rules:
 function renderAskResponse(text, relevant, scopeLabel, usage) {
   const sentCls = {bullish:'sent-bullish', bearish:'sent-bearish', mixed:'sent-mixed', neutral:'sent-neutral'};
 
-  // Split on BULLETS / SOURCES markers
+  const answerMatch = text.match(/ANSWER\s*([\s\S]*?)(?=BULLETS)/i);
   const bulletsMatch = text.match(/BULLETS\s*([\s\S]*?)(?=SOURCES|$)/i);
   const sourcesMatch = text.match(/SOURCES\s*([\s\S]*?)$/i);
-  const rawBullets = bulletsMatch ? bulletsMatch[1].trim() : text.trim();
+
+  const directText  = answerMatch  ? answerMatch[1].trim()  : '';
+  const rawBullets  = bulletsMatch ? bulletsMatch[1].trim() : text.trim();
   const sourcesText = sourcesMatch ? sourcesMatch[1].trim() : '';
 
-  // Parse bullets: lines starting with • or - are headlines; indented lines are rationale
+  // Parse main bullets (•) and sub-bullets (-)
   const lines = rawBullets.split('\n');
-  let bullets = [];
-  let current = null;
+  let bullets = [], current = null;
   lines.forEach(line => {
-    const trimmed = line.trim();
-    if (!trimmed) return;
-    if (trimmed.startsWith('•') || trimmed.startsWith('-')) {
+    const t = line.trim();
+    if (!t) return;
+    if (t.startsWith('•')) {
       if (current) bullets.push(current);
-      current = { headline: trimmed.replace(/^[•\-]\s*/, ''), rationale: [] };
-    } else if (current) {
-      current.rationale.push(trimmed);
+      current = { headline: t.replace(/^•\s*/, ''), subs: [] };
+    } else if ((t.startsWith('-') || t.startsWith('–')) && current) {
+      current.subs.push(t.replace(/^[-–]\s*/, ''));
+    } else if (current && !current.subs.length) {
+      current.headline += ' ' + t; // continuation of headline
     }
   });
   if (current) bullets.push(current);
 
-  let plainText = '';
+  let html = '';
+  if (directText) html += `<p class="ask-direct">${directText.replace(/\n/g,' ')}</p>`;
+
+  html += '<ul class="ask-bullets">';
   bullets.forEach(b => {
-    plainText += `• ${b.headline}\n`;
-    if (b.rationale.length) plainText += `  ${b.rationale.join(' ')}\n`;
+    html += `<li><span class="ask-main-pt">${b.headline}</span>`;
+    if (b.subs.length) {
+      html += '<ul class="ask-subs">';
+      b.subs.forEach(s => { html += `<li>${s}</li>`; });
+      html += '</ul>';
+    }
+    html += '</li>';
   });
-  let html = `<pre class="ask-text">${plainText.trim()}</pre>`;
+  html += '</ul>';
 
   // Sources + collapsed individual views
   if (sourcesText || relevant.length) {
