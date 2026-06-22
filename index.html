@@ -211,11 +211,7 @@
     .inline-spinner { width: 16px; height: 16px; border: 2px solid #30363d; border-top-color: #58a6ff; border-radius: 50%; animation: spin 0.7s linear infinite; display: inline-block; vertical-align: middle; margin-right: 6px; }
 
     /* ── Ask bullet output ── */
-    .ask-bullets { margin: 0 0 12px 0; padding: 0; list-style: none; }
-    .ask-bullets > li { margin: 0 0 10px 0; padding: 0; line-height: 1.5; }
-    .ask-hl { font-size: 14px; color: #e6edf3; }
-    .ask-hl::before { content: '• '; color: #8b949e; }
-    .ask-rt { font-size: 13px; color: #8b949e; line-height: 1.5; padding-left: 14px; display: block; }
+    .ask-text { font-size: 14px; line-height: 1.6; white-space: pre-wrap; font-family: inherit; margin: 0 0 12px 0; color: #c9d1d9; }
     .ask-sources-row { font-size: 12px; color: #8b949e; margin-bottom: 12px; padding-top: 8px; border-top: 1px solid #21262d; }
     .ask-sources-label { font-weight: 600; color: #8b949e; margin-right: 4px; }
 
@@ -840,11 +836,12 @@ function renderAskResponse(text, relevant, scopeLabel, usage) {
   });
   if (current) bullets.push(current);
 
-  let html = '<ul class="ask-bullets">';
+  let plainText = '';
   bullets.forEach(b => {
-    html += `<li><span class="ask-hl">${b.headline}</span>${b.rationale.length ? `<span class="ask-rt">${b.rationale.join(' ')}</span>` : ''}</li>`;
+    plainText += `• ${b.headline}\n`;
+    if (b.rationale.length) plainText += `  ${b.rationale.join(' ')}\n`;
   });
-  html += '</ul>';
+  let html = `<pre class="ask-text">${plainText.trim()}</pre>`;
 
   // Sources + collapsed individual views
   if (sourcesText || relevant.length) {
