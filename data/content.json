@@ -58,6 +58,473 @@
         "https://x.com/PeterBerezinBCA/status/2068727186027155557",
         "https://www.rosenbergresearch.com/webcast-with-dave/"
       ]
+    },
+    {
+      "id": "2026-06-22-8fc60fc5",
+      "date": "2026-06-22",
+      "investor": "Stan Druckenmiller",
+      "side": "buy",
+      "summary": "Druckenmiller is rotating out of mega-cap tech (dumping 94% of Amazon) into semiconductors and emerging markets, particularly Argentina, while positioning for potential inflation/rates concerns under potential policy changes. He appears to be building exposure to commodities (copper) and Argentine equities as part of a macro reallocation away from AI-dominated mega-cap narratives.",
+      "key_views": [
+        "Reducing mega-cap tech exposure (Amazon) after extended AI rally",
+        "Argentina presents attractive opportunity under 'shock therapy' economic reforms",
+        "Semiconductor sector offers better risk/reward than saturated mega-cap tech",
+        "Commodities (particularly copper) positioned for 2026 strength",
+        "Policy changes (potential Warsh influence on Fed) could pressure equities and inflation"
+      ],
+      "trade_ideas": [
+        "Long Argentine equities (emerging market play on structural reforms)",
+        "Long semiconductors (new 8-year position vs. reduced tech mega-cap)",
+        "Long copper (inflation hedge, commodity cycle positioning)",
+        "Short/reduce mega-cap tech exposure (Amazon exit signal)"
+      ],
+      "asset_classes": [
+        "equities",
+        "commodities",
+        "fx"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOVVPNDVuR1pneDJFRWVIdTZvUWxGVEg4eVVDWF9iZHJ0TnZzVW14T3prMzdaYzFtRTY1UTdfU243UFhoWEhRTDhRbHdBV1M2M3NTd0FZMHg2Y3pQcWlCcFFUX2VHTlFoMTNvQzVDaTdZMGhLQ0tuS01TTldsYU1UZnNJRUd6YjZ6ZVZPY1BxaXlqTENwTGFjNWgxSDl3M2p1d2dUandodTBfa0lLNUJvQ05udGppUlE2c1FTcm00dTVOVkQ2cm41YkJ3?oc=5",
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd0Z5c1F1a1hDNmFYdE5SbjdrQVFrSkZCQ3hpaTRnM0c5aG1YUDZQNzhxbTRMN1VrTk4yY2FFMFBLcS1PUVEtamdrRWIwbHBIOWJoeXdsMnFrT0ZBTjJ2TWFFX28yTU1Zb3J1bGtzc2RVZC1WR1F3UVp0LU1zckVLc0tUcllxSXJB?oc=5",
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pMEhhYm5USnotZlUtZ2J6N3B1YVZUejdadUxvcGdIMHBSMXduQ1RtMzM0ajRnbmc2Z0lEbzBnbkNudGlpdmtJTnNKZllrY3pWSlUtbzZNRks4N1o0RnhsU2dXcnhUdlAwUGZORUxR?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcDcyejVSNjBydTBYcXo1UG8xRm0tS19CNWNrS2VyYmRqVWNRWEVDaTFHRWJwWE90eEhtazRlTmlBYW1xWS1LMF9DUWdSTFFlS2t4VXZzTFNUYWJzUWUxYXBVUi1IdklTOVpqMVJMV1Z4UGVnRkR2RHhuaE9mMXJJbWhZRExXNmJ6TnUzMjR6d0hRTjF1?oc=5"
+      ]
+    },
+    {
+      "id": "2026-06-22-33d0e4ad",
+      "date": "2026-06-22",
+      "investor": "Ray Dalio",
+      "side": "buy",
+      "summary": "Ray Dalio warns that U.S. stock markets are approaching 1929 and 2000 bubble levels amid concerning valuations, while simultaneously expressing alarm about unsustainable U.S. national debt levels. He identifies a major market disconnect forming and suggests macro positioning should shift toward 'boring' trades as speculation fizzles, with particular concerns about AI bubble dynamics and bond market vulnerabilities.",
+      "key_views": [
+        "U.S. stock market valuations approaching historical bubble levels seen in 1929 and 2000",
+        "U.S. national debt at unsustainable levels requiring urgent attention",
+        "AI sector experiencing bubble-like speculation that will eventually correct",
+        "Major market disconnect forming between valuations and fundamentals",
+        "Speculation-driven trades will fade in latter half of 2026, favoring fundamental-based strategies"
+      ],
+      "trade_ideas": [
+        "Shift to 'boring' fundamental-based trades as speculation diminishes",
+        "Position for bond market stress given debt concerns and rate dynamics",
+        "Reduce AI/growth stock exposure given bubble warnings"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "rates"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE11RlJLekZFdVNiYUFNWF9qYkxxRW1LNUx5Ykk3RnhfcmJveWtHaDdrTEFjRHoyZURBRmVuSm53bmxrN3E4dDExZlIxaHZiNDdnRXVEckpPQmlPSDZDSlNuRzhkUDZwVVZqWlFTNlVRMnBlVFZRVVNoTDFfNjY?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcWIxRU02aTRWQk1HNXhvQ21PVnktOHNxRkphT3JwMWluNmR3Q2dBSU1STEtMcFZXVFJJb1ZPRlMyX01nWmJ3blFfV0pNV0RCb3FMSWlVdTFwS3dCMi04aWo0T0cxR0dhcUlOZERtVDFZRlBfTDF4TWRDbXp2NWxsNTlSZEZ6V2dIMHBJeHRZN0hncGNlWTFRSkxSajI0end6T3c?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxOanZTUllFb2R1NEQ2MmVIdWxodlNxNkc2VV9JM3FNZnVidUk1a3A0Y2lRRU12N0s5TjF5NVNOY0hSazBwVHlmTHVnWWhjeGZFR0JUVEJYaUxOd2NnM01kcXJmaS1oSlRTLVlHTlh6dnNGeHhTMW9OMXI1Z1J0aDBhRXZKa19ubnlPY1ZXZ3VHWk4xTW5SWXBSUVBMWkg4dlNKSTc4Y09kVnJIOG1ybmc?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNk9wVEVEbmlHTzJsT3Eta3NpdTRvSG5Vb1ZhbWxMelNzNTRlUnNOSXc1VDJxdjF3azA2NHRRLWhodzlEeVZWVUVQMXZnclpFdzhJbktrb1BWS0xuMFBrNFVEZjdQdVlfTkxhbExpZ3ExLWZKcUpIb1FuaVY3V3BNNVU3cnl6QTJDYzRKbklrU240Q0RpbGc2elMwUQ?oc=5"
+      ]
+    },
+    {
+      "id": "2026-06-22-28e0322a",
+      "date": "2026-06-22",
+      "investor": "Paul Tudor Jones",
+      "side": "buy",
+      "summary": "Paul Tudor Jones holds a mixed macro view: bullish on inflation hedges like Bitcoin and AI infrastructure buildout (betting 57% more on IREN), but bearish on S&P 500 valuations, warning buyers risk a decade of losses due to bubble conditions similar to the 2000 dot-com era. He appears to be positioning defensively in equities while selectively deploying capital into structural AI trends.",
+      "key_views": [
+        "Bitcoin is the 'best' inflation hedge",
+        "S&P 500 buyers risk decade of losses due to valuation bubble",
+        "AI infrastructure buildout is a major investment opportunity despite bubble warnings",
+        "Market conditions similar to 2000 dot-com bubble present significant risks",
+        "AI bubble (not geopolitical events) is the real threat to the dollar"
+      ],
+      "trade_ideas": [
+        "Long Bitcoin as inflation hedge",
+        "Long AI infrastructure plays (IREN position increase of 57%)",
+        "Defensive positioning on broad S&P 500 exposure",
+        "Long gold/commodities as alternative inflation hedges"
+      ],
+      "asset_classes": [
+        "equities",
+        "commodities",
+        "credit"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUVlrR0JCODNsTWQ5WTU2VC1FWl9aUWpYd1N3X2pWSUZya0l5OVBRZnZqNmNjS3JLdUQwMEpaTDB4dEhaRGtIbEhsbEp2TVlZLXhnZ2VPQVJOdFMxcndMTnJTY2ZiWFFEcTZWNlRrNWxFOXhSRkJsS1pWeGRIZkU3UU9qbzNEOTA5Sl9mcWJocEd0THl3ampzS1g0WHV0RUxSN3dOcThfekpGYXpvOTA1YmxDVnRkallJTVpBamNrVWpTUGJDZmVrcGFLTi03bDJzN2NjOUF5aUFRWEdieFZOVzRNT04?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcDcyejVSNjBydTBYcXo1UG8xRm0tS19CNWNrS2VyYmRqVWNRWEVDaTFHRWJwWE90eEhtazRlTmlBYW1xWS1LMF9DUWdSTFFlS2t4VXZzTFNUYWJzUWUxYXBVUi1IdklTOVpqMVJMV1Z4UGVnRkR2RHhuaE9mMXJJbWhZRExXNmJ6TnUzMjR6d0hRTjF1?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV1ROWUFwQWNDQmFBd3V2ajZRWEZJQ1BNUFg0cFp4RWRFaGV3ZVhOUlBTQ2U5a05NcnpYUTNfSTcyNVQwSmR3VEVscjBONHhubE44aExObEVUSi1kdlRfUldkemlPWkdMdzYtZnZHUU1ncm1ZS2NZd2VZSGwzMTg0a0pKbHVLT3dZY3hfZHI2QjVFbVh3cEFSZDdQX2REYkNvUXNyZU5pNVZtVVNOa1YxQWp5U2NpT3RsTkE?oc=5",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaXVEaFVPeUxhLXpBdWZ5c004dlB1VFhsYVQwenZNRGxsUXZscVAtVVgzM3VFWW5Tc0ZHWjZMYjVyUXdJek94dkRjcUlad29mODFBZmx1Z1JBN18xM1JWTDc5OGw2MGNwVDNYYW1vVVg0aFNNX3FBV091a3NvM2V2SE1SbTZTV0lqN2hxdnJxZUZkdTRoM1o5M1FnNHphNE9qVWQxSktmRnBZLVczSEJaOHZZTkZWNUstdHVWb0ln?oc=5"
+      ]
+    },
+    {
+      "id": "2026-06-22-018f4a73",
+      "date": "2026-06-22",
+      "investor": "David Tepper",
+      "side": "buy",
+      "summary": "David Tepper is rotating out of mega-cap tech (Microsoft -82%) into high-growth AI plays, suggesting he sees better risk-reward in emerging AI infrastructure rather than mature large-cap tech. His pivot to a 4,100%+ rally AI memory stock combined with strong hedge fund returns in rising markets indicates cautious optimism on equities with tactical sector rotation preferences.",
+      "key_views": [
+        "Rotation away from mega-cap tech (Microsoft) into AI infrastructure plays",
+        "AI memory stocks offer better risk-adjusted returns than mature mega-cap positions",
+        "Equity markets remain supportive for strong hedge fund performance"
+      ],
+      "trade_ideas": [
+        "Sell/reduce Microsoft exposure (-82% position cut)",
+        "Buy high-growth AI memory stocks (4,100% YTD rallies)",
+        "Long equity market exposure during rising market periods"
+      ],
+      "asset_classes": [
+        "equities"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxONFoyRzNDc3QyLU5PV1ZEaWZFclRVdGtzNS1zXzluM0RrRllNcG9SSnU3aHJ5VEpDa3ZUS2MtWm9iZWlYTm40c3pJbVMya3hJQ2duQVBldDJkdmViSWtORWdNcExycWk0TVQ4bGxDOVB5bjhoT2RPSjJ4YjAyUExSOGpOY29penRDLUFQdnllSTRhc1U4REpMMQ?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeE5SRGVhZVhXbzEzTFFXS0dwRS1CekNTT0twdmpMdldWQTRSamxWTEVjanBQRGhJWTRQdUhMUU9oVGxhenlXR1M3aWlxcmJFQldnNGNRRDJFN3NzcUhEVTRUeHhwV1B2UkVaV3VtZ1dsQUNUT0RDZHlhVnRtYlF6amRqODc1bTlSbERCbUhBUEF5ckZLaVhUSTRWSFlOdkNVcFpiOGpZdk5MblljY0NzYjhFNmN5UQ?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUmxJRVUyZTdtWHhnTkotajlaT2VmYWNMaEQ1WlpkY05TRklVS0paZzJhd0JQb2RDY1N4bGxRRjhLdGFmNXNvNGhEWE5yYnpKcDUtZEItcERIZlV1Ni1kd2RkeV9CTzBLNmJEcDlPOXl5YzJQeDNodWY0bEhiRkF2WlpPaXFJMVB3MENiWGZweXAxTHBQVkFUaFQ2emo5cE5LRDBjbjdCbXFkdGdkSmpR?oc=5",
+        "https://news.google.com/rss/articles/CBMinwJBVV95cUxQWUFWVFNSM05XSGtxYzEwcnkyV2xfTi05R3FfSXAxNGE3LUJhUm5OV3JtLW5McndPTkM5RlNVR25CbzBzTnFxSzBIZU1hMFdfQUlMY1N1V21xeDBmV05PcGhZNDQzTzM2UmxiQlkwM0NLaE9ITnFhQ1ZjVV9aNGpONTRkakF2RkF0ZzY3OEJUU0ZIN1RCcTRPVzh3QzZhNDhJdEJDWVdudEx0eEhpalRleU1qY3dKUzgxME0tQ3JXeFBWMURhYVdMZGVTbGkwejVoMkpUc3FsdEs3VnF0OHF6SU9IdE9fNHNDelkxbkN6anhET2gwODRHNFo5aW10LWppZW5zZ19HUW5fUElIRE5OMTFrQW9MbmZBdGRzbXJVRQ?oc=5"
+      ]
+    },
+    {
+      "id": "2026-06-22-5c826b4b",
+      "date": "2026-06-22",
+      "investor": "Jeffrey Gundlach",
+      "side": "buy",
+      "summary": "Gundlach believes Fed Chair Kevin Warsh will not deliver the 'easy money' many expected and faces a 1970s-style inflation challenge, making rate cuts difficult to justify. He emphasizes the Fed—not AI—is the critical macro story, and warns that neither Warsh nor Volcker should be characterized as doves on rate cuts.",
+      "key_views": [
+        "Kevin Warsh will not be an 'easy money' Fed chairman despite market expectations",
+        "The Fed faces a 1970s-style inflation challenge requiring hawkish policy",
+        "Rate cuts are difficult to justify in the current environment",
+        "The Fed policy outlook is more important than AI for markets in 2026"
+      ],
+      "trade_ideas": [
+        "Position for higher yields/rates persisting through 2026",
+        "Consider gold and gold mining stocks as inflation hedge (cited in snippets)"
+      ],
+      "asset_classes": [
+        "rates",
+        "bonds",
+        "commodities",
+        "equities"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWU9aTFU1LU1mLUtxOHZtV2QwN1dHSUxSZ2VRYTVScUVUNktVaXNsdmNvemRGNVZQX2JQeEdFWk81WG0yTGg0eHUxeXJZYllVWnUtZjg3Ti02UHBYRF9uSjdCNnczX3VLTHZOangxNjI1SWEwTC00b0g5bVpnYU93RnpmNF81OWdEN18tUks0aFgwaXMxNmhUZXdOMUllMjhwVnRNRlFVY29LSThVTG1Rc2QzRkRXT2lIWG00eW1GdVFjN3FlV2fSAcsBQVVfeXFMTzNOU1VZdlk5cERueU5qSW1tcl9LeTQ0WGtIR1ZKNmN6U1dVUncwR2k3cDRiZF9pdzEzZGllTGpXSHJSSWlZb2NyMWdyRktScFV0Q05TYS1NWXRMYTAwYTlXNzAzZ18zb1psY3dlQ2Y5UHotQVhFdnFyTkNkbWxWOUdxRnBlS0NKdUVjcjVfZnNaMHFlTzNQUXEyQjBIS2NKNEJhUHZKa0lCYWwydk1zNmJMVm1YemhmMzEyeGV2MWxteHd6eDYxUFQ0NkU?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxObTdtUldXWG1BX1F2dF9ZcTVLYzB4Ti1LdHZXa3Y4Zk5yNmVicDFEdzhqTnF1Q21qMGkzM0c4QzZJTDJMZ0pacnNkMXlzY1VRd2ZSbWhISmJKYkxQZmdWUjRKaUUxYUoydmp0Y0pNemxxbUx1b0t6cmpXMGZtVVI3VGQtQ0tLM3JGZEk0TTFPUjhrUzNEMW9VZVVWbDFsMHotNmxDa0s2WXJpV2JW?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX2YtX1VOSUF4UGpwSUtoYzZVSGx2U1BJVDNQY3RNSkJUVTJVdGZiUE9WcnF6bF9raG0zUXBoTmNESFZmODVTSHhWZVpJTVAwQXM5ek51ckRZR05wVlVlSjJPbGlMNjgxSF9hX2VZUTVGay0zT3VfYkJta0g4SVNFT1RlejdDR2VJay1oQmhUVE54Zm5KUkZPWm9MMlk1UEdRMF9YSnpsUkk2dzZPRUNn?oc=5",
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUlFSRFFpUE5pcEJmRVl1d1d5SXRwZlE3NlZOZExWU1FlUlV6NGlPRXJMd2ZkUzhvQXZxTTlWcS1JT2pqMlV4enowUnoyUFpCemVTVjNrOW5aLXdYZ3ltUUFRTmtERkZjbHFVUXVCR2tfcWk2SG1ZY2hVY1NvaVV1UWFDUDdSY0JfanJORE53?oc=5"
+      ]
+    },
+    {
+      "id": "2026-06-22-f45a8d53",
+      "date": "2026-06-22",
+      "investor": "Michael Burry",
+      "side": "buy",
+      "summary": "Burry is increasingly bearish on expensive, high-valuation growth assets, particularly SpaceX (which he views as overvalued at $3 trillion) and Nvidia (which he is shorting). He is rotating toward undervalued boring healthcare stocks and has concerns about market valuations and SEC oversight.",
+      "key_views": [
+        "SpaceX is overvalued at $3 trillion market valuation",
+        "Nvidia is overvalued and a short candidate",
+        "Healthcare stocks are undervalued relative to market",
+        "Adobe stock is mispriced by the market",
+        "Market pricing is disconnected from fundamental value in growth/tech sectors"
+      ],
+      "trade_ideas": [
+        "Short Nvidia; long boring healthcare stocks",
+        "Tempted to short SpaceX but avoiding due to expensive options pricing",
+        "Long undervalued healthcare equities"
+      ],
+      "asset_classes": [
+        "equities"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb21xaE5ldGtqUEdoWlZvSVA1NmdXZlBVVnI1UU9TdzhPVHFCX1piRExDNzBiRFJfV2Q1SWQ4VFJzdEh0Ml9NTVM5UlpPQU9odVRGclhOWmlfdDlYY1lhb054b1lVTU9RZFFUUWdYQW5udWw1SmpKdVB4dkR0S2QzLTFyUkhzUWxaazR2eTljSFFMUUpsVlJtdmhVcFltUi12WTVOajBRcjhDajE3ZzhsNDdyUkUwUWt6WG1QUGpn0gHDAUFVX3lxTE4yZFRjVm9abXJRWkJ6eHVHMDFsTUdnTlRBYzFnTllDWU5wUkxvbVRTZzZWVHNiRGctV3ByRUlkWWd1RUJobE9vS1YzeGJFWXVucUxlOFpyTGhnUnRVdTBpU25sX3J4YzR0NnFsdGhGdUM3cEpwU0R1TDY0WXJpbnFRUy1LYUZERzl4dllBNF9MeElWYTVjRWFDa2c1QUoxekdSdEFxcGFSMnhzbmdvYjlqenB0SDJzcHJPV05DVDZOYlFqTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxNalB3YWdEYU1fT3ZRLWdZN1pZTk1WbnZDd21pRktPdlJmZTJybWRYUkpKZjByX0N5VHJRbTF1MTQwbWhDMVdVUDBQYTZWOXVzNHU3QkFTSDlCMS1rTkw1bHk1ZmszaWRyUUF5MDkzMlpIcFAxT21wcWhZT1RIanBSR042ZGpudl9lWjNyTzlxOGlDWS1fQ2dVeTF3cmdwd1YwMXc?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWjlJdDdjcjVoalZtMFBOOVRrU2tuODRZdTMyM1NZb0p6RFlwVVprT0xmU0JQRVRmYzY4Yk1RLTB6UXU4SzBkeXpjbmJtb1Z0Nl9RRWhuUi1rSXdfOEY4UEVfN2tpOWMtaVhGNUN3cEVDbWtSWV9VSzJUb1BwRVYyQW1QVks1VWY3LThEQV9zUU40TzBMNmhNTlV0MTVxS0lMaWNHaw?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQlhoNWUwSFdhaDlPYXNOU1pCWkZySTljUmUzOE83UFZyek5nQ0pXWFUyeUROWklRTW1OSVgyVHBWUlBwRDhrQmh0WU8tenRkRlJVTVJrdk1RbUNQNl9OLWVBZHJlSUxEcG1sOS0yNnc0S0s0c2NrVlBfZWRacmkxb3Y4NXQ0V2Utd2JsVjNNTkVLRTA4WERVNXpXQ3FvamxY?oc=5"
+      ]
+    },
+    {
+      "id": "2026-06-22-90f51a16",
+      "date": "2026-06-22",
+      "investor": "Scott Bessent",
+      "side": "buy",
+      "summary": "Bessent maintains that recent US inflation is a 'short-term blip' despite geopolitical tensions (Iran conflict) driving prices higher, while arguing the US economic and industrial base needs to wake up to security threats. He defends Trump's economic policies as addressing long-standing neglect of industrial competitiveness, though he appeared visibly uncomfortable when confronted about the economy's actual performance for struggling Americans.",
+      "key_views": [
+        "US inflation spike from Iran conflict is transitory/short-term blip, not structural",
+        "US was 'asleep' on economic and industrial security; Trump policies are necessary correction",
+        "Concern about deteriorating US industrial base competitiveness",
+        "Geopolitical tensions (Iran) creating upside pressure on prices but temporary"
+      ],
+      "trade_ideas": [
+        "Long energy/commodities on Iran conflict concerns (near-term inflation driver)",
+        "Defensible position on inflation transience suggests potential long bonds positioning"
+      ],
+      "asset_classes": [
+        "commodities",
+        "bonds",
+        "rates"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZWF4eS1CODVXcjdHQzNiUWdxYWtCV0dxaGN6SUhzWWs2T0lGS2JpT1c3aW40NDUtN2VNM0JZdElZaFBLVEpfWThLYlFBWU5Cc1Fzc0xLVGE2REVMTjJONUpqTHRid1VKcmJhN2FJYXNfYU1ZTjZrb2RWWE5lMmNfbjZxbzdLS0tQQ1NtUmNuMkkwOGtELUdmU1ZR?oc=5",
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTE90SHNLSmY0OHhtdVhrZTItcWdfcmVybEwzUUJYVDRZNWxQZE96YzNxbi1vMlhSbmxyN3FKUUlGVnZURVpXWV9YenR3VS1hMVNyWjQ4X2xvSmZld0tIQUlfWkFzVDhHZDBwdUNvUTRGb1pVVEk?oc=5",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWmp4SU9VWFVRNkJXeU1zT3lOUFRFY3pMMUdTMXk0WHEzS0lsbGJ2bGttNmpGdnNDR2t4LU5VSnRtY0ZCVVloRGdEV2t0YS00WWIyeXExT1hfQnVXOGE5OWFycnRVX0thSWZSNFN3c0FYYmhuT0drS29Ic1dUX2pNa084Q01ORFlQUWpXMTlEMnVFSF85RGdtMGhjWWxhY29HVGtiQVNRWFRIZGl0RVdSVzJ6TkJxN25fTzhn?oc=5",
+        "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOLXNILW9FblI5UmJYUkpFX0J2ak5hMUhlVk5MUFphRjFlWHBTdUpsZjdnaEwyYTlNOXNZRDF6VDZjaGNWSnN6Q01EVjhuM18wZUdkRVBPeHRBeVlHdnY5VC13N2dSaklUX1ZHOHF5VjEtUUtLM21jSVdhWlNjTHRTRXlFcHFxWEpCV0dnQlhDaGdGTWQ3QWFtZDYzYS1fTUNmWWp3Ty1XNUl4TkdPb1ItQnE0XzZNa1h4RW1FU1FvTmRqcy1QaTVnR3gzbVYwZDlWZnJjRmFJYmM5ZHJJZ0twVUdoZk40a2tJcGZ5WUx4eERkUi11WUlBZHA3VVE?oc=5"
+      ]
+    },
+    {
+      "id": "2026-06-22-4500a9e4",
+      "date": "2026-06-22",
+      "investor": "Bill Ackman",
+      "side": "buy",
+      "summary": "Ackman warns that investors are repeating the 2000 bubble mistake by chasing 'new new' AI stocks while ignoring quality names, suggesting a market rotation away from speculative growth toward established quality. He is positioning for this correction by going all-in on Microsoft (AI play with quality fundamentals) while dumping Alphabet, and betting on overlooked indirect AI plays rather than obvious mega-cap AI bets.",
+      "key_views": [
+        "Investors are repeating the 2000 tech bubble by flocking to speculative 'new new' stocks instead of quality names",
+        "Microsoft is a better AI play than Alphabet due to quality and fundamental characteristics",
+        "Overlooked indirect AI plays offer better opportunity than obvious mega-cap AI stocks",
+        "Market is overvaluing speculative growth at the expense of quality equities"
+      ],
+      "trade_ideas": [
+        "Overweight Microsoft vs. underweight/exit Alphabet",
+        "Long overlooked indirect AI beneficiaries rather than obvious mega-cap AI stocks",
+        "Quality names should outperform as rotation occurs away from speculative 'new new' stocks"
+      ],
+      "asset_classes": [
+        "equities"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYUhTcXlSeWdvM0xJbjRIcmNJdUdLazNnMThPSmhaakNGb2VqOFllbnVVaVNaY1BRSVROVmxLdTg3NnRaTDhIeUdabkFjeUE0VVdoUW02aW9ObkdYNU1vZnh6N3gwY2lZeUw2QVJxRDRjOU5HRTM4WTdMeEx5MmcwZFZKUkZRdWNkTDV1UUFXdkZDSkVwYkw1NkdMeVNxcm5wbHdISGlfQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVXFtb1J4Zi0taEJCZ0NiOVRyRElXY05hOXdCQ083NU84OHBSWlExWERfYTJ6VDZBYlE0dzV3X1F4ZFFHa0I5ejNkb2E3RlBnWWxHdDlhM2xUN3M5SERlY01tNXB0c1EwcXViY1AxNXQ5RjUtc0o0M2FsaDE0Qm8tV1hhd0NzMHhqMFcxRXB4d1NMRjJCb3N0MEVPNF8zU3Nfd21zUVVUdW9BdzhEYVNpT2xNZ3AxN1BDWWNn?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdTR1cXhqRmVwOXNkUkRiVFJ4VFBPSXNPbEdMSWNVUHR5Y0MtTDRreURpdGJUOWVoVlBjbExOTXlETmJKZ3NMRFhNNzNMdDZkdkJ5UUg0YlBuV184dUxUN0VUZ3A0dE9Vd2VhbVBnQ2lGQzF1aGctMzJFckZRUHYtbWRObjhtb3NCcTdhV1pwVjVTZG9famRmOXBHb2ZHZVBiVzBNV0t6eU9ENm13bFQ0cHRLQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcVpSZ1BueGFmcWxTV1QybFZvWmY1QS1OT1dZaEFjNmRKRmZWUGswOUNYdVNmWERFSG85d2xtZVhDTFhSSFh2dTg4ZTlESzBldS12QjhpcWN4NXFvQmlQV1BZcUY5NFRCSmxyd3JaSzhzVnJMMDZKVHRxd3lWZ2RxbmJTNGI0eXlOeVhiVG0wV0hNWV9jS0xYb20waGxLYnlfS0pTVE1sVmhRaGMxb2c?oc=5"
+      ]
+    },
+    {
+      "id": "2026-06-22-c0d529c0",
+      "date": "2026-06-22",
+      "investor": "Jim Reid",
+      "side": "sell",
+      "summary": "Deutsche Bank's Jim Reid sees a volatile macro environment characterized as '1999 meets 1990'—combining late-1990s tech exuberance with 1990s recession risks. He warns that recent S&P 500 rallies echo setups preceding historic crashes, while geopolitical factors like Iran negotiations are temporarily easing stagflation concerns but remain fragile tail risks.",
+      "key_views": [
+        "Volatile '1999 meets 1990' macro outlook combining tech boom dynamics with recession risks",
+        "Current S&P 500 surge mirrors historical patterns preceding major market crashes (Black Monday precedent)",
+        "Stagflation fears temporarily easing due to Iran ceasefire hints, but geopolitical risks remain acute",
+        "AI enthusiasm driving asset price momentum but underlying macro foundations remain uncertain"
+      ],
+      "trade_ideas": [
+        "Caution on equities despite current rallies given historical crash parallels",
+        "Monitor geopolitical risk premium (Iran ceasefire assumptions fragile)"
+      ],
+      "asset_classes": [
+        "equities",
+        "commodities",
+        "fx"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS0ZPZHQtbnpKZ0V5M0xMbmgwVXNIMVlqcnBBQzhUUjFRVnRPQ2JkYUcxZ0dhYy1lX2JtMDhydHJ6MzcyWWpEbTJDR3pKXy1sdl9uQVhkVGdvX2QxbHd5ZjJMWG5DLXRxR2NkcGtDWTVsSkdMOE1haVhDNXBNeUdJNVUxYUk5Ti1qRG5GLTdFSFRON01WV0pFdm51N2ZGQWdhOThGbmFZZ05qVGR2MndwOENFQTNoaUpKRzNYOWtHXzNtd3hvREE?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZE91SjZKRVZJcXVGdDNkMnBycV9mX1FkRS03UExtZC1SNTN3a2QwWm55dnpabVoxdkNKcVV6bXlONnlwbUtsa3FZc0l5WXowS1U1X0NrOE5GRE14ZDJkV250NE5wR0VmS2lYZ1F0OGV6MFNZUEViSGRhdk01endfTE1tOHBtbF9KbUxFT1dSckRWT0RsSDFDWHJGdFNnM2c0?oc=5",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSndKQi1yU1lSRVAwUHJOcFNVVzVHdlNRRzAtODNaYXYtQWNndFVaaUdZeWg4UW1aTkQzd1dtOXliTkF1Y25WZUR0NWRuWWs3NWRQcks3WVNjZFdyeFQwS1lOWWpzUXpKUUtzdzlMeTFOZWpld2tKRV9YMkg4LV9IQkxacEc?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc2dIUy1DUVU4dDVMTWREcENER3N1U1FFajlzeFBrelgzVFduc2dHWUhNaHlvZGFqSGJEZDF5aDlEaE5FTWtIMHpURG81c0JYTGdkVE9nd3JXN0hKTzQ1T2ZIdzlWbk5CSzhVbi1vTnpqbVROeG5nLU56d3ItOGJTeV85WDBZTlotQlN1My1hcVplU1loMXQ2YnpRUS0zT2FPRld2YW9MMXZoYmVWSkdR?oc=5"
+      ]
+    },
+    {
+      "id": "2026-06-22-0fcc170e",
+      "date": "2026-06-22",
+      "investor": "Torsten Slok",
+      "side": "sell",
+      "summary": "Slok maintains a bullish macro stance, arguing the US economy is running strong with robust activity. He contends there is 'zero evidence' that AI is killing jobs and instead believes AI is creating employment opportunities, contrasting with corporate rhetoric around AI-driven layoffs.",
+      "key_views": [
+        "US economy is running 'pretty hot' with strong underlying fundamentals",
+        "Zero evidence of AI-related job losses despite CEO claims",
+        "AI is creating jobs rather than destroying them",
+        "Economic strength supports continued growth trajectory"
+      ],
+      "trade_ideas": [],
+      "asset_classes": [
+        "equities",
+        "rates"
+      ],
+      "sentiment": "bullish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xWFZtRkhPbVdWdGhNV0xCNzRseC1nYnV1dGV4Nm5xQmlmSW82Nk45UG1RcE1fWjZxYnFxVW51QVVIT3lveTJjOE1kYzJDa3h2UHhUTlJ3MTMzR3dMdHlyZWtzNG1JT3BncENaT3lDWThQMTFIb0E?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWpQVjNncFNrN1pLc2VreE00RmJXdVY0Mk45SEZpRUlVdEhoTmRzVzZwUzlRemZxaHQzZFRmT3lXcTVjaE1pLURXb0NZV0tva2RTdXZwbjNXMTNsak9lMnBzVHdSYVo5ZFZtOFJkelVCN3NGbVhBN3dzUHVmei10RWIyX1dHQUVYc0t0U08zcWh1TXN0LWt4SzdWQVp0X1RwREpnMmpQUGFBWHNG?oc=5",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVnFZWjdNMFJHUDQ2ZEphbUNkalB1WE9IbzByTnZlWC1VajhsclF5T19zOEY4RTZ4ejNUOGhtWFpKYnhxVzRHYndEV1luVVVETFdVOFB5NFZlM0oxR29zV3hYUnFBT181c2s0cVZFakJIdERORXFKd1Y5OTdsV3NIeExscjF4LUtpRDluU1FQdGl4LTA?oc=5",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNElCQzE3aFJWLWFMV3pVZXdtbGZPd2lzS08yZWYycnFhVDNvbVU5ODE5aUJvSmFab19BUTVhTlVPMUtSS2p5S0UwTEZ3OE03MHdzMlBaUzJ3ck1lekxvVHR0YWpxU2o5REliVXBYXy1EcE1GVTJNejRtTWc5bkstenNuN00tQ1NOWkNMXy00c1VEaXBoVEhJZmdQT2RQY2wyVW5tS2g4M3pEUDVPVFI1eXVTV2pDYkN4aHJwcw?oc=5"
+      ]
+    },
+    {
+      "id": "2026-06-22-2bc6b016",
+      "date": "2026-06-22",
+      "investor": "Michael Hartnett",
+      "side": "sell",
+      "summary": "Hartnett warns of the 'biggest bubble since railroads' in the AI rally, drawing parallels to the March 2000 dot-com crash. He flags concerning breadth metrics (only 4% of S&P 500 at new highs) and identifies a threat that could end the stock market rally, while simultaneously maintaining a 'steadfastly bullish' stance and positioning for a stronger dollar trade.",
+      "key_views": [
+        "AI rally represents the biggest bubble since the railroad era",
+        "Current market structure echoes March 2000 dot-com peak with only 4% of S&P 500 at new highs",
+        "Global fund managers are paring risk holdings despite remaining positive on world growth",
+        "Stronger dollar is the most unexpected macro bet to position for",
+        "There is an imminent threat that could end the current stock market rally in June"
+      ],
+      "trade_ideas": [
+        "Stronger US dollar positioning",
+        "Safe, dividend-paying stocks rated by BofA Research",
+        "Long assets that would benefit from Iran peace deal (oil, defense, regional equities)"
+      ],
+      "asset_classes": [
+        "equities",
+        "fx",
+        "commodities"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ0N0MDdMYVEtd3pYMnNoZVF5Rm9lN0xRbUZEb19WN1NOMUZZc19SUlJQcTJqX19XRGFITXFWeFlacHpQUGZ0TWpVZjBiYi1QWjRfV01iZTQwblJaQ0JiUGN2MjJCcGdFa08ta0JnMHZ2SHp2c3dkSk1PSE9wV2lRa08tY2VNVFhZbzJtMVlGTU9MWW1DSlRKZ0RidkN6YXp3czJfUVln?oc=5",
+        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQTJJaTdkdmp3UUh5UWxhSGtKa2dhQjhfZ2JGM1d4bE5QY0YtVzluNWRERmRrRXpjcE5Ea1lLNFVXX1JidzJodndnRDI4OUJlQWwyZ0k5WTVpLXc0RnNTZHNmVHhFYlA0TXdfTVI1dUN5SHVrVmlmTklVWFJzU3VrMG5FYUNHSjhZLVA5NmlVcG5CVHZTTl84T0lTWGpKN0UwMUdHN0k3ZmY4Nkl4VnREWG1rcmcxVGZiOHZCdnk0VlBLUVJBTDNqcGJReS1hc2dOTERYVktEQXpMWGtHblJrWnJIbXg0dHd1cG93WHhVZ2V4QWFtdnfSAfsBQVVfeXFMTm1UeGRUYnBVNUF0VTVCcm5mZ0x1a0RfLTcxdlItMFVGOWVMSU1XMlVvVlgwc1VtTkN0aUdzdmZUVXV1TFM4YVRmMlE1MlE4RURZUG5vX0dCUWpsZVNCSllnVmxFNFhEQjM0MEpaekU0MF9ud3J2YkJhYkxzVW9yVTJ1WlZ4bFl5NFF6NlVSOTBoN19pbG9iTkFnTm16WTA3bVNGQl9yZmprOXFmMXl1ODBEMUYtVHVXUFhfYlpzb3lWRUVoY0NOdWU4a0tVckZha3BseVQyZXdUclR4Zno0QjlWNzFGQXpzRTRaN0dzbHZITWJkenNZejZrZ0k?oc=5",
+        "https://news.google.com/rss/articles/CBMilgJBVV95cUxONnh0UDQ2d2wzVnZNSGN1aWxOV1NhZGFTdW9EVWtSaEphVTRUQlZ1X004NFBKSngxVXB1RklNcUc1NEFYbTBEQ0EyY2FOWFI2WkYwT3RIN2RhZnVialk0UUtGNk9WMTNmZzd4VktjOURhZjM0VjRRMEVSTTZYRFB6dkVrTjJWQkpoVDRtdmM4RWdrV21zRDQtbkFxZy1sdWFtNlFwWDhkOWhBSmhJWmo3NzJXSjEtZ2RSMkljaUcyQkVSYm1zRkIycF9rdTRnTFlCbFFfZ2pTQ3VfWHVDUTgtcGJaRW9lay1ZZlVxY2Q5c0JYc0loeDJ2NXNZaU52bWV4QXpDSkZxOE9lamRLMDREcUFvd1l5Zw?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcU81LTlWZURfLVRXVXFoNkNJbUswakFMZDZNekFaRFVxdGg4bk5NaHA1elptUFZNeUxKb3VlYmF0ZXJ2ZVNuMVlpNGdJaEJONG9PQlYwa2E5NXk0TzEtYW9hRHpCVmkzQzNMelUzS1Z5UVg0MVdDUE5mZFhONTBZQXRHT1BvZWZfS0VIRHpzSHczU29KVVppWW9uTWJnSGtWTE0wOHUzYmY4bGc?oc=5"
+      ]
+    },
+    {
+      "id": "2026-06-22-8e1e0837",
+      "date": "2026-06-22",
+      "investor": "David Rosenberg",
+      "side": "sell",
+      "summary": "David Rosenberg warns of stagflationary pressures with inflation headed higher while growth decelerates. He notes that large parts of the economy are experiencing significant pain, suggesting deteriorating economic conditions beneath surface-level metrics.",
+      "key_views": [
+        "Inflation is headed higher",
+        "Growth is headed lower",
+        "Large parts of the economy in deep pain",
+        "Monitoring Bank of Canada policy implications for markets"
+      ],
+      "trade_ideas": [],
+      "asset_classes": [
+        "equities",
+        "rates",
+        "bonds"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUG1SWTcwT1VTN0JKQnlBb2dXa0UxM25DUWlkcHRrUjhzbGY2b1dVT3dQSFl6amNidzBoaTNrZ0t0eXIzblVfbjNWTWt2M3k2aVlFUUN4b2tmQVdGcGRWN1NYSENscGxDZHY0aFhhM1lBaWo1ajVLYV9LYkJpZUxRSk1DZm45YldMMk1TZDVHWHdqYVNzeHZZa05PWmxhUHBLcU91WnV5Wk1TekNVTDAtM1B1VDdVVlZIdWFmY3FHRVNUTTNUV05ORlhHSmZnZEpreThSN2x3SQ?oc=5",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQUJOcldiZV9vMWlSQ0NRanBuN3UxaEdKVFZXZ252aE9pZTh4NDQ0dnFsbUd6QnRBcV9VUkdYeDhZVE5xd0FyQXFsZlBqSTVmYjdTajVvWlA0VjFXTnZBRkZiMkR1a3FZME40UzFQU2NQbWFwdlNwd2VMS0J3LVdJV1lIdmQ?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTHp5TW8yVm95MzUtQ01jVUN3RHZTZExncE9LQU9jaEx5U0t4c21PWGNNcmVGalRILWRiYm5weFU1SE56WV9GN3R6bHNBa0VCZFItenlaWWtGTG1UMXRzMDFRa0YyVVhZTDlEQmE5Slg2Ykd4U0dONUlZRU4xV2xfb3ZiR09CZTZPR2g3TTdpY1NZYTRLSm1jblZCSDNTX2lTcnp1ZFZ5QUhTdFBGRnpR?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNTdQTFRVSzJhYjZUNDJFbkQ2emJCQkdpcmt2cDE1NG5rcldncVdLR1J3LUxockVWbWlxNUM3NExHOFZvbW5Ea1htYkY4TTZodzh0M2dNTzBvWS1lQ1RBbWIyaGlILS1yaWZtaUlwWEFiSy1XdkhoYjdra0M0U1pMdURzc3BmQTdkRm5Ea05VYlJ3Yi11QnB1NXY5RGUxOTRVX0p3dUJ2Q2k3eGUw?oc=5"
+      ]
+    },
+    {
+      "id": "2026-06-22-db94b918",
+      "date": "2026-06-22",
+      "investor": "Ed Yardeni",
+      "side": "sell",
+      "summary": "Yardeni maintains a bullish stance on US equities, arguing that current market strength is driven by solid earnings momentum (FEMO) rather than speculative bubble dynamics. He views recent market weakness as healthy corrections and remains optimistic on equities through 2028, while also highlighting the growing economic importance of the 50+ demographic segment.",
+      "key_views": [
+        "US stock gains driven by earnings momentum, not bubble valuations",
+        "Market weakness and 'swoons' are healthy and normal developments",
+        "Aging population (50+) is an increasingly important economic force",
+        "Bull case for US stocks remains intact despite 'melt-up' concerns",
+        "FEMO (Fabulous Earnings Momentum) preferable to FOMO (Fear Of Missing Out)"
+      ],
+      "trade_ideas": [
+        "Long US equities based on earnings momentum thesis",
+        "Monitor gold prices at critical technical levels"
+      ],
+      "asset_classes": [
+        "equities",
+        "commodities"
+      ],
+      "sentiment": "bullish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ROUdkclk4RzRiUzZhQjlmeUI0bFBRbFNJVkZmYVZkbGNiR0s0MGEtWXktTnNaN2I3ZEpZdXFLQlJnVWFXaEFvTnZjY21nUFRmV0NSTkc4cmlQeUdvTUtzNGFEYnk2RTB3YWoxUENB?oc=5",
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZcHJBNWxobjhFTG5FS2dHQ2x6c1NrNW1JRmFTczBkdVZuNWc0VmpWQTlhYk0tOUVwaVpHN3MzTXNVQ2hhaXNCa3ZlU1RvUDkzMzUwelRvVTJTanpPWW9nOC1RMVM1b2JLTlVJTHRMNTJZQ2M?oc=5",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE05ZllFOVdDRmZ5UkFPYllSNGs2d2tTVWlsQ0ZlV2tldHBicXp4bDhTYUJJdjBZZFJlWjhZNWNMX05RaXVfYV9PYmFnTmhYb1J5ZkVNVEFkQXBab3BCM3pNU19RR1FnX3ZoRVQyQw?oc=5",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV2RPcFpfWTg4TGFLV0tScTRzbHQwelIwc2JteGMzdzBEUGxKQjRZSlk4dG5kZVV6cTY3VTNMWUw5c0l2UVl2Q3h5ZFFxVmtLMXdZSzVTbGRmZnRsamp4RkZwbE1KTjJIMTJXUzVzY25tM0d3WDQwU1VhZEx1N2NRSmw5eEZ2N3FkZEZNOS1xTXc2dkM2MFZkOG5Pa1VwMlc4R1M0TXJ3S21UOGxhSllDUFR1bE03bHNFNFlvNFpTMHdBSVNncVJjNXh3OUthZw?oc=5"
+      ]
+    },
+    {
+      "id": "2026-06-22-6e546460",
+      "date": "2026-06-22",
+      "investor": "Jan Hatzius",
+      "side": "sell",
+      "summary": "Jan Hatzius maintains a cautiously optimistic near-term outlook with rate hikes remaining unlikely and U.S. recession risk cut to 15%, though he acknowledges darkening geopolitical risks from potential Iran conflict. He is optimistic on AI's growth impact despite European growth concerns, projecting continued U.S. economic expansion while Europe's growth slows significantly.",
+      "key_views": [
+        "Rate hikes remain unlikely in the near term",
+        "U.S. recession risk is approximately 15%",
+        "U.S. economy will continue to grow",
+        "European growth will slow by approximately half",
+        "Optimistic about AI's positive impact on economic growth",
+        "Geopolitical risks from Iran conflict pose headwinds to global outlook"
+      ],
+      "trade_ideas": [
+        "Long U.S. equities relative to European equities given divergent growth trajectories",
+        "Long duration bonds given unlikely rate hikes"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "rates"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTzRyRThuNjJHLVJkcUxtaWVHQVd2c1M4S2V1eDNQYVVnWFhHYngxeXQ5VGhiX2hpaW1BVTY3VmxLNXdwdXpScjN2TGQxUURHSHpVMk1vaEZyR0Vnd3ZfX1FTNGE3R1JjcHVPQV96NkNhVmhxZ2FyYjdHX1R3YmdCX3NKNUFPMDRqM2tpb3RSb3NBRFFHNVBTOUFaYXRESWlGYkE?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3JrYXVsT3FXclpvOHEwaFUwZUxFemZWZEJVemNWZ2lnYm55NTFVUFRXR1NUVWJIczZ6dUsxV3JEVWZERjd3cHlFTENVbVE4Y1BjcE5aQ1M2Wkx4Q0lCeGxubG91MXM0UHpoQ0xCaktqZnBwbkxPU3YtTWZqdEppUGhybU0yNUx5WjVQamtub1RnYm9IZmJlNU5iX2Jic1BEZ1ZaYnh5OA?oc=5",
+        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeU45YU82ZlhZZnJneTdkdHBvZUM5RjFNTTNJUVprNU5pVm1HOG1WdkIwNnJ2ODJOODFqd3lmVjRiVFlWeVc4QlAwQThjNEFFejZRbEw4Yjktak1YR2UxX0F1UExJc2ZreHN3R2hXcUlTT3d0aGx6LVVWNWZMUDkyY3l1VlprLXQ5YWVrZHlpclJOdGw2UlFfcVJKVngtSWtqRDB4LTlOUHpLTzBqOWV1QkpYT0N0U0RSYkxYLTZHYzhOQnFGWjdJWHF0Ry1qOTNRZnByV0lDR3RSTnI5VWZRbzVTRXVkZw?oc=5",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxONFllR1daN1JET0RObHpEV3hrNW9Jb3RIRk5TVWp6aEt5M1FjYjM2WW54VHhWWWpUS241MjVuT05IRU9DXzM1SG55c1JUNmFBRTl5akwzTkxpUU1telhuRlJlYXFoMUdXRG00YmVNWWl1MHl4V2RkMmppWFNJVW1VREQzVGotZWl0SktkQVJTa2RrbGhPZnZYeGZqV2t2SjdJXzE5THJEb2tHVlY5Mm5VOFRrSG1wR2ljUnNiaHln?oc=5"
+      ]
+    },
+    {
+      "id": "2026-06-22-0b05ff1e",
+      "date": "2026-06-22",
+      "investor": "Mike Wilson",
+      "side": "sell",
+      "summary": "Mike Wilson sees US stock corrections as largely complete with fundamentals overriding AI doubts, though he anticipates another 5-7% downside before a bottom. He views recent market plunges as healthy resets positioning for fresh rallies, with interest rates identified as the final hurdle before equities move higher. Wilson also signals a significant shift away from traditional 60/40 portfolio allocations.",
+      "key_views": [
+        "US stock market correction is largely done, with only 5-7% additional downside before bottoming",
+        "Fundamentals have overridden doubts around AI sustainability",
+        "Interest rates represent the final hurdle before equities can rally higher",
+        "Recent stock plunges represent healthy resets that set up fresh rallies",
+        "Sticky inflation remains a key concern affecting Fed policy outlook",
+        "Traditional 60/40 portfolio strategy requires significant structural shift"
+      ],
+      "trade_ideas": [
+        "Position for equity rally after rate clarity emerges",
+        "Reduce exposure to traditional 60/40 balanced allocations"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "rates"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZHpvRlVwSXBBUDBYdWJEMVUyTldOZUdGTHl3czJVQVVkWEl1T1kwaFd6MFRlOWtsR3N0UHJ0b0U4U1NGYkt0S1VKYWNsTVZ3YldCdVg2RDBDNmoyOW5ibFNienJwaElJTDFfRTI0Z0xvejFNeW1CV1plam1ZNlpud0pLbUh2d0Y5MnduU3Mxei1sNlJJZG9hU091MEVBQmdGZXhid09WT3hhZFlOQjgyMUxCSm1DenFPVlR4amIyeWNPNzA?oc=5",
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM1RkMVBFYXkwQ1dkMU1UQzlDSEx5YUFLdUlBYWRzTkpDMVNyQUZ5TXZkVW5Vb2hyd0xGcGU1bEIwaG9FYnEtWjRLZFMtTHlGMTJxbDJIT2k5V1Y2d0J5NVpDZHVDc1ZCbU5pRzNEMDFpbERYYkxXcmFQR3V0RTNMV3ZjdEVydWx4aERZMTU3cTNSZUxmVGRvTjR1cG1KcDNwME0yVFFoT2hiZ3NzcXBjU0dWYjBCRXhGVjc0WlFISHZIUmQ3WXpsLVdRbDhOd2c5WFV6eHhfblV1Y1hjSFE?oc=5",
+        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdlAxRzFIdkhGZzRuLXIzQmhoRDJ3RzNFVjdDTFdKUE9YelRYLVNEQzZBT1lwdHhtWjJiUm1xd1lXRGNEakZrTUFDT2pETUcwQ1lzV2pMb3p3QUdnRGlYTkdya051TUpCWE84elEwTkJ2SHJmY3FIYkc2Rl9uMkZwQVBxZjVwSnZiemdNZE1BQ2NyY3R5d09kSU9WelcxMTV2RFRJUVlscE5KZ0NfYWFmMkNsOWN6dDE2V2tER3BsTmRUZC1KS25mcGp5OGFWNVpLRFJMLWVocENYZTZCcDNDTXMyWWMtcUhkMFQyTjhxUFlvRXBZb2c?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTEpsOHJWY2tMdkxsLTJnNHBodG9PZnJLZDBqeGNmLUowWUYwTVNvbXJjWXhHQlJwVGNEZWRKTnJiVFUwR2FYSl9jZk81alVkTFN0ZlhUQ3JfWjB5NUNpY0ozT2xkaXFSLTdBVE1rQ1FrUXh5YlpKMFRWdHB3Zk9QSUZpemFCRHBVZUVpeXJQU0dmSVJ0S3RJU3dMb1lqSVpVWVFmTVB3elZCbTRUVnc?oc=5"
+      ]
+    },
+    {
+      "id": "2026-06-22-a6b77afe",
+      "date": "2026-06-22",
+      "investor": "Liz Ann Sonders",
+      "side": "sell",
+      "summary": "Sonders sees 'red flags' and warns of complacency amid potential inflationary pressures, cautioning investors against casino-like behavior despite strong earnings and a rallying market. She flags risks from inflation, geopolitical tension pressuring consumers, and elevated equity valuations while monitoring rate path and bond yields as key risks.",
+      "key_views": [
+        "Investors are dangerously complacent on major stock market risks despite record highs",
+        "Inflationary boom and pressure from geopolitical conflict pose headwinds to consumer spending",
+        "Market exhibiting 'casino-like behavior' with excessive speculation; rate path and bond yields are key risks",
+        "Strong earnings underpin rally, but valuations and macro headwinds warrant caution"
+      ],
+      "trade_ideas": [],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "rates",
+        "commodities"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTllyMHI0U3FUWDJMSzJadUxsVExHOXN1MW1KQm5naHhaT1h5TExWaTl3NUFuV0htTjNyM3RDUFJ1N1BTczYxMHpDN0phTkhkVi04RnFlTmtxa09sMk45TnhyallwRGc4OGhBQnV4eEVROFBHczhyY09PMkhkZTdhQUVQbFZIUl9YbUVtaGJURHVGX2JjczJ6cHhZN2l6OUVOeGtoWHFpMmNqcGstS21z?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaEFVZTVxWkEtbnBwZUdwSDNvcHAzNFA1amxzUlNWRXltRDZ6YmhZZXhDQzN2N015UlJCLUtqWU5hTi1vUWhQenh6enltSTktbktueXNoZlJzYlFaMGtDbzhsZEVDTnNFYzlaVzIwLTJ5S19fejNFTm1xem9iazNTeUs0YmlwT0FDdEFsVm5GMXB3ZmVTZTdzUGJoUVFfVk1vdHc?oc=5",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVWZfM18zUlRfTXlvb1NjdWE5enFyb0VMTkR1VlRmUGxMeFNSdndMZy1oNTR6d3liYUx4X2NiOVlaVXZMODhKdGpMSE5CV3M3UTJMNC1XSHhEMHRINTJmQ3pETUdUem10WlZZZHdKMER0aFJPYWt2RjVYWnJVMW03eVRlWW9paUF0VGJGczNoSGVRQk1CSU9qeXdMLWhUcEVtX2xvakRGLV9iT0VDOHE3OTZHUjZRUkdsNEc3d1R3?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMy11VDFGNVJPaXBWYmg1S0l0NFc3TzlpRmFfemJ1RUdVRzhkNFhqUUoxUVVLeHdCTkNDTl9qQ3YxS0lTNmdWcHZocFdocThONHVMNUVpRVVXUGVJVmFla2E5NVZORS03ZW04S3dZYVZPUVN6UXNHSDdyek1TVTVSY1FvNEJab1VPd1RMLU5PWkx3UEhUWGhWZF90eW9oN0kt?oc=5"
+      ]
     }
   ]
 }
