@@ -65,6 +65,9 @@ SELL_SIDE = [
     {"name": "Liz Ann Sonders",   "terms": ["Liz Ann Sonders Schwab economy", "Sonders market"]},
     {"name": "Barry Bannister",   "terms": ["Barry Bannister Stifel equity", "Bannister market"]},
     {"name": "Jordi Visser",      "terms": ["Jordi Visser 22V Research macro", "Jordi Visser market outlook"]},
+    {"name": "John Mauldin",      "terms": ["John Mauldin macro economy", "Mauldin Economics outlook"],
+                                   "urls": ["https://www.mauldineconomics.com/frontlinethoughts",
+                                            "https://www.mauldineconomics.com/"]},
 ]
 
 # ── Google News RSS ────────────────────────────────────────────────────────────
@@ -176,6 +179,14 @@ def scrape_person(person: dict, side: str) -> dict | None:
     name = person["name"]
     snippets = []
     sources = []
+
+    # Direct URLs (for investors who publish on their own site)
+    for url in person.get("urls", []):
+        article = fetch_article_text(url, max_chars=2000)
+        if article:
+            snippets.append(f"[Direct: {url}] {article}")
+        if url not in sources:
+            sources.append(url)
 
     # Primary: Google News RSS (2 search terms, recent 30 days)
     for term in person["terms"]:
