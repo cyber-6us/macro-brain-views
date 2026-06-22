@@ -209,6 +209,76 @@
     .response-box.visible { display: block; }
     .response-meta { font-size: 11px; color: #8b949e; margin-top: 10px; padding-top: 10px; border-top: 1px solid #30363d; }
     .inline-spinner { width: 16px; height: 16px; border: 2px solid #30363d; border-top-color: #58a6ff; border-radius: 50%; animation: spin 0.7s linear infinite; display: inline-block; vertical-align: middle; margin-right: 6px; }
+
+    /* ── Evolution tab ── */
+    .evo-layout { display: grid; grid-template-columns: 220px 1fr; gap: 20px; min-height: 400px; }
+    @media (max-width: 640px) { .evo-layout { grid-template-columns: 1fr; } }
+
+    .evo-sidebar { border-right: 1px solid #30363d; padding-right: 16px; }
+    .evo-group-label {
+      font-size: 10px; font-weight: 700; letter-spacing: 1.2px; text-transform: uppercase;
+      color: #8b949e; margin: 14px 0 6px; padding: 0 4px;
+    }
+    .evo-investor-btn {
+      display: block; width: 100%; text-align: left; background: none;
+      border: 1px solid transparent; border-radius: 6px; color: #8b949e;
+      font-size: 13px; padding: 6px 10px; cursor: pointer; margin-bottom: 2px;
+      transition: all 0.15s;
+    }
+    .evo-investor-btn:hover { background: #161b22; color: #e6edf3; }
+    .evo-investor-btn.active { background: #161b22; border-color: #30363d; color: #e6edf3; }
+    .evo-investor-btn.active.buy-active  { border-color: rgba(88,166,255,0.4); color: #58a6ff; }
+    .evo-investor-btn.active.sell-active { border-color: rgba(227,179,65,0.4);  color: #e3b341; }
+
+    .evo-main {}
+    .evo-header { margin-bottom: 16px; }
+    .evo-name { font-size: 20px; font-weight: 700; margin-bottom: 4px; }
+    .evo-meta { font-size: 12px; color: #8b949e; margin-bottom: 12px; }
+
+    /* Sentiment trend strip */
+    .trend-strip { display: flex; align-items: center; gap: 4px; flex-wrap: wrap; margin-bottom: 20px; }
+    .trend-dot {
+      width: 28px; height: 28px; border-radius: 5px; display: flex; align-items: center;
+      justify-content: center; font-size: 9px; font-weight: 700; cursor: default;
+      position: relative;
+    }
+    .trend-dot:hover .trend-tooltip {
+      display: block;
+    }
+    .trend-tooltip {
+      display: none; position: absolute; bottom: 34px; left: 50%; transform: translateX(-50%);
+      background: #21262d; border: 1px solid #30363d; border-radius: 5px;
+      padding: 4px 8px; font-size: 11px; color: #e6edf3; white-space: nowrap; z-index: 10;
+    }
+    .trend-dot.t-bullish { background: rgba(63,185,80,0.2);   color: #3fb950; }
+    .trend-dot.t-bearish { background: rgba(248,81,73,0.2);   color: #f85149; }
+    .trend-dot.t-mixed   { background: rgba(227,179,65,0.2);  color: #e3b341; }
+    .trend-dot.t-neutral { background: rgba(139,148,158,0.2); color: #8b949e; }
+
+    /* Timeline entries */
+    .evo-timeline { display: flex; flex-direction: column; gap: 12px; }
+    .evo-entry {
+      background: #161b22; border: 1px solid #30363d; border-radius: 8px; overflow: hidden;
+    }
+    .evo-entry-header {
+      display: flex; align-items: center; gap: 10px; padding: 10px 14px;
+      cursor: pointer; border-bottom: 1px solid #21262d;
+    }
+    .evo-entry-header:hover { background: #1c2128; }
+    .evo-entry-date { font-size: 13px; font-weight: 600; color: #e6edf3; min-width: 100px; }
+    .evo-entry-summary { font-size: 13px; color: #8b949e; flex: 1; }
+    .evo-entry-body { padding: 10px 14px; display: none; }
+    .evo-entry.open .evo-entry-body { display: block; }
+    .evo-entry.open .evo-entry-header { background: #1c2128; }
+    .evo-entry-text { font-size: 14px; color: #c9d1d9; margin-bottom: 8px; }
+    .evo-views { list-style: none; margin-bottom: 6px; }
+    .evo-views li { font-size: 13px; color: #8b949e; padding: 2px 0 2px 14px; position: relative; }
+    .evo-views li::before { content: '›'; position: absolute; left: 0; color: #58a6ff; }
+    .evo-trades { font-size: 12px; color: #3fb950; font-style: italic; }
+
+    .evo-empty { text-align: center; padding: 48px 20px; color: #8b949e; font-size: 14px; }
+    .evo-select-prompt { text-align: center; padding: 60px 20px; color: #8b949e; }
+    .evo-select-prompt .icon { font-size: 32px; margin-bottom: 12px; }
   </style>
 </head>
 <body>
@@ -222,26 +292,29 @@
   <button class="tab active" onclick="showTab('today')">Today</button>
   <button class="tab" onclick="showTab('week')">7 Days</button>
   <button class="tab" onclick="showTab('month')">30 Days</button>
+  <button class="tab" onclick="showTab('evolution')">Evolution</button>
   <button class="tab" onclick="showTab('ask')">Ask the Brain</button>
 </nav>
 
 <main class="content">
   <div id="tab-today"></div>
-  <div id="tab-week"  style="display:none"></div>
-  <div id="tab-month" style="display:none"></div>
-  <div id="tab-ask"   style="display:none"></div>
+  <div id="tab-week"      style="display:none"></div>
+  <div id="tab-month"     style="display:none"></div>
+  <div id="tab-evolution" style="display:none"></div>
+  <div id="tab-ask"       style="display:none"></div>
 </main>
 
 <script>
 let summaries = null, content = null, activeTab = 'today', askScope = '30d';
+let selectedInvestor = null;
 
 // ── Tab switching ──────────────────────────────────────────────────────────────
 function showTab(name) {
   activeTab = name;
   document.querySelectorAll('.tab').forEach((t, i) => {
-    t.classList.toggle('active', ['today','week','month','ask'][i] === name);
+    t.classList.toggle('active', ['today','week','month','evolution','ask'][i] === name);
   });
-  ['today','week','month','ask'].forEach(t => {
+  ['today','week','month','evolution','ask'].forEach(t => {
     document.getElementById(`tab-${t}`).style.display = t === name ? 'block' : 'none';
   });
 }
@@ -409,6 +482,118 @@ function renderCard(e) {
   </div>`;
 }
 
+// ── Evolution tab ─────────────────────────────────────────────────────────────
+function renderEvolutionTab() {
+  if (!content) return '<div class="state"><p>No data loaded.</p></div>';
+  const entries = content.entries || [];
+
+  // Build investor list with entry counts
+  const investorMap = {};
+  entries.forEach(e => {
+    if (!investorMap[e.investor]) investorMap[e.investor] = { side: e.side, entries: [] };
+    investorMap[e.investor].entries.push(e);
+  });
+
+  const buyList  = Object.entries(investorMap).filter(([,v]) => v.side === 'buy')
+    .sort((a,b) => b[1].entries.length - a[1].entries.length);
+  const sellList = Object.entries(investorMap).filter(([,v]) => v.side === 'sell')
+    .sort((a,b) => b[1].entries.length - a[1].entries.length);
+
+  const makeBtn = ([name, data]) => {
+    const sideClass = selectedInvestor === name
+      ? (data.side === 'buy' ? 'active buy-active' : 'active sell-active') : '';
+    return `<button class="evo-investor-btn ${sideClass}" onclick="selectInvestor('${name.replace(/'/g,"\\'")}')">
+      ${name} <span style="float:right;font-size:11px;color:#8b949e">${data.entries.length}</span>
+    </button>`;
+  };
+
+  const sidebar = `
+    <div class="evo-sidebar">
+      <div class="evo-group-label">Buy-Side</div>
+      ${buyList.length ? buyList.map(makeBtn).join('') : '<div style="font-size:12px;color:#8b949e;padding:4px">No data yet</div>'}
+      <div class="evo-group-label" style="margin-top:16px">Sell-Side</div>
+      ${sellList.length ? sellList.map(makeBtn).join('') : '<div style="font-size:12px;color:#8b949e;padding:4px">No data yet</div>'}
+    </div>`;
+
+  const main = selectedInvestor && investorMap[selectedInvestor]
+    ? renderInvestorTimeline(selectedInvestor, investorMap[selectedInvestor])
+    : `<div class="evo-select-prompt">
+        <div class="icon">◎</div>
+        <div>Select an investor to see how their views have evolved over time</div>
+      </div>`;
+
+  return `<div class="evo-layout">${sidebar}<div class="evo-main">${main}</div></div>`;
+}
+
+function selectInvestor(name) {
+  selectedInvestor = name;
+  document.getElementById('tab-evolution').innerHTML = renderEvolutionTab();
+}
+
+function renderInvestorTimeline(name, data) {
+  const entries = [...data.entries].sort((a, b) => a.date < b.date ? 1 : -1); // newest first
+  const side = data.side === 'buy' ? 'Buy-Side' : 'Sell-Side';
+  const sideColor = data.side === 'buy' ? '#58a6ff' : '#e3b341';
+  const firstDate = fmtDate(entries[entries.length - 1].date);
+  const lastDate  = fmtDate(entries[0].date);
+
+  // Sentiment trend strip (oldest → newest, left to right)
+  const chronological = [...entries].reverse();
+  const sentCls = { bullish:'t-bullish', bearish:'t-bearish', mixed:'t-mixed', neutral:'t-neutral' };
+  const sentIcon = { bullish:'▲', bearish:'▼', mixed:'◆', neutral:'—' };
+  const trendStrip = `<div class="trend-strip">
+    <span style="font-size:11px;color:#8b949e;margin-right:4px">Oldest</span>
+    ${chronological.map(e => `
+      <div class="trend-dot ${sentCls[e.sentiment]||'t-mixed'}" title="${fmtDate(e.date)}: ${e.sentiment}">
+        ${sentIcon[e.sentiment]||'◆'}
+        <div class="trend-tooltip">${fmtDate(e.date)}: ${e.sentiment}</div>
+      </div>`).join('')}
+    <span style="font-size:11px;color:#8b949e;margin-left:4px">Latest</span>
+  </div>`;
+
+  // Sentiment summary
+  const counts = entries.reduce((a, e) => { a[e.sentiment] = (a[e.sentiment]||0)+1; return a; }, {});
+  const dominant = Object.entries(counts).sort((a,b)=>b[1]-a[1])[0];
+  const recentShift = entries.length >= 2 && entries[0].sentiment !== entries[1].sentiment
+    ? `<span style="color:#f0883e;font-size:12px;margin-left:8px">⚡ Sentiment shifted: ${entries[1].sentiment} → ${entries[0].sentiment} (latest)</span>`
+    : '';
+
+  // Timeline cards
+  const cards = entries.map((e, i) => {
+    const id = `evo-${e.id}`;
+    const isLatest = i === 0;
+    const views  = (e.key_views   || []).map(v => `<li>${v}</li>`).join('');
+    const trades = (e.trade_ideas || []).map(t => `<div class="evo-trades">→ ${t}</div>`).join('');
+    const srcs   = (e.sources     || []).slice(0,3).map((s,j) => `<a href="${s}" target="_blank" rel="noopener" style="color:#58a6ff;font-size:11px;text-decoration:none;margin-right:8px">Source ${j+1}</a>`).join('');
+
+    return `<div class="evo-entry ${isLatest ? 'open' : ''}" id="${id}">
+      <div class="evo-entry-header" onclick="document.getElementById('${id}').classList.toggle('open')">
+        <span class="evo-entry-date">${fmtDate(e.date)}${isLatest ? ' <span style="font-size:10px;background:rgba(88,166,255,0.15);color:#58a6ff;padding:1px 6px;border-radius:4px;margin-left:4px">Latest</span>' : ''}</span>
+        <span class="sentiment-badge ${sentCls[e.sentiment]||'sent-mixed'}" style="font-size:10px">${e.sentiment||'mixed'}</span>
+        <span class="evo-entry-summary">${(e.summary||'').slice(0,90)}${e.summary && e.summary.length > 90 ? '…' : ''}</span>
+      </div>
+      <div class="evo-entry-body">
+        <p class="evo-entry-text">${e.summary||''}</p>
+        ${views ? `<ul class="evo-views">${views}</ul>` : ''}
+        ${trades}
+        ${srcs ? `<div style="margin-top:8px">${srcs}</div>` : ''}
+      </div>
+    </div>`;
+  }).join('');
+
+  return `
+    <div class="evo-header">
+      <div class="evo-name" style="color:${sideColor}">${name}</div>
+      <div class="evo-meta">
+        ${side} · ${entries.length} ${entries.length === 1 ? 'entry' : 'entries'} · ${firstDate} — ${lastDate}
+        · Predominantly <strong>${dominant[0]}</strong> (${dominant[1]}/${entries.length})
+        ${recentShift}
+      </div>
+      ${trendStrip}
+    </div>
+    <div class="evo-timeline">${cards}</div>`;
+}
+
 // ── Ask tab ────────────────────────────────────────────────────────────────────
 function renderAskTab() {
   const saved = localStorage.getItem('anthropic_api_key') || '';
@@ -555,9 +740,10 @@ async function init() {
     document.getElementById('lastUpdated').textContent = `Updated ${fmtDate(summaries.generated_at)}`;
 
     const entries = content.entries || [];
-    document.getElementById('tab-today').innerHTML = renderPeriod(summaries.today, 'today', entries);
-    document.getElementById('tab-week').innerHTML  = renderPeriod(summaries.week,  'week',  entries);
-    document.getElementById('tab-month').innerHTML = renderPeriod(summaries.month, 'month', entries);
+    document.getElementById('tab-today').innerHTML     = renderPeriod(summaries.today, 'today', entries);
+    document.getElementById('tab-week').innerHTML      = renderPeriod(summaries.week,  'week',  entries);
+    document.getElementById('tab-month').innerHTML     = renderPeriod(summaries.month, 'month', entries);
+    document.getElementById('tab-evolution').innerHTML = renderEvolutionTab();
   } catch(err) {
     ['today','week','month'].forEach(t => {
       document.getElementById(`tab-${t}`).innerHTML =
