@@ -210,6 +210,49 @@
     .response-meta { font-size: 11px; color: #8b949e; margin-top: 10px; padding-top: 10px; border-top: 1px solid #30363d; }
     .inline-spinner { width: 16px; height: 16px; border: 2px solid #30363d; border-top-color: #58a6ff; border-radius: 50%; animation: spin 0.7s linear infinite; display: inline-block; vertical-align: middle; margin-right: 6px; }
 
+    /* ── Ask response ── */
+    .ask-key-point {
+      background: #161b22; border: 1px solid #30363d; border-left: 3px solid #58a6ff;
+      border-radius: 7px; padding: 12px 14px; margin-bottom: 8px;
+    }
+    .ask-point-text { font-size: 14px; color: #e6edf3; margin-bottom: 8px; line-height: 1.5; }
+    .ask-point-text::before { content: '▸ '; color: #58a6ff; }
+    .ask-agree-row { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 4px; }
+    .ask-agree-label { font-size: 11px; color: #8b949e; align-self: center; margin-right: 2px; }
+    .ask-name-tag {
+      font-size: 11px; padding: 2px 8px; border-radius: 10px; cursor: pointer;
+      font-weight: 500; border: 1px solid transparent; transition: opacity 0.15s;
+    }
+    .ask-name-tag:hover { opacity: 0.75; }
+    .ask-name-tag.buy  { background: rgba(88,166,255,0.12); color: #58a6ff; border-color: rgba(88,166,255,0.25); }
+    .ask-name-tag.sell { background: rgba(227,179,65,0.12);  color: #e3b341; border-color: rgba(227,179,65,0.25); }
+    .ask-name-tag.dis  { background: rgba(248,81,73,0.10);   color: #f85149; border-color: rgba(248,81,73,0.2); text-decoration: line-through; }
+
+    .ask-individuals { margin-top: 16px; }
+    .ask-ind-toggle {
+      font-size: 12px; color: #8b949e; cursor: pointer; padding: 6px 0;
+      border-top: 1px solid #30363d; display: flex; align-items: center; gap: 6px;
+      user-select: none;
+    }
+    .ask-ind-toggle:hover { color: #e6edf3; }
+    .ask-ind-list { margin-top: 8px; display: none; }
+    .ask-ind-list.open { display: block; }
+    .ask-ind-card {
+      background: #161b22; border: 1px solid #30363d; border-radius: 7px;
+      margin-bottom: 6px; overflow: hidden;
+    }
+    .ask-ind-header {
+      display: flex; align-items: center; gap: 8px; padding: 9px 12px;
+      cursor: pointer; font-size: 13px;
+    }
+    .ask-ind-header:hover { background: #1c2128; }
+    .ask-ind-name { font-weight: 600; color: #e6edf3; }
+    .ask-ind-body { display: none; padding: 0 12px 12px; font-size: 13px; color: #c9d1d9; line-height: 1.6; border-top: 1px solid #21262d; }
+    .ask-ind-body.open { display: block; }
+    .ask-src { margin-top: 6px; }
+    .ask-src a { font-size: 11px; color: #58a6ff; text-decoration: none; margin-right: 8px; }
+    .ask-src a:hover { text-decoration: underline; }
+
     /* ── Evolution tab ── */
     .evo-layout { display: grid; grid-template-columns: 220px 1fr; gap: 20px; min-height: 400px; }
     @media (max-width: 640px) { .evo-layout { grid-template-columns: 1fr; } }
@@ -686,25 +729,50 @@ async function submitQuery() {
   box.innerHTML = '<span class="inline-spinner"></span> Searching corpus...';
 
   const relevant = getRelevantEntries(query);
-  const ctx = buildCtx(relevant);
   const scopeLabel = {today:'today', '7d':'last 7 days', '30d':'last 30 days', all:'all available data'}[askScope];
 
-  const sys = `You are Macro Brain, synthesising views from top macro investors and sell-side strategists.
+  // Build enriched context including sources per investor
+  const ctx = relevant.map(e => {
+    const side = e.side === 'buy' ? 'BUY-SIDE' : 'SELL-SIDE';
+    return `[${e.date}] ${e.investor} (${side}, ${(e.sentiment||'').toUpperCase()})
+  View: ${e.summary}
+  Key: ${(e.key_views||[]).join(' | ')}
+  Trades: ${(e.trade_ideas||[]).join(' | ')}`;
+  }).join('\n\n');
 
-BUY-SIDE practitioners: Stan Druckenmiller, Ray Dalio, Paul Tudor Jones, Howard Marks, George Soros, David Tepper, Jeffrey Gundlach, Kyle Bass, Michael Burry, Alan Howard, Scott Bessent, Bill Ackman, David Einhorn, Crispin Odey.
-SELL-SIDE strategists: Jim Reid (DB), Torsten Slok (Apollo), Michael Hartnett (BofA), Albert Edwards (SocGen), David Rosenberg, Ed Yardeni, Jan Hatzius (GS), Mike Wilson (MS), Russell Napier, Peter Berezin (BCA), Liz Ann Sonders (Schwab), Barry Bannister (Stifel), Jordi Visser (22V Research).
+  const sys = `You are Macro Brain, synthesising views from top macro investors and strategists.
 
-Corpus (${scopeLabel}, ${relevant.length} relevant entries):
+BUY-SIDE: Stan Druckenmiller, Ray Dalio, Paul Tudor Jones, Howard Marks, George Soros, David Tepper, Jeffrey Gundlach, Kyle Bass, Michael Burry, Alan Howard, Scott Bessent, Bill Ackman, David Einhorn, Crispin Odey.
+SELL-SIDE: Jim Reid (DB), Torsten Slok (Apollo), Michael Hartnett (BofA), Albert Edwards (SocGen), David Rosenberg, Ed Yardeni, Jan Hatzius (GS), Mike Wilson (MS), Russell Napier, Peter Berezin (BCA), Liz Ann Sonders (Schwab), Barry Bannister (Stifel), Jordi Visser (22V Research).
+
+Corpus (${scopeLabel}, ${relevant.length} entries):
 ${ctx || 'No relevant entries found.'}
 
-Answer rules:
-1. **Buy-Side View** — what practitioners are actually doing/positioning (lead with this)
-2. **Sell-Side View** — what strategists are saying
-3. **Where They Agree** — explicit consensus across buy and sell side
-4. **Key Divergences** — buy vs sell, buy vs market, sell vs market
-5. **Trade Implications** — specific, directional, attributed to named investors
-- Always name the investor — never say "investors think" when you can say "Druckenmiller is short..."
-- If corpus lacks data, say so clearly`;
+Return ONLY a JSON object — no prose, no markdown fences — with this exact shape:
+{
+  "key_points": [
+    {
+      "point": "Concise insight answering the question (max 20 words)",
+      "agreeing": [{"name": "Investor Name", "side": "buy or sell", "stance": "one short phrase"}],
+      "disagreeing": [{"name": "Investor Name", "side": "buy or sell", "stance": "one short phrase"}]
+    }
+  ],
+  "individual_views": [
+    {
+      "investor": "Name",
+      "side": "buy or sell",
+      "sentiment": "bullish or bearish or mixed or neutral",
+      "view": "2-3 sentence summary of their specific view relevant to the question",
+      "trade": "specific trade idea if any, else empty string"
+    }
+  ]
+}
+
+Rules:
+- key_points: 3-5 bullets max, most market-important first
+- agreeing/disagreeing: only include investors present in the corpus
+- individual_views: one entry per investor who has a relevant view, all investors in corpus who are relevant
+- If corpus is empty or irrelevant, return {"key_points": [{"point": "No relevant data found for this query in the selected scope.", "agreeing": [], "disagreeing": []}], "individual_views": []}`;
 
   try {
     const res = await fetch('https://api.anthropic.com/v1/messages', {
@@ -716,21 +784,118 @@ Answer rules:
         'anthropic-dangerous-direct-browser-access': 'true'
       },
       body: JSON.stringify({
-        model: 'claude-sonnet-4-6', max_tokens: 1400,
+        model: 'claude-sonnet-4-6', max_tokens: 2000,
         system: sys, messages: [{role:'user', content:query}]
       })
     });
     if (!res.ok) { const e = await res.json(); throw new Error(e.error?.message || `HTTP ${res.status}`); }
     const data = await res.json();
-    const text = data.content[0].text
-      .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-      .replace(/\n\n/g, '<br><br>').replace(/\n/g, '<br>');
-    box.innerHTML = `<div>${text}</div>
-      <div class="response-meta">${relevant.length} entries searched (${scopeLabel}) · ${data.usage?.input_tokens||'?'} in / ${data.usage?.output_tokens||'?'} out tokens</div>`;
+
+    let parsed;
+    try {
+      let raw = data.content[0].text.trim();
+      if (raw.includes('```')) raw = raw.split('```')[1].replace(/^json/,'').trim();
+      parsed = JSON.parse(raw);
+    } catch(e) {
+      box.innerHTML = `<div style="color:#f85149">Could not parse response. Raw: ${data.content[0].text.slice(0,200)}</div>`;
+      btn.disabled = false; btn.textContent = 'Ask';
+      return;
+    }
+
+    box.innerHTML = renderAskResponse(parsed, relevant, scopeLabel, data.usage);
   } catch(err) {
     box.innerHTML = `<div style="color:#f85149">Error: ${err.message}</div>`;
   }
   btn.disabled = false; btn.textContent = 'Ask';
+}
+
+function renderAskResponse(parsed, relevant, scopeLabel, usage) {
+  const sentCls = {bullish:'sent-bullish', bearish:'sent-bearish', mixed:'sent-mixed', neutral:'sent-neutral'};
+
+  // Build source map from corpus entries
+  const sourceMap = {};
+  relevant.forEach(e => { sourceMap[e.investor] = e.sources || []; });
+
+  // Key points
+  let html = '';
+  (parsed.key_points || []).forEach(kp => {
+    html += `<div class="ask-key-point">
+      <div class="ask-point-text">${kp.point}</div>
+      <div class="ask-agree-row">`;
+
+    if (kp.agreeing && kp.agreeing.length) {
+      html += `<span class="ask-agree-label">Agrees:</span>`;
+      kp.agreeing.forEach(p => {
+        html += `<span class="ask-name-tag ${p.side}" title="${p.stance}" onclick="scrollToIndividual('${p.name.replace(/'/g,"\\'")}')">
+          ${p.name}
+        </span>`;
+      });
+    }
+    if (kp.disagreeing && kp.disagreeing.length) {
+      html += `<span class="ask-agree-label" style="margin-left:8px">Disagrees:</span>`;
+      kp.disagreeing.forEach(p => {
+        html += `<span class="ask-name-tag dis" title="${p.stance}" onclick="scrollToIndividual('${p.name.replace(/'/g,"\\'")}')">
+          ${p.name}
+        </span>`;
+      });
+    }
+
+    html += `</div></div>`;
+  });
+
+  // Individual views (collapsed by default)
+  const views = parsed.individual_views || [];
+  if (views.length) {
+    const listId = 'ask-ind-list-' + Date.now();
+    html += `<div class="ask-individuals">
+      <div class="ask-ind-toggle" onclick="this.nextElementSibling.classList.toggle('open');this.querySelector('.tog-icon').textContent=this.nextElementSibling.classList.contains('open')?'▾':'▸'">
+        <span class="tog-icon">▸</span> Individual views (${views.length} investors)
+      </div>
+      <div class="ask-ind-list" id="${listId}">`;
+
+    views.forEach(v => {
+      const slugId = 'ind-' + v.investor.replace(/\s+/g,'-').toLowerCase();
+      const srcs = (sourceMap[v.investor] || []).slice(0,3);
+      const srcHtml = srcs.length
+        ? `<div class="ask-src">${srcs.map((s,i)=>`<a href="${s}" target="_blank" rel="noopener">Source ${i+1}</a>`).join('')}</div>`
+        : '';
+      html += `<div class="ask-ind-card" id="${slugId}">
+        <div class="ask-ind-header" onclick="this.nextElementSibling.classList.toggle('open')">
+          <span class="investor-side ${v.side==='buy'?'side-buy':'side-sell'}">${v.side==='buy'?'Buy':'Sell'}</span>
+          <span class="ask-ind-name">${v.investor}</span>
+          <span class="sentiment-badge ${sentCls[v.sentiment]||'sent-mixed'}" style="font-size:10px">${v.sentiment||'mixed'}</span>
+        </div>
+        <div class="ask-ind-body">
+          <p style="margin:10px 0 6px">${v.view}</p>
+          ${v.trade ? `<div style="font-size:12px;color:#3fb950;font-style:italic">→ ${v.trade}</div>` : ''}
+          ${srcHtml}
+        </div>
+      </div>`;
+    });
+
+    html += `</div></div>`;
+  }
+
+  html += `<div class="response-meta">${relevant.length} entries searched (${scopeLabel}) · ${usage?.input_tokens||'?'} in / ${usage?.output_tokens||'?'} out tokens</div>`;
+  return html;
+}
+
+function scrollToIndividual(name) {
+  // Expand the individual views section and scroll to the investor
+  const listEl = document.querySelector('.ask-ind-list');
+  if (listEl) {
+    listEl.classList.add('open');
+    const icon = document.querySelector('.tog-icon');
+    if (icon) icon.textContent = '▾';
+  }
+  const slugId = 'ind-' + name.replace(/\s+/g,'-').toLowerCase();
+  const el = document.getElementById(slugId);
+  if (el) {
+    el.scrollIntoView({behavior:'smooth', block:'center'});
+    el.querySelector('.ask-ind-body')?.classList.add('open');
+    el.style.borderColor = '#58a6ff';
+    setTimeout(() => { el.style.borderColor = ''; }, 2000);
+  }
 }
 
 // ── Init ───────────────────────────────────────────────────────────────────────
