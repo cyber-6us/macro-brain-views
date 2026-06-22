@@ -1,4 +1,63 @@
 {
   "last_updated": "2026-06-22",
-  "entries": []
+  "entries": [
+    {
+      "id": "2026-06-22-b3fe3662",
+      "date": "2026-06-22",
+      "investor": "Howard Marks",
+      "side": "buy",
+      "summary": "Marks sees financial markets in their third major 'sea change' in 53 years, with traditional investment strategies being tested. He notes the credit cycle is at an extended peak with generous conditions and easy borrowing, cautioning investors to maintain high standards while warning that overly cautious investors may miss historic opportunities amid AI boom and potential 'irrational exuberance.'",
+      "key_views": [
+        "Markets are experiencing the third major structural shift ('sea change') of Marks' 53-year career",
+        "Credit cycle has extended longer than historically typical, with market conditions described as generous and borrowing conditions easy",
+        "Current market exhibits characteristics of Alan Greenspan's 'irrational exuberance' concept, particularly in AI investment boom",
+        "Traditional investment strategies that worked for decades may be tested by current market upheavals",
+        "Risk of overly cautious investors missing historic investment opportunities"
+      ],
+      "trade_ideas": [
+        "Maintain disciplined lending standards in credit markets despite competitive pressure to loosen terms",
+        "Selective opportunities in distressed/opportunistic assets during market transition"
+      ],
+      "asset_classes": [
+        "credit",
+        "equities",
+        "bonds",
+        "distressed debt"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://londondaily.com/billionaire-investor-howard-marks-says-financial-markets-are-going-through-their-3rd-sea-change-of-the-last-50-years",
+        "https://www.bitget.com/news/detail/12560605466959",
+        "https://www.forbes.com/profile/bruce-karsh/",
+        "https://ceointerviews.ai/quote/if-i-dont-cut-the-price-of-this-MTA4MTg0MA/"
+      ]
+    },
+    {
+      "id": "2026-06-22-a3249dcc",
+      "date": "2026-06-22",
+      "investor": "Peter Berezin",
+      "side": "sell",
+      "summary": "Berezin believes AI supply-chain bottlenecks will persist for several years, creating trading opportunities in shortage-affected industries. However, he is skeptical of hyperscaler projections, noting that free cash flow expectations (nearly zero in 2026, surging to $700B by 2030 despite $1T capital spending) appear unrealistic and reflect market pricing in relief before actual bottleneck resolution.",
+      "key_views": [
+        "AI-related supply-chain shortages will persist for the next few years",
+        "Markets will price in relief from AI bottlenecks before shortages actually resolve",
+        "Hyperscaler free cash flow projections are unrealistic and overly optimistic",
+        "Industries experiencing shortages present trading opportunities"
+      ],
+      "trade_ideas": [
+        "Buy stocks in industries experiencing AI-related supply-chain shortages",
+        "Fade hyperscaler valuations given unrealistic FCF projections versus $1T ongoing capex"
+      ],
+      "asset_classes": [
+        "equities"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://www.bcaresearch.com/reports/how-trade-shortages-fun-and-profit-18-06-2026/220436",
+        "https://x.com/PeterBerezinBCA/status/2067283461199851951",
+        "https://x.com/PeterBerezinBCA/status/2068727186027155557",
+        "https://www.rosenbergresearch.com/webcast-with-dave/"
+      ]
+    }
+  ]
 }

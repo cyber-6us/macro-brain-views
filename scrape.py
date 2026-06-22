@@ -157,7 +157,7 @@ def scrape_person(person: dict, side: str) -> dict | None:
     sources = []
 
     for query in person["queries"]:
-        for result in ddg_search(query, "text", timelimit="d", max_results=3):
+        for result in ddg_search(query, "text", timelimit="w", max_results=4):
             url = result.get("href", result.get("url", ""))
             title = result.get("title", "")
             body = result.get("body", result.get("snippet", ""))
@@ -168,9 +168,9 @@ def scrape_person(person: dict, side: str) -> dict | None:
                 article = fetch_article_text(url)
                 if article:
                     snippets.append(f"[Article: {title}] {article[:900]}")
-        time.sleep(1.5)
+        time.sleep(2)
 
-        for result in ddg_search(query, "news", timelimit="d", max_results=3):
+        for result in ddg_search(query, "news", timelimit="m", max_results=4):
             url = result.get("url", "")
             title = result.get("title", "")
             body = result.get("body", result.get("excerpt", ""))

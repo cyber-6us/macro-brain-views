@@ -24,7 +24,7 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install anthropic duckduckgo-search yt-dlp requests beautifulsoup4
+        run: pip install anthropic ddgs yt-dlp requests beautifulsoup4
 
       - name: Scrape content
         env:

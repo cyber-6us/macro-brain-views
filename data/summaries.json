@@ -2,36 +2,63 @@
   "generated_at": "2026-06-22",
   "today": {
     "date": "2026-06-22",
-    "entries_count": 0,
-    "buy_side_theme": "No content scraped yet. The daily scrape runs at 07:00 CET.",
-    "sell_side_theme": "No content scraped yet. The daily scrape runs at 07:00 CET.",
-    "key_divergence": "—",
-    "trade_ideas": [],
-    "dominant_themes": [],
+    "entries_count": 2,
+    "buy_side_theme": "Howard Marks sees markets undergoing their third structural 'sea change' in 53 years, warning that the credit cycle has extended well beyond historical norms with conditions remaining generously easy — a setup he views with disciplined caution. Despite acknowledging AI-driven 'irrational exuberance' reminiscent of Greenspan's warnings, Marks is not outright bearish; he is maintaining strict lending standards in credit while selectively hunting distressed and opportunistic assets that emerge from the transition, wary that overcaution itself carries its own opportunity cost.",
+    "sell_side_theme": "Peter Berezin (BCA Research) takes a structurally skeptical view on the AI investment boom, arguing that hyperscaler free cash flow projections — nearly zero in 2026 then surging to $700B by 2030 against $1T in ongoing capex — are unrealistic and reflect markets pricing in bottleneck relief well ahead of actual resolution. He sees AI supply-chain shortages persisting for years, creating tactical long opportunities in shortage-affected industries while recommending investors fade hyperscaler valuations on the basis that the FCF math simply does not pencil out.",
+    "key_divergence": "Marks is cautiously open to historic opportunity in the AI-driven structural shift and warns against excessive defensiveness, while Berezin is actively fading the largest AI beneficiaries (hyperscalers) on valuation grounds — the buy side fears missing the boom, the sell side fears investors are already priced for a resolution that hasn't arrived.",
+    "trade_ideas": [
+      "1. Long stocks in AI supply-chain shortage-affected industries (e.g. power infrastructure, specialty semiconductors, data center components): Berezin argues shortages persist for years and markets will price in relief early, creating entry points in constrained suppliers. Source: Peter Berezin",
+      "2. Short/Fade hyperscaler equities (e.g. Microsoft, Alphabet, Amazon, Meta): Berezin flags FCF projections as unrealistic — near-zero FCF in 2026 surging to $700B by 2030 while capex runs at $1T — making current valuations unsustainable. Source: Peter Berezin",
+      "3. Long distressed/opportunistic credit assets: Marks recommends selective positioning in distressed assets that surface during the current market transition, as the extended credit cycle creates mispriced risk for disciplined buyers. Source: Howard Marks",
+      "4. Avoid loosening credit standards / stay disciplined in lending: Marks explicitly warns against competitive pressure to relax terms in credit markets, implying avoidance of lower-quality leveraged credit and covenant-lite structures at current spreads. Source: Howard Marks"
+    ],
+    "dominant_themes": [
+      "AI investment boom exhibiting irrational exuberance with hyperscaler FCF projections divorced from capex reality",
+      "Extended credit cycle and structural 'sea change' demanding disciplined but opportunistic positioning",
+      "AI supply-chain bottlenecks persisting for years, creating divergence between shortage-affected industries (buy) and large-cap hyperscalers (fade)"
+    ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "week": {
     "period_start": "2026-06-15",
     "period_end": "2026-06-22",
-    "entries_count": 0,
-    "buy_side_theme": "No content scraped yet.",
-    "sell_side_theme": "No content scraped yet.",
-    "key_divergence": "—",
-    "trade_ideas": [],
-    "dominant_themes": [],
+    "entries_count": 2,
+    "buy_side_theme": "Howard Marks sees markets undergoing a third structural 'sea change' in his 53-year career, with the credit cycle extended well beyond historical norms amid easy borrowing conditions. He is maintaining disciplined lending standards in credit markets, resisting competitive pressure to loosen terms, while selectively hunting for distressed and opportunistic assets during the transition. Marks flags AI-driven 'irrational exuberance' as a real risk but warns that overly cautious investors may forfeit historic opportunities.",
+    "sell_side_theme": "Peter Berezin at BCA Research takes a skeptical stance on hyperscaler valuations, arguing that free cash flow projections — near zero in 2026 surging to $700B by 2030 against $1T in ongoing capex — are unrealistic and reflect markets pricing in bottleneck relief prematurely. He expects AI supply-chain shortages to persist for several years, creating divergent opportunities: buy shortage-affected upstream industries, fade the mega-cap hyperscalers whose FCF math doesn't pencil out.",
+    "key_divergence": "Marks (buy-side) cautions against missing the AI boom by being too defensive, while Berezin (sell-side) is actively recommending fading the AI winners — hyperscalers — on implausible FCF assumptions; the two camps agree froth exists but diverge sharply on whether to lean in or short the cycle's biggest beneficiaries.",
+    "trade_ideas": [
+      "1. Long AI supply-chain shortage stocks (sector-specific industrials/semis): Berezin argues shortages in AI-related industries will persist for years and markets will price in relief before it arrives — buy the constrained suppliers before the squeeze eases. Source: Peter Berezin",
+      "2. Short/Fade hyperscaler equities (e.g. mega-cap cloud/AI capex spenders): Berezin highlights that hyperscaler FCF expectations (~$0 in 2026 rising to $700B by 2030) are unrealistic against $1T capex, making current valuations unjustifiable. Source: Peter Berezin",
+      "3. Long distressed/opportunistic credit assets: Marks sees the extended credit cycle peak as a setup for dislocation, positioning selectively in distressed assets that will benefit during the market transition away from generous conditions. Source: Howard Marks",
+      "4. Maintain high-quality/disciplined lending standards in credit (avoid covenant-lite/loose-term paper): Marks explicitly warns against loosening credit standards despite competitive pressure, implying avoidance of lower-quality leveraged loans and aggressively structured credit instruments. Source: Howard Marks"
+    ],
+    "dominant_themes": [
+      "AI-driven 'sea change' and irrational exuberance risk",
+      "Extended credit cycle with unsustainably easy conditions",
+      "AI supply-chain bottlenecks creating divergent winners and losers"
+    ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "month": {
     "period_start": "2026-05-23",
     "period_end": "2026-06-22",
-    "entries_count": 0,
-    "buy_side_theme": "No content scraped yet.",
-    "sell_side_theme": "No content scraped yet.",
-    "key_divergence": "—",
-    "trade_ideas": [],
-    "dominant_themes": [],
+    "entries_count": 2,
+    "buy_side_theme": "Howard Marks sees markets undergoing their third structural 'sea change' in 53 years, with the credit cycle extended well beyond historical norms into unusually generous conditions. Marks is positioning for disciplined lending standards in credit — avoiding the competitive pressure to loosen terms — while selectively hunting distressed and opportunistic assets that emerge during the transition. He acknowledges the AI boom carries hallmarks of 'irrational exuberance' but warns that overly cautious investors risk missing historic opportunities, leaving him in a careful but not paralyzed posture.",
+    "sell_side_theme": "Peter Berezin (BCA Research) holds a skeptical view on hyperscaler valuations, arguing that consensus free cash flow projections — near zero in 2026 then surging to $700B by 2030 against $1T in ongoing capex — are deeply unrealistic and reflect wishful pricing rather than fundamental resolution of AI supply-chain bottlenecks. Berezin expects those bottlenecks to persist for several years and sees markets front-running relief that hasn't arrived, creating a fade opportunity in mega-cap AI names. He does see tactical long opportunities in industries directly experiencing AI-related shortages, where scarcity itself is a near-term earnings catalyst.",
+    "key_divergence": "Marks (buy-side) is cautious but open to riding the AI-driven opportunity set, treating current exuberance as a risk to manage rather than a signal to fade — while Berezin (sell-side) is explicitly telling clients to fade hyperscaler valuations as structurally mispriced. The practitioner managing real money is staying selective and in the game; the strategist is calling for a short against the very names driving the cycle.",
+    "trade_ideas": [
+      "1. Short Hyperscalers (e.g. Alphabet, Microsoft, Amazon, Meta): FCF projections implying ~$700B by 2030 are unrealistic against $1T capex commitments; markets are pricing in bottleneck relief before it materializes. Source: Peter Berezin",
+      "2. Long AI supply-chain shortage stocks (e.g. power infrastructure, cooling, specialty semiconductors, data center REITs): Scarcity persists for years, creating durable earnings tailwinds for shortage-affected industries. Source: Peter Berezin",
+      "3. Long distressed/opportunistic credit assets: Extended credit cycle with generous conditions will eventually normalize; disciplined buyers of dislocated credit will capture outsized returns during the transition. Source: Howard Marks",
+      "4. Avoid loosening credit standards in direct lending/private credit: Competitive pressure to relax terms is a trap; maintain high underwriting standards even at the cost of deal flow. Source: Howard Marks"
+    ],
+    "dominant_themes": [
+      "AI investment boom showing signs of irrational exuberance with unrealistic hyperscaler FCF expectations versus massive capex commitments",
+      "Structural 'sea change' in financial markets testing traditional investment strategies and extending the credit cycle beyond historical norms",
+      "AI supply-chain bottlenecks persisting for years, creating divergent opportunities — long shortage beneficiaries, short overcapitalized hyperscalers"
+    ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   }
