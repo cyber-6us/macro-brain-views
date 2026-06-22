@@ -661,14 +661,18 @@ function renderInvestorTimeline(name, data) {
 // ── Ask tab ────────────────────────────────────────────────────────────────────
 function renderAskTab() {
   const saved = localStorage.getItem('anthropic_api_key') || '';
+  const keyBlock = saved
+    ? `<div id="keyRow" style="font-size:11px;color:#484f58;margin-bottom:10px">
+        API key saved · <span style="cursor:pointer;color:#8b949e;text-decoration:underline" onclick="showKeyInput()">change</span>
+       </div>`
+    : `<div id="keyRow" class="api-key-row">
+        <span class="api-key-label">Anthropic API Key</span>
+        <input class="api-key-input" id="apiKeyInput" type="password"
+          placeholder="sk-ant-..." autocomplete="off" spellcheck="false">
+        <button class="save-btn" onclick="saveKey()">Save</button>
+       </div>`;
   return `<div class="ask-container">
-    <div class="api-key-row">
-      <span class="api-key-label">Anthropic API Key</span>
-      <input class="api-key-input" id="apiKeyInput" type="password"
-        placeholder="sk-ant-..." value="${saved}" autocomplete="off" spellcheck="false">
-      <button class="save-btn" onclick="saveKey()">Save</button>
-      <span class="key-ok" id="keyStatus">${saved ? '✓' : ''}</span>
-    </div>
+    ${keyBlock}
     <div style="font-size:12px;color:#8b949e;margin-bottom:8px">Scope:</div>
     <div class="scope-row">
       <button class="scope-btn ${askScope==='today'?'active':''}" onclick="setScope('today')">Today</button>
@@ -688,7 +692,22 @@ function renderAskTab() {
 
 function saveKey() {
   const k = document.getElementById('apiKeyInput').value.trim();
-  if (k) { localStorage.setItem('anthropic_api_key', k); document.getElementById('keyStatus').textContent = '✓'; }
+  if (!k) return;
+  localStorage.setItem('anthropic_api_key', k);
+  document.getElementById('keyRow').outerHTML =
+    `<div id="keyRow" style="font-size:11px;color:#484f58;margin-bottom:10px">
+      API key saved · <span style="cursor:pointer;color:#8b949e;text-decoration:underline" onclick="showKeyInput()">change</span>
+     </div>`;
+}
+
+function showKeyInput() {
+  document.getElementById('keyRow').outerHTML =
+    `<div id="keyRow" class="api-key-row">
+      <span class="api-key-label">Anthropic API Key</span>
+      <input class="api-key-input" id="apiKeyInput" type="password"
+        placeholder="sk-ant-..." autocomplete="off" spellcheck="false">
+      <button class="save-btn" onclick="saveKey()">Save</button>
+     </div>`;
 }
 
 function setScope(s) {
@@ -729,8 +748,8 @@ function buildCtx(entries) {
 async function submitQuery() {
   const query = document.getElementById('queryInput').value.trim();
   if (!query) return;
-  const apiKey = localStorage.getItem('anthropic_api_key') || document.getElementById('apiKeyInput').value.trim();
-  if (!apiKey) { alert('Please save your Anthropic API key first.'); return; }
+  const apiKey = localStorage.getItem('anthropic_api_key') || (document.getElementById('apiKeyInput')?.value.trim() || '');
+  if (!apiKey) { alert('Please enter and save your Anthropic API key first.'); return; }
 
   const btn = document.getElementById('askBtn');
   const box = document.getElementById('responseBox');
