@@ -88,74 +88,60 @@ MOST RECENT ENTRIES (last {recent_days} day(s)):
 OLDER ENTRIES IN PERIOD:
 {older_context}
 
-Produce a JSON synthesis with EXACTLY these fields. All bullet arrays must be sorted most-important first.
+Produce a JSON synthesis with EXACTLY these fields.
+
+STRICT RULES — read before writing a single word:
+- Every array: 3 to 5 items maximum, sorted by MARKET IMPORTANCE (most price-moving first)
+- Every bullet: under 20 words, punchy, no filler — name the investor, state the view, done
+- whats_new: only real changes vs period start — omit entirely if nothing changed
+- vs_market: anchor to current market pricing (equity multiples, rate expectations, credit spreads)
+- Return ONLY valid JSON — no markdown, no explanation
 
 {{
   "buy_side_bullets": [
-    "One-sentence bullet, specific and attributed. E.g. 'Druckenmiller cut Amazon 94%, rotating into semis as AI infrastructure play.' (most important first)",
-    "...",
-    "...",
-    "...",
-    "..."
+    "Druckenmiller cut Amazon 94%, rotating into semis — AI infra over software.",
+    "Dalio: US equities near 1929/2000 bubble levels, cutting risk.",
+    "3rd most important buy-side view, attributed."
   ],
   "sell_side_bullets": [
-    "One-sentence bullet, specific and attributed. E.g. 'Hartnett (BofA) warns this is the biggest bubble since railroads, drawing parallels to 1999.' (most important first)",
-    "...",
-    "...",
-    "...",
-    "..."
+    "Hartnett (BofA): biggest bubble since railroads, parallels 1999.",
+    "Slok (Apollo): economy running hot, no cuts needed.",
+    "3rd most important sell-side view, attributed."
   ],
   "whats_new": [
-    "What has CHANGED or is NEWLY expressed vs the start of this period. Compare recent entries vs older entries. E.g. 'Dalio escalated his recession warning this week, moving from cautious to explicitly calling a 1929/2000-style bubble.' Only include genuine changes — omit if views are unchanged.",
-    "...",
-    "..."
+    "Genuine change vs period start only. E.g. Dalio moved from cautious to outright bubble call this week.",
+    "2nd change if any."
   ],
   "vs_market_buy": [
-    "Where buy-side practitioners DIFFER from what markets are currently pricing in. E.g. 'Druckenmiller is short mega-cap tech while markets still price in AI-driven multiple expansion.' Be specific about what market is pricing vs what the investor thinks.",
-    "...",
-    "..."
+    "Buy-side view vs what market prices. E.g. Burry short growth while market prices 20x forward PE.",
+    "2nd divergence if material."
   ],
   "vs_market_sell": [
-    "Where sell-side strategists DIFFER from market implied. E.g. 'Rosenberg sees stagflation risk while credit spreads remain tight, implying markets are complacent.' Be specific.",
-    "...",
-    "..."
+    "Sell-side view vs market. E.g. Rosenberg sees stagflation; credit spreads at 2-year tights disagree.",
+    "2nd divergence if material."
   ],
   "buy_vs_sell_divergence": [
-    "Where practitioners and strategists EXPLICITLY DISAGREE. E.g. 'Slok (sell-side) bullish on strong economy while Gundlach (buy-side) warns Fed won't cut under Warsh — opposite rate conclusions.' Most important divergence first.",
-    "...",
-    "..."
+    "Biggest practitioner vs strategist disagreement. E.g. Gundlach (buy) no cuts vs Slok (sell) strong economy needs none — same conclusion, opposite reasoning.",
+    "2nd divergence if material."
   ],
   "aligned": [
-    "Where buy-side AND sell-side AGREE with each other (and note if market is also aligned or diverges). E.g. 'Both Dalio (buy-side) and Hartnett (sell-side) warn of bubble-like equity valuations — but market is still making new highs, suggesting markets disagree.' Most important consensus first.",
-    "...",
-    "..."
+    "Where both camps agree. E.g. Dalio + Hartnett both call bubble — market disagrees, still rallying.",
+    "2nd consensus if any."
   ],
   "buy_side_trades": [
-    "Long/Short [specific asset]: [rationale]. Source: [buy-side investor name]",
-    "...",
-    "...",
-    "...",
-    "..."
+    "Short mega-cap tech (Nvidia, Microsoft). Source: Druckenmiller, Burry.",
+    "Long gold / BTC as inflation hedge. Source: Tudor Jones.",
+    "3rd trade if supported."
   ],
   "sell_side_trades": [
-    "Long/Short [specific asset]: [rationale]. Source: [sell-side strategist name]",
-    "...",
-    "...",
-    "...",
-    "..."
+    "Underweight equities, overweight cash. Source: Hartnett (BofA).",
+    "Long duration bonds on recession risk. Source: Rosenberg.",
+    "3rd trade if supported."
   ],
-  "dominant_themes": ["theme 1", "theme 2", "theme 3"],
+  "dominant_themes": ["AI bubble valuation", "Fed path uncertainty", "inflation regime shift"],
   "buy_side_sentiment": "bullish or bearish or neutral or mixed",
   "sell_side_sentiment": "bullish or bearish or neutral or mixed"
-}}
-
-Rules:
-- Every bullet must name at least one investor
-- Sort ALL arrays most-important first
-- Keep every bullet under 25 words — be punchy, no filler
-- whats_new: only include genuine changes vs period start, skip if unchanged
-- vs_market: use your knowledge of current market implied levels (equity valuations, rate expectations, credit spreads, vol) to anchor the comparison
-- Return only valid JSON, no other text"""
+}}"""
 
     try:
         response = client.messages.create(
