@@ -1,0 +1,847 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#0d1117">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Macro Brain">
+  <title>Macro Brain</title>
+  <link rel="manifest" href="manifest.json">
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+      font-size: 15px;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    /* ── Header ── */
+    .app-header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(13,17,23,0.93);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border-bottom: 1px solid #30363d;
+      padding: 12px 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .app-title { font-size: 17px; font-weight: 700; letter-spacing: -0.4px; }
+    .app-title span { color: #58a6ff; }
+    .header-meta { font-size: 12px; color: #8b949e; }
+
+    /* ── Tabs ── */
+    .tabs {
+      display: flex;
+      gap: 0;
+      border-bottom: 1px solid #30363d;
+      padding: 0 20px;
+      background: #0d1117;
+      overflow-x: auto;
+    }
+    .tab {
+      padding: 10px 18px;
+      font-size: 13px;
+      font-weight: 500;
+      color: #8b949e;
+      cursor: pointer;
+      border-bottom: 2px solid transparent;
+      white-space: nowrap;
+      transition: color 0.15s;
+      background: none;
+      border-left: none;
+      border-right: none;
+      border-top: none;
+    }
+    .tab:hover { color: #e6edf3; }
+    .tab.active { color: #58a6ff; border-bottom-color: #58a6ff; }
+
+    /* ── Content ── */
+    .content {
+      max-width: 780px;
+      margin: 0 auto;
+      padding: 20px 16px;
+    }
+
+    /* ── Period header ── */
+    .period-header {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      margin-bottom: 18px;
+    }
+    .period-title { font-size: 18px; font-weight: 700; }
+    .period-meta { font-size: 12px; color: #8b949e; }
+    .entry-count {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      font-size: 12px;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 12px;
+      padding: 3px 10px;
+      color: #8b949e;
+    }
+    .entry-count .dot {
+      width: 6px; height: 6px;
+      border-radius: 50%;
+      background: #3fb950;
+    }
+
+    /* ── Two-column lens ── */
+    .lens-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+    @media (max-width: 580px) {
+      .lens-grid { grid-template-columns: 1fr; }
+    }
+
+    .lens-card {
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 10px;
+      padding: 14px 16px;
+    }
+    .lens-card.buy { border-top: 3px solid #58a6ff; }
+    .lens-card.sell { border-top: 3px solid #e3b341; }
+
+    .lens-label {
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 1.2px;
+      text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+    .lens-card.buy .lens-label { color: #58a6ff; }
+    .lens-card.sell .lens-label { color: #e3b341; }
+
+    .lens-sentiment {
+      display: inline-block;
+      font-size: 11px;
+      font-weight: 600;
+      padding: 1px 8px;
+      border-radius: 4px;
+      margin-bottom: 8px;
+    }
+    .sent-bullish  { background: rgba(63,185,80,0.15);  color: #3fb950; }
+    .sent-bearish  { background: rgba(248,81,73,0.15);  color: #f85149; }
+    .sent-neutral  { background: rgba(139,148,158,0.15); color: #8b949e; }
+    .sent-mixed    { background: rgba(227,179,65,0.15); color: #e3b341; }
+
+    .lens-text { font-size: 14px; line-height: 1.6; color: #c9d1d9; }
+
+    /* ── Divergence ── */
+    .divergence-card {
+      background: rgba(248,81,73,0.05);
+      border: 1px solid rgba(248,81,73,0.25);
+      border-left: 3px solid #f85149;
+      border-radius: 8px;
+      padding: 12px 16px;
+      margin-bottom: 12px;
+    }
+    .divergence-label {
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 1.2px;
+      text-transform: uppercase;
+      color: #f85149;
+      margin-bottom: 6px;
+    }
+    .divergence-text { font-size: 14px; color: #c9d1d9; }
+
+    /* ── Trade ideas ── */
+    .section-label {
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 1.2px;
+      text-transform: uppercase;
+      color: #3fb950;
+      margin: 18px 0 10px;
+    }
+    .trade-list { display: flex; flex-direction: column; gap: 7px; margin-bottom: 18px; }
+    .trade-item {
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-left: 3px solid #3fb950;
+      border-radius: 7px;
+      padding: 10px 14px;
+      font-size: 14px;
+      color: #c9d1d9;
+      line-height: 1.5;
+    }
+
+    /* ── Themes ── */
+    .themes { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 20px; }
+    .theme-tag {
+      background: #21262d;
+      border: 1px solid #30363d;
+      border-radius: 12px;
+      padding: 3px 12px;
+      font-size: 12px;
+      color: #8b949e;
+    }
+
+    /* ── Individual entries ── */
+    .entries-section { margin-top: 24px; }
+    .entries-header {
+      font-size: 12px;
+      font-weight: 600;
+      color: #8b949e;
+      margin-bottom: 10px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .entries-header::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: #30363d;
+    }
+
+    .investor-card {
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      margin-bottom: 8px;
+      overflow: hidden;
+    }
+    .investor-card-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 11px 14px;
+      cursor: pointer;
+      gap: 10px;
+    }
+    .investor-card-header:hover { background: #1c2128; }
+    .investor-info { display: flex; align-items: center; gap: 10px; }
+    .investor-name { font-size: 14px; font-weight: 600; }
+    .investor-side {
+      font-size: 10px;
+      font-weight: 600;
+      padding: 2px 7px;
+      border-radius: 4px;
+    }
+    .side-buy  { background: rgba(88,166,255,0.12); color: #58a6ff; }
+    .side-sell { background: rgba(227,179,65,0.12); color: #e3b341; }
+    .investor-date { font-size: 11px; color: #8b949e; }
+    .expand-icon { color: #8b949e; font-size: 12px; transition: transform 0.2s; }
+    .investor-card.open .expand-icon { transform: rotate(180deg); }
+
+    .investor-card-body {
+      display: none;
+      padding: 0 14px 14px;
+      border-top: 1px solid #21262d;
+    }
+    .investor-card.open .investor-card-body { display: block; }
+
+    .investor-summary { font-size: 14px; color: #c9d1d9; margin: 10px 0 8px; }
+    .view-list { list-style: none; margin: 0 0 8px; }
+    .view-list li {
+      font-size: 13px;
+      color: #8b949e;
+      padding: 2px 0 2px 12px;
+      position: relative;
+    }
+    .view-list li::before {
+      content: '›';
+      position: absolute;
+      left: 0;
+      color: #58a6ff;
+    }
+    .trade-mini {
+      font-size: 12px;
+      color: #3fb950;
+      font-style: italic;
+      margin-top: 4px;
+    }
+    .sources-link { font-size: 11px; color: #30363d; margin-top: 6px; }
+    .sources-link a { color: #58a6ff; text-decoration: none; margin-right: 6px; }
+    .sources-link a:hover { text-decoration: underline; }
+
+    /* ── Empty state ── */
+    .empty-state {
+      text-align: center;
+      padding: 48px 20px;
+      color: #8b949e;
+    }
+    .empty-state .icon { font-size: 36px; margin-bottom: 12px; }
+    .empty-state h3 { font-size: 16px; font-weight: 600; margin-bottom: 6px; color: #e6edf3; }
+    .empty-state p { font-size: 13px; }
+
+    /* ── Ask tab ── */
+    .ask-container { max-width: 700px; }
+    .api-key-section {
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 10px;
+      padding: 14px 16px;
+      margin-bottom: 16px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .api-key-label { font-size: 12px; color: #8b949e; white-space: nowrap; }
+    .api-key-input {
+      flex: 1;
+      background: #0d1117;
+      border: 1px solid #30363d;
+      border-radius: 6px;
+      color: #e6edf3;
+      font-size: 13px;
+      padding: 6px 10px;
+      font-family: monospace;
+    }
+    .api-key-input:focus { outline: none; border-color: #58a6ff; }
+    .save-key-btn {
+      background: #21262d;
+      border: 1px solid #30363d;
+      color: #e6edf3;
+      font-size: 12px;
+      padding: 6px 12px;
+      border-radius: 6px;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+    .save-key-btn:hover { background: #30363d; }
+    .key-status { font-size: 11px; color: #3fb950; }
+
+    .ask-scope {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 12px;
+      flex-wrap: wrap;
+    }
+    .scope-btn {
+      font-size: 12px;
+      padding: 4px 12px;
+      border-radius: 12px;
+      border: 1px solid #30363d;
+      background: #161b22;
+      color: #8b949e;
+      cursor: pointer;
+    }
+    .scope-btn.active {
+      border-color: #58a6ff;
+      color: #58a6ff;
+      background: rgba(88,166,255,0.08);
+    }
+
+    .query-box {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 16px;
+    }
+    .query-input {
+      flex: 1;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #e6edf3;
+      font-size: 14px;
+      padding: 10px 14px;
+      resize: none;
+      min-height: 52px;
+      font-family: inherit;
+    }
+    .query-input:focus { outline: none; border-color: #58a6ff; }
+    .ask-btn {
+      background: #238636;
+      border: none;
+      border-radius: 8px;
+      color: #fff;
+      font-size: 14px;
+      font-weight: 600;
+      padding: 10px 20px;
+      cursor: pointer;
+      white-space: nowrap;
+      align-self: flex-end;
+    }
+    .ask-btn:hover { background: #2ea043; }
+    .ask-btn:disabled { background: #21262d; color: #8b949e; cursor: not-allowed; }
+
+    .response-area {
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 10px;
+      padding: 16px;
+      min-height: 120px;
+      font-size: 14px;
+      line-height: 1.7;
+      color: #c9d1d9;
+      white-space: pre-wrap;
+      display: none;
+    }
+    .response-area.visible { display: block; }
+    .response-area .response-loading { color: #8b949e; }
+    .response-meta {
+      font-size: 11px;
+      color: #8b949e;
+      margin-top: 10px;
+      padding-top: 10px;
+      border-top: 1px solid #30363d;
+    }
+
+    /* ── Spinner ── */
+    .spinner {
+      width: 20px; height: 20px;
+      border: 2px solid #30363d;
+      border-top-color: #58a6ff;
+      border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+      display: inline-block;
+      vertical-align: middle;
+      margin-right: 8px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── Loading/error states ── */
+    .state { text-align: center; padding: 60px 20px; color: #8b949e; }
+    .state .spinner { width: 28px; height: 28px; margin: 0 auto 14px; display: block; }
+
+    /* ── No content today ── */
+    .no-content-today {
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      padding: 18px;
+      text-align: center;
+      color: #8b949e;
+      font-size: 13px;
+      margin-bottom: 16px;
+    }
+  </style>
+</head>
+<body>
+
+<header class="app-header">
+  <div class="app-title">Macro<span>Brain</span></div>
+  <div class="header-meta" id="lastUpdated">Loading...</div>
+</header>
+
+<nav class="tabs">
+  <button class="tab active" onclick="showTab('today')">Today</button>
+  <button class="tab" onclick="showTab('week')">7 Days</button>
+  <button class="tab" onclick="showTab('month')">30 Days</button>
+  <button class="tab" onclick="showTab('ask')">Ask the Brain</button>
+</nav>
+
+<main class="content">
+  <div id="tab-today"></div>
+  <div id="tab-week" style="display:none"></div>
+  <div id="tab-month" style="display:none"></div>
+  <div id="tab-ask" style="display:none"></div>
+</main>
+
+<script>
+// ── State ─────────────────────────────────────────────────────────────────────
+let summaries = null;
+let content = null;
+let activeTab = 'today';
+let askScope = '30d';
+
+// ── Tab switching ─────────────────────────────────────────────────────────────
+function showTab(name) {
+  activeTab = name;
+  document.querySelectorAll('.tab').forEach((t, i) => {
+    t.classList.toggle('active', ['today','week','month','ask'][i] === name);
+  });
+  ['today','week','month','ask'].forEach(t => {
+    document.getElementById(`tab-${t}`).style.display = t === name ? 'block' : 'none';
+  });
+}
+
+// ── Sentiment badge ───────────────────────────────────────────────────────────
+function sentimentBadge(s) {
+  const cls = { bullish: 'sent-bullish', bearish: 'sent-bearish', neutral: 'sent-neutral', mixed: 'sent-mixed' };
+  const label = s ? s.charAt(0).toUpperCase() + s.slice(1) : 'Mixed';
+  return `<span class="lens-sentiment ${cls[s] || 'sent-mixed'}">${label}</span>`;
+}
+
+// ── Format date ───────────────────────────────────────────────────────────────
+function fmtDate(d) {
+  if (!d) return '';
+  try {
+    return new Date(d + 'T12:00:00').toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+  } catch { return d; }
+}
+
+// ── Render a period summary panel ─────────────────────────────────────────────
+function renderPeriod(data, periodKey, allEntries) {
+  if (!data) return '<div class="state"><p>No data available.</p></div>';
+
+  const isToday = periodKey === 'today';
+  const noContent = data.entries_count === 0;
+
+  let periodLabel, periodRange;
+  if (isToday) {
+    periodLabel = 'Today';
+    periodRange = fmtDate(data.date);
+  } else if (periodKey === 'week') {
+    periodLabel = 'Last 7 Days';
+    periodRange = `${fmtDate(data.period_start)} — ${fmtDate(data.period_end)}`;
+  } else {
+    periodLabel = 'Last 30 Days';
+    periodRange = `${fmtDate(data.period_start)} — ${fmtDate(data.period_end)}`;
+  }
+
+  // Filter entries for this period
+  const cutoff = isToday ? data.date : (periodKey === 'week' ? data.period_start : data.period_start);
+  const periodEntries = allEntries ? allEntries.filter(e => e.date >= cutoff) : [];
+  const buyEntries  = periodEntries.filter(e => e.side === 'buy');
+  const sellEntries = periodEntries.filter(e => e.side === 'sell');
+
+  let html = `
+    <div class="period-header">
+      <div>
+        <div class="period-title">${periodLabel}</div>
+        <div class="period-meta">${periodRange}</div>
+      </div>
+      <div class="entry-count">
+        <span class="dot" style="background:${noContent ? '#8b949e' : '#3fb950'}"></span>
+        ${data.entries_count} sources
+      </div>
+    </div>`;
+
+  if (noContent) {
+    html += `<div class="no-content-today">
+      No new content scraped ${isToday ? 'today' : 'for this period'} yet.
+      ${isToday ? 'The daily scrape runs at 07:00 CET.' : ''}
+    </div>`;
+  }
+
+  // Buy vs Sell lens
+  html += `<div class="lens-grid">
+    <div class="lens-card buy">
+      <div class="lens-label">Buy-Side (Practitioners)</div>
+      ${sentimentBadge(data.buy_side_sentiment)}
+      <div class="lens-text">${data.buy_side_theme || '—'}</div>
+    </div>
+    <div class="lens-card sell">
+      <div class="lens-label">Sell-Side (Strategists)</div>
+      ${sentimentBadge(data.sell_side_sentiment)}
+      <div class="lens-text">${data.sell_side_theme || '—'}</div>
+    </div>
+  </div>`;
+
+  // Divergence
+  if (data.key_divergence && data.key_divergence !== '—') {
+    html += `<div class="divergence-card">
+      <div class="divergence-label">Key Divergence</div>
+      <div class="divergence-text">${data.key_divergence}</div>
+    </div>`;
+  }
+
+  // Trade ideas
+  if (data.trade_ideas && data.trade_ideas.length > 0) {
+    html += `<div class="section-label">Top Trade Ideas</div>
+      <div class="trade-list">
+        ${data.trade_ideas.map(t => `<div class="trade-item">${t}</div>`).join('')}
+      </div>`;
+  }
+
+  // Dominant themes
+  if (data.dominant_themes && data.dominant_themes.length > 0) {
+    html += `<div class="themes">${data.dominant_themes.map(t => `<span class="theme-tag">${t}</span>`).join('')}</div>`;
+  }
+
+  // Individual entries
+  if (periodEntries.length > 0) {
+    html += `<div class="entries-section">
+      <div class="entries-header">Individual entries (${periodEntries.length})</div>`;
+
+    // Buy-side first
+    if (buyEntries.length > 0) {
+      html += buyEntries.map(e => renderInvestorCard(e)).join('');
+    }
+    if (sellEntries.length > 0) {
+      html += sellEntries.map(e => renderInvestorCard(e)).join('');
+    }
+    html += `</div>`;
+  }
+
+  return html;
+}
+
+function renderInvestorCard(e) {
+  const sideClass = e.side === 'buy' ? 'side-buy' : 'side-sell';
+  const sideLabel = e.side === 'buy' ? 'Buy-Side' : 'Sell-Side';
+  const sentClass = { bullish: 'sent-bullish', bearish: 'sent-bearish', neutral: 'sent-neutral', mixed: 'sent-mixed' };
+
+  const views = (e.key_views || []).map(v => `<li>${v}</li>`).join('');
+  const trades = (e.trade_ideas || []).map(t => `<div class="trade-mini">Trade: ${t}</div>`).join('');
+  const sources = (e.sources || []).slice(0, 3).map((s, i) => `<a href="${s}" target="_blank" rel="noopener">Source ${i+1}</a>`).join('');
+
+  const id = `card-${e.id}`;
+  return `
+    <div class="investor-card" id="${id}">
+      <div class="investor-card-header" onclick="toggleCard('${id}')">
+        <div class="investor-info">
+          <span class="investor-name">${e.investor}</span>
+          <span class="investor-side ${sideClass}">${sideLabel}</span>
+          <span class="lens-sentiment ${sentClass[e.sentiment] || 'sent-mixed'}" style="font-size:11px;padding:1px 6px">${e.sentiment || 'mixed'}</span>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px">
+          <span class="investor-date">${fmtDate(e.date)}</span>
+          <span class="expand-icon">▾</span>
+        </div>
+      </div>
+      <div class="investor-card-body">
+        <p class="investor-summary">${e.summary || ''}</p>
+        ${views ? `<ul class="view-list">${views}</ul>` : ''}
+        ${trades}
+        ${sources ? `<div class="sources-link">${sources}</div>` : ''}
+      </div>
+    </div>`;
+}
+
+function toggleCard(id) {
+  document.getElementById(id)?.classList.toggle('open');
+}
+
+// ── Render Ask tab ────────────────────────────────────────────────────────────
+function renderAskTab() {
+  const savedKey = localStorage.getItem('anthropic_api_key') || '';
+  const keyMasked = savedKey ? savedKey.slice(0, 8) + '••••••••' + savedKey.slice(-4) : '';
+
+  return `
+    <div class="ask-container">
+      <div class="api-key-section">
+        <span class="api-key-label">Anthropic API Key</span>
+        <input class="api-key-input" id="apiKeyInput" type="password"
+          placeholder="sk-ant-..." value="${savedKey}"
+          autocomplete="off" spellcheck="false">
+        <button class="save-key-btn" onclick="saveApiKey()">Save</button>
+        <span class="key-status" id="keyStatus">${savedKey ? '✓ Saved' : ''}</span>
+      </div>
+
+      <div style="font-size:12px;color:#8b949e;margin-bottom:12px;">
+        Search scope:
+      </div>
+      <div class="ask-scope">
+        <button class="scope-btn ${askScope==='today'?'active':''}" onclick="setScope('today')">Today only</button>
+        <button class="scope-btn ${askScope==='7d'?'active':''}" onclick="setScope('7d')">Last 7 days</button>
+        <button class="scope-btn ${askScope==='30d'?'active':''}" onclick="setScope('30d')">Last 30 days</button>
+        <button class="scope-btn ${askScope==='all'?'active':''}" onclick="setScope('all')">All (90 days)</button>
+      </div>
+
+      <div class="query-box">
+        <textarea class="query-input" id="queryInput" rows="2"
+          placeholder="E.g. What do practitioners think about US equities? Where do buy-side and sell-side disagree on rates?"
+          onkeydown="handleQueryKey(event)"></textarea>
+        <button class="ask-btn" id="askBtn" onclick="submitQuery()">Ask</button>
+      </div>
+
+      <div class="response-area" id="responseArea"></div>
+    </div>`;
+}
+
+function saveApiKey() {
+  const key = document.getElementById('apiKeyInput').value.trim();
+  if (key) {
+    localStorage.setItem('anthropic_api_key', key);
+    document.getElementById('keyStatus').textContent = '✓ Saved';
+  }
+}
+
+function setScope(s) {
+  askScope = s;
+  document.querySelectorAll('.scope-btn').forEach(b => {
+    b.classList.toggle('active', b.textContent.toLowerCase().includes(s.replace('d',' ').replace('all','all')));
+  });
+  // Re-render ask tab to update active buttons
+  const el = document.getElementById('tab-ask');
+  el.innerHTML = renderAskTab();
+}
+
+function handleQueryKey(e) {
+  if (e.key === 'Enter' && !e.shiftKey) {
+    e.preventDefault();
+    submitQuery();
+  }
+}
+
+function getRelevantEntries(query) {
+  if (!content) return [];
+  const tokens = query.toLowerCase().split(/\s+/).filter(t => t.length > 3);
+  const today = new Date().toISOString().split('T')[0];
+
+  let cutoff;
+  if (askScope === 'today') {
+    cutoff = today;
+  } else if (askScope === '7d') {
+    cutoff = new Date(Date.now() - 7*86400000).toISOString().split('T')[0];
+  } else if (askScope === '30d') {
+    cutoff = new Date(Date.now() - 30*86400000).toISOString().split('T')[0];
+  } else {
+    cutoff = new Date(Date.now() - 90*86400000).toISOString().split('T')[0];
+  }
+
+  const filtered = content.entries.filter(e => e.date >= cutoff);
+
+  // Score by keyword relevance
+  const scored = filtered.map(e => {
+    const text = [e.investor, e.summary, ...(e.key_views||[]), ...(e.trade_ideas||[])].join(' ').toLowerCase();
+    const score = tokens.reduce((acc, t) => acc + (text.includes(t) ? 1 : 0), 0);
+    return { e, score };
+  });
+
+  scored.sort((a, b) => b.score - a.score);
+
+  // Return top 25 (or all if fewer)
+  return scored.slice(0, 25).map(x => x.e);
+}
+
+function buildContext(entries) {
+  return entries.map(e => {
+    const side = e.side === 'buy' ? 'BUY-SIDE' : 'SELL-SIDE';
+    const views = (e.key_views||[]).join(' | ');
+    const trades = (e.trade_ideas||[]).join(' | ');
+    return `[${e.date}] ${e.investor} (${side}, ${(e.sentiment||'').toUpperCase()})
+  View: ${e.summary}
+  Key points: ${views}
+  Trades: ${trades}`;
+  }).join('\n\n');
+}
+
+async function submitQuery() {
+  const query = document.getElementById('queryInput').value.trim();
+  if (!query) return;
+
+  const apiKey = localStorage.getItem('anthropic_api_key') || document.getElementById('apiKeyInput').value.trim();
+  if (!apiKey) {
+    alert('Please enter and save your Anthropic API key first.');
+    return;
+  }
+
+  const btn = document.getElementById('askBtn');
+  const responseArea = document.getElementById('responseArea');
+
+  btn.disabled = true;
+  btn.textContent = 'Thinking...';
+  responseArea.className = 'response-area visible';
+  responseArea.innerHTML = '<span class="spinner"></span><span class="response-loading">Searching your macro corpus...</span>';
+
+  const relevant = getRelevantEntries(query);
+  const context = buildContext(relevant);
+
+  const scopeLabel = { today: 'today', '7d': 'last 7 days', '30d': 'last 30 days', all: 'last 90 days' }[askScope];
+
+  const systemPrompt = `You are Macro Brain, a research assistant synthesising views from top macro investors and sell-side strategists.
+
+You have access to scraped content from the following buy-side practitioners (who manage real money): Stan Druckenmiller, Ray Dalio, Paul Tudor Jones, Howard Marks, George Soros, David Tepper, Jeffrey Gundlach, Kyle Bass, Michael Burry, Alan Howard, Scott Bessent, Bill Ackman, David Einhorn, Crispin Odey.
+
+And the following sell-side strategists (who write research/commentary): Jim Reid (Deutsche Bank), Torsten Slok (Apollo), Michael Hartnett (BofA), Albert Edwards (SocGen), David Rosenberg, Ed Yardeni, Jan Hatzius (Goldman), Mike Wilson (Morgan Stanley), Russell Napier, Peter Berezin (BCA), Liz Ann Sonders (Schwab), Barry Bannister (Stifel).
+
+Content from ${scopeLabel} (${relevant.length} relevant entries found):
+
+${context || 'No relevant entries found for this query and scope.'}
+
+Rules for your response:
+1. Lead with BUY-SIDE (practitioners) — what are they actually doing/positioning
+2. Then SELL-SIDE — what are strategists saying
+3. Explicitly flag KEY DIVERGENCES — where practitioners and strategists differ
+4. List TRADE IMPLICATIONS — specific, directional trade ideas supported by the views
+5. Always attribute to named individuals — never say "investors think" when you can say "Druckenmiller is long..."
+6. If the corpus lacks relevant data, say so clearly rather than inventing views
+7. Be direct and specific — the reader is a sophisticated macro investor
+
+Format with clear bold headers: **Buy-Side View** | **Sell-Side View** | **Key Divergence** | **Trade Implications**`;
+
+  try {
+    const response = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'x-api-key': apiKey,
+        'anthropic-version': '2023-06-01',
+        'anthropic-dangerous-direct-browser-access': 'true'
+      },
+      body: JSON.stringify({
+        model: 'claude-sonnet-4-6',
+        max_tokens: 1200,
+        system: systemPrompt,
+        messages: [{ role: 'user', content: query }]
+      })
+    });
+
+    if (!response.ok) {
+      const err = await response.json();
+      throw new Error(err.error?.message || `HTTP ${response.status}`);
+    }
+
+    const data = await response.json();
+    const text = data.content[0].text;
+
+    // Render with basic markdown-like formatting
+    const formatted = text
+      .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+      .replace(/\n\n/g, '<br><br>')
+      .replace(/\n/g, '<br>');
+
+    responseArea.innerHTML = `<div>${formatted}</div>
+      <div class="response-meta">
+        Searched ${relevant.length} entries from ${scopeLabel} &middot;
+        Tokens: ${data.usage?.input_tokens || '?'} in / ${data.usage?.output_tokens || '?'} out
+      </div>`;
+
+  } catch (err) {
+    responseArea.innerHTML = `<div style="color:#f85149">Error: ${err.message}</div>`;
+  }
+
+  btn.disabled = false;
+  btn.textContent = 'Ask';
+}
+
+// ── Load data and init ────────────────────────────────────────────────────────
+async function init() {
+  // Show loading
+  ['today','week','month'].forEach(t => {
+    document.getElementById(`tab-${t}`).innerHTML = `<div class="state"><div class="spinner"></div><p>Loading...</p></div>`;
+  });
+  document.getElementById('tab-ask').innerHTML = renderAskTab();
+
+  try {
+    const [summRes, contentRes] = await Promise.all([
+      fetch('data/summaries.json?v=' + Date.now()),
+      fetch('data/content.json?v=' + Date.now())
+    ]);
+
+    summaries = await summRes.json();
+    content   = await contentRes.json();
+
+    const genDate = summaries.generated_at ? fmtDate(summaries.generated_at) : '—';
+    document.getElementById('lastUpdated').textContent = `Updated ${genDate}`;
+
+    const entries = content.entries || [];
+
+    document.getElementById('tab-today').innerHTML = renderPeriod(summaries.today, 'today', entries);
+    document.getElementById('tab-week').innerHTML  = renderPeriod(summaries.week,  'week',  entries);
+    document.getElementById('tab-month').innerHTML = renderPeriod(summaries.month, 'month', entries);
+
+  } catch (err) {
+    ['today','week','month'].forEach(t => {
+      document.getElementById(`tab-${t}`).innerHTML =
+        `<div class="state"><p style="color:#f85149">Failed to load data: ${err.message}</p></div>`;
+    });
+  }
+}
+
+init();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-06-22",
+  "today": {
+    "date": "2026-06-22",
+    "entries_count": 0,
+    "buy_side_theme": "No content scraped yet. The daily scrape runs at 07:00 CET.",
+    "sell_side_theme": "No content scraped yet. The daily scrape runs at 07:00 CET.",
+    "key_divergence": "—",
+    "trade_ideas": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
+  },
+  "week": {
+    "period_start": "2026-06-15",
+    "period_end": "2026-06-22",
+    "entries_count": 0,
+    "buy_side_theme": "No content scraped yet.",
+    "sell_side_theme": "No content scraped yet.",
+    "key_divergence": "—",
+    "trade_ideas": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
+  },
+  "month": {
+    "period_start": "2026-05-23",
+    "period_end": "2026-06-22",
+    "entries_count": 0,
+    "buy_side_theme": "No content scraped yet.",
+    "sell_side_theme": "No content scraped yet.",
+    "key_divergence": "—",
+    "trade_ideas": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
+  }
+}
