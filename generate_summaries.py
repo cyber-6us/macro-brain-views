@@ -75,6 +75,7 @@ def generate_summary(entries: list[dict], period_label: str, period_days: int) -
     prompt = f"""You are a senior macro research analyst synthesising views from top investors and strategists.
 
 Period: {period_label}
+Tracked sell-side: Jim Reid (DB), Torsten Slok (Apollo), Michael Hartnett (BofA), Albert Edwards (SocGen), David Rosenberg, Ed Yardeni, Jan Hatzius (GS), Mike Wilson (MS), Russell Napier, Peter Berezin (BCA), Liz Ann Sonders (Schwab), Barry Bannister (Stifel), Jordi Visser (22V Research).
 Buy-side entries: {buy_count} | Sell-side entries: {sell_count}
 
 ALL CONTENT FOR PERIOD:

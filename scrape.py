@@ -64,6 +64,7 @@ SELL_SIDE = [
     {"name": "Peter Berezin",     "terms": ["Peter Berezin BCA macro", "Berezin recession outlook"]},
     {"name": "Liz Ann Sonders",   "terms": ["Liz Ann Sonders Schwab economy", "Sonders market"]},
     {"name": "Barry Bannister",   "terms": ["Barry Bannister Stifel equity", "Bannister market"]},
+    {"name": "Jordi Visser",      "terms": ["Jordi Visser 22V Research macro", "Jordi Visser market outlook"]},
 ]
 
 # ── Google News RSS ────────────────────────────────────────────────────────────
