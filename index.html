@@ -779,28 +779,29 @@ Speak in first person. Be blunt. Be useful.
 Corpus (${scopeLabel}, ${relevant.length} relevant entries):
 ${ctx || 'No relevant entries found — answer from your own knowledge and note the corpus is empty.'}
 
-RESPONSE FORMAT — plain text, exactly as below, no deviations:
+RESPONSE FORMAT — copy this structure exactly:
 ANSWER
-[2-3 direct sentences giving your bottom line answer. No names, no hedging, just the call.]
+Two or three sentences. Bottom line only.
 BULLETS
-• [Bold main point — one line conviction]
-- [sub bullet: core argument or evidence]
-- [sub bullet: what market currently prices vs your view, with specific levels if possible]
-- [sub bullet: the specific catalyst that closes the gap]
-• [next main point]
-- [sub bullet]
-- [sub bullet]
-- [sub bullet]
-[3-5 main bullets]
+• Main point in one line
+- Sub point one sentence
+- Sub point one sentence
+- Sub point one sentence
+• Next main point in one line
+- Sub point one sentence
+- Sub point one sentence
+- Sub point one sentence
 SOURCES
-[comma-separated names]
+Name, Name, Name
 
-Rules:
-- ANSWER must be 2-3 sentences max, direct, no fluff
-- Each main bullet (•) is a single bold headline — one line only
-- Each sub bullet (-) is one tight sentence
-- 2-3 sub bullets per main bullet
-- ONE direction — no "on the other hand"
+CRITICAL RULES:
+- The word ANSWER, BULLETS, SOURCES must appear exactly as section headers
+- Main bullets start with • followed by ONE line — no paragraph, no continuation
+- Sub bullets start with - on their own line — each is ONE sentence
+- Every main bullet must have 2-3 sub bullets using -
+- Do not write any paragraph text after a • line — use - sub bullets instead
+- 3-5 main bullets total
+- No hedging, one direction only
 - Keep total under 500 words`;
 
   try {
@@ -837,7 +838,8 @@ function renderAskResponse(text, relevant, scopeLabel, usage) {
   const rawBullets  = bulletsMatch ? bulletsMatch[1].trim() : text.trim();
   const sourcesText = sourcesMatch ? sourcesMatch[1].trim() : '';
 
-  // Parse main bullets (•) and sub-bullets (-)
+  // Parse main bullets (•) and sub-bullets (- or –)
+  // Fallback: if Claude writes paragraph text instead of sub-bullets, split into sentences
   const lines = rawBullets.split('\n');
   let bullets = [], current = null;
   lines.forEach(line => {
@@ -845,14 +847,22 @@ function renderAskResponse(text, relevant, scopeLabel, usage) {
     if (!t) return;
     if (t.startsWith('•')) {
       if (current) bullets.push(current);
-      current = { headline: t.replace(/^•\s*/, ''), subs: [] };
-    } else if ((t.startsWith('-') || t.startsWith('–')) && current) {
-      current.subs.push(t.replace(/^[-–]\s*/, ''));
-    } else if (current && !current.subs.length) {
-      current.headline += ' ' + t; // continuation of headline
+      current = { headline: t.replace(/^•\s*/, ''), subs: [], extra: [] };
+    } else if ((t.startsWith('-') || t.startsWith('–') || t.startsWith('*')) && current) {
+      current.subs.push(t.replace(/^[-–*]\s*/, ''));
+    } else if (current) {
+      current.extra.push(t); // paragraph text — will be split into sentences below
     }
   });
   if (current) bullets.push(current);
+
+  // If Claude wrote paragraphs instead of sub-bullets, convert sentences to sub-bullets
+  bullets.forEach(b => {
+    if (!b.subs.length && b.extra.length) {
+      const para = b.extra.join(' ');
+      b.subs = para.match(/[^.!?]+[.!?]+/g)?.map(s => s.trim()).filter(Boolean) || [para];
+    }
+  });
 
   let html = '';
   if (directText) html += `<p class="ask-direct">${directText.replace(/\n/g,' ')}</p>`;
