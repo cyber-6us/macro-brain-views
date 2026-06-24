@@ -100,7 +100,7 @@ STRICT RULES — read before writing a single word:
   E.g. "Recession risk rising faster than expected — front-loading defensive positioning. [Dalio ↑ shift, Rosenberg]"
 - EVOLVING VIEW: if a view has intensified/escalated without fully reversing, append "↑ evolving"
   E.g. "Dollar weakness thesis strengthening as fiscal deficit concerns mount. [Bass ↑ evolving]"
-- whats_new: focus on genuine shifts — what was said differently or newly in the recent period vs older
+- whats_new: ONLY include a story if it has NO equivalent in the older entries for that investor. If the same factual story (e.g., a portfolio filing, a 13F position change, a repeated interview topic) already appeared for the same investor in the older entries, it is NOT new — exclude it entirely. A story is new only if it is genuinely absent from the older context.
 - vs_market: anchor to current market pricing (equity multiples, rate expectations, credit spreads)
 - Return ONLY valid JSON — no markdown, no explanation
 
@@ -168,7 +168,7 @@ def main():
     print(f"=== Generating summaries — {TODAY} ===\n")
     entries = load_content()
 
-    today_entries = filter_entries(entries, 1)
+    today_entries = [e for e in entries if e["date"] == TODAY]
     week_entries  = filter_entries(entries, 7)
     month_entries = filter_entries(entries, 30)
 

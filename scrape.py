@@ -249,6 +249,22 @@ def scrape_person(person: dict, side: str) -> dict | None:
 
 # ── Main ───────────────────────────────────────────────────────────────────────
 
+def is_repeat_story(entry: dict, existing_entries: list, lookback_days: int = 5) -> bool:
+    """True if a recent entry for this investor already covers the same story."""
+    cutoff = (date.today() - timedelta(days=lookback_days)).isoformat()
+    recent = [e for e in existing_entries
+              if e["investor"] == entry["investor"] and e["date"] >= cutoff]
+    if not recent:
+        return False
+    last = max(recent, key=lambda e: e["date"])
+    new_words = set(" ".join(entry.get("key_views", [])).lower().split())
+    old_words = set(" ".join(last.get("key_views", [])).lower().split())
+    if not new_words or not old_words:
+        return False
+    overlap = len(new_words & old_words) / min(len(new_words), len(old_words))
+    return overlap > 0.55
+
+
 def main():
     print(f"=== Macro Brain daily scrape — {TODAY} ===\n")
     data = load_content()
@@ -259,15 +275,21 @@ def main():
     for person in BUY_SIDE:
         entry = scrape_person(person, "buy")
         if entry and entry["id"] not in existing_ids:
-            new_entries.append(entry)
-            existing_ids.add(entry["id"])
+            if is_repeat_story(entry, data["entries"]):
+                print(f"  {person['name']}: skipping — same story as recent entry")
+            else:
+                new_entries.append(entry)
+                existing_ids.add(entry["id"])
 
     print("\n--- Sell-side strategists ---")
     for person in SELL_SIDE:
         entry = scrape_person(person, "sell")
         if entry and entry["id"] not in existing_ids:
-            new_entries.append(entry)
-            existing_ids.add(entry["id"])
+            if is_repeat_story(entry, data["entries"]):
+                print(f"  {person['name']}: skipping — same story as recent entry")
+            else:
+                new_entries.append(entry)
+                existing_ids.add(entry["id"])
 
     data["entries"].extend(new_entries)
     save_content(data)
