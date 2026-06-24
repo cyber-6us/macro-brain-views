@@ -250,19 +250,28 @@ def scrape_person(person: dict, side: str) -> dict | None:
 # ── Main ───────────────────────────────────────────────────────────────────────
 
 def is_repeat_story(entry: dict, existing_entries: list, lookback_days: int = 5) -> bool:
-    """True if a recent entry for this investor already covers the same story."""
+    """True if a recent entry for this investor already covers the same story.
+
+    Uses max of key_views overlap and summary overlap — Claude rephrases enough
+    each run that either signal alone can miss repeats, but together >35% is reliable.
+    """
     cutoff = (date.today() - timedelta(days=lookback_days)).isoformat()
     recent = [e for e in existing_entries
               if e["investor"] == entry["investor"] and e["date"] >= cutoff]
     if not recent:
         return False
     last = max(recent, key=lambda e: e["date"])
-    new_words = set(" ".join(entry.get("key_views", [])).lower().split())
-    old_words = set(" ".join(last.get("key_views", [])).lower().split())
-    if not new_words or not old_words:
-        return False
-    overlap = len(new_words & old_words) / min(len(new_words), len(old_words))
-    return overlap > 0.55
+
+    def word_overlap(a: str, b: str) -> float:
+        wa, wb = set(a.lower().split()), set(b.lower().split())
+        if not wa or not wb:
+            return 0.0
+        return len(wa & wb) / min(len(wa), len(wb))
+
+    kv_overlap  = word_overlap(" ".join(entry.get("key_views", [])),
+                                " ".join(last.get("key_views", [])))
+    sum_overlap = word_overlap(entry.get("summary", ""), last.get("summary", ""))
+    return max(kv_overlap, sum_overlap) > 0.35
 
 
 def main():
