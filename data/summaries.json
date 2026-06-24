@@ -2,65 +2,66 @@
   "generated_at": "2026-06-24",
   "today": {
     "date": "2026-06-24",
-    "entries_count": 42,
+    "entries_count": 21,
     "buy_side_bullets": [
-      "Equity valuations at generational extremes mirroring 1929/2000 — reducing risk, positioning for speculation fizzle in H2 2026. [Dalio, Tudor Jones, Burry, Marks, Gundlach]",
-      "AI hardware/semis over mega-cap software platforms — rotating out of Amazon, Alphabet into chips and AI infrastructure as better risk-reward. [Druckenmiller, Tepper]",
-      "Monetary policy the dominant macro risk — Warsh Fed faces 1970s-style inflation, rate hikes likely, no Powell put. [Gundlach, Bessent ↑ evolving]",
-      "Hard assets and alternative inflation hedges preferred over broad equities — Bitcoin best hedge, gold wild card on Treasury policy. [Tudor Jones, Bessent]",
-      "Quality/value equities being abandoned for speculative AI names — 2000 bubble repeat with better opportunities in overlooked names. [Ackman, Einhorn, Burry]"
+      "AI bubble near inflection — technology survives but valuations will not; S&P 500 buyers risk a decade of losses at current multiples. [Dalio, Tudor Jones, Burry, Ackman]",
+      "AI hardware/semis offer superior risk-reward over software mega-caps — rotating out of Amazon and Alphabet entirely into chip infrastructure. [Druckenmiller]",
+      "Monetary policy is the dominant macro risk, not AI — Fed under Warsh faces 1970s-style inflation, rate hikes coming, no easy-money pivot. [Gundlach]",
+      "Hard assets and inflation hedges are the defensive core — gold, Bitcoin, and short duration as fiscal sustainability deteriorates. [Tudor Jones, Bessent, Gundlach]",
+      "Quality equities ignored while market chases speculative AI names — 2000 bubble playbook repeating with capital misallocated away from fundamentals. [Ackman, Einhorn]"
     ],
     "sell_side_bullets": [
-      "Market breadth collapse mirrors March 2000 exactly — only 4% of S&P 500 at new highs despite index records, 'sell with both hands'. [Hartnett]",
-      "AI-fueled equity bubble with Emergency Sell signal flashing — Fed policy directly inflating unsustainable valuations. [Berezin, Edwards ↑ evolving]",
-      "Stagflation setup hardening — inflation rekindling via surging bank lending while savings rate collapses to 2.6% and growth slows. [Edwards, Rosenberg]",
-      "S&P 500 fundamentally sound with 8,250–10,000 targets — earnings momentum, not speculation, driving gains; pullbacks are healthy. [Yardeni, Slok, Hatzius]",
-      "5–7% near-term correction likely before next leg higher — rates the final hurdle, Fed will not rescue markets, 60/40 obsolete. [Wilson]"
+      "Market breadth collapse mirrors March 2000 — only 4% of S&P 500 at new highs despite index strength; sell risk assets with both hands. [Hartnett]",
+      "BCA Emergency Sell signal flashing — Fed policy directly fueling AI-driven equity bubble with valuations at unsustainable levels. [Berezin]",
+      "Stagflation structural setup building — surging bank lending rekindling inflation while savings rate collapses to 2.6% and growth decelerates. [Edwards, Rosenberg]",
+      "AI revolution in early innings — Nvidia-scale growth at trillion-dollar valuations makes equities cheaper on forward earnings; S&P 500 target 8,250 then 10,000. [Visser, Yardeni]",
+      "US recession risk at 15%, rate hikes unlikely — US-Europe growth divergence is the actionable trade as geopolitical risks partially fade. [Hatzius]"
     ],
     "whats_new": [
-      "Druckenmiller exits Alphabet entirely and dumps 94% of Amazon — first semiconductor re-entry in 8 years signals conviction rotation away from mega-cap AI platforms toward hardware, a meaningful escalation from prior cautious trimming. [Druckenmiller ↑ evolving]",
-      "Gundlach upgrades Fed hawkishness call — explicitly forecasting rate hikes (not just no cuts) under Warsh, framing it as 1970s redux; prior stance was higher-for-longer, now directionally tightening. [Gundlach ↑ shift]",
-      "Dalio escalates from valuation warning to bubble-burst call — now stating AI bubble 'is about to burst' with three specific 'boring' defensive trades positioned for H2 2026, more actionable than prior generalized caution. [Dalio ↑ evolving]",
-      "Bessent backs BOJ rate hikes and supports Fed ditching forward guidance — Treasury Secretary actively aligning with hawkish global central bank pivot, adds institutional weight to higher-for-longer thesis. [Bessent ↑ evolving]"
+      "First semiconductor position in 8 years initiated — Druckenmiller dumps Amazon (94%) and all Alphabet to fund AI hardware longs and Argentine equity 'secret trade'. [Druckenmiller]",
+      "Dalio explicitly calls AI bubble imminent burst — moves beyond valuation caution to definitive bubble-burst call while flagging US national debt as unsustainable. [Dalio]",
+      "Gundlach frames Kevin Warsh as 1970s-style inflation hawk — markets mispricing Fed trajectory by expecting accommodation; rate hikes explicitly forecast. [Gundlach]",
+      "Hartnett quantifies breadth collapse — 4% new-highs statistic surfaces as primary bubble diagnostic, upgrading conviction to 'sell with both hands'. [Hartnett]",
+      "Bessent pushes BOJ rate hike and backs end of Fed forward guidance — Treasury Secretary positioning as active inflation-fighting force alongside Fed hawkish pivot. [Bessent]"
     ],
     "vs_market_buy": [
-      "Shorting Nvidia and broad mega-cap tech while market prices AI leaders at peak multiples — explicit disagreement with consensus that current valuations are justified by earnings. [Burry, Dalio, Marks]",
-      "Positioning for Fed rate hikes while futures market prices cuts later in 2026 — direct bet against prevailing rate path expectations embedded in equity and bond valuations. [Gundlach, Bessent]",
-      "Buying Argentine equities and frontier EM as dislocated value while global capital concentrates in US mega-cap — contrarian geographic rotation against the crowded trade. [Druckenmiller, Tepper]"
+      "Exiting broad S&P 500 entirely while index trades at record highs and 22x+ forward PE — decade of losses risk not priced by consensus longs. [Tudor Jones, Burry, Ackman]",
+      "Betting on Fed rate hikes while rates market still pricing cuts in late 2026 — significant divergence from OIS curve pricing. [Gundlach]",
+      "Rotating into Argentine frontier equities while EM risk premium is elevated — contrarian bet on Milei shock therapy at deep discount to EM peers. [Druckenmiller]"
     ],
     "vs_market_sell": [
-      "Emergency Sell signal and 'sell with both hands' call while S&P 500 trades at or near record highs — stark disconnect between proprietary risk indicators and market pricing. [Berezin, Hartnett]",
-      "Stagflation risk elevated with savings at 2.6% and bank lending surging while credit spreads remain near multi-year tights — market appears to be pricing a soft-landing that the data does not support. [Edwards, Rosenberg, Sonders]",
-      "Social Security insolvency and unsustainable debt trajectory priced as distant tail risks while structural fiscal stress is already present — long-duration US assets mispriced for sovereign risk. [Mauldin, Dalio]"
+      "Emergency Sell signal and bubble warnings issued while credit spreads sit near multi-year tights — market pricing near-perfection, bears see acute complacency. [Berezin, Hartnett, Sonders]",
+      "Stagflation risk building while consensus expects soft landing — savings rate at 2.6% and rekindling bank credit growth not reflected in benign inflation breakevens. [Edwards, Rosenberg]",
+      "Social Security structural insolvency and unsustainable national debt ignored by equity valuations pricing perpetual growth. [Mauldin, Dalio]"
     ],
     "buy_vs_sell_divergence": [
-      "AI revolution in early innings with Nvidia/Eli Lilly showing 55%+ growth justifying valuations vs. bubble about to burst with breadth collapse and Emergency Sell signal — fundamental disagreement on whether AI earnings can close the valuation gap. [Visser vs Hartnett, Berezin]",
-      "No rate hikes likely, recession at 15%, long US equities vs. rate hikes incoming, 1970s inflation dynamic, rotate out of equities — diametrically opposed Fed path views with major asset allocation implications. [Hatzius, Slok vs Gundlach, Edwards]",
-      "S&P 500 targeting 8,250–10,000 on earnings momentum vs. S&P buyers risk a decade of losses at current valuations — widest year-end equity target divergence in the tracked universe. [Yardeni vs Tudor Jones, Dalio]"
+      "AI revolution in first inning with Nvidia-scale growth justifying multiples vs AI bubble about to burst with tech valuations divorced from fundamentals — irreconcilable valuation frameworks. [Visser, Yardeni vs Dalio, Hartnett, Berezin, Tudor Jones]",
+      "Fed hikes coming / higher-for-longer is base case vs rate hike risk minimal with recession at 15% and oil under $80 suppressing inflation — opposite rate paths. [Gundlach, Bessent vs Hatzius, Slok]",
+      "Broad S&P 500 has 5-7% near-term correction then recovers on fundamentals vs decade of losses risk at current valuations — same correction acknowledged, opposite terminal view. [Wilson vs Tudor Jones, Burry]"
     ],
     "aligned": [
-      "Broad equity market exhibits dangerous bubble characteristics reminiscent of 1999–2000 — acknowledged even by relative bulls who distinguish earnings-driven gains from speculative excess. [Dalio, Hartnett, Tudor Jones, Berezin, Sonders, Ackman, Reid]",
-      "Mega-cap tech concentration is the primary risk vector — whether via bubble burst, rotation, or breadth deterioration, the crowded AI trade is the consensus vulnerability. [Druckenmiller, Hartnett, Burry, Marks, Einhorn, Tepper]",
-      "Fed will not rescue markets — no Powell put under Warsh, hawkish pivot constrains equity upside and removes the key backstop of the post-2008 bull market. [Gundlach, Wilson, Bessent, Burry]"
+      "AI-driven equity market exhibiting bubble characteristics comparable to 2000 dot-com — both camps identify valuation excess, disagreement is only on timing and severity. [Dalio, Tudor Jones, Burry, Ackman, Einhorn, Hartnett, Berezin, Sonders, Edwards]",
+      "Fed will not rescue markets — hawkish policy path or absence of put removes backstop that prior cycles relied on. [Gundlach, Bessent, Wilson]",
+      "Hard assets and inflation hedges structurally attractive — gold, commodities, and Bitcoin cited across buy and sell side as portfolio anchors amid fiscal and monetary uncertainty. [Tudor Jones, Bessent, Edwards, Hartnett]"
     ],
     "buy_side_trades": [
-      "Short/exit mega-cap AI software (Amazon, Alphabet, Microsoft trim) — long AI hardware semis and infrastructure (NVIDIA, chips, IREN) as better risk-reward within AI theme. [Druckenmiller, Tepper, Tudor Jones]",
-      "Long hard assets as inflation hedge — Bitcoin as best hedge, gold as Treasury wild card, precious metals as macro insurance against fiscal dominance. [Tudor Jones, Bessent, Druckenmiller ↑ evolving]",
-      "Long defensive/value equities and short speculative growth — healthcare over Nvidia, quality names over 'new new' AI momentum stocks, 'boring' trades for H2 2026. [Dalio, Burry, Ackman, Einhorn]",
-      "Long Argentine and South Korean equities as dislocated EM value — shock therapy reform recovery and AI semiconductor supply chain beneficiary respectively. [Druckenmiller, Tepper]"
+      "Short mega-cap software / long AI hardware semis — exit Amazon and Alphabet, initiate first chip position in 8 years. [Druckenmiller]",
+      "Long Bitcoin and gold as inflation hedges — hard assets over financial assets as dollar debasement and fiscal sustainability risks mount. [Tudor Jones, Bessent]",
+      "Reduce broad equity exposure, hedge with downside protection — trading upside participation for portfolio insurance as rally extends into bubble territory. [Dalio, Einhorn, Burry]",
+      "Long quality/value equities and indirect AI beneficiaries — avoid speculative AI darlings, own overlooked fundamentals-driven names. [Ackman, Marks]"
     ],
     "sell_side_trades": [
-      "Underweight/sell broad equities aggressively — rotate into dividend stocks, cash, and defensive positioning; bubble risk not priced in index levels. [Hartnett, Berezin, Sonders, Rosenberg]",
-      "Short duration bonds / steepen yield curve — inflation rekindling via credit expansion, hawkish Fed pivot, and end of forward guidance argue against long duration. [Edwards, Bessent, Gundlach via sell-side proxy]",
-      "Long USD — stronger dollar as unexpected macro trade, supported by hawkish Fed, US growth divergence from Europe, and capital rotation dynamics. [Hartnett, Hatzius via US vs EU divergence]",
-      "Long US equities vs. short European equities — US growth resilience vs. European growth halving creates high-conviction relative value trade. [Hatzius, Yardeni]"
+      "Underweight equities, rotate into dividend payers and cash — breadth collapse and bubble parallels demand aggressive risk reduction. [Hartnett, Berezin, Sonders]",
+      "Short duration bonds / steepen yield curve — inflation rekindling via bank credit expansion and fiscal pressure argues against long-end bonds. [Edwards, Bessent-aligned, Rosenberg]",
+      "Long US equities vs short European equities — US growth resilience vs European growth halving is the structural divergence trade. [Hatzius]",
+      "Long equities on earnings momentum — rising forward earnings make valuations cheaper in real terms; target S&P 8,250 by year-end. [Yardeni, Visser, Slok]"
     ],
     "dominant_themes": [
-      "AI bubble vs. AI earnings justification — the defining valuation debate splitting the entire tracked universe",
-      "Fed path under Warsh — rate hikes vs. cuts, 1970s inflation redux vs. oil-driven disinflation",
-      "Mega-cap tech concentration risk — breadth collapse, rotation into hardware/semis/EM, and 2000 bubble parallels",
-      "Stagflation vs. soft landing — savings depletion, bank lending surge, and growth slowdown vs. hot labor market and AI productivity",
-      "Fiscal sustainability and dollar credibility — unsustainable debt, Social Security insolvency, and Bretton Woods-style monetary realignment"
+      "AI bubble vs AI fundamental value — irresolvable valuation debate defining all positioning",
+      "Fed path under Warsh — hawkish inflation-fighting vs no-hike soft-landing divergence",
+      "Inflation regime shift — bank credit expansion, savings depletion, and stagflation risk",
+      "Fiscal sustainability — US national debt, Social Security insolvency, and dollar debasement",
+      "Geopolitical macro catalyst — Iran deal as stagflation relief valve and asset rotation trigger"
     ],
     "buy_side_sentiment": "bearish",
     "sell_side_sentiment": "mixed"
@@ -70,132 +71,132 @@
     "period_end": "2026-06-24",
     "entries_count": 61,
     "buy_side_bullets": [
-      "Equity valuations at generational extremes — 1929/2000 parallels, AI bubble set to burst, speculation to fizzle H2 2026. [Dalio, Tudor Jones, Burry, Ackman, Marks]",
-      "Mega-cap tech overvalued vs AI infrastructure — rotating from Amazon/Alphabet/Microsoft into semis, memory chips, and AI hardware as first-principles capex beneficiaries. [Druckenmiller, Tepper ↑ evolving]",
-      "Monetary policy the dominant macro risk — Fed under Warsh faces 1970s-style inflation, rate cuts not coming, higher-for-longer to pressure duration and growth assets. [Gundlach ↑ evolving]",
-      "Hard assets and inflation hedges the preferred defense — Bitcoin best inflation hedge, gold wild card under Bessent Treasury, precious metals as macro buffer. [Tudor Jones, Bessent, Druckenmiller]",
-      "Selective EM and value opportunities dislocated from consensus — Argentine equities under Milei shock therapy, quality names ignored amid speculative frenzy. [Druckenmiller, Ackman]"
+      "Equity valuations at generational extremes echoing 1929/2000 — positioning for speculation fizzle in H2 2026 via 'boring' defensive trades. [Dalio, Tudor Jones, Burry, Ackman]",
+      "Mega-cap tech (Amazon, Alphabet, Microsoft) losing risk/reward vs AI hardware and indirect AI plays — rotating aggressively into semis and quality. [Druckenmiller, Tepper, Ackman]",
+      "Fed faces 1970s-style inflation trap — Warsh will not deliver easy money, rate hikes more likely than market prices. [Gundlach]",
+      "Hard assets and inflation hedges (BTC, gold) outperform as dollar faces AI-bubble-driven debasement risk, not geopolitical risk. [Tudor Jones, Bessent]",
+      "Argentine equities and EM reform plays offer compelling dislocation alpha as Western mega-cap concentration unwinds. [Druckenmiller]"
     ],
     "sell_side_bullets": [
-      "Largest equity bubble since railroads — only 4% of S&P 500 at new highs mirrors March 2000 breadth collapse, 'sell with both hands' warranted. [Hartnett ↑ evolving]",
-      "Stagflation risk underpriced — inflation headed higher via surging bank lending and depleted 2.6% savings rate while growth deteriorates. [Edwards, Rosenberg]",
-      "Emergency sell signal on equities — Fed policy actively inflating AI-fueled bubble, FCF projections for hyperscalers unrealistic against $1T capex. [Berezin ↑ evolving]",
-      "US recession risk low at 15% with rate hikes unlikely — growth divergence trade favors US over Europe by 2:1 on growth trajectory. [Hatzius]",
-      "AI revolution in early innings — rising earnings making equities cheaper on forward basis despite absolute price levels; bull run intact. [Visser, Yardeni]"
+      "Market breadth mirrors March 2000 — only 4% of S&P 500 at new highs despite index records; 'sell with both hands' on risk assets. [Hartnett]",
+      "BCA 'Emergency Sell' indicator flashing on equities — Fed policy actively inflating an AI-driven bubble at unsustainable valuations. [Berezin]",
+      "Stagflation setup intensifying — inflation reaccelerating via bank lending/credit expansion while growth decelerates and savings rates collapse to 2.6%. [Edwards, Rosenberg]",
+      "S&P 500 rally speed historically rare and crash-adjacent — '1999 meets 1990' volatility regime with geopolitical tail risks remaining fragile. [Reid]",
+      "AI revolution in early innings with earnings momentum making valuations cheaper on forward basis — bull run intact. [Visser, Yardeni]"
     ],
     "whats_new": [
-      "Druckenmiller executes full exit of Alphabet and 94% of Amazon — first semi position in 8 years marks a decisive, actionable rotation away from mega-cap AI platforms toward hardware, a structural shift not previously signaled this explicitly. [Druckenmiller ↑ shift]",
-      "Gundlach escalates to explicit rate hike call — moved from higher-for-longer framing to actively betting on Fed rate hikes under Warsh, a more hawkish posture than earlier in the period. [Gundlach ↑ shift]",
-      "Dalio sharpens AI bubble call to imminent burst — language shifted from 'valuation concern' to 'bubble about to burst,' with specific H2 2026 timing for speculation fizzle. [Dalio ↑ evolving]",
-      "Einhorn adds protective overlays as rally extends — new position in StubHub alongside explicit hedging of upside, signaling transition from neutral to defensively positioned. [Einhorn ↑ shift]",
-      "Bessent explicitly backs Fed ditching forward guidance and pushes BOJ rate hike — Treasury Secretary actively coordinating hawkish global monetary tightening, elevating policy risk premium. [Bessent ↑ evolving]"
+      "Druckenmiller exits Alphabet entirely and dumps 94% of Amazon — first semiconductor position in 8 years signals a hard conviction pivot away from AI software/platform mega-caps toward AI hardware. [Druckenmiller ↑ shift]",
+      "Einhorn explicitly trading upside for downside protection as rally extends — new defensive overlay posture and fresh StubHub stake signal active de-risking. [Einhorn]",
+      "Bessent backs Fed hawkish pivot away from forward guidance and reportedly pushed BOJ to hike — Treasury now positioned as co-inflation-fighter, framing gold as the 'real wild card.' [Bessent ↑ evolving]",
+      "Gundlach shifts from 'rate cuts unlikely' framing to explicitly 'betting on Fed rate hikes' — a materially more hawkish stance than earlier in the period. [Gundlach ↑ shift]",
+      "Dalio narrows AI bubble call — now says bubble 'is about to burst' (not just forming) while specifying H2 2026 as the inflection window for speculation to fizzle. [Dalio ↑ evolving]"
     ],
     "vs_market_buy": [
-      "Shorting Nvidia and broad growth equities while market prices AI semis at peak multiples — direct bet against consensus AI infrastructure winner with proceeds rotated to unloved healthcare. [Burry]",
-      "S&P 500 buyers risk a decade of losses at current valuations while index trades near all-time highs — bifurcated positioning: short broad index, long selective AI infra and hard assets. [Tudor Jones, Dalio]",
-      "Argentine equities and EM frontier assets flagged as compelling while global allocators remain underweight — contrarian alpha bet against concentrated US mega-cap positioning. [Druckenmiller]"
+      "Shorting Nvidia and broad S&P 500 while market prices AI semis at peak multiples and index near all-time highs — direct bet against consensus crowded longs. [Burry, Tudor Jones]",
+      "Betting on Fed rate hikes while rate futures still price cuts — Gundlach and Bessent both pushing against market's residual dovish pricing. [Gundlach, Bessent]",
+      "Rotating into Argentine equities and EM frontier assets while global capital remains concentrated in US mega-cap — contrarian geographic reallocation. [Druckenmiller]"
     ],
     "vs_market_sell": [
-      "Stagflation and consumer fragility elevated while credit spreads remain near multi-year tights and consumer discretionary trades at premium multiples — savings at 2.6% and bank lending surge not priced into credit risk. [Edwards, Rosenberg]",
-      "Emergency sell signal on equities while S&P 500 trades near record highs and consensus still bullish — proprietary indicator at extreme levels not reflected in positioning or volatility pricing. [Berezin]",
-      "Social Security insolvency and Bretton Woods-scale fiscal restructuring ahead while long-duration bonds price modest fiscal risk premium — structural sovereign stress underpriced in rates markets. [Mauldin]"
+      "Stagflation risk elevated with inflation reigniting via credit expansion and savings depletion — credit spreads at multi-year tights price none of this macro fragility. [Edwards, Rosenberg]",
+      "Emergency Sell signal on equities while S&P 500 trades at record highs and fund flows remain constructive — proprietary indicators diverging sharply from price. [Berezin]",
+      "Social Security insolvency and Bretton Woods-scale monetary realignment represent structural fiscal risks — entirely absent from current sovereign spread or equity risk premium pricing. [Mauldin]"
     ],
     "buy_vs_sell_divergence": [
-      "AI revolution in early innings with rising earnings cheapening valuations on a forward basis vs bubble at 1929/2000 extremes requiring immediate equity reduction — same data set, diametrically opposed conclusions. [Visser, Yardeni vs Hartnett, Dalio, Berezin]",
-      "Oil below $80 reshaping Fed rate path lower, no rate hikes warranted vs Fed faces 1970s inflation forcing hikes — direct conflict on the single most market-moving variable for 2026. [Slok vs Gundlach, Hatzius]",
-      "US economy running hot with zero evidence of AI job losses — fundamentally supportive vs large parts of economy in deep pain, stagflation building, growth rolling over. [Slok vs Rosenberg, Edwards]"
+      "Rate hike risk as primary threat to equities vs oil-driven disinflation enabling Fed easing — same Fed meeting, opposite policy conclusions. [Gundlach vs Slok]",
+      "AI revolution in innings 1-2 with earnings making stocks cheap on forward basis vs AI bubble about to burst with 1929/2000 valuation parallels — irreconcilable equity outlook. [Visser, Yardeni vs Dalio, Hartnett, Berezin]",
+      "US recession risk at benign 15% with continued growth vs large parts of economy in deep pain with stagflation intensifying — GDP vs ground-level economic divergence. [Hatzius vs Rosenberg, Edwards]"
     ],
     "aligned": [
-      "Bubble-like characteristics undeniable — 1999/2000 analogies cited across both camps, though disagreement persists on timing and whether to sell now or ride earnings momentum. [Dalio, Tudor Jones, Marks, Hartnett, Berezin, Sonders, Reid]",
-      "Mega-cap software/platform tech overvalued relative to AI infrastructure and hardware — both buy and sell side rotating from Amazon/Alphabet/Microsoft toward semis and capex beneficiaries. [Druckenmiller, Tepper, Ackman, Hartnett, Berezin]",
-      "60/40 portfolio framework broken — traditional bond-equity allocation no longer adequate in current regime of sticky inflation, elevated rates, and AI structural disruption. [Wilson, Gundlach, Mauldin]"
+      "Speculative excess in AI-driven mega-cap equities is real — debate is only on timing and severity of the unwind, not its existence. [Dalio, Tudor Jones, Hartnett, Burry, Ackman, Marks, Berezin, Edwards]",
+      "Traditional 60/40 portfolio and passive mega-cap concentration is structurally broken — both camps rotating toward quality, value, semis, EM, or hard assets. [Wilson, Druckenmiller, Tepper, Ackman, Einhorn]",
+      "Gold and inflation hedges warranted regardless of bull or bear equity stance — near-universal agreement across buy and sell side on hard asset allocation. [Tudor Jones, Bessent, Gundlach, Edwards, Druckenmiller]"
     ],
     "buy_side_trades": [
-      "Short mega-cap tech platforms / long AI hardware semis — exit Amazon/Alphabet, first semi position in 8 years signals high-conviction rotation. [Druckenmiller ↑ shift]",
-      "Long Bitcoin and gold as inflation and debasement hedges — hard assets preferred over financial assets given fiscal trajectory and 1970s-style monetary challenge. [Tudor Jones ↑ evolving, Bessent, Druckenmiller]",
-      "Long Argentine equities and EM reform plays — Milei shock therapy creates dislocated value opportunity ignored by consensus overweight US mega-cap. [Druckenmiller]",
-      "Short Nvidia / long undervalued healthcare — direct expression of growth-to-value rotation in a market calling a top. [Burry]",
-      "Position for rate hikes via short duration bonds and USD strength — explicit bet against market pricing of Fed easing under Warsh. [Gundlach ↑ shift, Bessent]"
+      "Short mega-cap AI software/platforms (Amazon, Alphabet) / long AI hardware semis — first 8-year re-entry into chips signals high conviction. [Druckenmiller]",
+      "Long Bitcoin and gold as inflation hedges and dollar debasement plays — AI bubble, not geopolitics, is the real dollar risk. [Tudor Jones ↑ evolving]",
+      "Long defensive 'boring' value trades and healthcare / short speculative growth — positioning for H2 2026 speculation fizzle. [Dalio, Burry, Einhorn]",
+      "Long Argentine equities and EM reform-cycle assets — dislocation alpha as Western concentration unwinds. [Druckenmiller]"
     ],
     "sell_side_trades": [
-      "Underweight equities, rotate into dividend payers and cash — bubble breadth signal (4% of S&P at new highs) demands aggressive risk reduction. [Hartnett ↑ evolving]",
-      "Short duration bonds / long inflation hedges (TIPS, commodities, gold) — credit expansion plus 2.6% savings rate rekindling inflation not priced into front-end rates. [Edwards, Rosenberg]",
-      "Long US equities vs short European equities — 2:1 US growth advantage and 15% recession probability justify relative value trade. [Hatzius, Wilson]",
-      "Fade hyperscaler valuations — FCF projections imply $700B by 2030 on $1T capex, mathematically implausible given AI supply-chain bottleneck persistence. [Berezin ↑ evolving]"
+      "Reduce/exit broad equity longs, rotate into dividend stocks and cash — breadth collapse and bubble parallels make risk/reward deeply unfavorable. [Hartnett, Berezin, Sonders]",
+      "Short duration bonds / steepen yield curve — inflation rekindling via credit expansion and hawkish Fed pivot makes long bonds dangerous. [Edwards, Bessent]",
+      "Long US equities vs short European equities — US growth resilience vs European growth halving is the cleanest relative value expression. [Hatzius, Wilson]",
+      "Long stronger USD — unexpected macro trade supported by hawkish Fed, Bessent Treasury co-tightening, and global rotation away from concentrated risk. [Hartnett, Bessent]"
     ],
     "dominant_themes": [
-      "AI bubble valuation vs earnings-driven bull market",
-      "Fed path uncertainty — hikes vs cuts, Warsh hawkish pivot",
-      "Inflation regime shift and stagflation risk",
-      "Mega-cap tech rotation into AI hardware and EM value",
-      "US fiscal sustainability and sovereign debt stress"
+      "AI bubble valuation vs earnings-driven bull — irreconcilable split dominating all positioning",
+      "Fed path uncertainty — 1970s inflation trap vs oil-driven disinflation creating rate hike vs cut binary",
+      "Mega-cap tech rotation — semis over software, quality over momentum, EM over US concentration",
+      "Inflation regime shift — credit expansion, savings depletion, and geopolitics rekindling structural inflation",
+      "Fiscal sustainability crisis — US debt, Social Security insolvency, and Bretton Woods-scale monetary realignment"
     ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "bearish"
   },
   "month": {
     "period_start": "2026-05-25",
     "period_end": "2026-06-24",
     "entries_count": 61,
     "buy_side_bullets": [
-      "Equity valuations at generational extremes approaching 1929/2000 levels — cutting AI/growth exposure aggressively while market makes new highs. [Dalio, Burry, Tudor Jones, Ackman]",
-      "AI infrastructure capex cycle creating durable semis demand — rotating out of mega-cap software/platforms into hardware and chips as first re-entry in 8 years. [Druckenmiller ↑ evolving, Tepper]",
-      "Fed faces 1970s-style inflation constraint under Warsh — rate cuts impossible to justify, monetary policy is the dominant market driver over AI narrative. [Gundlach ↑ evolving]",
-      "Hard assets and inflation hedges preferred over broad equities — Bitcoin best inflation hedge, gold as debasement play, real assets over financial assets. [Tudor Jones, Druckenmiller]",
-      "Quality and indirect AI plays overlooked while market chases speculative 'new new' names — repeating 2000 bubble mistake of abandoning fundamentals. [Ackman, Einhorn, Marks]"
+      "Equity valuations at generational extremes approaching 1929/2000 levels — cutting risk, rotating to defensive 'boring' trades for H2 2026. [Dalio, Burry, Tudor Jones, Ackman]",
+      "AI infrastructure semis offer better risk-reward than mega-cap software platforms — first semiconductor re-entry in 8 years signals conviction. [Druckenmiller, Tepper]",
+      "Fed faces 1970s-style inflation trap under Warsh — rate hikes coming, monetary policy dominates all other narratives including AI. [Gundlach]",
+      "Hard assets (BTC, gold) are the only credible inflation hedge as national debt trajectories become unsustainable. [Tudor Jones, Dalio, Druckenmiller]",
+      "Quality/value equities being abandoned for speculative AI plays — 2000 bubble repeat unfolding in real time. [Ackman, Einhorn, Marks]"
     ],
     "sell_side_bullets": [
-      "Largest equity bubble since railroads with only 4% of S&P 500 at new highs — dangerous breadth deterioration mirroring March 2000 dot-com peak exactly. [Hartnett ↑ evolving]",
-      "BCA Emergency Sell signal active on equities — Fed policy directly inflating AI-fueled bubble with valuations posing severe downside risk. [Berezin ↑ evolving]",
-      "Stagflation setup intensifying — inflation headed higher while growth deteriorates, savings rate collapsed to 2.6% and bank lending rekindling price pressures. [Rosenberg, Edwards ↑ evolving]",
-      "US growth resilient with recession risk at 15% — rate hikes unlikely, AI net job creator, oil below $80 reshaping Fed path downward. [Hatzius, Slok]",
-      "S&P 500 rally speed historically rare and crash-risk-laden — '1999 meets 1990' macro combining late-cycle exuberance with structural headwinds. [Reid ↑ evolving]"
+      "Largest equity bubble since railroads — only 4% of S&P 500 at new highs despite index strength signals March 2000 breadth echo; sell with both hands. [Hartnett]",
+      "Emergency sell indicator triggered on equities — Fed policy directly inflating AI-fueled bubble with no fundamental FCF support. [Berezin]",
+      "Stagflation setup hardening — inflation reaccelerating via surging bank lending while savings collapse to 2.6% and growth decelerates. [Edwards, Rosenberg]",
+      "S&P 500 to 8,250 then 10,000 — earnings momentum (FEMO), not bubble dynamics, is the primary driver; pullbacks are healthy buying opportunities. [Yardeni]",
+      "US recession risk at 15%, rate hikes unlikely — US growth will diverge sharply higher versus Europe; AI adds structural productivity uplift. [Hatzius]"
     ],
     "whats_new": [
-      "Druckenmiller executes largest portfolio rotation in years — full exit of Alphabet and 94% of Amazon replaced by first semiconductor position in 8 years and Argentine equities, signaling conviction that mega-cap AI software cycle is over. [Druckenmiller ↑ shift]",
-      "Gundlach shifts from rate-cut-skeptic to explicit rate-hike caller under Warsh — now actively betting on hikes rather than just fading cuts, making monetary policy his primary macro thesis over AI. [Gundlach ↑ shift]",
-      "Berezin escalates from 'fade hyperscalers' to 'Emergency Sell' on all equities — proprietary indicator now at maximum bearish reading, moving from sector-specific caution to broad equity exit signal. [Berezin ↑ shift]",
-      "Dalio moves from valuation concern to explicit bubble-burst call — now stating AI bubble is 'about to burst' and naming H2 2026 as the inflection point for speculation to fizzle, more precise timing than prior warnings. [Dalio ↑ evolving]"
+      "Druckenmiller enters first semiconductor position in 8 years while simultaneously exiting all Alphabet — signals a discrete regime change in his AI thesis from software to hardware. [Druckenmiller ↑ shift]",
+      "Gundlach escalates to calling explicit near-term rate hikes under Warsh — previously positioned for higher-for-longer but now forecasting active tightening, not just a pause. [Gundlach ↑ shift]",
+      "Einhorn discloses active portfolio hedging overlay trading upside for downside protection — new defensive posture not previously flagged in the period. [Einhorn ↑ shift]",
+      "Bessent publicly backs BOJ rate hikes and endorses Fed abandoning forward guidance — Treasury Secretary explicitly calling for tighter global monetary conditions signals policy coordination risk. [Bessent ↑ shift]"
     ],
     "vs_market_buy": [
-      "Shorting Nvidia and broadly bearish on mega-cap tech while market prices AI leaders at peak multiples — explicit fundamental disconnect between valuations and reality. [Burry, Einhorn, Dalio]",
-      "Calling for Fed rate hikes and higher-for-longer rates while market consensus still prices eventual cuts — Warsh-era hawkishness underpriced by rates market. [Gundlach, Bessent]",
-      "Rotating into Argentine equities and frontier EM while global capital concentrated in US mega-cap — contrarian bet on structural reform premium ignored by consensus. [Druckenmiller]"
+      "Shorting Nvidia and broad mega-cap growth while market prices AI infrastructure at 30-40x forward — fundamental disconnect between valuation and free cash flow generation. [Burry, Dalio]",
+      "Long Argentine equities and EM frontier assets while consensus is overweight US mega-cap concentration — contrarian geographic rotation against a 70%+ US-weighted global index. [Druckenmiller, Tepper]",
+      "Positioning for Fed rate hikes while rates futures still price cuts in 2H 2026 — direct bet against market-implied easing path. [Gundlach, Bessent]"
     ],
     "vs_market_sell": [
-      "Stagflation risk elevated with savings at 2.6% and bank credit expanding while credit spreads sit near multi-year tights — market pricing Goldilocks, analysts pricing fragility. [Rosenberg, Edwards]",
-      "Emergency Sell signal and 'sell with both hands' calls while S&P 500 trades near record highs and forward earnings multiples above 20x — most bearish sell-side signals in years versus still-elevated equity prices. [Berezin, Hartnett]",
-      "Social Security insolvency and Bretton Woods-scale fiscal restructuring ahead while long-duration bonds remain widely held — tail risk of structural fiscal collapse not priced into sovereign debt. [Mauldin, Rosenberg]"
+      "Stagflation risk elevated with savings at 2.6% and bank lending surging while credit spreads remain near multi-year tights — market pricing benign soft landing not in evidence in real economy data. [Edwards, Rosenberg]",
+      "Emergency sell signal on equities while S&P 500 trades near all-time highs and consensus forward PE above 22x — proprietary indicator divergence from market pricing is near maximum. [Berezin, Hartnett]",
+      "Social Security structural insolvency and Bretton Woods-era monetary system breakdown represent tail risks completely unpriced in sovereign credit and duration markets. [Mauldin]"
     ],
     "buy_vs_sell_divergence": [
-      "AI revolution in early innings with structural bull run ahead versus AI bubble biggest since railroads about to burst — sharpest intra-community disagreement of the period with diametrically opposed conclusions from same data. [Visser vs Hartnett, Berezin]",
-      "Fed rate hikes imminent on 1970s inflation parallel versus rate hikes unlikely with recession risk only 15% — same inflation data producing opposite policy conclusions and trade setups. [Gundlach vs Hatzius, Slok]",
-      "S&P 500 earnings momentum drives 8,250-10,000 target versus decade of losses risk at current valuations — widest price target divergence among tracked analysts. [Yardeni vs Tudor Jones, Dalio]"
+      "AI revolution in early innings with mega-cap semis and biotech showing 55%+ growth at scale — vs. AI bubble biggest since railroads with breadth collapse signaling imminent unwind. [Visser vs Hartnett]",
+      "US economy running hot with zero evidence of AI job destruction supporting long equities — vs. large parts of economy in deep pain with stagflation setup hardening. [Slok vs Rosenberg, Edwards]",
+      "S&P 500 to 8,250–10,000 on earnings momentum with pullbacks as buy opportunities — vs. emergency sell signal triggered and decade of losses risk for buyers at current levels. [Yardeni vs Berezin, Tudor Jones]"
     ],
     "aligned": [
-      "Market exhibiting dot-com 2000 bubble characteristics — narrow breadth, speculative excess, valuation disconnect from fundamentals acknowledged by bulls and bears alike. [Dalio, Hartnett, Tudor Jones, Ackman, Reid, Marks, Liz Ann Sonders]",
-      "Mega-cap software/platform tech overvalued relative to AI infrastructure and hardware — rotation away from AMZN/GOOGL toward semis and capex beneficiaries a rare cross-camp consensus. [Druckenmiller, Tepper, Ackman, Berezin]",
-      "Gold and hard assets warranted as inflation hedge amid fiscal and monetary uncertainty — buy-side and sell-side both flagging precious metals and real assets regardless of equity view. [Tudor Jones, Druckenmiller, Edwards, Bessent]"
+      "Broad equity market showing bubble characteristics comparable to 1999–2000 — both camps agree on valuation excess even as market continues making highs. [Dalio, Burry, Tudor Jones, Ackman, Hartnett, Berezin, Liz Ann Sonders]",
+      "Mega-cap software platforms (Amazon, Alphabet, Microsoft) overvalued relative to AI hardware/infrastructure beneficiaries — rotation underway across buy and sell side. [Druckenmiller, Tepper, Ackman, Berezin]",
+      "Inflation risks are not fully resolved — higher-for-longer or re-acceleration scenario warrants defensive positioning in rates and hard assets. [Gundlach, Edwards, Rosenberg, Bessent, Reid]"
     ],
     "buy_side_trades": [
-      "Short mega-cap software/platforms, long AI semiconductors and hardware — exit Amazon/Alphabet, first semiconductor position in 8 years signals structural rotation conviction. [Druckenmiller ↑ evolving]",
-      "Long Bitcoin and gold as inflation hedges, avoid broad S&P 500 — hard assets over financial assets as dollar debasement and fiscal deterioration accelerate. [Tudor Jones ↑ evolving, Druckenmiller]",
-      "Short Nvidia, long undervalued healthcare — growth-to-value rotation as bubble peak approached, boring stocks preferred over hyped AI names. [Burry, Dalio]",
-      "Long quality indirect AI plays and Microsoft over speculative 'new new' names — contrarian value within tech rather than momentum chasing. [Ackman, Tepper]"
+      "Short mega-cap tech software (Amazon, Alphabet exit) / long AI semis hardware — AI infrastructure over AI platforms. [Druckenmiller, Tepper]",
+      "Long BTC and gold as inflation/debasement hedges — hard asset allocation as Fed faces 1970s-style constraint. [Tudor Jones ↑ evolving, Gundlach, Druckenmiller]",
+      "Long quality/value equities and indirect AI plays — rotate out of speculative 'new new' AI momentum into overlooked fundamentals. [Ackman, Einhorn, Marks]",
+      "Long Argentine equities and South Korean semis ETF — EM dislocation and reform cycle alpha vs crowded US concentration. [Druckenmiller, Tepper]"
     ],
     "sell_side_trades": [
-      "Reduce or exit long equities — Emergency Sell signal active, sell risk assets with both hands, rotate into dividend stocks and cash as bubble breadth deteriorates. [Hartnett, Berezin, Liz Ann Sonders]",
-      "Short duration bonds, long inflation hedges — steepen yield curve on rekindling bank credit inflation, long TIPS/gold/commodities on savings depletion and credit expansion. [Edwards, Rosenberg]",
-      "Long US equities versus short European equities — US growth divergence trade as Europe slows by half while US recession risk remains contained at 15%. [Hatzius]",
-      "Long stronger US dollar — unexpected macro consensus trade as hawkish Fed path, global rotation dynamics and dollar safe-haven demand converge. [Hartnett, Bessent]"
+      "Sell equities aggressively / rotate into dividend stocks and cash — bubble breadth collapse mirrors March 2000 setup. [Hartnett, Berezin, Liz Ann Sonders]",
+      "Short duration bonds / long inflation hedges (TIPS, gold, commodities) — bank lending surge and savings collapse rekindling inflation above consensus. [Edwards, Rosenberg]",
+      "Long US equities vs short European equities — US growth divergence will widen materially as European growth halves. [Hatzius, Yardeni]",
+      "Long USD — hawkish Fed path under Warsh combined with US growth premium supports dollar strength. [Hartnett, Bessent]"
     ],
     "dominant_themes": [
-      "AI bubble valuation — dot-com 2000 parallels with narrow breadth and speculative excess",
-      "Fed path uncertainty — rate hike risk under Warsh versus cuts priced by market",
-      "Inflation regime shift — stagflation setup, savings depletion, bank credit expansion",
-      "Mega-cap tech rotation — exiting software/platforms, entering semis, EM and hard assets"
+      "AI equity bubble vs structural AI growth divergence",
+      "Fed path uncertainty — hikes vs cuts, 1970s inflation analogy",
+      "Mega-cap tech rotation to semis/infrastructure and EM value",
+      "Stagflation risk — inflation reacceleration plus growth deceleration",
+      "US fiscal sustainability and national debt trajectory"
     ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "mixed"
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "bearish"
   }
 }
