@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24",
+  "last_updated": "2026-06-25",
   "entries": [
     {
       "id": "2026-06-22-b3fe3662",
@@ -1191,6 +1191,59 @@
         "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JcXg1Z1JNMW56d1B5RDlsLVFZQmo5OWQ3MEFrWnBrZncwcWN6Z0s2UTRYMm5VNDlwUGcyT0dkUUN2dmtPdEE4TEJQWThDekItd1g1MkQ1QlpxbmUweEhKYzJjd2NqVnFJZmU0?oc=5",
         "https://news.google.com/rss/articles/CBMib0FVX3lxTE40SFBwTnh0VnNGV3RkeXdsSDcyWUtnV3JRaTdUZWZPRVdYNHNBSF9wMGp0M0h6OEs3ODVic2FyTThSOElEZnVxaFY2LWxTYm1mTWJPaUwzczhQVWhrY05iaVBqOTV6a2VCWGtZNEQtRQ?oc=5",
         "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX09wZldIM1lpNEpNS2QzVFpPd2J2dXRyZjF4dC0xNkZ2bXJWUzJSRjJJejltdW5kMExtdEgzdmpiNTZGcE1NRl8wNzZhMkNsQnNQSGxLbS11bGhfYm1kbVdRRTJfOTZ4RFpBNUxrU3pGM1RMUjFPRkYzeWRBRnR5VEdEMA?oc=5"
+      ]
+    },
+    {
+      "id": "2026-06-25-90f51a16",
+      "date": "2026-06-25",
+      "investor": "Scott Bessent",
+      "side": "buy",
+      "summary": "Bessent is bullish on U.S. economic growth, targeting 3% GDP by end of 2025 without reigniting inflation, and believes any inflation spike from Trump's policies will be a 'short-term blip.' He is staking fiscal sustainability on strong growth rather than spending cuts, framing a 'homegrown U.S. economic strategy' inspired by Hamiltonian statecraft, though prediction markets (Kalshi traders) express skepticism about his growth forecasts.",
+      "key_views": [
+        "U.S. can achieve 3% GDP growth before end of 2025 without reigniting inflation",
+        "Inflation jump from policy changes will be a 'short-term blip'",
+        "Strong growth framework can address $39 trillion debt without cutting Social Security benefits",
+        "Homegrown protectionist/nationalist economic strategy is the right path for U.S.",
+        "Market traders are pricing much lower probability of his 3% GDP growth thesis"
+      ],
+      "trade_ideas": [
+        "Long U.S. equities on 3% growth thesis (though Bessent appears somewhat defensive on execution)",
+        "Long USD on nationalist economic policy and growth outperformance narrative"
+      ],
+      "asset_classes": [
+        "equities",
+        "rates",
+        "fx"
+      ],
+      "sentiment": "bullish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRmZ6bjE4SUF2NWF5aXVHalZjczZLT01LMnY0WjRJbWlzbENwUjl1VWR6WFQ5N1dJVlEzZGZHQkN6WWtqT1duYWdtbEpHZXZnRlkwMVVjNFRMUFRXRy13aGkzVEFvZFRFOG1neU04cGNvTEhSWkxMNEc4SE5kT19Yc3B6MkxaaXJWMEZSWlRYbEYzRUJCaWVucE1ISQ?oc=5",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeE9QRXhFX0ZiQUs1V0ZfRWVsaGliQkd6Q01XV2xQOHV6TEZSV1JRMUJhVDlLU2luM0xRb05WdTY0UV9pSWtQSFkwX3hLNG1hWXRHRnduLTVhczJYUTdIM3o4ZGx1TndNaG1xLVJwT3VEVjhXcmp6UkFrdXhSZTQweW9aVExoaURUS3lJaG1udnNVek9ZUzkzTS1oOFEtTkRvY2UyVzVEaXNoTTBQS1JaaldRVGNNWE01cjRpZnF2Xzg2NEpwS0tv0gHMAUFVX3lxTFBaVnhYVllLX1BNWnFLdEZ3eFNPVUFUaFdNbTJMSGF1NWpEUzNQVHdKVVBJQVBkaFJlaUVGV3VxdzZzZDNwelg4bmlmVk53RTZMUEpmSVVORDRSNkpTUVRrMnR5ck9lNndfSXNacFdPZWYtTm53MFRTMVpTWnBLRDVtM0wxanYtRzRpU1hGMWcwTk9BeGFaVko5ZDMySWpWMnhmOWhBNHhPSmdFTDBDY19ILWVNOXhfVTNFME5JbXJ1Z1BxdHJVNktFOGExSg?oc=5",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ01Ldkk3OGJ1cXYxQ01tcmVrQ3JlekUzOW1ZNmpFeXZ2RTNlZ2dwLU5aaVlOSFV0QktiX19RbGl6dGNINGgzeGROcER5UEJBbWE0azZHTDZYNW02SWc5Y1JieGtXNzdkcVJXM091S2Q2Y1lLZWVqVElTNHVON3Z1TUM5eHo?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZWF4eS1CODVXcjdHQzNiUWdxYWtCV0dxaGN6SUhzWWs2T0lGS2JpT1c3aW40NDUtN2VNM0JZdElZaFBLVEpfWThLYlFBWU5Cc1Fzc0xLVGE2REVMTjJONUpqTHRid1VKcmJhN2FJYXNfYU1ZTjZrb2RWWE5lMmNfbjZxbzdLS0tQQ1NtUmNuMkkwOGtELUdmU1ZR?oc=5"
+      ]
+    },
+    {
+      "id": "2026-06-25-0fcc170e",
+      "date": "2026-06-25",
+      "investor": "Torsten Slok",
+      "side": "sell",
+      "summary": "Slok argues there is 'zero evidence' that AI is killing jobs despite CEO layoff announcements, citing May job growth as evidence that AI-related job loss fears are overblown. He sees AI as creating net positive employment and economic value, positioning it as a significant but manageable macroeconomic force rather than an existential threat to labor markets.",
+      "key_views": [
+        "Zero evidence of AI-related job losses; May job growth refutes AI job-loss narrative",
+        "AI is creating jobs net-net, not destroying them despite CEO rhetoric around AI-driven layoffs",
+        "AI adoption is 'eating the entire US economy' in a transformative but ultimately growth-positive way"
+      ],
+      "trade_ideas": [],
+      "asset_classes": [
+        "equities"
+      ],
+      "sentiment": "bullish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdm44VlVWaWlvdlVVNFIwdTJhTzRRamxxV0k2RDFIVERpMmViMndpRkpHRDBjaGg5ZGZFLWppNjJiYkw2ODFDMTRjN2F6cUR4eUdZTjBZbWxXc2JPZG1nLVBaZVZOZWRmbWwwX3B5SFZYS016azBvN2ZSSElIMWo0TGY3V1ZxVHd3ZURLR2g2cVdfU1U?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWpQVjNncFNrN1pLc2VreE00RmJXdVY0Mk45SEZpRUlVdEhoTmRzVzZwUzlRemZxaHQzZFRmT3lXcTVjaE1pLURXb0NZV0tva2RTdXZwbjNXMTNsak9lMnBzVHdSYVo5ZFZtOFJkelVCN3NGbVhBN3dzUHVmei10RWIyX1dHQUVYc0t0U08zcWh1TXN0LWt4SzdWQVp0X1RwREpnMmpQUGFBWHNG?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbi1kTDFoNU9KbHdCRGlxSW1wWGFBOFZZM2hhaURmZHRRNHFRSG1IQ0ZkZk10NnZjOC0zOEdISEtRQzdzbVdwZzVzaTVZMmg5b3JmYW1XVjJCZm00ZUFJZENtV2xKaFpfamtidjlCWXBOa0N3enpMeno3QXUtem0tZThWcEVNRURac0VXdFdJb1NEUTlwc2hQN3RTMnMtWTI4M0xSTlRCN0tvRGQwWGtVQTM1RW1rXy1zbExIZ3k2ekNYUHJsR21yZA?oc=5",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNElCQzE3aFJWLWFMV3pVZXdtbGZPd2lzS08yZWYycnFhVDNvbVU5ODE5aUJvSmFab19BUTVhTlVPMUtSS2p5S0UwTEZ3OE03MHdzMlBaUzJ3ck1lekxvVHR0YWpxU2o5REliVXBYXy1EcE1GVTJNejRtTWc5bkstenNuN00tQ1NOWkNMXy00c1VEaXBoVEhJZmdQT2RQY2wyVW5tS2g4M3pEUDVPVFI1eXVTV2pDYkN4aHJwcw?oc=5"
       ]
     }
   ]
