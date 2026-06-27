@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26",
+  "last_updated": "2026-06-27",
   "entries": [
     {
       "id": "2026-06-22-b3fe3662",
@@ -1244,6 +1244,116 @@
         "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWpQVjNncFNrN1pLc2VreE00RmJXdVY0Mk45SEZpRUlVdEhoTmRzVzZwUzlRemZxaHQzZFRmT3lXcTVjaE1pLURXb0NZV0tva2RTdXZwbjNXMTNsak9lMnBzVHdSYVo5ZFZtOFJkelVCN3NGbVhBN3dzUHVmei10RWIyX1dHQUVYc0t0U08zcWh1TXN0LWt4SzdWQVp0X1RwREpnMmpQUGFBWHNG?oc=5",
         "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbi1kTDFoNU9KbHdCRGlxSW1wWGFBOFZZM2hhaURmZHRRNHFRSG1IQ0ZkZk10NnZjOC0zOEdISEtRQzdzbVdwZzVzaTVZMmg5b3JmYW1XVjJCZm00ZUFJZENtV2xKaFpfamtidjlCWXBOa0N3enpMeno3QXUtem0tZThWcEVNRURac0VXdFdJb1NEUTlwc2hQN3RTMnMtWTI4M0xSTlRCN0tvRGQwWGtVQTM1RW1rXy1zbExIZ3k2ekNYUHJsR21yZA?oc=5",
         "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNElCQzE3aFJWLWFMV3pVZXdtbGZPd2lzS08yZWYycnFhVDNvbVU5ODE5aUJvSmFab19BUTVhTlVPMUtSS2p5S0UwTEZ3OE03MHdzMlBaUzJ3ck1lekxvVHR0YWpxU2o5REliVXBYXy1EcE1GVTJNejRtTWc5bkstenNuN00tQ1NOWkNMXy00c1VEaXBoVEhJZmdQT2RQY2wyVW5tS2g4M3pEUDVPVFI1eXVTV2pDYkN4aHJwcw?oc=5"
+      ]
+    },
+    {
+      "id": "2026-06-27-c0d529c0",
+      "date": "2026-06-27",
+      "investor": "Jim Reid",
+      "side": "sell",
+      "summary": "Jim Reid at Deutsche Bank sees a volatile macro environment combining 1999 and 1990 dynamics, with markets grappling with competing narratives around AI growth potential versus geopolitical risks (Iran escalations) and stagflation concerns. Market sentiment is oscillating between AI enthusiasm driving tech rallies and fears of AI slowdown amid geopolitical tensions, with recent Iran deal hints providing temporary relief to stagflation worries.",
+      "key_views": [
+        "Macro outlook characterized as '1999 meets 1990' — combining late-cycle exuberance with early-1990s style volatility and geopolitical risk",
+        "AI and geopolitics are key drivers of market direction and volatility",
+        "Stagflation fears are easing on hints of U.S.-Iran diplomatic resolution",
+        "Markets cycling between AI optimism (tech rebound) and AI slowdown concerns",
+        "Current S&P 500 rally setup potentially echoes Black Monday crash conditions"
+      ],
+      "trade_ideas": [
+        "Cautious on extended equities given volatile setup and geopolitical tail risks",
+        "Tactical long tech on AI enthusiasm waves, but with hedging given slowdown risks"
+      ],
+      "asset_classes": [
+        "equities",
+        "geopolitical risk premium"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVHhSLWd4Z0FUMEYwc3RmWklRTGE2OWVWMmFTNGwwMTV6Zm1aemF2NjNjQk9WWGFaVnZVTFlzZ0xMYWVCczktUUZPeXBBUEhmMDRyaGRjT3NfUlI4WG1WLUZGLUlrbXhMODZHc01ZWGtUd0hjX3NqdmkwRlBvb2c2MzhwWDVlQzhMeVRTSg?oc=5",
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS0ZPZHQtbnpKZ0V5M0xMbmgwVXNIMVlqcnBBQzhUUjFRVnRPQ2JkYUcxZ0dhYy1lX2JtMDhydHJ6MzcyWWpEbTJDR3pKXy1sdl9uQVhkVGdvX2QxbHd5ZjJMWG5DLXRxR2NkcGtDWTVsSkdMOE1haVhDNXBNeUdJNVUxYUk5Ti1qRG5GLTdFSFRON01WV0pFdm51N2ZGQWdhOThGbmFZZ05qVGR2MndwOENFQTNoaUpKRzNYOWtHXzNtd3hvREE?oc=5",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSndKQi1yU1lSRVAwUHJOcFNVVzVHdlNRRzAtODNaYXYtQWNndFVaaUdZeWg4UW1aTkQzd1dtOXliTkF1Y25WZUR0NWRuWWs3NWRQcks3WVNjZFdyeFQwS1lOWWpzUXpKUUtzdzlMeTFOZWpld2tKRV9YMkg4LV9IQkxacEc?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOVU4Nl9DRWNUN0VIVklDakhUUVA2NzgzVVhjTHZwX2l4czExdzBLM2d5YWhWcmJsVXF2VUpreUpCNElvNTBkWEtFblhnUlRzWlZMMlphT21Fa1JzUHEtRHB1ZUZrQWhVazUzRjlXbjkyd1FPUzUtT3lKaVlKLUk5RTdQZFZMM2NCdk9LX2NqZHBRbWE3Tm5pTlRJcGhFWGtUczhlbDlBaw?oc=5"
+      ]
+    },
+    {
+      "id": "2026-06-27-8e1e0837",
+      "date": "2026-06-27",
+      "investor": "David Rosenberg",
+      "side": "sell",
+      "summary": "Rosenberg maintains a bearish macro outlook, noting that 'large parts of the economy in pretty deep pain' despite recession debate being 'ended' by recent jobs data. He is actively researching tactical opportunities such as positioning around Bank of Canada policy decisions and potential geopolitical shifts (U.S.-Iran peace deal implications).",
+      "key_views": [
+        "Large parts of the economy experiencing significant distress despite headline economic data",
+        "Recent jobs report resolves recession debate but masks underlying economic weakness",
+        "Central bank policy decisions (Bank of Canada) have material market implications worth monitoring"
+      ],
+      "trade_ideas": [
+        "Positioning strategies around Bank of Canada policy shifts",
+        "Investment positioning tied to U.S.-Iran geopolitical developments and peace deal scenarios"
+      ],
+      "asset_classes": [
+        "equities",
+        "rates",
+        "fx",
+        "commodities"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IUVg1VElRWWhlTkhUcURBVE5tUWhLcG52SzgyelY2QTVqWDZaSTBBUkVjX2R6dnBMdW8zem9ZR3pET1BOSFRaQWpWX0pmUV82TXpLRF9yVjBTaG9xSFNsbkI1c1pBVWhjeVg1cEwtZUszME9UOWJTVkJ3?oc=5",
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRHh2VmpCbk9hSElmUGZSeExwVklTVjB3WlVzODlHSGVOVjEyLUZnY3p2X2t6cVZ1d3lGdjBWdWxMT0NhUzJuNjF2b2l3VmYzaXFlRWgyYXl4Mm5xNV9jWVVRcU9PbDZYMUlqaW1pbkRVMnZicTE4U3MtNTlZYzFkS01HR1dwaXFNRy0temNDSmpmcXV3SHJEV2t6c1lLR09QWU5FYmoyN1BwcXo1bHlfSVJHOS1IREhyc0JEUHlJU041ZnZCNzh6ejBvNWstMjZTOW54VE82WWxkLXlJT2c?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTHp5TW8yVm95MzUtQ01jVUN3RHZTZExncE9LQU9jaEx5U0t4c21PWGNNcmVGalRILWRiYm5weFU1SE56WV9GN3R6bHNBa0VCZFItenlaWWtGTG1UMXRzMDFRa0YyVVhZTDlEQmE5Slg2Ykd4U0dONUlZRU4xV2xfb3ZiR09CZTZPR2g3TTdpY1NZYTRLSm1jblZCSDNTX2lTcnp1ZFZ5QUhTdFBGRnpR?oc=5",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQUJOcldiZV9vMWlSQ0NRanBuN3UxaEdKVFZXZ252aE9pZTh4NDQ0dnFsbUd6QnRBcV9VUkdYeDhZVE5xd0FyQXFsZlBqSTVmYjdTajVvWlA0VjFXTnZBRkZiMkR1a3FZME40UzFQU2NQbWFwdlNwd2VMS0J3LVdJV1lIdmQ?oc=5"
+      ]
+    },
+    {
+      "id": "2026-06-27-db94b918",
+      "date": "2026-06-27",
+      "investor": "Ed Yardeni",
+      "side": "sell",
+      "summary": "Ed Yardeni maintains a bullish outlook on equities, viewing market pullbacks as buying opportunities and characterizing recent stumbles as 'healthy developments.' However, he warns of bubble-like conditions similar to 1999, with investors and Wall Street potentially overextended, suggesting caution despite his overall optimistic stance on markets extending beyond near-term swoons.",
+      "key_views": [
+        "Market pullbacks and June swoons are buying opportunities, not reasons to panic",
+        "Aging Americans (50+) are an increasingly important economic force driving demand",
+        "Markets show bubble-like characteristics reminiscent of 1999, with investors 'out over their skis'",
+        "Gold prices have a critical technical level to watch",
+        "A peace dividend could revive global equity rotation ('Go Global' trade)"
+      ],
+      "trade_ideas": [
+        "Buy S&P 500 dips as pullbacks represent accumulation opportunities",
+        "Monitor gold at critical support/resistance levels for positioning",
+        "Position for 'Go Global' equity rotation if geopolitical peace dividend materializes"
+      ],
+      "asset_classes": [
+        "equities",
+        "commodities"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ROUdkclk4RzRiUzZhQjlmeUI0bFBRbFNJVkZmYVZkbGNiR0s0MGEtWXktTnNaN2I3ZEpZdXFLQlJnVWFXaEFvTnZjY21nUFRmV0NSTkc4cmlQeUdvTUtzNGFEYnk2RTB3YWoxUENB?oc=5",
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZcHJBNWxobjhFTG5FS2dHQ2x6c1NrNW1JRmFTczBkdVZuNWc0VmpWQTlhYk0tOUVwaVpHN3MzTXNVQ2hhaXNCa3ZlU1RvUDkzMzUwelRvVTJTanpPWW9nOC1RMVM1b2JLTlVJTHRMNTJZQ2M?oc=5",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV2RPcFpfWTg4TGFLV0tScTRzbHQwelIwc2JteGMzdzBEUGxKQjRZSlk4dG5kZVV6cTY3VTNMWUw5c0l2UVl2Q3h5ZFFxVmtLMXdZSzVTbGRmZnRsamp4RkZwbE1KTjJIMTJXUzVzY25tM0d3WDQwU1VhZEx1N2NRSmw5eEZ2N3FkZEZNOS1xTXc2dkM2MFZkOG5Pa1VwMlc4R1M0TXJ3S21UOGxhSllDUFR1bE03bHNFNFlvNFpTMHdBSVNncVJjNXh3OUthZw?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZG1DNkVKQWh0MzdsZ1R5OW5lUlBPdmRTelJUdXA3ME02a3BOU1ZuWEg0dVE3a3NUb3YwVEFUSlFiOHAwU2F2cnN1MTF0M3dXdnI1cVZsb1dPeHpkNExjZmhJX0lXdGZKVU1raU43eFhlenYwN25VNXZYcTJ4ZFFIU2o5eG03RlVQYnpCQ0xDQVZtaEJoN2xJ?oc=5"
+      ]
+    },
+    {
+      "id": "2026-06-27-3ab9db1a",
+      "date": "2026-06-27",
+      "investor": "John Mauldin",
+      "side": "sell",
+      "summary": "Mauldin warns of persistent, normalized inflation that has accumulated over years without adequate policy response, and identifies a looming Social Security crisis where the trust fund is depleted and payments rely on borrowed funds. He frames the current environment as a 'G-Shaped Economy' requiring multi-week analysis, suggesting structural economic complexity and ongoing disruption across the decade.",
+      "key_views": [
+        "Inflation has become chronically normalized—except for brief breaks, inflation has been persistently rising for years, creating cumulative systemic pressure",
+        "Social Security is technically insolvent; the trust fund contains no cash and has been borrowed by the federal government since 2010, with depletion expected in early 2030s",
+        "The economy exhibits a 'G-Shaped' recovery pattern requiring deep structural analysis, implying uneven, bifurcated growth dynamics"
+      ],
+      "trade_ideas": [],
+      "asset_classes": [
+        "equities",
+        "rates"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://www.mauldineconomics.com/frontlinethoughts",
+        "https://www.mauldineconomics.com/"
       ]
     }
   ]
