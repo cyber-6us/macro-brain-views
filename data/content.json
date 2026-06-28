@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27",
+  "last_updated": "2026-06-28",
   "entries": [
     {
       "id": "2026-06-22-b3fe3662",
@@ -1354,6 +1354,64 @@
       "sources": [
         "https://www.mauldineconomics.com/frontlinethoughts",
         "https://www.mauldineconomics.com/"
+      ]
+    },
+    {
+      "id": "2026-06-28-018f4a73",
+      "date": "2026-06-28",
+      "investor": "David Tepper",
+      "side": "buy",
+      "summary": "Tepper is selectively bullish on equities with a focus on AI infrastructure and specific mega-cap opportunities. He's rotating away from crowded mega-cap positions (Microsoft) into AI memory semiconductors and emerging opportunities (Amazon, country-level macro bets), suggesting he sees better risk/reward in differentiated AI plays and underappreciated macro trades rather than consensus AI winners.",
+      "key_views": [
+        "AI infrastructure (memory semiconductors) offers superior returns versus consensus AI stocks like Nvidia and Microsoft",
+        "Amazon and certain country-level economies present overlooked macro opportunities",
+        "Mega-cap tech concentration risk warrants rotation out of consensus positions"
+      ],
+      "trade_ideas": [
+        "Long Micron Technology (MU) - AI memory semiconductor; doubled down despite trimming Nvidia/AMD",
+        "Long Amazon - quietly accumulating alongside other smart money despite it being underappreciated",
+        "Long macro bet on specific country economy - $400M position suggesting contrarian macro opportunity",
+        "Short/reduce Microsoft - cut 82% of position; signaling crowded consensus trade"
+      ],
+      "asset_classes": [
+        "equities"
+      ],
+      "sentiment": "bullish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxONFoyRzNDc3QyLU5PV1ZEaWZFclRVdGtzNS1zXzluM0RrRllNcG9SSnU3aHJ5VEpDa3ZUS2MtWm9iZWlYTm40c3pJbVMya3hJQ2duQVBldDJkdmViSWtORWdNcExycWk0TVQ4bGxDOVB5bjhoT2RPSjJ4YjAyUExSOGpOY29penRDLUFQdnllSTRhc1U4REpMMQ?oc=5",
+        "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vU2p6Q0FmNU1FVnZpVFYyVDd6cXE0R3lueFZxaUVNUmNteEwyVkRmaVlVN0xxNVR6bXlPX2MxVi12UEpjeFZZSDNTNU5RMDNPY1VSU3ZCeXBaclVlV3VubWMweVZqbFVmbUhJdk03cVNQSDhuRjhHbzJkSQ?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUXAwSV84VU5jSm9sT3ZRMzNubmYxWGlSN1VrUDc4czJRVjdQYi1TbEJKT0FabXdsd1FSODFYdmRwaXU3OXVkMlU4VnpzV05lSE5UU09JYWxPX25Uc085Uzh5cWJicmpKak1VTXJMWW5WSjVoMTMwRlVKOFdGUElGVC1icHRjLWZBMVBEQVhQd3ljVU1adVJOMVJDNA?oc=5",
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbXg3N0xzbXNNZWtaUXoxZzFXcmxTZzZPZzR3SnF3ZDFleVBIQi1kRTdkRmtaM0YxaHVuRmJfSDlDa0x0SlE2SVdGMUt0NjR0VHdjMmdqb1dJU2twaXhLcFk0di1pYWIza3NzX0x0cnFxVmh6Vm1hbEpUWVZkaktQMkw0SS1GVC0zamZFeW1aX1JLbFdINWFGdHhzam5NUWhfREY1V0lyd0NMTTE0aDdMRk0yX0NrR0xfTWhhalZjUlhyYmxnSmNiRElzN3ZjSHV0?oc=5"
+      ]
+    },
+    {
+      "id": "2026-06-28-c0d529c0",
+      "date": "2026-06-28",
+      "investor": "Jim Reid",
+      "side": "sell",
+      "summary": "Jim Reid frames a volatile macro environment as '1999 meets 1990'—combining late-90s tech exuberance with early-90s geopolitical risks. His outlook emphasizes the intersection of AI momentum (driving equity rallies, particularly in mega-cap tech) with escalating geopolitical tensions (Iran, trade risks), creating sharp reversals and sector rotations. Flash PMI data and inflation dynamics remain critical to positioning as markets oscillate between AI euphoria and war/slowdown fears.",
+      "key_views": [
+        "Macro volatility will be defined by AI and geopolitics colliding—'1999 meets 1990' setup",
+        "AI-driven momentum in mega-cap tech and mega-IPOs can fuel sharp rallies but lack structural foundation; similar setup to pre-Black Monday conditions",
+        "Geopolitical escalation (Iran tensions) and AI slowdown fears trigger rapid risk-off reversals in equities",
+        "Flash PMI and inflation data are critical macro anchors; divergence between resilient US data and global slowdown signals positioning risk"
+      ],
+      "trade_ideas": [
+        "Long mega-cap tech (Nvidia, AI leaders) on momentum but with tight stops given Black Monday parallels",
+        "Fade mega-IPO issuance wave as potential market top indicator",
+        "Rotate into defensive/lower-volatility sectors on geopolitical spikes; pair trades between US tech and Asian tech on sentiment swings"
+      ],
+      "asset_classes": [
+        "equities",
+        "rates",
+        "fx"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVHhSLWd4Z0FUMEYwc3RmWklRTGE2OWVWMmFTNGwwMTV6Zm1aemF2NjNjQk9WWGFaVnZVTFlzZ0xMYWVCczktUUZPeXBBUEhmMDRyaGRjT3NfUlI4WG1WLUZGLUlrbXhMODZHc01ZWGtUd0hjX3NqdmkwRlBvb2c2MzhwWDVlQzhMeVRTSg?oc=5",
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS0ZPZHQtbnpKZ0V5M0xMbmgwVXNIMVlqcnBBQzhUUjFRVnRPQ2JkYUcxZ0dhYy1lX2JtMDhydHJ6MzcyWWpEbTJDR3pKXy1sdl9uQVhkVGdvX2QxbHd5ZjJMWG5DLXRxR2NkcGtDWTVsSkdMOE1haVhDNXBNeUdJNVUxYUk5Ti1qRG5GLTdFSFRON01WV0pFdm51N2ZGQWdhOThGbmFZZ05qVGR2MndwOENFQTNoaUpKRzNYOWtHXzNtd3hvREE?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZE91SjZKRVZJcXVGdDNkMnBycV9mX1FkRS03UExtZC1SNTN3a2QwWm55dnpabVoxdkNKcVV6bXlONnlwbUtsa3FZc0l5WXowS1U1X0NrOE5GRE14ZDJkV250NE5wR0VmS2lYZ1F0OGV6MFNZUEViSGRhdk01endfTE1tOHBtbF9KbUxFT1dSckRWT0RsSDFDWHJGdFNnM2c0?oc=5",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSndKQi1yU1lSRVAwUHJOcFNVVzVHdlNRRzAtODNaYXYtQWNndFVaaUdZeWg4UW1aTkQzd1dtOXliTkF1Y25WZUR0NWRuWWs3NWRQcks3WVNjZFdyeFQwS1lOWWpzUXpKUUtzdzlMeTFOZWpld2tKRV9YMkg4LV9IQkxacEc?oc=5"
       ]
     }
   ]
