@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29",
+  "last_updated": "2026-06-30",
   "entries": [
     {
       "id": "2026-06-22-b3fe3662",
@@ -1828,6 +1828,39 @@
         "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU3BGQzJxSjdmbHgtaXlYYmRKaFhPMnh0ajFkTWxBdnNNMmRyeFZuTV9xT3lHZTlDeWROanRUeFdDaWpFUWotYWVOME5oUUNHRmRrcHlmUzNjenh2Z3puSWZTZmdFXy1nNVZ1aDU0NWlWTW92OU5COTh6Z0JOY0xXbWxLVHFuWHNaYWNOX3RPRjJIOVZoWVd3TEJ3dTdTNzk1c3gwUkNsYmcwdXlIU2pFV0lwZm5Cc0MzdGdyTmZFamdidUlES3VLQ2xOU01mQQ?oc=5",
         "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTUlvZ3dwNVVHQ0F6Z0paWGM5aFZmTEtIR1lVeHFtZVVua3VueWV6cGYyc0trWmRUcWhhUUNuUDFkWUhuQjNMU1NNTjFKRDRUMDBWT3hHNFNvUWJwdVdkOEl2MTR2dUtmTVVIX3lvU3k0MWxJcW5mMUI0WTlkZHZZVDNHeWVGaktNWXZhbzBCRlVGWEM0YWZBRTBBcmxIZkk?oc=5",
         "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaHdrTkhJOHF2NFNpVFFhelF3Z1NlU05yNXRyZ3o5cVk3TXNXWnhmeDlXVTkwRHFzYm5INXF4ODJ0eVNKMWJkUXVVR2s5eVMxNlkxeS1KdDJxN3paMHlCaVF4TExibXN4ZXhsUWYtSUVfRU1BdTcyZGRQYjc2QjRJUXFZdU5LbExwQlNtMWtkZndoR2hBRVVFdHJyOG80bmFvbTFXMTNwbXdIY2I4S05DWjl6X3RVNU9RQnIyVFZ1NnEydi1xVm5YZlN1aEd1RU1udHM5ODkycU1Obnpm?oc=5"
+      ]
+    },
+    {
+      "id": "2026-06-30-33196b91",
+      "date": "2026-06-30",
+      "investor": "Jordi Visser",
+      "side": "sell",
+      "summary": "Visser views the recent selloff in Bitcoin, gold, and silver as 'debasement capitulation' signaling potential capitulation lows, while seeing Bitcoin charts showing 'no hope' yet but still buying dips. He's constructive on AI and semiconductor plays (Micron, SK Hynix, Samsung) as memory becomes critical infrastructure, and bullish on mega-cap growth like Eli Lilly (55% growth at trillion-dollar valuation) and cautious on SpaceX's valuation narrative.",
+      "key_views": [
+        "Bitcoin/gold/silver selloff represents 'debasement capitulation' with potential capitulation lows forming",
+        "AI boom is in first or second inning; memory (AI equals memory) is the key infrastructure play through semiconductor leaders",
+        "Eli Lilly growing at 55% as trillion-dollar company shows NVIDIA-like growth numbers still available",
+        "SpaceX's $2 trillion hardware moat narrative is overstated ('basically a Knicks NFT')",
+        "Ethereum positioned as key asset for AI agent token demand",
+        "Bitcoin charts show 'no hope' yet but remains a buy-the-dip opportunity"
+      ],
+      "trade_ideas": [
+        "Buy Bitcoin dips despite negative near-term charts",
+        "Long memory semiconductor plays: Micron, SK Hynix, Samsung as AI infrastructure enablers",
+        "Long Eli Lilly and mega-cap AI/biotech beneficiaries with sustained growth",
+        "Long Ethereum for AI agent tokenization thesis"
+      ],
+      "asset_classes": [
+        "equities",
+        "commodities",
+        "credit"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTUlvZ3dwNVVHQ0F6Z0paWGM5aFZmTEtIR1lVeHFtZVVua3VueWV6cGYyc0trWmRUcWhhUUNuUDFkWUhuQjNMU1NNTjFKRDRUMDBWT3hHNFNvUWJwdVdkOEl2MTR2dUtmTVVIX3lvU3k0MWxJcW5mMUI0WTlkZHZZVDNHeWVGaktNWXZhbzBCRlVGWEM0YWZBRTBBcmxIZkk?oc=5",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU3BGQzJxSjdmbHgtaXlYYmRKaFhPMnh0ajFkTWxBdnNNMmRyeFZuTV9xT3lHZTlDeWROanRUeFdDaWpFUWotYWVOME5oUUNHRmRrcHlmUzNjenh2Z3puSWZTZmdFXy1nNVZ1aDU0NWlWTW92OU5COTh6Z0JOY0xXbWxLVHFuWHNaYWNOX3RPRjJIOVZoWVd3TEJ3dTdTNzk1c3gwUkNsYmcwdXlIU2pFV0lwZm5Cc0MzdGdyTmZFamdidUlES3VLQ2xOU01mQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaHdrTkhJOHF2NFNpVFFhelF3Z1NlU05yNXRyZ3o5cVk3TXNXWnhmeDlXVTkwRHFzYm5INXF4ODJ0eVNKMWJkUXVVR2s5eVMxNlkxeS1KdDJxN3paMHlCaVF4TExibXN4ZXhsUWYtSUVfRU1BdTcyZGRQYjc2QjRJUXFZdU5LbExwQlNtMWtkZndoR2hBRVVFdHJyOG80bmFvbTFXMTNwbXdIY2I4S05DWjl6X3RVNU9RQnIyVFZ1NnEydi1xVm5YZlN1aEd1RU1udHM5ODkycU1Obnpm?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTTAwMk9qa2ZST0ZoYWtwdlpVRnpfd2xTRzZIazQ0NENRUGtETmFaNTktdFRKYk9pekpPdjlCUEIzQzZOUk5pcVZiYUdpYU1fcDlySnBVMDVyenlZa1dJUDdMYWRxZ3hzUHdxbUZERjlLQzY0bHVDMTN2eWUydTJQZ09aWEVPamFXRkVwLQ?oc=5"
       ]
     }
   ]
