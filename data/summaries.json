@@ -1,176 +1,53 @@
 {
-  "generated_at": "2026-06-30",
+  "generated_at": "2026-07-01",
   "today": {
-    "date": "2026-06-30",
-    "entries_count": 1,
+    "date": "2026-07-01",
+    "entries_count": 2,
     "buy_side_bullets": [],
-    "sell_side_bullets": [
-      "Bitcoin/gold/silver selloff framed as 'debasement capitulation' — potential cyclical lows forming in hard-asset complex despite negative near-term technicals. [Visser]",
-      "AI infrastructure cycle in first or second inning — memory semiconductors (Micron, SK Hynix, Samsung) identified as the critical bottleneck and highest-conviction infrastructure play. [Visser]",
-      "Mega-cap growth still offering NVIDIA-like compounding at scale — Eli Lilly at 55% growth on trillion-dollar base as proof of concept. [Visser]"
-    ],
-    "whats_new": [
-      "'Debasement capitulation' framing applied to concurrent selloff in Bitcoin, gold, and silver — identifies this as a potential coordinated capitulation low across the hard-asset complex. [Visser]",
-      "Ethereum repositioned as primary AI agent tokenization play — distinct from Bitcoin store-of-value thesis; driven by AI agent token demand infrastructure. [Visser]",
-      "SpaceX $2 trillion hardware moat narrative explicitly dismissed as valuation fiction ('basically a Knicks NFT') — direct pushback on private market premium narratives. [Visser]"
-    ],
+    "sell_side_bullets": [],
+    "whats_new": [],
     "vs_market_buy": [],
-    "vs_market_sell": [
-      "Bitcoin buy-the-dip call made explicitly against negative chart structure — contrarian positioning while technicals show 'no hope,' betting on debasement capitulation thesis over price momentum. [Visser]",
-      "Memory semiconductor bull thesis (Micron, SK Hynix, Samsung) runs counter to consensus AI trade concentrated in hyperscalers and fabless — reframes infrastructure layer as underappreciated. [Visser]"
-    ],
+    "vs_market_sell": [],
     "buy_vs_sell_divergence": [],
-    "aligned": [
-      "AI capital cycle remains in early innings with durable secular demand — memory/semiconductors are the highest-conviction infrastructure expression. [Visser]"
-    ],
+    "aligned": [],
     "buy_side_trades": [],
-    "sell_side_trades": [
-      "Long memory semiconductors (Micron, SK Hynix, Samsung) as primary AI infrastructure enabler — 'AI equals memory' thesis. [Visser]",
-      "Buy Bitcoin dips despite bearish near-term chart structure — debasement capitulation creates asymmetric entry. [Visser]",
-      "Long Ethereum for AI agent tokenization demand; long Eli Lilly and mega-cap AI/biotech compounders with sustained hypergrowth. [Visser]"
-    ],
-    "dominant_themes": [
-      "debasement asset capitulation",
-      "AI infrastructure semiconductor cycle",
-      "mega-cap growth compounding"
-    ],
-    "buy_side_sentiment": "neutral",
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "week": {
-    "period_start": "2026-06-23",
-    "period_end": "2026-06-30",
-    "entries_count": 45,
-    "buy_side_bullets": [
-      "Equity valuations at 1929/2000 extremes with AI bubble poised to burst like EV cycle — cutting risk, favoring 'boring' fundamental trades in H2 2026. [Dalio, Tudor Jones, Marks, Ackman, Gundlach]",
-      "Mega-cap tech (Google, Amazon, Microsoft) overvalued — rotating aggressively into AI hardware semis, memory chips, and EM reform plays. [Druckenmiller, Tepper]",
-      "Bitcoin is the best available inflation hedge amid fiat debasement — accumulating on dips despite weak near-term technicals. [Tudor Jones, Visser ↑ evolving]",
-      "AI differentiation thesis hardening — Microsoft and AI infrastructure long, Nvidia and consensus AI shorts; SpaceX valuation unjustifiable at any execution cost. [Burry, Ackman]",
-      "US household savings collapse to 2.6% and structural fiscal insolvency signal consumer fragility — S&P 500 buyers risk a decade of losses from here. [Edwards, Tudor Jones, Gundlach]"
-    ],
-    "sell_side_bullets": [
-      "Only 4% of S&P 500 at new highs — dangerous breadth collapse mirrors March 2000 dot-com peak conditions with record concentration risk. [Hartnett ↑ evolving]",
-      "Emergency Sell signal active on equities — Fed policy actively inflating an AI-fueled stock bubble with Q3 downside risk. [Berezin]",
-      "Economy showing bifurcated pain beneath headline data — stagflation risk (inflation up, growth down) with consumer savings buffer near zero. [Rosenberg, Edwards]",
-      "AI boom in early innings but memory is the critical infrastructure layer — semis over software for durable AI capex returns. [Visser ↑ evolving]",
-      "Rate hikes unlikely but Fed won't rescue markets either — rates remain the final hurdle before equities can sustainably rally. [Hatzius, Wilson]"
-    ],
-    "whats_new": [
-      "Bitcoin/gold/silver selloff reframed as 'debasement capitulation' forming a tactical floor — Ethereum added as key asset for AI agent tokenization demand. [Visser ↑ evolving]",
-      "Druckenmiller explicitly rotates out of Google (new exit) in addition to prior Amazon reduction — consensus AI trades now labeled 'overcrowded', silver added as tactical catalyst play. [Druckenmiller ↑ evolving]",
-      "Dalio explicitly frames AI bubble trajectory as following EV growth-then-bust cycle and invokes China tribute system as geopolitical framework — escalation beyond prior debt/valuation warnings. [Dalio ↑ evolving]",
-      "Gundlach raises potential 30-50% US equity drawdown with Q3 peak timing and frames AI as 'running out of steam' economically — more explicit than prior higher-for-longer positioning. [Gundlach ↑ evolving]",
-      "Burry upgrades Microsoft to strong multi-year long (more than double by 2028) while maintaining Nvidia short — intra-tech bifurcation now explicit in portfolio construction. [Burry ↑ evolving]"
-    ],
-    "vs_market_buy": [
-      "Positioning for 30-50% equity drawdown and decade of S&P 500 losses while market trades at elevated forward multiples with bulls 'frozen' at 5% bond yields — massive valuation disconnect. [Gundlach, Tudor Jones, Dalio]",
-      "Shorting Nvidia and mega-cap consensus AI names while market assigns peak multiples to AI theme — conviction that sand castles exist but timing remains treacherous. [Burry, Einhorn]",
-      "Long Argentine equities and EM reform plays while global capital remains underweight EM — contrarian macro dislocation trade against consensus US exceptionalism. [Druckenmiller, Tepper]"
-    ],
-    "vs_market_sell": [
-      "Stagflation risk elevated and consumer savings at 2.6% while credit spreads remain near multi-year tights — market pricing goldilocks that fundamentals do not support. [Rosenberg, Edwards]",
-      "Emergency Sell signal active while fund managers remain 'frozen bullish' despite 5% long-bond yields — complacency at historically dangerous levels. [Berezin, Hartnett]",
-      "'1999 meets 1990' macro setup with Black Monday crash parallels while mega-IPO wave accelerates — issuance surge historically a market-top indicator. [Reid]"
-    ],
-    "buy_vs_sell_divergence": [
-      "US equities will sustain earnings-driven rally to 8,250-10,000 on S&P 500 vs bubble conditions warrant selling with both hands — same AI backdrop, opposite portfolio action. [Yardeni vs Hartnett, Berezin]",
-      "AI creating net jobs and eating the entire US economy positively vs Fed inflating an AI bubble that will burst — diametrically opposed readings of identical AI buildout data. [Slok vs Berezin, Edwards]",
-      "S&P 500 correction largely done, 5-7% downside then fresh rally vs decade of losses risk with 30-50% drawdown scenario — order-of-magnitude disagreement on downside. [Wilson vs Gundlach, Tudor Jones]",
-      "Kevin Warsh higher-for-longer forces equity peak in Q3 vs rate hikes remain unlikely and growth continues — Fed path divergence driving opposite equity conclusions. [Gundlach vs Hatzius]"
-    ],
-    "aligned": [
-      "Current equity market exhibits bubble characteristics comparable to 1999-2000 dot-com peak — acknowledged by both camps even where conclusions differ. [Dalio, Tudor Jones, Marks, Hartnett, Yardeni, Reid, Liz Ann Sonders]",
-      "Mega-cap tech concentration is the single largest structural risk — both buy-side and sell-side rotating or flagging within AI tech stack. [Druckenmiller, Tepper, Burry, Ackman, Hartnett, Wilson]",
-      "Inflation persistence is non-trivial and Fed optionality is constrained — sticky inflation acknowledged across bull and bear camps alike. [Gundlach, Rosenberg, Wilson, Sonders, Mauldin]",
-      "AI infrastructure semis (memory, hardware) offer better risk-reward than consensus software/platform names — convergence of buy-side rotation and sell-side thematic calls. [Druckenmiller, Tepper, Visser]"
-    ],
-    "buy_side_trades": [
-      "Short mega-cap tech (Google, Amazon, Microsoft) / long AI hardware semis and memory (Micron, SK Hynix, unnamed memory plays) — AI infra over AI software. [Druckenmiller, Tepper]",
-      "Long Bitcoin and gold as inflation/debasement hedges — accumulate on 'capitulation' dips despite negative near-term technicals. [Tudor Jones ↑ evolving, Visser]",
-      "Long Argentine equities and EM reform plays — contrarian macro shock-therapy recovery against consensus US overweight. [Druckenmiller]",
-      "Short Nvidia / long Microsoft and healthcare defensives — intra-tech bifurcation trade as AI bubble differentiates winners from sand castles. [Burry, Ackman]",
-      "Reduce broad equity exposure, hold dry powder — prepare for adverse scenarios as speculation fades in H2 2026. [Dalio, Marks, Einhorn]"
-    ],
-    "sell_side_trades": [
-      "Underweight equities, overweight dividend stocks and defensive quality — bubble risk not priced, breadth collapse signals fragility. [Hartnett, Berezin, Sonders]",
-      "Long duration bonds — dovish rate trajectory (no hikes) and eventual growth deceleration to 2.5% globally support duration. [Hatzius, Wilson]",
-      "Long US equities vs short European equities — divergent growth trajectories (US growth intact, Europe slowing ~50%). [Hatzius]",
-      "Buy semis/memory as AI infrastructure layer (Micron, SK Hynix, Samsung) — AI capex cycle secular tailwind irrespective of bubble in software names. [Visser ↑ evolving]"
-    ],
-    "dominant_themes": [
-      "AI bubble valuation vs infrastructure reality",
-      "Fed path uncertainty and higher-for-longer inflation",
-      "Mega-cap tech rotation into semis and EM",
-      "Consumer fragility and savings depletion",
-      "Geopolitical risk premium (Iran, trade) intersecting with late-cycle exuberance"
-    ],
-    "buy_side_sentiment": "bearish",
+    "period_start": "2026-06-24",
+    "period_end": "2026-07-01",
+    "entries_count": 26,
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "month": {
-    "period_start": "2026-05-31",
-    "period_end": "2026-06-30",
-    "entries_count": 64,
-    "buy_side_bullets": [
-      "Equity valuations at 1929/2000 generational extremes — speculation will fizzle H2 2026, shift to 'boring' fundamental trades now. [Dalio, Tudor Jones, Burry, Ackman]",
-      "Fed Chair Warsh will not deliver easy money — 1970s-style inflation trap forces higher-for-longer rates, 30-50% equity drawdown risk into Q3. [Gundlach]",
-      "AI is a bubble following the EV trajectory — rotate out of consensus Nvidia/mega-cap into semis infrastructure, EM, and quality names. [Druckenmiller, Burry, Ackman]",
-      "Bitcoin is the best available inflation hedge — buy debasement-capitulation dips in BTC, gold, and silver despite weak near-term charts. [Tudor Jones, Visser]",
-      "Microsoft uniquely positioned as quality AI play — differentiated from speculative 'new new' AI stocks that mirror 2000 dot-com excess. [Ackman, Burry]"
-    ],
-    "sell_side_bullets": [
-      "Largest equity bubble since railroads — only 4% of S&P 500 at new highs mirrors March 2000 dot-com breadth collapse, sell with both hands. [Hartnett]",
-      "Emergency Sell signal triggered on equities — Fed policy actively inflating AI-fueled stock bubble, significant Q3 downside risk across asset classes. [Berezin]",
-      "Macro regime is '1999 meets 1990' — AI momentum colliding with geopolitical tail risks creates Black Monday-style crash setup on rapid S&P rally. [Reid]",
-      "US household savings at 2.6% — consumer financial buffers critically depleted, demand destruction and spending slowdown inevitable. [Edwards]",
-      "Stagflation risk elevated despite headline resilience — inflation headed higher, growth headed lower, large parts of economy in deep pain. [Rosenberg]"
-    ],
-    "whats_new": [
-      "Bitcoin/gold/silver selloff reframed as 'debasement capitulation' forming potential cycle lows — distinct tactical accumulation signal versus prior generic dip-buying framing. [Visser ↑ evolving]",
-      "Druckenmiller exits Google in addition to Amazon — rotation now explicitly targeting under-the-radar AI chip names outside the Nvidia consensus, broadening the anti-mega-cap thesis. [Druckenmiller ↑ evolving]",
-      "Dalio explicitly frames AI bubble as following EV trajectory — prior warnings focused on valuation levels; now providing a specific bust-cycle analog with timeline. [Dalio ↑ evolving]",
-      "Gundlach raises explicit 30-50% S&P drawdown target with Q3 peak timing — prior entries focused on higher-for-longer rates without a specific equity price target or timeline. [Gundlach ↑ evolving]"
-    ],
-    "vs_market_buy": [
-      "Pricing in decade of equity losses while market trades near all-time highs at 20x+ forward PE — buy side's most prominent voices explicitly warning against S&P ownership at current levels. [Tudor Jones, Dalio, Gundlach]",
-      "Shorting Nvidia and reducing mega-cap AI while consensus remains overweight — fundamental disconnect between AI capex story and actual FCF generation not yet priced by market. [Burry, Druckenmiller, Ackman]",
-      "Long Argentine equities and EM semis while Wall Street crowded into US mega-cap — market pricing US AI exceptionalism; smart money rotating to unloved EM reform plays. [Druckenmiller, Tepper]"
-    ],
-    "vs_market_sell": [
-      "Stagflation and consumer stress not priced — credit spreads near tights and equities at records while savings rate at 2.6% and inflation reaccelerating signal dangerous complacency. [Rosenberg, Edwards, Sonders]",
-      "Hyperscaler FCF projections near zero in 2026 vs $1T capex cycle — market pricing in 2030 relief before supply-chain bottlenecks resolve; setup for earnings disappointment. [Berezin]",
-      "5% long-bond yields with investors 'frozen bullish' — rate level historically incompatible with current equity multiples; market has not repriced the rate-equity tension. [Hartnett, Wilson]"
-    ],
-    "buy_vs_sell_divergence": [
-      "30-50% equity crash risk cited explicitly vs healthy 5-7% correction then rally — same market, violently different outcome expectations for H2 2026. [Gundlach, Tudor Jones vs Wilson, Yardeni]",
-      "AI is a fatally bursting bubble vs AI is a structural productivity driver in early innings — irreconcilable fundamental disagreement on the dominant market narrative. [Dalio, Burry, Marks vs Slok, Visser, Hatzius]",
-      "No rate cuts justified on persistent inflation grounds vs oil decline below $80 already reshaping Fed path lower — same inflation data, opposite policy conclusions. [Gundlach vs Slok]"
-    ],
-    "aligned": [
-      "Bubble-like equity valuations echoing 1999-2000 — acknowledged by both camps, yet market continues to make highs, warnings so far ignored. [Dalio, Tudor Jones, Burry, Ackman, Hartnett, Reid, Berezin, Sonders, Yardeni]",
-      "Mega-cap tech concentration is the key structural risk — buy and sell side converge on narrow breadth and crowded positioning as the most dangerous market feature regardless of directional call. [Druckenmiller, Tepper, Hartnett, Wilson, Berezin]",
-      "AI infrastructure semis outperform AI software/mega-cap — memory chips and hardware capex beneficiaries preferred over consensus Nvidia/FAANG positioning across both camps. [Druckenmiller, Tepper, Visser, Berezin]"
-    ],
-    "buy_side_trades": [
-      "Long AI memory semis / short consensus mega-cap AI software — Micron, SK Hynix, under-the-radar chip names over Nvidia, Microsoft, Amazon. [Druckenmiller, Tepper]",
-      "Long Bitcoin and gold as debasement/inflation hedges — accumulate on capitulation dips despite weak near-term technicals. [Tudor Jones, Visser ↑ evolving]",
-      "Long Argentine equities and EM reform plays — $400M+ conviction bets on shock-therapy recovery while Wall Street crowded into US. [Druckenmiller, Tepper]",
-      "Long Microsoft / short or avoid Alphabet and speculative AI names — quality over 'new new' as 2000-style rotation approaches. [Ackman, Burry]"
-    ],
-    "sell_side_trades": [
-      "Underweight equities, overweight dividend and defensive names — bubble breadth collapse and 5% bond yields make risk/reward unfavorable for index longs. [Hartnett, Berezin, Sonders]",
-      "Long duration bonds — dovish rate path from oil decline and growth deceleration will eventually force Fed hand despite near-term stickiness. [Hatzius, Rosenberg]",
-      "Long USD as unexpected macro trade — stronger dollar thesis emerging amid global growth divergence and flight-to-quality dynamics. [Hartnett]",
-      "Short consumer discretionary / long defensives — 2.6% savings rate signals demand destruction ahead as geopolitical and inflation pressures compound. [Edwards, Rosenberg]"
-    ],
-    "dominant_themes": [
-      "AI valuation bubble — 1999/2000 analog with narrow breadth and concentration risk",
-      "Fed path uncertainty — Warsh hawkishness vs oil/growth-driven easing pressure",
-      "Inflation regime — stagflation risk vs transitory blip debate",
-      "Mega-cap tech rotation — semis infrastructure over software consensus",
-      "Alternative inflation hedges — Bitcoin, gold, silver debasement capitulation"
-    ],
-    "buy_side_sentiment": "bearish",
+    "period_start": "2026-06-01",
+    "period_end": "2026-07-01",
+    "entries_count": 66,
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   }
 }

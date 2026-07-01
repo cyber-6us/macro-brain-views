@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30",
+  "last_updated": "2026-07-01",
   "entries": [
     {
       "id": "2026-06-22-b3fe3662",
@@ -1861,6 +1861,72 @@
         "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU3BGQzJxSjdmbHgtaXlYYmRKaFhPMnh0ajFkTWxBdnNNMmRyeFZuTV9xT3lHZTlDeWROanRUeFdDaWpFUWotYWVOME5oUUNHRmRrcHlmUzNjenh2Z3puSWZTZmdFXy1nNVZ1aDU0NWlWTW92OU5COTh6Z0JOY0xXbWxLVHFuWHNaYWNOX3RPRjJIOVZoWVd3TEJ3dTdTNzk1c3gwUkNsYmcwdXlIU2pFV0lwZm5Cc0MzdGdyTmZFamdidUlES3VLQ2xOU01mQQ?oc=5",
         "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaHdrTkhJOHF2NFNpVFFhelF3Z1NlU05yNXRyZ3o5cVk3TXNXWnhmeDlXVTkwRHFzYm5INXF4ODJ0eVNKMWJkUXVVR2s5eVMxNlkxeS1KdDJxN3paMHlCaVF4TExibXN4ZXhsUWYtSUVfRU1BdTcyZGRQYjc2QjRJUXFZdU5LbExwQlNtMWtkZndoR2hBRVVFdHJyOG80bmFvbTFXMTNwbXdIY2I4S05DWjl6X3RVNU9RQnIyVFZ1NnEydi1xVm5YZlN1aEd1RU1udHM5ODkycU1Obnpm?oc=5",
         "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTTAwMk9qa2ZST0ZoYWtwdlpVRnpfd2xTRzZIazQ0NENRUGtETmFaNTktdFRKYk9pekpPdjlCUEIzQzZOUk5pcVZiYUdpYU1fcDlySnBVMDVyenlZa1dJUDdMYWRxZ3hzUHdxbUZERjlLQzY0bHVDMTN2eWUydTJQZ09aWEVPamFXRkVwLQ?oc=5"
+      ]
+    },
+    {
+      "id": "2026-07-01-90f51a16",
+      "date": "2026-07-01",
+      "investor": "Scott Bessent",
+      "side": "buy",
+      "summary": "Bessent is bullish on U.S. economic growth, targeting 3% GDP growth by end of year through a 'homegrown' economic strategy inspired by Hamiltonian principles focused on economic statecraft. He characterizes upcoming inflation as a 'short-term blip' and believes the U.S. can achieve growth without reigniting persistent inflation, though betting markets show skepticism about his growth forecasts.",
+      "key_views": [
+        "U.S. GDP growth can return to 3% before end of 2025",
+        "Inflation jump will be temporary/short-term blip",
+        "U.S. can achieve 3% growth without reigniting persistent inflation",
+        "Economic strategy based on Hamiltonian principles and domestic-focused economic statecraft",
+        "Market traders (Kalshi) are pricing low probability of his growth scenario materializing"
+      ],
+      "trade_ideas": [
+        "Long U.S. equities on 3% GDP growth thesis (conflicts with trader positioning)",
+        "Long duration bonds if inflation proves transitory as Bessent claims",
+        "Potential positioning for USD strength given nationalist economic policies"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "rates",
+        "fx"
+      ],
+      "sentiment": "bullish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcGlnTTlybVByWEtHVDhNR0JTM295dk5CVzg1YjJHNGc0NlpDQ2N2OUhYYjhFNkp5SVY4c0V5MHdfOWdDNEtXaDFvdnA1dzlNd2dHMnRhck1ZbW9ncjVCTHJPWkZIdlppdnByUHRXeXM2VmNraTY5U3d6eS0xaWp1M1V2eXJSSkFVOWt2Y2RXaVJWR0N3VWd2STUyS3dDRWowM0J2U3U2UU1tNjhsQmMyQ1U2aHZtVS11TjRHeUt30gHDAUFVX3lxTFB4U1BNRFRoNEFVV2VoUmZickprOVJSck5wMDlUdUxXTFM3aXFYcTFRQmlHQWJkTDJ4Q2pqeG5CR01GajdGWVJpYUdsY09uaTJGWjNiSlNlRmdheGQ2WjZQa09PT0VfY0ZqajFUMGJaMU1ST1YwVTFuc1NQeDh4R3pDU3NBWGx0MnctSkl4N1lyR3o0UUNnai1QNk1vYUdDR1hZc1JpTXJFRmNpSHFqUmN5T3g2R2YyZWVyQVlJMzlMZDJ4NA?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRmZ6bjE4SUF2NWF5aXVHalZjczZLT01LMnY0WjRJbWlzbENwUjl1VWR6WFQ5N1dJVlEzZGZHQkN6WWtqT1duYWdtbEpHZXZnRlkwMVVjNFRMUFRXRy13aGkzVEFvZFRFOG1neU04cGNvTEhSWkxMNEc4SE5kT19Yc3B6MkxaaXJWMEZSWlRYbEYzRUJCaWVucE1ISQ?oc=5",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeE9QRXhFX0ZiQUs1V0ZfRWVsaGliQkd6Q01XV2xQOHV6TEZSV1JRMUJhVDlLU2luM0xRb05WdTY0UV9pSWtQSFkwX3hLNG1hWXRHRnduLTVhczJYUTdIM3o4ZGx1TndNaG1xLVJwT3VEVjhXcmp6UkFrdXhSZTQweW9aVExoaURUS3lJaG1udnNVek9ZUzkzTS1oOFEtTkRvY2UyVzVEaXNoTTBQS1JaaldRVGNNWE01cjRpZnF2Xzg2NEpwS0tv0gHMAUFVX3lxTFBaVnhYVllLX1BNWnFLdEZ3eFNPVUFUaFdNbTJMSGF1NWpEUzNQVHdKVVBJQVBkaFJlaUVGV3VxdzZzZDNwelg4bmlmVk53RTZMUEpmSVVORDRSNkpTUVRrMnR5ck9lNndfSXNacFdPZWYtTm53MFRTMVpTWnBLRDVtM0wxanYtRzRpU1hGMWcwTk9BeGFaVko5ZDMySWpWMnhmOWhBNHhPSmdFTDBDY19ILWVNOXhfVTNFME5JbXJ1Z1BxdHJVNktFOGExSg?oc=5",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ01Ldkk3OGJ1cXYxQ01tcmVrQ3JlekUzOW1ZNmpFeXZ2RTNlZ2dwLU5aaVlOSFV0QktiX19RbGl6dGNINGgzeGROcER5UEJBbWE0azZHTDZYNW02SWc5Y1JieGtXNzdkcVJXM091S2Q2Y1lLZWVqVElTNHVON3Z1TUM5eHo?oc=5"
+      ]
+    },
+    {
+      "id": "2026-07-01-0fcc170e",
+      "date": "2026-07-01",
+      "investor": "Torsten Slok",
+      "side": "sell",
+      "summary": "Slok presents a mixed macro outlook: the US economy is running hot with AI disrupting productivity and investment patterns, but he warns of painful market repricing as AI investment returns slow. Two macro headwinds are easing, though several risks remain, including potential ECB rate hikes and counterintuitive inflation dynamics from lower gas prices.",
+      "key_views": [
+        "AI is eating the entire US economy and transforming capital allocation",
+        "The economy is running pretty hot with persistent strength",
+        "Market repricing will be painful as returns on AI investment slow",
+        "Two macro headwinds are easing (likely inflation/rates related)",
+        "Lower gas prices could paradoxically make inflation worse",
+        "Top three macro risks exist requiring portfolio attention",
+        "European Central Bank may hike rates in September",
+        "Market narratives are shifting"
+      ],
+      "trade_ideas": [
+        "Position for market repricing as AI capex returns normalize",
+        "Prepare for potential ECB rate hike impacts on EUR and European assets"
+      ],
+      "asset_classes": [
+        "equities",
+        "rates",
+        "fx",
+        "commodities"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWpQVjNncFNrN1pLc2VreE00RmJXdVY0Mk45SEZpRUlVdEhoTmRzVzZwUzlRemZxaHQzZFRmT3lXcTVjaE1pLURXb0NZV0tva2RTdXZwbjNXMTNsak9lMnBzVHdSYVo5ZFZtOFJkelVCN3NGbVhBN3dzUHVmei10RWIyX1dHQUVYc0t0U08zcWh1TXN0LWt4SzdWQVp0X1RwREpnMmpQUGFBWHNG?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE95YWs5ZnpVblJPRUNMc2lKNHhLVHlCZFc2UUFBeUhPdHBOTEJKa3FPcldodzU3SFc0a3FTY0dsc08wcmRhZVN1WGdiUkR6WkFDX3h4dXRYaEtfaDhGU1FiY3ZsaTZTUGhKdWd0SExkdlFaRWVOV0p2M3VoNy0?oc=5",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVnFZWjdNMFJHUDQ2ZEphbUNkalB1WE9IbzByTnZlWC1VajhsclF5T19zOEY4RTZ4ejNUOGhtWFpKYnhxVzRHYndEV1luVVVETFdVOFB5NFZlM0oxR29zV3hYUnFBT181c2s0cVZFakJIdERORXFKd1Y5OTdsV3NIeExscjF4LUtpRDluU1FQdGl4LTA?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZTRSRnJ4MGJRM1ZQaG5YUFE0dFRmdnVVN2lESHFGTFB2emx3Yy1RTXozRFhPV0RHWnNVUzl3anJDWVd5NFVwSjdsZUZqaUtGcllacVdndEdRN2FGcEhqYVktQnZFS2I4TndSUzNXeDJnX3k3V1V1Zlk0cnVEZklSakIzdWxMeDBFU0VwX3MyNWMtVTM5Y1hzSTZ1N2lKWHBOeXh2MHdsdHBNTEFJOXN4bjhBTQ?oc=5"
       ]
     }
   ]
