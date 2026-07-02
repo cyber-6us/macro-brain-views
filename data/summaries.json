@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-01",
+  "generated_at": "2026-07-02",
   "today": {
-    "date": "2026-07-01",
-    "entries_count": 2,
+    "date": "2026-07-02",
+    "entries_count": 0,
     "buy_side_bullets": [],
     "sell_side_bullets": [],
     "whats_new": [],
@@ -17,9 +17,9 @@
     "sell_side_sentiment": "mixed"
   },
   "week": {
-    "period_start": "2026-06-24",
-    "period_end": "2026-07-01",
-    "entries_count": 26,
+    "period_start": "2026-06-25",
+    "period_end": "2026-07-02",
+    "entries_count": 25,
     "buy_side_bullets": [],
     "sell_side_bullets": [],
     "whats_new": [],
@@ -34,8 +34,8 @@
     "sell_side_sentiment": "mixed"
   },
   "month": {
-    "period_start": "2026-06-01",
-    "period_end": "2026-07-01",
+    "period_start": "2026-06-02",
+    "period_end": "2026-07-02",
     "entries_count": 66,
     "buy_side_bullets": [],
     "sell_side_bullets": [],
