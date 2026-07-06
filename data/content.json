@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05",
+  "last_updated": "2026-07-06",
   "entries": [
     {
       "id": "2026-06-22-b3fe3662",
@@ -2408,6 +2408,298 @@
         "https://www.mauldineconomics.com/frontlinethoughts",
         "https://www.mauldineconomics.com/",
         "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWFlKUzNyZDdxcWRFaUtUX3l5QUJkMnZla0Q1dnhSSUtoUXczbmtKQlkyNlpDNVpza2pBa2tVTTFSWUcxelhhZnh0MzRmQmVkWVFhUl9zb2ZJRGd6VF9JXzlLdS14b1VJeUd1cXp3ZkFIcWw1czR1MUNYZWZPSWpQa016RV8xRjMxMFE?oc=5"
+      ]
+    },
+    {
+      "id": "2026-07-06-8fc60fc5",
+      "date": "2026-07-06",
+      "investor": "Stan Druckenmiller",
+      "side": "buy",
+      "summary": "Contrarianism is 'overrated' and the US economy remains one of the best investment stories globally despite high valuations. Portfolio is no longer AI-driven (tech exposure reduced to 9.43% from 13.8%), USD bearish at historic purchasing power peak with foreigners overloaded in dollars, and long copper/gold while short bonds as inflationary hedges.",
+      "key_views": [
+        "US economy remains a compelling investment story despite high valuations and AI bubble concerns",
+        "USD bearish — at historic purchasing power peak with foreigners significantly overloaded in dollars",
+        "Portfolio no longer AI-driven; tech exposure reduced to 9.43% from 13.8%, pivoting to international opportunities",
+        "Long copper and gold as dollar hedges; short bonds against inflationary upside surprises"
+      ],
+      "trade_ideas": [
+        "Long US equities despite valuation concerns — US exceptionalism still holds",
+        "Short/hedge USD via long copper, gold, and non-dollar assets",
+        "Short long-term bonds as inflation hedge",
+        "Avoid mega-cap AI concentration"
+      ],
+      "asset_classes": [
+        "equities",
+        "commodities",
+        "fx",
+        "bonds"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://finance.yahoo.com/news/contrarianism-overrated-stan-druckenmiller-says-101700316.html",
+        "https://www.realclearpolitics.com/video/2026/03/01/druckenmiller_portfolio_no_longer_ai-driven_bearish_on_dollar_at_historic_purchasing_power_peak.html"
+      ]
+    },
+    {
+      "id": "2026-07-06-f45a8d53",
+      "date": "2026-07-06",
+      "investor": "Michael Burry",
+      "side": "buy",
+      "summary": "New short position disclosed against Micron Technology on July 2, 2026, arguing the stock's 242% YTD rally has reached 'historically extreme' levels — more extended above its 200-day moving average than at any point since 1984. AI hype has inflated cyclical chip stocks; Micron's 34 drawdowns of 30%+ over 42 years with 4% median ROIC and 7% ROE make it structurally weak.",
+      "key_views": [
+        "Micron Technology at historically extreme valuation — more extended above 200-day MA than any point since 1984",
+        "'Micron defines cyclical like no other': 34 drawdowns of 30%+ in 42 years with 4% median ROIC and 7% ROE",
+        "AI hype has inflated cyclical chip stocks to unsustainable levels disconnected from underlying business quality",
+        "Broader AI bubble 'beginning of the end' continues — rotating short thesis from Nvidia to memory semis"
+      ],
+      "trade_ideas": [
+        "Short Micron Technology (new position disclosed July 2, 2026 via Substack)",
+        "Maintain existing shorts on AI-adjacent speculative equities",
+        "Long undervalued healthcare equities as proceeds rotation target"
+      ],
+      "asset_classes": [
+        "equities"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://finance.yahoo.com/markets/stocks/articles/michael-burry-shorts-micron-adding-141819112.html",
+        "https://247wallst.com/investing/2026/02/13/heres-how-michael-burrys-shorts-are-doing-so-far-in-2026/"
+      ]
+    },
+    {
+      "id": "2026-07-06-70915e44",
+      "date": "2026-07-06",
+      "investor": "David Einhorn",
+      "side": "buy",
+      "summary": "US equities are 'the most expensive we've seen since we began managing money and arguably in the history of the United States.' Capital preservation is the top priority; Greenlight closed to new investors effective July 1, 2026. Pivoting to direct macro instrument expressions — long gold, copper, and rates — rather than equity proxies; macro portfolio returned 14.4% gross in 2025.",
+      "key_views": [
+        "US equity market is 'the most expensive we've seen since we began managing money and arguably in the history of the United States'",
+        "Capital preservation is top priority; maintaining low gross and net equity exposure",
+        "Prefer direct macro instruments (gold, copper, rates) over equities indirectly linked to those themes — 2025 macro portfolio returned 14.4% gross",
+        "Greenlight Capital closed to new investors effective July 1, 2026"
+      ],
+      "trade_ideas": [
+        "Long gold directly as macro expression (not via miners)",
+        "Long copper directly as macro expression",
+        "Long/short interest rates as primary macro vehicle",
+        "Selective turnaround equities in AI-to-infrastructure repositioning stories"
+      ],
+      "asset_classes": [
+        "equities",
+        "commodities",
+        "rates",
+        "bonds"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://www.cnbc.com/2026/04/14/david-einhorn-signals-caution-as-his-hedge-fund-greenlight-prioritizes-capital-protection.html",
+        "https://hedgeco.net/news/01/2026/greenlight-capital-closing-to-new-investors.html",
+        "https://www.cnbc.com/2026/05/12/greenlights-david-einhorn-pitches-five-turnaround-stocks-at-sohn-from-ai-to-infrastructure.html"
+      ]
+    },
+    {
+      "id": "2026-07-06-90f51a16",
+      "date": "2026-07-06",
+      "investor": "Scott Bessent",
+      "side": "buy",
+      "summary": "GDP growth can return to 3% before year-end 2026, with no recession on the horizon. The 3-3-3 plan (3% GDP growth, 3% deficit-to-GDP, 3M barrels/day oil production) is on track. Trade deficit for goods declined $369.8B year-over-year through March 2026; 313,000 net new private sector jobs created, supporting economic reacceleration without monetary easing.",
+      "key_views": [
+        "US GDP growth can return to 3% before end of 2026",
+        "3-3-3 plan: 3% GDP growth, 3% deficit-to-GDP ratio, 3M barrels/day oil production increase",
+        "Trade deficit for goods declined $369.8 billion year-over-year through March 2026",
+        "No recession in 2026; economy adding 313,000 net new private sector jobs",
+        "US economic and industrial security required structural policy awakening"
+      ],
+      "trade_ideas": [
+        "Long US manufacturing and industrial infrastructure on renaissance thesis",
+        "Long energy sector (3M barrels/day production target supports domestic producers)",
+        "Long USD given strong relative US growth outlook vs global peers"
+      ],
+      "asset_classes": [
+        "equities",
+        "commodities",
+        "rates",
+        "fx"
+      ],
+      "sentiment": "bullish",
+      "sources": [
+        "https://home.treasury.gov/news/press-releases/sb0514",
+        "https://www.cnbc.com/2026/06/24/treasury-secretary-bessent-says-us-gdp-growth-can-return-to-3percent-before-end-of-the-year.html"
+      ]
+    },
+    {
+      "id": "2026-07-06-db94b918",
+      "date": "2026-07-06",
+      "investor": "Ed Yardeni",
+      "side": "sell",
+      "summary": "Highly contrarian Fed rate hike forecast for the July 29 FOMC meeting — markets pricing only 5% odds. Rationale: oil near $90/barrel from Iran conflict, resilient economy, firm labor market, and reaccelerating inflation. Despite the hawkish call, the bullish S&P 500 target of 8,250 is maintained on 19% Q1 earnings growth and continued analyst estimate revisions higher. [shift]",
+      "key_views": [
+        "Fed rate hike forecast for July 29 FOMC meeting — markets only pricing 5% odds, making this a highly contrarian call",
+        "Oil near $90/barrel due to Iran conflict is the primary inflation reacceleration driver",
+        "Economy remains resilient with firm labor market supporting tightening",
+        "S&P 500 can rise another 10.2% from July 2 levels to reach 8,250 target",
+        "Q1 earnings growth near 19%; analysts continuing to raise 2027 forward estimates"
+      ],
+      "trade_ideas": [
+        "Position for rate hike surprise at July 29 FOMC — long short-dated rate vol or short front-end rates",
+        "Long S&P 500 targeting 8,250 on fabulous earnings momentum (FEMO)",
+        "Long energy sector given oil sustained near $90 from Iran conflict"
+      ],
+      "asset_classes": [
+        "equities",
+        "rates",
+        "commodities"
+      ],
+      "sentiment": "bullish",
+      "sources": [
+        "https://www.benzinga.com/markets/economic-data/26/06/52976247/ed-yardeni-fed-rate-hike-july-2026",
+        "https://www.cnbc.com/video/2026/05/18/why-ed-yardeni-is-expecting-an-interest-rate-hike-in-july.html"
+      ]
+    },
+    {
+      "id": "2026-07-06-0fcc170e",
+      "date": "2026-07-06",
+      "investor": "Torsten Slok",
+      "side": "sell",
+      "summary": "Mid-year 2026 outlook identifies three macro forces: short-term stagflation (slowing growth, inflation stuck near 3%), an industrial renaissance, and AI as the US economy's foundational pillar. The S&P 493 (excluding AI leaders) faces meaningful earnings risk; markets are pricing 30% US recession probability. A post-slowdown AI-fueled recovery is the medium-term base case.",
+      "key_views": [
+        "Near-term US economy in stagflation: growth slowing from tariffs and immigration constraints, inflation stuck near 3% above target",
+        "S&P 493 (excluding AI leaders) faces meaningful earnings risk as slowdown materializes",
+        "Markets pricing 30% US recession probability in 2026",
+        "AI boom has evolved beyond technology into the foundational economic driver of US growth",
+        "Post-slowdown AI-fueled recovery is the medium-term base case"
+      ],
+      "trade_ideas": [
+        "Overweight AI-adjacent equities over S&P 493 which faces cyclical earnings headwinds",
+        "Position for higher-for-longer rates given sticky 3%+ inflation",
+        "Credit and securitized products (ABS, CMBS) more resilient than high yield in the slowdown"
+      ],
+      "asset_classes": [
+        "equities",
+        "rates",
+        "credit",
+        "bonds"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://www.apollo.com/insights-news/insights/the-view-from-apollo/2026/06/2026-mid-year-outlook",
+        "https://www.privatemarketsinsights.com/post/stagflation-looms-as-ai-becomes-us-economy-s-lifeline-apollo-macro-outlook"
+      ]
+    },
+    {
+      "id": "2026-07-06-2b08f3db",
+      "date": "2026-07-06",
+      "investor": "Russell Napier",
+      "side": "sell",
+      "summary": "Governments are engineering financial repression to reduce 300% debt-to-GDP, and investors are asking the wrong questions at this critical inflection in financial history. A 15+ year regime of government-directed investment, 4-6% structural inflation, and rates held below inflation is forecast — parallel to post-WWII. Avoid government bonds, buy gold, and ignore claims that technology will defeat inflation.",
+      "key_views": [
+        "Financial repression regime will last at least 15 years as governments reduce debt from 300% to 200% of GDP — post-WWII parallel",
+        "Inflation will settle at 4-6% in the developed world for the next decade; interest rates will not be allowed to reflect this",
+        "Bond yields will not be a free market price for at least 15 years as regulatory frameworks force institutional bond ownership",
+        "Technology will not defeat inflation in this financially repressed regime",
+        "Gold is signaling the new monetary regime; investors are asking the wrong questions"
+      ],
+      "trade_ideas": [
+        "Avoid long-term government bonds — will lose real value for 15+ years under financial repression",
+        "Long gold as the primary inflation and financial repression hedge",
+        "Long real assets and inflation-linked investments",
+        "Avoid yield-chasing strategies that assume rate normalization"
+      ],
+      "asset_classes": [
+        "bonds",
+        "rates",
+        "commodities",
+        "equities"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://www.themebfabershow.com/episodes/xvzCybmV3b3",
+        "https://behindthebalancesheet.substack.com/p/russell-napiers-warning-the-great-dbf"
+      ]
+    },
+    {
+      "id": "2026-07-06-33196b91",
+      "date": "2026-07-06",
+      "investor": "Jordi Visser",
+      "side": "sell",
+      "summary": "Bitcoin will be the best-performing asset of 2026 and AI is simultaneously disrupting both traditional macro frameworks and the crypto ecosystem. The emerging 'machine economy' — AI agents transacting via stablecoins — creates structural demand for tokenized infrastructure, positioning Ethereum as a strategic asset class. Traditional analytical frameworks no longer apply in the AI macro nexus era.",
+      "key_views": [
+        "Bitcoin will be the best-performing investment of 2026",
+        "AI is disrupting both the macro world and crypto — traditional analytical frameworks no longer apply",
+        "'Machine economy' emerging: AI agents transacting via stablecoins creates new structural demand for tokenized infrastructure",
+        "Ethereum positioned as strategic asset as AI agents increasingly demand tokenized settlement infrastructure",
+        "AI Macro Nexus framework: AI-driven innovation and macroeconomic transformation are inseparable going forward"
+      ],
+      "trade_ideas": [
+        "Long Bitcoin as best-performing asset class of 2026",
+        "Long Ethereum on AI agent tokenization demand wave",
+        "Long AI infrastructure equities (NVIDIA, Oracle, Amazon) as secular compounders",
+        "Monitor AI macro nexus for macro dislocations between traditional and crypto-native pricing"
+      ],
+      "asset_classes": [
+        "equities",
+        "commodities",
+        "credit"
+      ],
+      "sentiment": "bullish",
+      "sources": [
+        "https://news.bitcoin.com/de/bitcoin-wird-laut-jordi-visser-der-bestperformende-vermogenswert-des-jahres-2026-sein-hier-erfahren-sie-warum/",
+        "https://www.cnbc.com/video/2026/02/11/visser-ai-is-disrupting-both-the-macro-world-and-crypto.html"
+      ]
+    },
+    {
+      "id": "2026-07-06-3ab9db1a",
+      "date": "2026-07-06",
+      "investor": "John Mauldin",
+      "side": "sell",
+      "summary": "'Decade of Living Dangerously, Part 1' warns investors to prepare for a structurally difficult decade of economic disruption. The widening K-shaped bipolar economy continues — wealthy thriving while average Americans struggle. Employment growth has softened materially (only 229,000 total jobs added in all of 2025) and structural fiscal imbalances compound the long-term inflationary macro regime. [evolving]",
+      "key_views": [
+        "A 'Decade of Living Dangerously' is beginning — exceptionally volatile and structurally difficult period ahead for markets and economy",
+        "Bipolar/K-shaped economy: wealthy thriving while working Americans face growing economic hardship",
+        "Employment growth severely softening: only 229,000 total jobs added in 2025, well below historical norms",
+        "Structural fiscal crisis deepening — Social Security, debt solvency compound the inflationary macro regime"
+      ],
+      "trade_ideas": [],
+      "asset_classes": [
+        "equities",
+        "rates",
+        "bonds"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://www.mauldineconomics.com/frontlinethoughts/decade-of-living-dangerously-part-1"
+      ]
+    },
+    {
+      "id": "2026-07-06-2bc6b016",
+      "date": "2026-07-06",
+      "investor": "Michael Hartnett",
+      "side": "sell",
+      "summary": "H2 2026 macro playbook driven by '3 Cs': Conflict, Climate, and Commerce. The 'sleep like a baby' 25/25/25/25 equal-weight portfolio (stocks/bonds/cash/commodities) is up ~26% YTD — best year since 1933, third-largest outperformance of 60/40 in a century. Two exogenous shocks are needed to push stocks materially higher from current lofty levels; rising bond yields, weakening market leadership, and political pressure remain the three historical forces that puncture booms. [evolving]",
+      "key_views": [
+        "H2 2026 macro playbook driven by '3 Cs': Conflict, Climate, and Commerce",
+        "'Sleep like a baby' 25/25/25/25 portfolio (stocks/bonds/cash/commodities) up ~26% YTD — best year since 1933, third-largest outperformance of 60/40 in a century",
+        "Two exogenous shocks needed to push stocks materially higher from current lofty valuations",
+        "Three historical forces that puncture market booms: rising bond yields increasing cost of capital, weakening leadership among market favorites, political pressure from elections",
+        "Cautious on equities despite current bullish investor positioning"
+      ],
+      "trade_ideas": [
+        "25/25/25/25 equal-weight portfolio across stocks/bonds/cash/commodities",
+        "Avoid concentrated long equity positioning given lofty valuations requiring exogenous catalysts",
+        "Monitor bond yield trajectory as primary signal for equity correction risk"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "commodities",
+        "rates",
+        "fx"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://x.com/spx1313972/status/2048147593117765655",
+        "https://www.thestreet.com/economy/bofa-just-flagged-the-best-portfolio-strategy-since-the-great-depression",
+        "https://www.investing.com/news/stock-market-news/2-exogenous-shocks-needed-to-boost-stocks-from-lofty-levels-bofas-hartnett-4515510"
       ]
     }
   ]
