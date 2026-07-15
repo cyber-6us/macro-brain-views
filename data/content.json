@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14",
+  "last_updated": "2026-07-15",
   "entries": [
     {
       "id": "2026-07-14-8fc60fc5",
@@ -5973,6 +5973,93 @@
         "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSHpLUlI1X19TQUNwOGVHeF9zUzlMMkd2ZDNESVdNWnp6Tkpta3YxempsMU9vYldCOGdvaUVPUWM1N05HaUQ1M3R6WUZTWUp4Mnh1ckZsTjlKVGljMzNpM1o4WkFBUm82MDZlS2tFSWZzVHA3Uk5uRjdHemtzUUZPNFFSNllsZC1Gc0VieW9pRU9kMzVvUTEzYWpSR0JQaXRLMEpYSWRZN0ZBS1AxYkk0UC05WGdUYTBZWTBEcmRZZw?oc=5",
         "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNY254TDM0Z2ZsbmI0ajhpeUs1aXlSa3U2bng2WnRYRGlITW5UOWo1MnFFWlVabGtOQU5QbXVXQkZZcmRTQm1OTnBIaWNOeGw1Q0drZmFMb3V0Si0zWmtVel8xWElTWWJGQVNEaFoxVDhpTUhScEN1ekUwTWI2QWxSdmdMamVKN2JyWEVnbHdFekliSDZ6WmE5U3Y4UTU0OE9qN3gwMjZRLUZlaUxlUXEwdmdueHNYRUJJdy1hY254c2lXYkx5Q1g1UXVzNXVRZnBRd2VqTkFTUGNuQ0tNb3IwejBHYzFOV25qeTZvQWZvUGZ1c0V5c1hPZ0FwZHc?oc=5",
         "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTTAwMk9qa2ZST0ZoYWtwdlpVRnpfd2xTRzZIazQ0NENRUGtETmFaNTktdFRKYk9pekpPdjlCUEIzQzZOUk5pcVZiYUdpYU1fcDlySnBVMDVyenlZa1dJUDdMYWRxZ3hzUHdxbUZERjlLQzY0bHVDMTN2eWUydTJQZ09aWEVPamFXRkVwLQ?oc=5"
+      ]
+    },
+    {
+      "id": "2026-07-15-2bc6b016",
+      "date": "2026-07-15",
+      "investor": "Michael Hartnett",
+      "side": "sell",
+      "summary": "BofA's July 14 Global Fund Manager Survey shows investors have swung to their most bullish positioning since February 2026, even as Hartnett's Bull & Bear Indicator remains at a contrarian sell-signal 9.5. Hartnett articulates a 'Four Won'ts' consensus \u2014 no hard landing, no Fed hike before midterms, no AI capex cuts, no Democrat midterm sweep \u2014 and warns any single leg failing triggers a violent correction. He flags Japan bank stocks as a global 'canary': JGB yields near 3% and Japanese bank stocks tripled over three years, a signal that duration risk is being seriously mispriced elsewhere.",
+      "key_views": [
+        "BofA FMS: investors most bullish since February 2026 \u2014 consensus and Bull & Bear at 9.5 sell signal diverging dangerously",
+        "'Four Won'ts' consensus \u2014 any single failure (hard landing, Fed hike, AI capex cut, Dem sweep) = violent correction",
+        "AI bubble = #1 tail risk for 45% of Fund Manager Survey respondents; AI capex at $800B in 2026, $1T in 2027",
+        "Japan bank stocks are the global 'canary' \u2014 JGB yields near 3%, bank stocks tripled in 3 years, signaling real duration risk",
+        "Investors remain 'frozen bullish' despite 5% long-bond yields \u2014 positioning not adjusting to yield signal"
+      ],
+      "trade_ideas": [
+        "'Sleep like a baby' portfolio: 25% stocks / 25% bonds / 25% cash / 25% commodities"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "rates",
+        "commodities"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://finance.biggo.com/news/3a3448a2-1aab-4d2b-9aa5-bf84f87a3853",
+        "https://www.investing.com/news/stock-market-news/bofas-hartnett-says-investors-remain-frozen-bullish-despite-5-longbond-yields-4739166",
+        "https://money.usnews.com/investing/news/articles/2026-07-14/global-investors-turn-most-bullish-since-february-bofa-survey-shows",
+        "https://www.investing.com/analysis/boas-michael-hartnetts-playbook-for-life-after-the-bubble-200681248"
+      ]
+    },
+    {
+      "id": "2026-07-15-6e546460",
+      "date": "2026-07-15",
+      "investor": "Jan Hatzius",
+      "side": "sell",
+      "summary": "Goldman Sachs forecasts US growth cooling to 'stall speed' of just 1.25-1.75% in H2 2026 after June nonfarm payrolls came in at only 57,000 jobs \u2014 well below expectations and a second consecutive weak reading. Hatzius cut the 12-month US recession probability to 15% (from 25%) in June after an Iran peace deal removed the geopolitical risk premium. June CPI printed 3.5% annually, below the 3.8% consensus, as energy prices pulled back \u2014 though core services inflation and elevated Fed hawkishness under Kevin Warsh keep any near-term cut off the table.",
+      "key_views": [
+        "US H2 2026 growth: 1.25-1.75% 'stall speed' \u2014 minimal buffer above recession territory, a downshift from the H1 2.6% call",
+        "June payrolls: only 57,000 jobs \u2014 second consecutive miss, labor market weakness becoming 'too entrenched' for cyclical reversal",
+        "Recession probability cut to 15% (from 25%) after Iran peace deal removed geopolitical risk premium (June 22)",
+        "June CPI: 3.5% vs 3.8% expected \u2014 energy pullback provides relief but core services remain sticky",
+        "Fed under Warsh: hawkish first meeting, higher-for-longer bias with rate hike back in play before year-end"
+      ],
+      "trade_ideas": [],
+      "asset_classes": [
+        "equities",
+        "rates",
+        "bonds",
+        "fx"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://finance.yahoo.com/news/goldman-sachs-chief-economist-us-economy-is-in-stall-speed-174203126.html",
+        "https://www.thestreet.com/economy/goldman-sachs-resets-recession-risks-for-2026",
+        "https://www.roic.ai/news/goldman-sachs-slashes-us-recession-probability-to-15-on-easing-geopolitical-risks-06-22-2026",
+        "https://www.cnbc.com/video/2026/07/02/goldman-sachs-hatzius-on-june-jobs-reports-implications-for-fed-decision.html",
+        "https://247wallst.com/investing/2026/07/14/stock-market-live-july-14-2026-sp-500-spy-regaining-lost-ground-on-inflation-report/"
+      ]
+    },
+    {
+      "id": "2026-07-15-a6b77afe",
+      "date": "2026-07-15",
+      "investor": "Liz Ann Sonders",
+      "side": "sell",
+      "summary": "Schwab's July 2026 Market Snapshot shows the bull market intact with 25% full-year S&P 500 earnings growth consensus, but Sonders highlights deepening fault lines: June CPI at 3.5% (below 3.8% expected) and June payrolls at only 57,000 jobs signal simultaneous slowing labor market and sticky inflation. Renewed US-Iran tensions have driven oil higher, acting as a supply-side shock on consumers already running thin on savings. The Great Moderation era of low volatility is over \u2014 Sonders argues the new regime of instability favors flexibility and diversification over passive buy-and-hold.",
+      "key_views": [
+        "Bull market alive with 25% S&P earnings growth consensus but growth dangerously concentrated in tech (Alphabet, Broadcom, Micron, Sandisk, Intel)",
+        "June CPI 3.5% vs 3.8% expected \u2014 energy pullback provided temporary relief; core services inflation still elevated",
+        "June payrolls 57,000 \u2014 second consecutive miss; labor market cooling faster than headline GDP suggests",
+        "Renewed US-Iran tensions driving oil higher \u2014 new supply shock hitting households with low savings rates and weak real wage growth",
+        "Great Moderation over: new era of instability favors flexibility and diversification over passive exposure"
+      ],
+      "trade_ideas": [],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "rates",
+        "commodities"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://www.schwab.com/learn/story/market-snapshot",
+        "https://247wallst.com/investing/2026/07/14/stock-market-live-july-14-2026-sp-500-spy-regaining-lost-ground-on-inflation-report/",
+        "https://money.usnews.com/investing/news/articles/2026-07-14/global-investors-turn-most-bullish-since-february-bofa-survey-shows",
+        "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---inflation-fears-return---14-july-2026-14072026"
       ]
     }
   ]
