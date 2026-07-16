@@ -1,185 +1,204 @@
 {
-  "generated_at": "2026-07-15",
+  "generated_at": "2026-07-16",
   "today": {
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "entries_count": 3,
     "buy_side_bullets": [],
     "sell_side_bullets": [
-      "Fund managers most bullish since February while Bull & Bear Indicator stays at 9.5 — 'Four Won'ts' consensus fragile; any single failure triggers violent correction. [Hartnett]",
-      "US H2 2026 downgraded to 'stall speed' of 1.25-1.75% after June payrolls came in at only 57,000 — labor market weakness becoming structural. [Hatzius shift]",
-      "June CPI 3.5% vs 3.8% expected — energy pullback temporary relief but Great Moderation era of low volatility is structurally over. [Sonders, Hatzius]",
-      "Japan bank stocks flagged as global 'canary' for duration risk — JGB yields near 3%, bank stocks tripled in 3 years; investors frozen bullish despite 5% long-bond yields. [Hartnett]",
-      "Bull market alive with 25% S&P earnings growth consensus but dangerously concentrated; renewed US-Iran tensions adding oil supply shock on stretched consumers. [Sonders]"
+      "Chip momentum fading \u2014 rotate from semiconductors to hyperscalers as AI spending moves from buildout to deployment phase; median S&P 1500 tracking 10%+ EPS growth, best breadth since post-COVID. [Wilson]",
+      "Consumer AI agents are 'the next big surprise' \u2014 Apple is an unexpected winner due to OS/hardware integration moat vs OpenAI; shift market leadership from semis to agent deployers. [Visser]",
+      "Inflation will 'crater' by year-end despite oil price surge \u2014 higher oil triggers consumer cost squeeze that kills demand; stagflation consensus is wrong. [Rosenberg]",
+      "19% S&P earnings growth consensus is structurally impossible with nominal GDP at 4-5% and margins already at records; H2 2026 economic strain ahead. [Rosenberg]",
+      "Liquidity squeeze (not rate hikes) is primary near-term threat to equity momentum; bull market broadening to cyclicals and industrials intact. [Wilson]"
     ],
     "whats_new": [
-      "'Four Won'ts' framework articulated for first time — codifies the fragility of current consensus positioning. [Hartnett]",
-      "US H2 2026 downgraded to 'stall speed' (1.25-1.75%) — significant shift from Goldman's earlier 2.6% US growth forecast. [Hatzius shift]",
-      "Japan bank stocks introduced as explicit global canary for sovereign duration risk mispricing. [Hartnett]",
-      "June CPI (3.5%) and payrolls (57K) specific data confirms dual softening signal for July snapshot. [Sonders]"
+      "Wilson explicitly calls the chip\u2192hyperscaler rotation as the dominant sector trade, citing fading semiconductor momentum \u2014 new specific call within his broader bull framework.",
+      "Visser pivots from broad AI disruption thesis to specific consumer agent forecast with Apple as named beneficiary \u2014 more actionable than prior macro framing.",
+      "Rosenberg counter-punches the stagflation narrative directly, positioning disinflation as the 2026 surprise \u2014 contrast with Hartnett and Edwards who remain focused on inflation risks."
     ],
     "vs_market_buy": [],
     "vs_market_sell": [
-      "Hartnett sees extreme bubble risk while fund managers are most bullish since February — contrarian to consensus positioning.",
-      "Hatzius 'stall speed' H2 call diverges from consensus optimism on US growth."
+      "Rosenberg vs consensus: market pricing stagflation; Rosenberg says inflation collapses under its own demand-destruction weight.",
+      "Wilson vs bearish sell-side: while Hartnett signals sell at Bull & Bear 9.5, Wilson sees earnings broadening validating continued upside.",
+      "Visser vs semis consensus: market concentrated in chip names; Visser says leadership shifts to consumer agent deployers."
     ],
-    "buy_vs_sell_divergence": [],
+    "buy_vs_sell_divergence": [
+      "No buy-side entries today for direct comparison."
+    ],
     "aligned": [
-      "June CPI 3.5% below 3.8% expected — energy pullback provides temporary inflation relief.",
-      "US labor market softening materially — 57K June payrolls second consecutive weak reading.",
-      "Iran/geopolitical tensions adding new oil-driven supply shock to the macro picture."
+      "Chip\u2192hyperscaler rotation: Wilson (sell-side, structural call) and Visser (sell-side) both see semiconductor leadership fading and hyperscaler/agent layer rising."
     ],
     "buy_side_trades": [],
     "sell_side_trades": [
-      "'Sleep like a baby' portfolio: 25% stocks / 25% bonds / 25% cash / 25% commodities. [Hartnett]"
+      "Long Apple as consumer AI agent beneficiary [Visser]",
+      "Rotate from semiconductor/chip ETFs toward hyperscaler/AI cloud names [Wilson, Visser]",
+      "Overweight median S&P 1500 vs Mag-7 concentration for earnings breadth trade [Wilson]",
+      "De-risk equity exposure, move to cash [Rosenberg]"
     ],
     "dominant_themes": [
-      "Fragile bull consensus — 'Four Won'ts' framework and most bullish FMS since February create asymmetric risk",
-      "Labor market stall speed — June payrolls 57K triggers Goldman H2 downgrade to 1.25-1.75% growth",
-      "Iran/oil supply shock — renewed geopolitical tension acting as new consumer headwind"
+      "AI infrastructure rotation: chips to hyperscalers/consumer agents",
+      "Counter-stagflation: inflation cratering despite oil surge",
+      "Earnings breadth expanding beyond tech megacaps"
     ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "week": {
-    "period_start": "2026-07-08",
-    "period_end": "2026-07-15",
-    "entries_count": 96,
+    "period_start": "2026-07-09",
+    "period_end": "2026-07-16",
+    "entries_count": 73,
     "buy_side_bullets": [
-      "AI bull market has 'another year or two to run' — explicit 1999 analog; warns potential 300-350% market cap/GDP ratio would cause breathtaking correction. [Tudor Jones]",
-      "Quality stocks 'stupidly cheap' — one of best entry points in years; higher-for-longer inflation bullish for durable compounders. [Ackman]",
-      "US equities 'most expensive ever since we began managing money' — Greenlight closed to new investors July 1; capital preservation now top priority. [Einhorn]",
-      "'Just not possible' for Fed to cut rates — would bet on hikes; portfolio 30% non-US stocks, 20% real assets, 30% bonds, 20% cash. [Gundlach]",
-      "Appaloosa surged 32% H1 2026 on AI memory chip concentration — Micron HBM as primary infrastructure play, all gains generated in Q2. [Tepper]",
-      "'Most dangerous phase of the Big Cycle' in 500 years — debt crisis, political disorder, and geopolitical conflict converging simultaneously. [Dalio]"
+      "US equities remain the long \u2014 hedge the dollar via commodities and international, not by going short US stocks; AI is 'all that matters.' [Druckenmiller]",
+      "AI bull market has 'another year or two to run' \u2014 parallels 1999, not yet at peak; breathtaking corrections will come when it ends. [Tudor Jones]",
+      "Quality stocks are 'stupidly cheap' \u2014 some highest-quality businesses at lowest multiples in history; one of the best entry points in years. [Ackman]",
+      "Most dangerous phase of the 'Big Cycle' \u2014 convergence of debt crisis, political disorder, and AI arms race echoes pre-1945 disruption. [Dalio]",
+      "US equity market is 'most expensive since we began managing money' \u2014 Greenlight closed to new investors, capital preservation now priority #1. [Einhorn]",
+      "No recession; '3-3-3' plan on track \u2014 3% GDP growth, 3% deficit/GDP, 3M bpd oil production; Iran peace deal removes key risk. [Bessent]"
     ],
     "sell_side_bullets": [
-      "US H2 2026 downgraded to 'stall speed' (1.25-1.75% growth) after June payrolls 57K — labor weakness becoming structural, not cyclical. [Hatzius shift]",
-      "Bull & Bear Indicator at extreme 9.5 + fund managers most bullish since February — 'Four Won'ts' consensus one failure away from violent correction. [Hartnett]",
-      "AI productivity gains 'years away' from economic data — if AI underdelivers, catastrophically worsens already unsustainable global debt levels. [Reid]",
-      "'Roaring 2020s' intact — S&P 500 target raised to 8,250 (highest on Wall Street); 80% odds bull continues; may hit 10,000 ahead of schedule. [Yardeni]",
-      "2026 in two stages: H1 Great Rotation (tech to non-tech), H2 broad selloff on weakening US economy; US recession odds 40-50%. [Berezin]",
-      "Financial repression cycle beginning — 4-5.5% inflation for a decade with rates structurally kept below it; 60/40 portfolio is high-risk. [Napier]"
+      "Bull & Bear Indicator at 9.5 contrarian sell signal for multiple weeks; investors most bullish since Feb 2026 \u2014 'Four Won'ts' consensus is fragile. [Hartnett]",
+      "US H2 2026 growth drops to 'stall speed' 1.25-1.75% after June payrolls printed only 57K \u2014 second consecutive miss; labor market cooling faster than GDP. [Hatzius]",
+      "AI productivity gains are 'years away' from economic data \u2014 if AI doesn't deliver, unsustainable debt levels get materially worse. [Reid]",
+      "Ice Age thesis dead \u2014 fiscal dominance and double-digit inflation risk is the new paradigm; tech at 37% of S&P, surpassing dot-com peak concentration. [Edwards]",
+      "H2 2026: broad-based equity selloff expected as Great Rotation trade completes and weakening US economy becomes undeniable. [Berezin]",
+      "S&P 500 to correct to ~5,250 no later than Q3 \u2014 three underestimated risks: geopolitics, weak consumer spending, concentrated tech. [Bannister]",
+      "Roaring 2020s intact \u2014 S&P target raised to 8,250; AI is 'the real deal, not a bubble'; 80% probability of continued bull market. [Yardeni]",
+      "Consumer AI agents are 'next big surprise,' Apple is unexpected winner; shift from chips to agent deployers underway. [Visser]"
     ],
     "whats_new": [
-      "Hatzius downgrades US H2 to 'stall speed' (1.25-1.75%) — significant shift from earlier 2.6% optimism after consecutive payroll misses. [Hatzius shift]",
-      "Hartnett introduces 'Four Won'ts' framework — most explicit codification yet of the fragility of current bull consensus. [Hartnett]",
-      "Japan bank stocks flagged as global duration canary — most concrete sovereign risk signal yet from macro community. [Hartnett]",
-      "Sonders July snapshot: Iran/Hormuz, June CPI 3.5%, payrolls 57K — new data points not previously integrated into view. [Sonders]",
-      "Einhorn closes Greenlight to new investors July 1 — backing bearish US equity conviction with a concrete structural action. [Einhorn]"
+      "Wilson shifts to specific chip\u2192hyperscaler rotation call \u2014 new within his broader bull thesis.",
+      "Visser moves from broad AI disruption framing to named-stock consumer agent call (Apple).",
+      "Rosenberg explicitly counters stagflation narrative, arguing oil price surge is ultimately deflationary.",
+      "Hartnett's 'Four Won'ts' framework is a new construct for framing consensus fragility.",
+      "Hatzius cut 12m recession probability to 15% (from 25%) post-Iran peace deal \u2014 significant shift."
     ],
     "vs_market_buy": [
-      "Einhorn and Gundlach both in buy camp but position for significant market pain — contrarian to fund manager consensus at most bullish since February. [Einhorn, Gundlach]",
-      "Dalio warns 'most dangerous phase of Big Cycle' while still owning risk assets — asymmetric hedging posture vs pure consensus bulls. [Dalio]"
+      "Einhorn vs market: US equities most expensive ever \u2014 diverges sharply from Ackman/Druckenmiller bull stance. [Einhorn]",
+      "Gundlach vs market: Fed will hike, not cut \u2014 market pricing cuts; Gundlach calls it 'just not possible.' [Gundlach]",
+      "Dalio vs consensus: entering most dangerous Big Cycle phase; market treating 2026 as routine bull market."
     ],
     "vs_market_sell": [
-      "Hartnett and Berezin call for correction while fund manager survey shows most bullish positioning since February 2026. [Hartnett, Berezin]",
-      "Bannister forecasts S&P correction to ~5,250 by Q3 while market trades near all-time highs. [Bannister]",
-      "Edwards forecasts double-digit inflation returning — sharply against consensus view of continued disinflation. [Edwards]"
+      "Rosenberg vs consensus: inflation craters as market prices stagflation.",
+      "Bannister vs consensus: S&P correction to 5,250 vs consensus targets of 7,500-8,250.",
+      "Hartnett vs consensus: market at contrarian sell signal while investors are most bullish since February.",
+      "Reid vs AI consensus: productivity gains years away vs market pricing immediate transformation."
     ],
     "buy_vs_sell_divergence": [
-      "AI duration: Tudor Jones says 1-2 more years [buy] vs Hartnett says AI is the largest bubble since 1880s railroads [sell]",
-      "S&P outlook: Ackman and Druckenmiller see cheap quality equities [buy] vs Berezin and Bannister see H2 broad selloff [sell]",
-      "Economic trajectory: Bessent projects 3% GDP [buy] vs Hatzius now sees H2 stall speed at 1.25-1.75% [sell]",
-      "Rates path: Gundlach would bet on rate hikes [buy] vs Wilson and Yardeni assume no hike and multiple expansion ahead [sell]"
+      "US equities: Ackman/Druckenmiller/Tudor Jones bullish vs Einhorn/Gundlach/Dalio bearish/cautious.",
+      "AI: Druckenmiller/Tudor Jones long AI stocks vs Reid warning productivity gains are years away.",
+      "Rates: Gundlach (buy-side) calls rate hikes vs Hatzius (sell-side) sees stall speed allowing eventual cuts.",
+      "S&P target divergence: Yardeni 8,250 and Wilson 7,800 vs Bannister 5,250 correction call \u2014 3,000 point spread."
     ],
     "aligned": [
-      "AI is the dominant macro and investment theme of this cycle — acknowledged by both sides as the central structural driver",
-      "Fed on hold to tightening bias — no cuts expected near-term; Kevin Warsh's first meeting hawkish, rate hike back in play",
-      "Iran/Middle East tensions adding oil-driven supply shock to macro picture — July 2026 new risk factor",
-      "June payrolls 57K well below expectations — labor market softening is emerging consensus risk"
+      "AI as the dominant macro force \u2014 buy and sell side universally agree AI is reshaping investment landscape.",
+      "Dollar weakness: Druckenmiller hedges USD, Gundlach positions for weaker dollar \u2014 cross-side agreement.",
+      "Earnings breadth expanding: Wilson (sell) and Ackman (buy) both see quality names with strong fundamentals.",
+      "No near-term Fed cuts: Gundlach (buy), Hatzius (sell) both see rate cuts as unlikely in 2026."
     ],
     "buy_side_trades": [
-      "Long Micron (HBM memory) as primary AI pick-and-shovel infrastructure play. [Tepper]",
-      "30% non-US stocks / 20% real assets / 30% high-quality bonds / 20% cash. [Gundlach]",
-      "Long Brazil EWZ — South American equity exposure as diversification into dislocated EM. [Druckenmiller]",
-      "Long MercadoLibre (MELI) after full exit from China (BABA, JD.com, Baidu). [Burry]"
+      "Long US equities, hedge dollar via commodities and international exposure [Druckenmiller]",
+      "Long AI/hyperscaler stocks (Tudor Jones recently bought more AI-related stocks) [Tudor Jones]",
+      "Long quality businesses trading at historic discounts \u2014 Amazon, Microsoft, Brookfield [Ackman]",
+      "30% non-US stocks / 20% real assets / 30% high-quality bonds / 20% cash [Gundlach]",
+      "Long gold (10% allocation) and commodities (5%) as real asset hedge [Gundlach]",
+      "Long Micron, Samsung, SK Hynix (memory chip plays) [Tepper]",
+      "Long South American equities \u2014 Brazil EWZ, Argentina ETF [Druckenmiller]"
     ],
     "sell_side_trades": [
-      "'Sleep like a baby': 25% stocks / 25% bonds / 25% cash / 25% commodities. [Hartnett]",
-      "Long gold, silver, uranium; long Japanese yen; long US Treasuries (2s/10s). [Rosenberg]",
-      "Overweight Financials as primary deregulation beneficiary in the new cycle. [Wilson]",
-      "Defensive value stocks over Big Tech-dominated index — preference for Stifel's DV names. [Bannister]"
+      "Rotate from semiconductor/chip ETFs toward hyperscalers [Wilson, Visser]",
+      "Long Apple as consumer AI agent beneficiary [Visser]",
+      "Overweight median S&P 1500 vs Mag-7 for earnings breadth trade [Wilson]",
+      "'Sleep like a baby' portfolio: 25% stocks / 25% bonds / 25% cash / 25% commodities [Hartnett]",
+      "De-risk equities, move to cash [Rosenberg]",
+      "Long financial repression beneficiaries (real assets, short nominal bonds) [Napier]",
+      "Prefer defensive value over tech-dominated indices [Bannister]"
     ],
     "dominant_themes": [
-      "AI bubble vs. productivity reality — peak bull consensus collides with Reid's warning that productivity gains are years away",
-      "Labor market stall speed — June payrolls 57K triggers Goldman H2 downgrade, structural not cyclical",
-      "Iran/oil geopolitical shock — renewed tensions acting as new supply-side consumer headwind in July"
+      "AI phase transition: from infrastructure buildout to consumer agent deployment",
+      "US growth slowdown vs bull market resilience \u2014 stall speed risk vs Roaring 2020s",
+      "Rates higher for longer: no Fed cuts in 2026, potential hike risk"
     ],
-    "buy_side_sentiment": "mixed",
+    "buy_side_sentiment": "bullish",
     "sell_side_sentiment": "bearish"
   },
   "month": {
-    "period_start": "2026-06-15",
-    "period_end": "2026-07-15",
-    "entries_count": 213,
+    "period_start": "2026-06-16",
+    "period_end": "2026-07-16",
+    "entries_count": 216,
     "buy_side_bullets": [
-      "AI bull market has '1-2 more years to run' — 1999 analog; warns valuation extremes (300-350% market cap/GDP) would produce breathtaking correction at end. [Tudor Jones]",
-      "Quality stocks 'stupidly cheap' amid macro volatility — best entry in years for durable compounders; higher-for-longer inflation is bullish for these names. [Ackman]",
-      "US equities 'most expensive ever' — Greenlight closed to new investors July 1; macro instruments (gold, copper, rates) now preferred over equities as expression vehicle. [Einhorn]",
-      "'Just not possible' for Fed to cut; portfolio 30% non-US, 20% real assets, 30% bonds, 20% cash — positioning for higher-for-longer. [Gundlach]",
-      "Appaloosa +32% H1 2026 on AI memory chips — Micron HBM as primary infrastructure play; 40% average cash position shows discipline. [Tepper]",
-      "'Most dangerous phase of Big Cycle' in 500 years — capital wars, modern mercantilism, debt crisis and geopolitical conflict all converging. [Dalio]"
+      "US equities remain core long despite stretched valuations \u2014 contrarianism is overrated; hedge dollar, not US stocks. [Druckenmiller shift]",
+      "AI bull market has 1-2 years left \u2014 1999 parallel intact; buying AI-related stocks on pullbacks. [Tudor Jones evolving]",
+      "Appaloosa surged 32% in H1 on memory chip bets; rotating to China exposure and non-US cyclicals while trimming Mag-7. [Tepper shift]",
+      "Quality stocks at cheapest levels in decades \u2014 10x return potential in some names; best time to deploy capital in years. [Ackman shift]",
+      "Most dangerous Big Cycle phase: debt crisis, political disorder, AI arms race converging; diversify to China and real assets. [Dalio]",
+      "No recession: '3-3-3' plan on track; Iran peace removes geopolitical overhang; GDP back to 3% before year-end. [Bessent shift]",
+      "US equities most expensive ever; Greenlight closed to new investors; capital preservation is now top priority. [Einhorn evolving]"
     ],
     "sell_side_bullets": [
-      "US H2 2026 at 'stall speed' of 1.25-1.75% after June payrolls 57K — structural labor weakness, recession probability held at 15% after Iran peace deal. [Hatzius shift]",
-      "Bull & Bear at 9.5 extreme; fund managers most bullish since February — 'Four Won'ts' consensus fragile; Japan bank stocks as duration canary. [Hartnett]",
-      "AI productivity gains 'years away' — if AI underdelivers, unsustainable global debt trajectories get catastrophically worse. [Reid]",
-      "'Roaring 2020s' intact — S&P target 8,250 (Street high); 80% bull scenario; long-term S&P 10,000 may arrive ahead of 2029 schedule. [Yardeni]",
-      "2026 = H1 Great Rotation (tech to non-tech), H2 broad selloff; toxic brew of elevated valuations, AI capex bubble, private credit stress. [Berezin]",
-      "Financial repression replacing monetary orthodoxy — 4-5.5% decade-long inflation, rates kept below it; 60/40 is a 'high-risk' approach. [Napier]",
-      "Ice Age thesis evolved: fiscal dominance and double-digit inflation now the primary risk, not deflation. [Edwards]",
-      "Risk of overheating now exceeds stagflation risk — AI + OBBB + industrial renaissance could push growth well above trend by late 2026. [Slok]"
+      "Bull & Bear contrarian sell signal at 9.5; investors most bullish since Feb; 'Four Won'ts' consensus is the dominant fragility. [Hartnett evolving]",
+      "Goldman's 'stall speed' call: H2 2026 at 1.25-1.75% growth; June payrolls 57K \u2014 labor market cooling faster than headline suggests. [Hatzius]",
+      "AI productivity payoff is years away; unsustainable debt levels intensify if AI fails to deliver. [Reid shift]",
+      "Ice Age thesis retired \u2014 fiscal dominance + double-digit inflation risk is the new paradigm; tech at dot-com+ concentration. [Edwards]",
+      "H2 2026 broad-based equity selloff as Great Rotation completes; 40% recession probability. [Berezin evolving]",
+      "Roaring 2020s intact \u2014 S&P 8,250 target, AI is real, 80% bull scenario probability. [Yardeni]",
+      "Financial repression begins: 15-20 years of government-capped rates below inflation; capital controls risk. [Napier]",
+      "Three underestimated risks: geopolitics, weak lower-income consumer, concentrated tech; S&P to 5,250 correction target. [Bannister]"
     ],
     "whats_new": [
-      "Hatzius: H2 'stall speed' call is a meaningful downgrade from earlier 2.6% US growth forecast — pivotal shift in Goldman's US view. [Hatzius shift]",
-      "Hartnett: 'Four Won'ts' framework and Japan bank stock canary — new analytical constructs not present in June commentary. [Hartnett]",
-      "Einhorn: Fund formally closed to new investors July 1 — backing bearish conviction with structural action, not just verbal caution. [Einhorn]",
-      "Sonders July snapshot: Iran/Hormuz oil shock, June CPI 3.5%, payrolls 57K — first integration of July 2026 data into view. [Sonders]",
-      "Edwards: explicit double-digit inflation forecast published May 2026 — decisive abandonment of the Ice Age deflation thesis. [Edwards shift]",
-      "Druckenmiller: 'Contrarianism is overrated' — maintains long US equities while hedging dollar via international and commodity exposure. [Druckenmiller]"
+      "Consumer AI agents named as next major market theme \u2014 Apple as unexpected beneficiary [Visser, new this week]",
+      "Counter-stagflation: Rosenberg argues inflation craters despite oil surge \u2014 distinct from Edwards/Hartnett inflation-persistence view",
+      "Wilson chip\u2192hyperscaler rotation call: semiconductor leadership fading, cloud deployment phase begins",
+      "Hartnett's 'Four Won'ts' framework: new systematic way to stress-test consensus fragility",
+      "Hatzius cut 12m recession probability 25%\u219215% on Iran peace deal \u2014 most significant risk upgrade of the month"
     ],
     "vs_market_buy": [
-      "Dalio and Gundlach on buy side but both expect severe macro disruption — contrarian posture vs consensus bulls at peak optimism. [Dalio, Gundlach]",
-      "Einhorn and Burry both bearish within buy-side camp — US equities most expensive ever, China exit as macro statement. [Einhorn, Burry]"
+      "Einhorn, Dalio, Gundlach vs market: bearish while market consensus broadly bullish.",
+      "Gundlach: market prices Fed cuts, Gundlach prices Fed hikes \u2014 largest macro divergence vs market pricing.",
+      "Dalio: pre-1945 period risk vs market treating current era as routine cycle."
     ],
     "vs_market_sell": [
-      "Hartnett, Berezin, Bannister all calling for correction while global fund managers are most bullish since February 2026. [Hartnett, Berezin, Bannister]",
-      "Edwards forecasts double-digit inflation — sharply against broad consensus of continued disinflation and Fed normalization. [Edwards]",
-      "Napier argues 60/40 is high-risk; Rosenberg long treasuries and yen — both contrarian to consensus equity-heavy positioning. [Napier, Rosenberg]"
+      "Bannister 5,250 vs market 7,500+ \u2014 30%+ downside divergence from current levels.",
+      "Berezin: second-half selloff coming vs Yardeni's Roaring 2020s extension.",
+      "Rosenberg: inflation craters vs consensus stagflation scenario.",
+      "Reid: AI productivity years away vs market pricing imminent transformation premium."
     ],
     "buy_vs_sell_divergence": [
-      "AI timeline: Tudor Jones sees 1-2 more years [buy] vs Reid/Hartnett argue productivity is years away and it's the largest bubble since 1880s [sell]",
-      "S&P trajectory: Ackman, Druckenmiller long quality equities [buy] vs Berezin (H2 broad selloff), Bannister (5,250 target) [sell]",
-      "US GDP: Bessent projects 3%+ growth [buy] vs Hatzius sees H2 stall speed 1.25-1.75% [sell] — widest divergence of the month",
-      "Inflation regime: Gundlach and Edwards see higher rates/inflation [both camps] vs Wilson/Yardeni assume disinflation supports multiple expansion [sell]"
+      "AI timeline: Tudor Jones/Druckenmiller (1-2 more years) vs Hartnett (bubble forming) vs Reid (productivity years away).",
+      "US equity direction: Ackman/Druckenmiller bullish vs Einhorn/Dalio bearish vs Berezin expecting H2 selloff.",
+      "Fed trajectory: Gundlach (hikes) vs Hatzius (stall speed, then eventual cuts) \u2014 biggest macro divergence.",
+      "S&P 500 year-end target range: Yardeni 8,250 vs Wilson 7,800 vs Bannister 5,250 correction."
     ],
     "aligned": [
-      "AI is the defining macro and investment theme of the current cycle — unanimous across both sides of the aisle",
-      "Fed on hold to tightening bias under Warsh — no cuts expected in 2026; rate hike odds rising in July",
-      "Iran/Middle East tensions introduced as new oil-driven supply shock — July 2026 consensus emerging risk",
-      "Labor market softening is a growing shared concern — June payrolls 57K registers across multiple frameworks",
-      "Dollar weakness/non-US diversification endorsed broadly — Druckenmiller, Gundlach, Rosenberg all building non-USD exposure"
+      "AI as dominant investment mega-theme \u2014 universal across buy and sell side.",
+      "No Fed rate cuts in 2026 \u2014 Gundlach (buy), Hatzius (sell), Hartnett (sell) all aligned.",
+      "Dollar structurally weaker \u2014 Druckenmiller (buy), Gundlach (buy), Edwards (sell) all hedge or short USD.",
+      "Private credit alpha migrating from direct lending to ABF and distressed [Marks \u2014 buy-side] \u2014 broadly acknowledged.",
+      "Earnings breadth expanding beyond Mag-7 \u2014 Wilson (sell), Ackman (buy), Sonders (sell) all agree."
     ],
     "buy_side_trades": [
-      "Long Micron / HBM memory as primary AI pick-and-shovel infrastructure play. [Tepper]",
-      "30% non-US stocks / 20% real assets / 30% high-quality bonds / 20% cash. [Gundlach]",
-      "Long Brazil EWZ — South American equity as EM diversification. [Druckenmiller]",
-      "Long MercadoLibre (MELI) after full China exit (BABA, JD.com, Baidu). [Burry]",
-      "Long XLF Financials — conviction bet on deregulation cycle. [Druckenmiller]"
+      "Long US equities, hedge dollar via commodities and international exposure [Druckenmiller]",
+      "Long AI/hyperscaler stocks, buy pullbacks [Tudor Jones]",
+      "Long quality businesses at historic discounts \u2014 Amazon, Microsoft, Brookfield, Uber [Ackman]",
+      "Long memory chip makers: Micron, Samsung, SK Hynix [Tepper]",
+      "Long Brazil (EWZ), Argentina ETF \u2014 South American macro trade [Druckenmiller]",
+      "30% non-US stocks / 20% real assets / 30% HQ bonds / 20% cash; 10% gold [Gundlach]",
+      "Long gold; long copper; diversify to China/Asia [Gundlach, Dalio]"
     ],
     "sell_side_trades": [
-      "'Sleep like a baby': 25% stocks / 25% bonds / 25% cash / 25% commodities. [Hartnett]",
-      "Long gold, silver, uranium; long Japanese yen; long US Treasuries (2s/10s). [Rosenberg]",
-      "Overweight Financials as deregulation primary beneficiary in new cycle. [Wilson]",
-      "Defensive value stocks over Big Tech-dominated indices — Stifel DV preference. [Bannister]",
-      "Long asset-backed finance and distressed credit over commoditized direct lending. [Marks]"
+      "Rotate from semiconductor/chip ETFs toward hyperscalers and consumer AI agents [Wilson, Visser]",
+      "Long Apple as consumer AI agent beneficiary [Visser]",
+      "'Sleep like a baby' portfolio: 25/25/25/25 stocks/bonds/cash/commodities [Hartnett]",
+      "De-risk equities, move to cash; avoid chasing tail risks [Rosenberg]",
+      "Long financial repression beneficiaries: real assets, inflation-linked bonds, short nominal Treasuries [Napier]",
+      "Defensive value over tech-concentrated indices [Bannister]",
+      "Overweight median S&P 1500 vs Mag-7 for earnings breadth trade [Wilson]"
     ],
     "dominant_themes": [
-      "AI bubble vs. productivity reality — market at peak bull consensus while structural productivity impact is years away",
-      "Labor market / stall speed — consecutive payroll misses trigger Goldman downgrade; structural vs. cyclical debate intensifying",
-      "Geopolitical regime shift — Iran tensions, capital wars, modern mercantilism reshaping cross-asset frameworks"
+      "AI phase transition: from infrastructure buildout to consumer agent deployment and productivity payoff debate",
+      "Stagflation vs disinflation: oil-driven inflation persistence vs demand-destruction collapse scenario",
+      "Bull market broadening vs late-cycle concentration: earnings beyond Mag-7 vs tech still at record share of index"
     ],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "buy_side_sentiment": "bullish",
+    "sell_side_sentiment": "bearish"
   }
 }

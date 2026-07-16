@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "entries": [
     {
       "id": "2026-07-14-8fc60fc5",
@@ -6060,6 +6060,88 @@
         "https://247wallst.com/investing/2026/07/14/stock-market-live-july-14-2026-sp-500-spy-regaining-lost-ground-on-inflation-report/",
         "https://money.usnews.com/investing/news/articles/2026-07-14/global-investors-turn-most-bullish-since-february-bofa-survey-shows",
         "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---inflation-fears-return---14-july-2026-14072026"
+      ]
+    },
+    {
+      "id": "2026-07-16-33196b91",
+      "date": "2026-07-16",
+      "investor": "Jordi Visser",
+      "side": "sell",
+      "summary": "Visser published a specific July 14 CNBC call that consumer AI agents are 'the next big surprise' and that Apple is an unexpected winner \u2014 distinct from his earlier broad AI/macro disruption thesis. He argues the agentic AI layer will compress costs and create deflationary pressure in services, while Apple's tight OS/hardware integration positions it to capture consumer agent share from OpenAI. Bottlenecks in AI infrastructure (energy, compute) are shifting market leadership from semiconductor buildout plays to consumer-facing agent deployers.",
+      "key_views": [
+        "Consumer AI agents are 'the next big surprise' \u2014 the next major market-moving theme after data center buildout",
+        "Apple is an unlikely AI winner: OS+hardware integration creates defensible moat vs OpenAI in consumer agent market",
+        "AI infrastructure bottlenecks (energy, compute) shifting leadership from chips/semis to hyperscaler and agent deployers",
+        "Humanoids, robotaxis, and AI drug discovery create structural deflationary pressure on services inflation",
+        "Market rotation into value, commodities, and international underway as AI capex cycle matures"
+      ],
+      "trade_ideas": [
+        "Long Apple as consumer AI agent beneficiary",
+        "Rotate from semiconductor capex plays toward consumer-facing agent deployers"
+      ],
+      "asset_classes": [
+        "equities"
+      ],
+      "sentiment": "bullish",
+      "sources": [
+        "https://www.cnbc.com/video/2026/07/14/consumer-ai-agents-are-the-next-big-surprise-and-apple-will-benefit.html",
+        "https://22vresearch.com/ai-macro-nexus-research/"
+      ]
+    },
+    {
+      "id": "2026-07-16-8e1e0837",
+      "date": "2026-07-16",
+      "investor": "David Rosenberg",
+      "side": "sell",
+      "summary": "Rosenberg breaks sharply from the stagflation consensus, arguing inflation will 'crater' by year-end even as oil prices surge on Iran tensions. His thesis: higher oil prices trigger a consumer cost squeeze that slows demand, ultimately sending inflation in reverse. He warns that analysts pricing 19% S&P 500 earnings growth for 2026 require profit margins reaching new record highs on top of already-record levels \u2014 structurally impossible with nominal GDP tracking only 4-5%. His latest memo recommends de-risking, moving to cash, and not chasing tail risks.",
+      "key_views": [
+        "Inflation will 'crater' by year-end despite oil price surge \u2014 consumer cost squeeze kills demand and reverses prices",
+        "Stagflation consensus is wrong: higher oil is ultimately deflationary when consumers are already stretched",
+        "19% S&P earnings growth consensus structurally impossible with nominal GDP at 4-5% and margins already at records",
+        "H2 2026 economic strain ahead after tax-refund boost fades \u2014 significant deceleration likely",
+        "Recession probability exceeds renewed boom probability \u2014 de-risk, move to cash, avoid chasing tail risks"
+      ],
+      "trade_ideas": [
+        "De-risk equity exposure, move to cash",
+        "Avoid chasing tail risks in current environment"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "commodities"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://finance.yahoo.com/news/forget-stagflation-one-economist-says-103001454.html",
+        "https://web.rosenbergresearch.com/itscomplicatedsoderisk",
+        "https://www.cnbc.com/video/2026/04/08/the-economy-is-going-to-be-in-weaker-shape-says-david-rosenberg.html"
+      ]
+    },
+    {
+      "id": "2026-07-16-0b05ff1e",
+      "date": "2026-07-16",
+      "investor": "Mike Wilson",
+      "side": "sell",
+      "summary": "Wilson updated his sector rotation thesis in two Bloomberg notes: a July 6 call for rotating from semiconductors to hyperscalers as chip momentum fades, and a July 13 note showing S&P 1500 median constituent tracking 10%+ EPS growth this quarter \u2014 the best earnings breadth since the post-COVID recovery. The bull case is broadening well beyond Mag-7, supporting his year-end S&P 500 target of 7,800. Near-term, a liquidity squeeze (not rate hikes) remains the primary risk to equity momentum.",
+      "key_views": [
+        "Chip momentum fading \u2014 rotate from semiconductors to hyperscalers as AI infrastructure spending enters deployment phase",
+        "Median S&P 1500 constituent tracking 10%+ EPS growth \u2014 best earnings breadth since post-COVID recovery",
+        "Bull market broadening is the defining 2026 development: cyclicals, industrials, and financials now contributing alongside tech",
+        "S&P 7,800 year-end target intact \u2014 multiple expansion for median stock remains underappreciated upside catalyst",
+        "Liquidity squeeze (not rate hikes) is primary near-term threat to equity momentum"
+      ],
+      "trade_ideas": [
+        "Rotate from semiconductor/chip ETFs toward hyperscaler/AI cloud names",
+        "Overweight median S&P 1500 vs Mag-7 concentration for earnings breadth trade"
+      ],
+      "asset_classes": [
+        "equities"
+      ],
+      "sentiment": "bullish",
+      "sources": [
+        "https://www.bloomberg.com/news/articles/2026-07-13/morgan-stanley-s-wilson-sees-profit-boost-for-stocks-beyond-tech",
+        "https://www.bloomberg.com/news/articles/2026-07-06/morgan-stanley-s-wilson-sees-rotation-from-chips-to-hyperscalers",
+        "https://www.morganstanley.com/insights/podcasts/thoughts-on-the-market/equity-market-broadening-sector-rotation-bull-market-outlook-mike-wilson"
       ]
     }
   ]
