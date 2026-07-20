@@ -1,208 +1,203 @@
 {
-  "generated_at": "2026-07-19",
+  "generated_at": "2026-07-20",
   "today": {
-    "date": "2026-07-19",
+    "date": "2026-07-20",
     "entries_count": 7,
     "buy_side_bullets": [
-      "AI bull market has 1-2 more years to run \u2014 1999 parallel holds, adding to positions. [Tudor Jones]",
-      "Quality stocks 'stupidly cheap,' 10x potential; 10-year equity index still the best bet. [Ackman]",
-      "Fed cannot cut \u2014 may hike; secular rate decline over; DoubleLine at 17-year lowest risk. [Gundlach]",
-      "AI is not a fad but current prices demand rigorous valuation discipline \u2014 don't confuse theme with price. [Marks]",
-      "Buying beaten-down value (Flutter, DraftKings, JD.com) while shorting AI leaders (NVIDIA, Palantir puts). [Burry]"
+      "Financials sector re-rating bet: $325M XLF position premised on rate cuts and deregulation reopening the deal machine — Goldman Sachs Q2 record results validate the thesis. [Druckenmiller]",
+      "China-Taiwan status quo described as 'best for world' but Xi's timeline is accelerating — geopolitical risk premium remains structurally underpriced by markets. [Bass]",
+      "Macro alpha migrating from rates/FX to equities inside Brevan's flagship fund — traditional macro playbook is becoming obsolete, broader alternatives toolkit required. [Howard]"
     ],
     "sell_side_bullets": [
-      "GDP near 3% and earnings up 25% YTD, but consumers strained by negative real wages \u2014 fault lines beneath the surface. [Sonders]",
-      "Financial repression for 15 years: 4-5.5% inflation, suppressed rates; post-1979 investment playbook is obsolete. [Napier]"
+      "Bull & Bear indicator at 9.5 — deepest sell signal yet; July 14 explicit warning to 'forget summer upside'; framing now 'bubble or burst' for the S&P 500. [Hartnett]",
+      "Overheating risk now replacing stagflation worry — AI buildout + industrial renaissance + One Big Beautiful Bill fiscal stimulus running too hot for Fed rate cuts. [Slok shift]",
+      "Bank lending surge adds new inflation transmission mechanism on top of fiscal dominance — double-digit inflation risk now has both structural and cyclical drivers. [Edwards]",
+      "Factor unwind underway: classical momentum/growth models breaking down as AI rewrites macro dynamics; rotation into value, commodities, and international markets. [Visser]"
     ],
     "whats_new": [
-      "Sonders July Market Snapshot upgrades full-year earnings growth forecast to 25% \u2014 first explicit upward revision this cycle",
-      "Ackman's index fund endorsement is a new stance \u2014 first time the concentrated stock-picker publicly advocates passive as top 10-year bet",
-      "Gundlach shifts from 'no cuts' to 'may hike' \u2014 more hawkish than consensus and prior positioning",
-      "Burry's new longs (Flutter, DraftKings, JD.com) represent fresh sector calls \u2014 gaming and China value not in prior disclosures",
-      "Napier makes financial repression the dominant framework for 15+ years \u2014 most extended horizon call in this cycle"
+      "Hartnett Bull & Bear escalated to 9.5 from 8.5 — material intensification of sell signal in one week",
+      "Slok explicitly pivots from stagflation to overheating framing — a meaningful stance change from prior Apollo mid-year note",
+      "Druckenmiller adds $325M XLF + Goldman Sachs financials trade — new portfolio leg not present in prior entries",
+      "Edwards introduces bank credit expansion as new inflation channel beyond fiscal dominance — adds transmission mechanism to his double-digit inflation thesis"
     ],
     "vs_market_buy": [
-      "Gundlach: market prices 0 rate hikes; he says a hike is more likely than any cut \u2014 extreme divergence from consensus",
-      "Burry: market is consensus-long AI; he is short NVIDIA/Palantir while buying gaming/China \u2014 direct contra-momentum"
+      "Bass: geopolitical risk premium on China-Taiwan structurally underpriced vs. current equity valuations",
+      "Druckenmiller: financials re-rating opportunity exists as market has only partially recognized the deal-machine recovery"
     ],
     "vs_market_sell": [
-      "Napier: market expects eventual return to low inflation/normal rates; he says repression suppresses rates for 15 years \u2014 no return to normal"
+      "Hartnett: explicit warning against summer upside consensus — contrarian short signal at 9.5 crowding indicator",
+      "Edwards: inflation trajectory far more extreme than what bond markets are currently pricing"
     ],
     "buy_vs_sell_divergence": [
-      "Rates trajectory: Gundlach (buy-side) says hike coming; Hartnett (sell-side) says 5% yields already signal sell",
-      "Equity outlook: Ackman, Tudor Jones bullish on quality/AI; Bannister calls for 5,250-6,500 correction by Q3",
-      "AI sustainability: Tudor Jones and Marks see productive multi-year runway; Burry shorts NVIDIA/Palantir as overvalued",
-      "Inflation: Edwards and Napier see persistent/rising; Sonders and Hatzius see sticky but manageable"
+      "Druckenmiller sees specific sector opportunities in financials; Hartnett says 'forget summer upside' for the broader market",
+      "Bass constructive on domestic resilience plays; Hartnett warns bubble conditions exist across the market"
     ],
     "aligned": [
-      "AI is a structural, multi-year macro force \u2014 not a fad [Marks, Slok, Hatzius, Tudor Jones]",
-      "Economy has held up better than feared \u2014 GDP resilient, earnings strong [Sonders, Bessent, Tepper, Hatzius]",
-      "Fiscal deficit trajectory is unsustainable \u2014 long-term risk to dollar and bonds [Bessent, Napier, Dalio, Mauldin]",
-      "Concentration risk in US equities is elevated \u2014 Mag 7 dominance is a vulnerability [Hartnett, Wilson, Berezin]"
+      "AI is the defining macro force reshaping market structure, factor models, and corporate earnings",
+      "Traditional macro frameworks (rates/FX, classical factor models) are becoming less reliable in the AI era"
     ],
     "buy_side_trades": [
-      "Long AI-related equities \u2014 Jones added to positions [Paul Tudor Jones]",
-      "Watch valuation levels: 300%+ market cap/GDP ratio is a key risk-off trigger [Paul Tudor Jones]",
-      "Selective within private credit \u2014 avoid sectors where capital deployment outpaced underwriting discipline [Howard Marks]",
-      "AI exposure requires price discipline \u2014 assess valuations, not just growth narrative [Howard Marks]",
-      "30% non-US stocks, 20% real assets, 30% high-quality bonds, 20% cash \u2014 Gundlach's recommended allocation [Jeffrey Gundlach]",
-      "Short long-duration Treasuries / avoid duration risk \u2014 yields will keep rising [Jeffrey Gundlach]"
+      "Long XLF ($325M) + Goldman Sachs — financials re-rating on deregulation and rate cuts [Druckenmiller]",
+      "Short Chinese assets / long domestic reshoring beneficiaries [Bass]",
+      "Long digital assets as AUM and alpha diversifier alongside traditional macro [Howard]"
     ],
     "sell_side_trades": [
-      "Avoid long-duration nominal bonds \u2014 returns will be structurally negative in real terms [Russell Napier]",
-      "Real assets, equities, gold as inflation protection [Russell Napier]",
-      "Equity markets as financial repression beneficiary \u2014 suppressed rates inflate asset values even with high inflation [Russell Napier]",
-      "Selective equity exposure with attention to concentration risk \u2014 not just buy the index blindly [Liz Ann Sonders]",
-      "Watch consumer health indicators \u2014 if real wages stay negative, spending slowdown likely [Liz Ann Sonders]"
+      "Post-bubble playbook: short US large-cap growth, long commodities and ex-US equities [Hartnett]",
+      "Underweight long-duration bonds — overheating scenario limits rate-cut-driven bond rally [Slok]",
+      "Short long-duration bonds; long TIPS, commodities, gold [Edwards]",
+      "Long value and commodities; long international (ex-US) as AI capex cycle matures [Visser]"
     ],
     "dominant_themes": [
-      "AI Productivity Boom vs. Valuation Risk \u2014 multi-year tailwind with potential bubble formation",
-      "Rates Higher for Longer / Possible Hike \u2014 consensus cuts priced out, Gundlach and Napier flagging structural shift",
-      "Fiscal Debt & Financial Repression \u2014 unsustainable deficits driving 15-year repression regime (Napier, Dalio, Mauldin)"
+      "Extreme bullish positioning (Bull & Bear at 9.5) vs. select buy-side sector opportunities — market at inflection",
+      "Inflation risk escalating: bank lending + fiscal dominance = overheating, not soft landing",
+      "Geopolitical risk (China-Taiwan, Middle East) structurally underpriced as equities trade near highs"
     ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "bearish"
   },
   "week": {
-    "period_start": "2026-07-12",
-    "period_end": "2026-07-19",
-    "entries_count": 75,
+    "period_start": "2026-07-13",
+    "period_end": "2026-07-20",
+    "entries_count": 74,
     "buy_side_bullets": [
-      "AI bull market has 1-2 more years to run \u2014 1999 parallel holds, adding to positions. [Tudor Jones]",
-      "Quality stocks 'stupidly cheap,' 10x potential; 10-year equity index still the best bet. [Ackman]",
-      "Fed cannot cut \u2014 may hike; secular rate decline over; DoubleLine at 17-year lowest risk. [Gundlach]",
-      "AI is not a fad but current prices demand rigorous valuation discipline \u2014 don't confuse theme with price. [Marks]",
-      "Buying beaten-down value (Flutter, DraftKings, JD.com) while shorting AI leaders (NVIDIA, Palantir puts). [Burry]"
+      "AI bull market has 'another year or two to run' — 1999 parallel, recently bought more AI stocks; warns of 'breathtaking corrections' when cycle ends. [Tudor Jones]",
+      "Financials re-rating trade ($325M XLF): rate cuts + deregulation reopening the deal machine; Goldman Q2 record results validate thesis. [Druckenmiller]",
+      "Memory chip dominance drove 32% H1 2026 return; rotating to cyclicals and China as mean-reversion plays while trimming mega-cap tech. [Tepper]",
+      "'Most expensive US equities ever' — all alpha from macro portfolio (gold, copper, rates); closing to new investors; reducing gross/net equity exposure. [Einhorn]",
+      "Fed rate cuts 'just not possible' — inflation won't cooperate; DoubleLine at lowest risk position in 17-year history; dollar structurally weak. [Gundlach]"
     ],
     "sell_side_bullets": [
-      "GDP near 3% and earnings up 25% YTD, but consumers strained by negative real wages \u2014 fault lines beneath the surface. [Sonders]",
-      "Financial repression for 15 years: 4-5.5% inflation, suppressed rates; post-1979 investment playbook is obsolete. [Napier]",
-      "Ice Age dead \u2014 now sees double-digit inflation coming; biggest framework shift in 30 years of forecasting. [Edwards]",
-      "Bull & Bear Indicator at 8.5 \u2014 contrarian sell signal; only 21 stocks making new highs echoes dot-com 2000 top. [Hartnett]",
-      "S&P correction to 5,250-6,500 area by Q3; inflation won't reach 2% without recession; EPS growth only 3.3%. [Bannister]"
+      "Bull & Bear indicator at 9.5 — 'forget summer upside,' bubble or burst; only 21 S&P stocks at new highs, same as March 2000 dot-com peak. [Hartnett]",
+      "S&P 8,250 target raised on 'gangbusters' earnings — Roaring 2020s intact, no recession, EPS $310 in 2026 (+15.7% YoY). [Yardeni]",
+      "Overheating risk replacing stagflation: AI + industrial renaissance + fiscal stimulus too hot for cuts; economy 'doing quite well.' [Slok shift]",
+      "Double-digit inflation risk: bank lending surge adds cyclical transmission on top of structural fiscal dominance; 1970s parallel. [Edwards]",
+      "2026 in two stages: Great Rotation tech-to-non-tech (H1, underway), then broad-based selloff (H2) on US economic weakness. [Berezin]"
     ],
     "whats_new": [
-      "Sonders July Market Snapshot upgrades full-year earnings growth forecast to 25% \u2014 first explicit upward revision this cycle",
-      "Ackman's index fund endorsement is a new stance \u2014 first time the concentrated stock-picker publicly advocates passive as top 10-year bet",
-      "Gundlach shifts from 'no cuts' to 'may hike' \u2014 more hawkish than consensus and prior positioning",
-      "Burry's new longs (Flutter, DraftKings, JD.com) represent fresh sector calls \u2014 gaming and China value not in prior disclosures",
-      "Napier makes financial repression the dominant framework for 15+ years \u2014 most extended horizon call in this cycle"
+      "Hartnett escalated Bull & Bear to 9.5 from 8.5 with explicit 'forget summer upside' warning — sharpest sell call of the year",
+      "Slok pivoted from stagflation to overheating framing — economy running too hot rather than stagnating",
+      "Druckenmiller added $325M XLF financials bet — new portfolio leg alongside Brazil and AI trades",
+      "Burry disclosed Flutter/DraftKings/JD.com buys via Substack (July 8-10) — value hunting in beaten-down sportsbooks and China tech",
+      "Edwards introduced bank credit expansion as new inflation channel — amplifying his double-digit inflation thesis with a cyclical driver"
     ],
     "vs_market_buy": [
-      "Gundlach: market prices 0 rate hikes; he says a hike is more likely than any cut \u2014 extreme divergence from consensus",
-      "Burry: market is consensus-long AI; he is short NVIDIA/Palantir while buying gaming/China \u2014 direct contra-momentum",
-      "Dalio: market ignores Big Cycle risk; he sees this as most dangerous phase in decades \u2014 risk dramatically underpriced"
+      "Gundlach more hawkish than market: 'no chance' of cuts, betting on hikes — diverges from 2 cuts consensus",
+      "Bass sees China-Taiwan geopolitical premium as structurally underpriced at current equity valuations",
+      "Einhorn: US equities most expensive in Greenlight history — extreme valuation divergence from bullish consensus"
     ],
     "vs_market_sell": [
-      "Napier: market expects eventual return to low inflation/normal rates; he says repression suppresses rates for 15 years \u2014 no return to normal",
-      "Hartnett: market is crowded bullish despite 5% long-bond yields \u2014 Bull & Bear at 8.5 contrarian sell; breadth is the tell",
-      "Bannister: consensus assumes soft landing EPS recovery; he sees 3.3% EPS growth vs consensus 15%+ \u2014 massive overestimate"
+      "Hartnett: explicit sell signal contrarian to the summer upside consensus; 'frozen bullish' investors ignoring 5% bond yields",
+      "Berezin: H2 broad selloff thesis diverges from the soft-landing rotation consensus",
+      "Edwards: inflation trajectory far more extreme than what bond or equity markets are pricing"
     ],
     "buy_vs_sell_divergence": [
-      "Rates trajectory: Gundlach (buy-side) says hike coming; Hartnett (sell-side) says 5% yields already signal sell",
-      "Equity outlook: Ackman, Tudor Jones bullish on quality/AI; Bannister calls for 5,250-6,500 correction by Q3",
-      "AI sustainability: Tudor Jones and Marks see productive multi-year runway; Burry shorts NVIDIA/Palantir as overvalued",
-      "Inflation: Edwards and Napier see persistent/rising; Sonders and Hatzius see sticky but manageable"
+      "Yardeni (S&P 8,250, Roaring 2020s) vs. Hartnett/Berezin/Edwards (bubble signals, H2 selloff, inflation shock)",
+      "Bessent (3% growth, 2% inflation, no recession) vs. Gundlach (cuts impossible, inflation won't cooperate)",
+      "Tudor Jones (another 1-2 years of AI bull market) vs. Hartnett (only 21 stocks at new highs, dot-com breadth pattern)"
     ],
     "aligned": [
-      "AI is a structural, multi-year macro force \u2014 not a fad [Marks, Slok, Hatzius, Tudor Jones]",
-      "Economy has held up better than feared \u2014 GDP resilient, earnings strong [Sonders, Bessent, Tepper, Hatzius]",
-      "Fiscal deficit trajectory is unsustainable \u2014 long-term risk to dollar and bonds [Bessent, Napier, Dalio, Mauldin]",
-      "Concentration risk in US equities is elevated \u2014 Mag 7 dominance is a vulnerability [Hartnett, Wilson, Berezin]"
+      "AI is the defining macro force reshaping corporate earnings, productivity, and market structure — universal consensus across buy and sell side",
+      "Breadth narrowing: despite divergence on direction, both sides acknowledge the AI rally's concentration risk",
+      "Dollar structurally weak — Druckenmiller, Gundlach, and Dalio all maintain non-USD exposure as a structural hedge"
     ],
     "buy_side_trades": [
-      "Long US equities (AI/tech focused) [Stan Druckenmiller]",
-      "Long copper as USD hedge [Stan Druckenmiller]",
-      "Long Brazil assets (R$33B institutional inflow theme) [Stan Druckenmiller]",
-      "Diversify away from US dollar assets \u2014 non-US equities and bonds [Ray Dalio]",
-      "Long gold and real assets as Big Cycle hedge [Ray Dalio]",
-      "Long AI-related equities with active monitoring for bubble signals [Paul Tudor Jones]"
+      "Long XLF ($325M) + Goldman Sachs — financials deregulation/rate-cut play [Druckenmiller]",
+      "Long Micron, Taiwan Semi, memory chip sector as AI infrastructure core [Tepper]",
+      "Long Flutter Entertainment (~$107), DraftKings (~$26), JD.com ($27.58) — beaten-down value [Burry]",
+      "Long quality growth stocks at 'stupidly cheap' prices — Pershing Square concentrated longs [Ackman]",
+      "Long gold and real assets as Big Cycle hedge; diversify away from US dollar assets [Dalio]",
+      "Long copper as explicit USD hedge; long Brazil macro trade [Druckenmiller]"
     ],
     "sell_side_trades": [
-      "Reduce equity concentration; shift toward 25/25/25/25 stocks/bonds/cash/commodities [Michael Hartnett]",
-      "Monitor Japan bank stocks as early warning for global correction [Michael Hartnett]",
-      "Avoid long-duration bonds \u2014 fiscal dominance creates persistent inflation risk premium [Albert Edwards]",
-      "Long inflation protection: TIPS, commodities, real assets [Albert Edwards]",
-      "Long bonds on disinflation-driven Fed rate-cut narrative [David Rosenberg]",
-      "Rosie Macro ETF launching as publicly listed vehicle [David Rosenberg]"
+      "Post-bubble playbook: short US growth, long commodities/ex-US/value [Hartnett]",
+      "'Sleep like a baby' portfolio: 25% stocks/bonds/cash/commodities [Hartnett]",
+      "Underweight long-duration bonds — overheating limits rate-cut-driven bond rally [Slok]",
+      "Short long-duration bonds; long TIPS/gold/commodities [Edwards]",
+      "Great Rotation: long non-tech cyclicals (H1), reduce all equities (H2) [Berezin]",
+      "Long government bonds via financial repression — forced savings into sovereigns [Napier]"
     ],
     "dominant_themes": [
-      "AI Productivity Boom vs. Valuation Risk \u2014 multi-year tailwind with potential bubble formation",
-      "Rates Higher for Longer / Possible Hike \u2014 consensus cuts priced out, Gundlach and Napier flagging structural shift",
-      "Fiscal Debt & Financial Repression \u2014 unsustainable deficits driving 15-year repression regime (Napier, Dalio, Mauldin)"
+      "AI-driven bull market at extreme crowding (Bull & Bear 9.5) — binary bubble or burst outcome",
+      "Inflation persistence and overheating risk: Fed stays on hold or hikes, disappointing rate-cut consensus",
+      "Geopolitical fragmentation (China-Taiwan, Middle East, capital wars) underpriced as dominant medium-term risk"
     ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "bearish"
   },
   "month": {
-    "period_start": "2026-06-19",
-    "period_end": "2026-07-19",
-    "entries_count": 239,
+    "period_start": "2026-06-20",
+    "period_end": "2026-07-20",
+    "entries_count": 246,
     "buy_side_bullets": [
-      "AI bull market has 1-2 more years to run \u2014 1999 parallel holds, adding to positions. [Tudor Jones]",
-      "Quality stocks 'stupidly cheap,' 10x potential; 10-year equity index still the best bet. [Ackman]",
-      "Fed cannot cut \u2014 may hike; secular rate decline over; DoubleLine at 17-year lowest risk. [Gundlach]",
-      "AI is not a fad but current prices demand rigorous valuation discipline \u2014 don't confuse theme with price. [Marks]",
-      "Buying beaten-down value (Flutter, DraftKings, JD.com) while shorting AI leaders (NVIDIA, Palantir puts). [Burry]"
+      "AI equity bull market has 'another year or two to run' — 1999 parallel; own AI/tech but have hedges ready for 'breathtaking corrections.' [Tudor Jones]",
+      "US economy 'strong and getting stronger' despite dollar bearishness — long AI infrastructure, financials, Brazil, and copper as portfolio spine. [Druckenmiller]",
+      "'Most dangerous phase of the Big Cycle' — diversify away from US dollar assets into gold, real assets, non-US equities on 500-year precedent. [Dalio]",
+      "US equities at historically unprecedented valuations — all alpha from macro (gold, copper, rates); US equity gross/net at minimum; closing to new investors. [Einhorn]",
+      "Private credit alpha gone from direct lending — pivot to asset-backed finance and distressed credit; AI is transformative but valuations must be weighed. [Marks]"
     ],
     "sell_side_bullets": [
-      "GDP near 3% and earnings up 25% YTD, but consumers strained by negative real wages \u2014 fault lines beneath the surface. [Sonders]",
-      "Financial repression for 15 years: 4-5.5% inflation, suppressed rates; post-1979 investment playbook is obsolete. [Napier]",
-      "Ice Age dead \u2014 now sees double-digit inflation coming; biggest framework shift in 30 years of forecasting. [Edwards]",
-      "Bull & Bear Indicator at 8.5 \u2014 contrarian sell signal; only 21 stocks making new highs echoes dot-com 2000 top. [Hartnett]",
-      "S&P correction to 5,250-6,500 area by Q3; inflation won't reach 2% without recession; EPS growth only 3.3%. [Bannister]"
+      "Bull & Bear indicator escalated to 9.5 — deepest sell signal this year; 'bubble or burst' for S&P; breadth at March 2000 dot-com comparable levels. [Hartnett]",
+      "S&P 8,250 target raised post 'gangbusters' earnings — Roaring 2020s continuing; EPS $310 in 2026; S&P 10,000 by 2029. [Yardeni]",
+      "US economy shifting from stagflation to overheating — AI + industrial renaissance + fiscal bill too hot; Fed on hold or hiking, not cutting. [Slok evolving]",
+      "Financial repression returning: governments will hold rates below inflation for 15+ years, force savers into bonds; gold signals what comes next. [Napier]",
+      "Double-digit inflation risk: Ice Age thesis dead, replaced by fiscal dominance + bank credit expansion + geopolitical shocks (US/Iran war). [Edwards]",
+      "Great Rotation to non-tech in H1 transitioning to broad H2 selloff on US economic weakness — S&P correction risk underpriced by consensus. [Berezin]"
     ],
     "whats_new": [
-      "Sonders July Market Snapshot upgrades full-year earnings growth forecast to 25% \u2014 first explicit upward revision this cycle",
-      "Ackman's index fund endorsement is a new stance \u2014 first time the concentrated stock-picker publicly advocates passive as top 10-year bet",
-      "Gundlach shifts from 'no cuts' to 'may hike' \u2014 more hawkish than consensus and prior positioning",
-      "Burry's new longs (Flutter, DraftKings, JD.com) represent fresh sector calls \u2014 gaming and China value not in prior disclosures",
-      "Napier makes financial repression the dominant framework for 15+ years \u2014 most extended horizon call in this cycle"
+      "Hartnett's Bull & Bear reached 9.5 — highest of the year, escalated from 8.0 to 9.5 over the past month",
+      "Slok completed pivot from 'stagflation' to 'overheating' framing — a full reversal of the key risk characterization over 30 days",
+      "Druckenmiller added $325M XLF financials bet to his existing Brazil + AI + copper portfolio — new domestic leg",
+      "Edwards added bank credit expansion as cyclical inflation driver on top of the structural fiscal dominance thesis",
+      "Burry deregistered Scion, shifted to Substack investing — disclosed Flutter, DraftKings, JD.com as active July buys"
     ],
     "vs_market_buy": [
-      "Gundlach: market prices 0 rate hikes; he says a hike is more likely than any cut \u2014 extreme divergence from consensus",
-      "Burry: market is consensus-long AI; he is short NVIDIA/Palantir while buying gaming/China \u2014 direct contra-momentum",
-      "Dalio: market ignores Big Cycle risk; he sees this as most dangerous phase in decades \u2014 risk dramatically underpriced"
+      "Gundlach: 'just not possible' for Fed to cut rates — far more hawkish than the 2 cuts consensus markets are pricing",
+      "Dalio: 'most dangerous phase of the Big Cycle' — diversify away from US assets at a moment of widespread US equity optimism",
+      "Einhorn: US equities most expensive ever — extreme valuation concern vs. broad market complacency",
+      "Bass: China-Taiwan geopolitical risk structurally underpriced in equity risk premiums"
     ],
     "vs_market_sell": [
-      "Napier: market expects eventual return to low inflation/normal rates; he says repression suppresses rates for 15 years \u2014 no return to normal",
-      "Hartnett: market is crowded bullish despite 5% long-bond yields \u2014 Bull & Bear at 8.5 contrarian sell; breadth is the tell",
-      "Bannister: consensus assumes soft landing EPS recovery; he sees 3.3% EPS growth vs consensus 15%+ \u2014 massive overestimate"
+      "Hartnett: contrarian sell signal at 9.5 vs. consensus 'frozen bullish' positioning",
+      "Berezin: H2 broad selloff vs. consensus rotation trade / soft-landing narrative",
+      "Edwards: double-digit inflation trajectory vs. bond market pricing moderate price pressures",
+      "Napier: 15+ year financial repression regime vs. market assumption of normal rate-setting dynamics"
     ],
     "buy_vs_sell_divergence": [
-      "Rates trajectory: Gundlach (buy-side) says hike coming; Hartnett (sell-side) says 5% yields already signal sell",
-      "Equity outlook: Ackman, Tudor Jones bullish on quality/AI; Bannister calls for 5,250-6,500 correction by Q3",
-      "AI sustainability: Tudor Jones and Marks see productive multi-year runway; Burry shorts NVIDIA/Palantir as overvalued",
-      "Inflation: Edwards and Napier see persistent/rising; Sonders and Hatzius see sticky but manageable"
+      "Yardeni (S&P 8,250, Roaring 2020s, no recession) vs. Berezin/Hartnett (H2 broad selloff, bubble or burst)",
+      "Bessent/Yardeni (3% growth, 2% inflation achievable) vs. Gundlach/Edwards (inflation entrenched, cuts impossible)",
+      "Tudor Jones (1-2 more years of AI bull market) vs. Hartnett (dot-com breadth, bubble signal at 9.5)",
+      "Slok (overheating, robust data through June) vs. Hatzius (H2 stall speed 1.25-1.75%, labor market weakness)"
     ],
     "aligned": [
-      "AI is a structural, multi-year macro force \u2014 not a fad [Marks, Slok, Hatzius, Tudor Jones]",
-      "Economy has held up better than feared \u2014 GDP resilient, earnings strong [Sonders, Bessent, Tepper, Hatzius]",
-      "Fiscal deficit trajectory is unsustainable \u2014 long-term risk to dollar and bonds [Bessent, Napier, Dalio, Mauldin]",
-      "Concentration risk in US equities is elevated \u2014 Mag 7 dominance is a vulnerability [Hartnett, Wilson, Berezin]"
+      "AI is the defining structural force reshaping productivity, corporate earnings, market structure, and macro frameworks — universal consensus",
+      "Dollar structurally weak: Druckenmiller, Gundlach, Dalio, and Napier all maintain or recommend non-USD exposure",
+      "Market breadth narrowing at the index level despite headline gains — acknowledged across buy and sell side",
+      "Geopolitical fragmentation (China-Taiwan, US/Iran, capital wars, modern mercantilism) is a durable multi-year risk",
+      "Private credit evolution: direct lending alpha exhausted; move toward asset-backed finance and distressed [Marks, Einhorn]"
     ],
     "buy_side_trades": [
-      "Long US equities (AI/tech focused) [Stan Druckenmiller]",
-      "Long copper as USD hedge [Stan Druckenmiller]",
-      "Long Brazil assets (R$33B institutional inflow theme) [Stan Druckenmiller]",
-      "Diversify away from US dollar assets \u2014 non-US equities and bonds [Ray Dalio]",
-      "Long gold and real assets as Big Cycle hedge [Ray Dalio]",
-      "Long AI-related equities with active monitoring for bubble signals [Paul Tudor Jones]"
+      "Long AI infrastructure and tech (Nvidia-centric): AI equity conviction remaining high [Tudor Jones, Druckenmiller]",
+      "Long XLF ($325M) + Goldman Sachs — financials deregulation/rate-cut re-rating [Druckenmiller]",
+      "Long gold and real assets; non-US equities as Big Cycle hedge [Dalio]",
+      "Long memory chips (Micron, Samsung, SK Hynix) — Appaloosa 32% H1 driven by this bet [Tepper]",
+      "Long Flutter (~$107), DraftKings (~$26), JD.com ($27.58) — beaten-down value and China consumer [Burry]",
+      "Long copper + Brazil macro trade as USD hedge [Druckenmiller]",
+      "Long quality growth at 'stupidly cheap' prices; 10x return potential in select names [Ackman]"
     ],
     "sell_side_trades": [
-      "Reduce equity concentration; shift toward 25/25/25/25 stocks/bonds/cash/commodities [Michael Hartnett]",
-      "Monitor Japan bank stocks as early warning for global correction [Michael Hartnett]",
-      "Avoid long-duration bonds \u2014 fiscal dominance creates persistent inflation risk premium [Albert Edwards]",
-      "Long inflation protection: TIPS, commodities, real assets [Albert Edwards]",
-      "Long bonds on disinflation-driven Fed rate-cut narrative [David Rosenberg]",
-      "Rosie Macro ETF launching as publicly listed vehicle [David Rosenberg]"
+      "Post-bubble playbook: short US large-cap growth, long commodities/ex-US/value [Hartnett]",
+      "Long government bonds within financial repression regime — forced savings dynamic [Napier]",
+      "Short long-duration bonds; long TIPS, gold, commodities [Edwards]",
+      "Great Rotation: long non-tech cyclicals (H1) then reduce all equities (H2) [Berezin]",
+      "Defensive Value overweight — sticky inflation + GDP slowdown = earnings risk for cyclicals [Bannister]",
+      "30% non-US stocks, 20% real assets, 30% high-quality bonds, 20% cash [Gundlach]"
     ],
     "dominant_themes": [
-      "AI Productivity Boom vs. Valuation Risk \u2014 multi-year tailwind with potential bubble formation",
-      "Rates Higher for Longer / Possible Hike \u2014 consensus cuts priced out, Gundlach and Napier flagging structural shift",
-      "Fiscal Debt & Financial Repression \u2014 unsustainable deficits driving 15-year repression regime (Napier, Dalio, Mauldin)"
+      "AI-driven market at extreme crowding and breadth deterioration — binary bubble or burst outcome approaching",
+      "Inflation regime change: fiscal dominance + credit expansion + geopolitical shocks = inflation far above 2% target for years",
+      "Geopolitical restructuring (China-Taiwan risk, capital wars, modern mercantilism, US/Iran) as underpriced tail risk"
     ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "bearish"
   }
 }
