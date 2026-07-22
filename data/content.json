@@ -1,6 +1,485 @@
 {
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "entries": [
+    {
+      "id": "2026-07-22-33d0e4ad",
+      "date": "2026-07-22",
+      "investor": "Ray Dalio",
+      "side": "buy",
+      "summary": "At Davos 2026, Dalio warned that aggressive policy choices and rising nationalism risk triggering 'capital wars' as trust in US debt and capital flows erodes. His three-threat framework \u2014 policy-induced recession, erosion of foreign confidence in US assets, and the AI arms race \u2014 points to potential 1-2% GDP drag from tariff escalation that could paradoxically force Fed rate cuts amid 4-5% sticky inflation. Bridgewater suffered a 6.44% Q1 2026 drawdown after record 2025 returns, reflecting positioning for a volatile regime shift.",
+      "key_views": [
+        "'Capital wars' risk: rising nationalism threatening trust in US debt, dollar, and capital flows",
+        "Three-threat framework: policy-induced recession + foreign confidence erosion + AI arms race converging",
+        "Tariff escalation 1-2% GDP drag could force Fed cuts even as inflation runs at 4-5%",
+        "Bridgewater Q1 2026 drawdown of 6.44% after record 2025 \u2014 positioned defensively for regime change",
+        "Secular dollar decline intact \u2014 non-USD diversification and real assets are strategic priorities"
+      ],
+      "trade_ideas": [
+        "Diversify away from USD-denominated assets",
+        "Long gold and commodities as inflation/dollar hedge"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "fx",
+        "commodities"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://hedgeco.net/news/01/2026/ray-dalio-after-bridgewater-the-macro-legends-next-act.html",
+        "https://hbr.org/podcast/2026/01/ray-dalio-on-economic-trends-investing-and-making-decisions-amid-uncertainty"
+      ]
+    },
+    {
+      "id": "2026-07-22-018f4a73",
+      "date": "2026-07-22",
+      "investor": "David Tepper",
+      "side": "buy",
+      "summary": "Tepper's Appaloosa surged 32% in H1 2026 on concentrated bets on memory chip makers (Micron, Samsung, SK Hynix), while maintaining a conservative ~40% average cash position. He rotated into cyclicals and China exposure while trimming mega-cap tech, signaling a preference for asymmetric mean-reversion over momentum chasing. The Q1 portfolio shrank to $5.93B as he concentrated into high-conviction theses.",
+      "key_views": [
+        "Appaloosa +32% H1 2026 \u2014 memory chip sector (Micron, Samsung, SK Hynix) the primary driver",
+        "Conservative ~40% average cash position \u2014 elevated caution about broad market valuations",
+        "Rotated into cyclicals and China exposure as mean-reversion plays vs. crowded mega-cap tech",
+        "Sold most Microsoft stake; doubled Amazon; increased Micron position 200%",
+        "Portfolio concentrated to $5.93B Q1 2026 \u2014 high-conviction, not diversified"
+      ],
+      "trade_ideas": [
+        "Long Micron Technology, Samsung, SK Hynix (AI memory)",
+        "Long Amazon; reduced Microsoft",
+        "China consumer/cyclical exposure"
+      ],
+      "asset_classes": [
+        "equities"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://www.bloomberg.com/news/articles/2026-07-06/tepper-s-appaloosa-soars-32-in-first-half-on-memory-chip-makers",
+        "https://seekingalpha.com/article/4908974-tracking-david-teppers-appaloosa-management-portfolio-q1-2026-update"
+      ]
+    },
+    {
+      "id": "2026-07-22-90f51a16",
+      "date": "2026-07-22",
+      "investor": "Scott Bessent",
+      "side": "buy",
+      "summary": "Treasury Secretary Bessent projects 2026 as a 'blockbuster year' with GDP returning to 3%+ before year-end, explicitly ruling out a recession despite the US-Iran conflict temporarily elevating energy prices. His June 24 CNBC appearance reiterated that structural tailwinds \u2014 real wage growth, new manufacturing investment, and declining tariff drag \u2014 will sustain expansion through year-end with inflation reaching 2% by December.",
+      "key_views": [
+        "No 2026 recession \u2014 Bessent explicitly and confidently rules it out",
+        "GDP returning to 3%+ before year-end despite Iran conflict headwinds",
+        "'Blockbuster year' thesis: new manufacturing projects, reshoring investments, and job creation compounding",
+        "Real wage increases for workers since January 2025 \u2014 consumer foundation intact",
+        "Targeting 2% inflation by year-end even as Iran conflict adds temporary energy price pressure"
+      ],
+      "trade_ideas": [],
+      "asset_classes": [
+        "equities",
+        "bonds"
+      ],
+      "sentiment": "bullish",
+      "sources": [
+        "https://www.cnbc.com/2026/06/24/treasury-secretary-bessent-says-us-gdp-growth-can-return-to-3percent-before-end-of-the-year.html",
+        "https://www.foxbusiness.com/media/treasury-secretary-scott-bessent-predicts-blockbuster-year-for-us-economy-relief-for-workers"
+      ]
+    },
+    {
+      "id": "2026-07-22-70915e44",
+      "date": "2026-07-22",
+      "investor": "David Einhorn",
+      "side": "buy",
+      "summary": "Einhorn declared the US equity market the most expensive since Greenlight's founding and closed the fund to new investors effective July 1, 2026 \u2014 a capacity discipline signal at peak valuations. Despite this defensive posture, Greenlight outperformed sharply in Q1 (+6.5% vs S&P -4.4%), driven entirely by macro positions including a ~66% IRR Lebanese debt holding. He warns of a 'checkmark recovery trap' as markets recover faster than fundamentals justify.",
+      "key_views": [
+        "US equity market most expensive in Greenlight's history \u2014 unprecedented valuation signal",
+        "Capital preservation explicitly prioritized \u2014 willing to miss recovery to play offense from safety later",
+        "Fund closed to new investors July 1, 2026 \u2014 capacity discipline at historically extreme valuations",
+        "Q1 2026: +6.5% vs S&P -4.4% \u2014 macro portfolio (not long/short book) drove all the outperformance",
+        "'Checkmark recovery trap': markets bouncing back faster than structural risks warrant"
+      ],
+      "trade_ideas": [
+        "Long dislocated sovereign debt (Lebanese bonds as model)",
+        "Maintain low net equity exposure"
+      ],
+      "asset_classes": [
+        "equities",
+        "credit",
+        "bonds"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://hedgefundalpha.com/investor-letters/greenlight-capital-q1-letter/",
+        "https://www.cnbc.com/2026/04/14/david-einhorn-signals-caution-as-his-hedge-fund-greenlight-prioritizes-capital-protection.html"
+      ]
+    },
+    {
+      "id": "2026-07-22-c0d529c0",
+      "date": "2026-07-22",
+      "investor": "Jim Reid",
+      "side": "sell",
+      "summary": "Reid's 2026 framework \u2014 '1999 meets 1990' \u2014 combines late-cycle tech fervor with 1990-style oil supply shocks, producing an unusually volatile macro environment with global real GDP at 3.0% but headline inflation at 3.8%. A July 8 Fortune article citing Reid argues AI productivity gains are 'years away' from showing up in economic data, leaving elevated sovereign debt levels as an underappreciated structural vulnerability.",
+      "key_views": [
+        "'1999 meets 1990' framework: tech bubble fervor colliding with oil supply disruptions \u2014 extreme volatility",
+        "Global real GDP 3.0% / headline inflation 3.8% \u2014 inflation sources shifting faster than consensus expects",
+        "AI productivity gains are 'years away' from showing up in economic data \u2014 optimism timelines overambitious",
+        "Markets could 'swing sharply between boom-and-bust narratives' \u2014 no directional conviction warranted",
+        "Elevated sovereign debt levels remain structural vulnerability if AI fails to deliver promised productivity"
+      ],
+      "trade_ideas": [],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "commodities"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://flow.db.com/topics/macro-and-markets/the-world-outlook-2026-never-a-dull-moment",
+        "https://fortune.com/2026/07/08/ais-productivity-gains-jim-reid-deutsche-bank-debt/"
+      ]
+    },
+    {
+      "id": "2026-07-22-db94b918",
+      "date": "2026-07-22",
+      "investor": "Ed Yardeni",
+      "side": "sell",
+      "summary": "Yardeni raised his S&P 500 target to 8,250 after 'gangbusters' Q1 earnings, admitting he 'wasn't bullish enough.' He projects the Roaring 2020s continuing through a BRAIN Revolution (Biotech, Robotics, AI, Nanotechnology) driving sustained productivity, with 23% S&P earnings growth and only a single Fed rate cut needed in 2026. His qualifier: unemployment rising to 4.5% from AI proliferation is structural displacement, not recessionary weakness.",
+      "key_views": [
+        "S&P 500 target raised to 8,250 \u2014 admits he 'wasn't bullish enough' after gangbusters Q1 earnings",
+        "Roaring 2020s continues: BRAIN Revolution (Biotech, Robotics, AI, Nanotechnology) driving productivity surge",
+        "23% S&P 500 earnings growth projected for 2026 \u2014 extraordinary but justified by AI adoption compounding",
+        "Single Fed rate cut in 2026 \u2014 inflation peaked in 2025, easing gradually, no urgency for cuts",
+        "Unemployment rising to 4.5% from AI proliferation \u2014 structural labor displacement, not cyclical recession"
+      ],
+      "trade_ideas": [
+        "Long US equities (S&P 500 target 8,250)",
+        "Increasing exposure to AI technology users (not just producers)"
+      ],
+      "asset_classes": [
+        "equities"
+      ],
+      "sentiment": "bullish",
+      "sources": [
+        "https://stocktwits.com/news-articles/markets/equity/ed-yardeni-sp-500-target-2026-8250-q1-earnings-gangbusters/cZXa2MQRehT",
+        "https://www.roic.ai/news/ed-yardeni-forecasts-2026-as-another-year-of-the-roaring-2020s-11-28-2025"
+      ]
+    },
+    {
+      "id": "2026-07-22-6e546460",
+      "date": "2026-07-22",
+      "investor": "Jan Hatzius",
+      "side": "sell",
+      "summary": "Hatzius's 'Sturdy Growth, Stagnant Jobs, Stable Prices' framework captures the 2026 US paradox: GDP accelerating to 2.6% on tax cuts and declining tariff drag while job growth across major developed economies remains well below pre-pandemic 2019 levels. Goldman dropped its recession concern entirely, but the growth-jobs disconnect remains the key tail risk if the AI productivity story fails to materialize in hiring.",
+      "key_views": [
+        "'Sturdy Growth, Stagnant Jobs, Stable Prices' \u2014 Goldman's dominant US macro framework for 2026",
+        "US GDP +2.6%, well above 2.0% consensus \u2014 tax cuts and declining tariff drag are working",
+        "Labor market shaky despite GDP strength: job growth in all major developed economies below 2019 rates",
+        "Goldman no longer worried about recession \u2014 fiscal tailwinds dominate near-term growth outlook",
+        "Unemployment stabilizing ~4.5% \u2014 moderate slack limits both inflation acceleration and wage pressure"
+      ],
+      "trade_ideas": [],
+      "asset_classes": [
+        "equities",
+        "bonds"
+      ],
+      "sentiment": "bullish",
+      "sources": [
+        "https://www.goldmansachs.com/insights/articles/the-global-economy-forecast-to-post-sturdy-growth-in-2026",
+        "https://finance.yahoo.com/news/goldman-sachs-is-no-longer-worried-about-a-recession-its-top-economist-reveals-the-reasons-behind-this-new-call-175208926.html"
+      ]
+    },
+    {
+      "id": "2026-07-22-a3249dcc",
+      "date": "2026-07-22",
+      "investor": "Peter Berezin",
+      "side": "sell",
+      "summary": "In BCA Research's July 13 bull/bear debate, Berezin argued the bearish case: the US equity market is 'in the midst of an earnings bubble' with hyperscaler free cash flow already rolling over. He sees a 'Wiley E. Coyote' moment approaching \u2014 stocks running beyond fundamental support before a sharp correction \u2014 that could transmit into a mild US recession through a pullback in AI-driven investment spending.",
+      "key_views": [
+        "Bearish in July 13 BCA bull/bear debate \u2014 US equities 'in the midst of an earnings bubble'",
+        "Hyperscaler free cash flow already rolling over \u2014 first visible crack in the AI capex thesis",
+        "S&P margins less durable than they appear \u2014 consensus underestimates earnings downside risk",
+        "'Wiley E. Coyote' moment: market running beyond fundamental support before a sharp correction",
+        "H2 2026 playbook: Great Rotation from tech to non-tech in H1, then broad-based selloff in H2 on recession risk"
+      ],
+      "trade_ideas": [
+        "Short US tech/AI megacaps",
+        "Rotate from tech to non-tech names",
+        "Reduce broad equity exposure in H2 2026"
+      ],
+      "asset_classes": [
+        "equities"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://www.investing.com/news/stock-market-news/buy-dips-or-sell-strength-in-2h-2026-bca-research-answers-4801357",
+        "https://themarket.ch/english/the-stock-market-is-going-to-have-one-of-these-wiley-e-coyote-moments-ld.14818"
+      ]
+    },
+    {
+      "id": "2026-07-22-f77f6e7a",
+      "date": "2026-07-22",
+      "investor": "Barry Bannister",
+      "side": "sell",
+      "summary": "Bannister maintains a Defensive Value preference over cyclical growth names, projecting S&P EPS growth decelerating to just 3.3% YoY by December as tighter financial conditions constrain P/E expansion. His MarketScreener interview calls for an autumn market correction, driven by three underestimated risks: geopolitical tensions, weakening consumer spending, and dangerous tech-heavy concentration.",
+      "key_views": [
+        "S&P EPS growth decelerating to 3.3% YoY by December \u2014 far below consensus; tighter conditions bite",
+        "'Defensive Value' over cyclical growth \u2014 DV stocks outperformed Big Tech in prior corrections and should again",
+        "Three underestimated risks: geopolitical tensions, weak consumer spending, concentrated tech exposure",
+        "Autumn market correction base case \u2014 tighter financial conditions limiting P/E expansion even without explicit hikes",
+        "Credit availability tightening acting as passive monetary tightening independent of Fed funds rate"
+      ],
+      "trade_ideas": [
+        "Long Defensive Value stocks",
+        "Reduce Big Tech and Cyclical Growth exposure"
+      ],
+      "asset_classes": [
+        "equities"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://www.marketscreener.com/quote/index/TOPIX-INDEX-61714390/news/INTERVIEW-Barry-Bannister-Stifel-towards-a-market-correction-in-autumn-44205871/",
+        "https://www.thestreet.com/video/the-market-is-underestimating-these-3-risks-in-2026"
+      ]
+    },
+    {
+      "id": "2026-07-22-3ab9db1a",
+      "date": "2026-07-22",
+      "investor": "John Mauldin",
+      "side": "sell",
+      "summary": "Mauldin characterizes 2026 as 'The Bipolar Economy' \u2014 extreme quarterly GDP swings from tariff front-running, government shutdowns, and catch-up cycles masking underlying fragility beneath a 2.7% YoY headline. He frames the broader structural shift as a 'Global Restructuring' over 15 years, and makes the provocative call that 2026 may begin the year the US and China start setting aside their economic and military rivalries.",
+      "key_views": [
+        "'Bipolar Economy': extreme quarterly swings from front-running, shutdowns, catch-up \u2014 masking fragility",
+        "Year-over-year GDP growth 2.7% \u2014 solid headline concealing dangerous volatility in quarterly readings",
+        "'Global Restructuring': 15-year reorder of trade, geopolitics, and capital flows \u2014 structural not cyclical",
+        "Provocative call: 2026 may be the year US and China begin setting aside economic and military rivalries",
+        "AI restructuring of labor markets accelerates the bipolar dynamic \u2014 productivity and displacement simultaneous"
+      ],
+      "trade_ideas": [],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "commodities"
+      ],
+      "sentiment": "neutral",
+      "sources": [
+        "https://www.mauldineconomics.com/frontlinethoughts/big-time-change",
+        "https://www.mauldineconomics.com/frontlinethoughts/the-global-restructuring"
+      ]
+    },
+    {
+      "id": "2026-07-22-4500a9e4",
+      "date": "2026-07-22",
+      "investor": "Bill Ackman",
+      "side": "buy",
+      "summary": "In a July 20 X post, Ackman outlined his bullish thesis on the $700B hyperscaler AI spending wave \u2014 arguing Microsoft, Amazon, and Google's infrastructure capex is a durable compounding cycle, not a speculative peak. He called META and Amazon 'cheap stocks' despite their scale, with token cost deflation as the enabling condition for a revenue flywheel. Pershing Square entered these positions after what he called the 'worst hyperscaler month in years,' a contrarian entry.",
+      "key_views": [
+        "$700B hyperscaler AI capex thesis: Microsoft, Amazon, Google spending is durable compounding not a bubble",
+        "META and Amazon called 'cheap stocks' despite multi-hundred-billion market caps \u2014 intrinsic value argument",
+        "Token cost deflation enabling AI app economics \u2014 cheaper compute unlocks the revenue flywheel",
+        "Contrarian entry: turned bullish specifically after worst hyperscaler performance month in years",
+        "Highest-conviction portfolio expression: concentrated into large-cap AI infrastructure beneficiaries"
+      ],
+      "trade_ideas": [
+        "Long META Platforms",
+        "Long Amazon",
+        "Long Microsoft"
+      ],
+      "asset_classes": [
+        "equities"
+      ],
+      "sentiment": "bullish",
+      "sources": [
+        "https://www.benzinga.com/markets/equities/26/07/60569391/bill-ackman-says-meta-and-amzn-are-cheap-stocks-despite-their-massive-size",
+        "https://www.fool.com/investing/2026/07/20/billionaire-bill-ackman-just-bet-on-a-700-billion/"
+      ]
+    },
+    {
+      "id": "2026-07-22-f45a8d53",
+      "date": "2026-07-22",
+      "investor": "Michael Burry",
+      "side": "buy",
+      "summary": "On July 2, Burry disclosed a new short against Micron Technology via Substack, arguing the AI memory rally is at historically extreme extension \u2014 trading further above its 200-day MA than at any point since 1984. This extends his short book beyond NVIDIA and Palantir into a comprehensive bet against AI beneficiaries at peak extension, while maintaining long positions in beaten-down value names like Flutter Entertainment and DraftKings.",
+      "key_views": [
+        "Short Micron (July 2): historically extreme 200-day MA extension \u2014 most stretched since 1984",
+        "AI memory rally now exhibiting same speculative excess as the broadest AI names",
+        "Comprehensive short book: Micron + NVIDIA + Palantir + Applied Materials against AI euphoria",
+        "Strategy: fade technically extreme AI positions; accumulate beaten-down value/gaming sector names",
+        "Existing longs: Flutter Entertainment, DraftKings, JD.com \u2014 valuation reset and mean-reversion thesis"
+      ],
+      "trade_ideas": [
+        "Short Micron Technology, NVIDIA, Palantir, Applied Materials",
+        "Long Flutter Entertainment, DraftKings, JD.com"
+      ],
+      "asset_classes": [
+        "equities"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://finance.yahoo.com/markets/stocks/articles/michael-burry-shorts-micron-adding-141819112.html",
+        "https://247wallst.com/investing/2026/02/13/heres-how-michael-burrys-shorts-are-doing-so-far-in-2026/"
+      ]
+    },
+    {
+      "id": "2026-07-22-5c826b4b",
+      "date": "2026-07-22",
+      "investor": "Jeffrey Gundlach",
+      "side": "buy",
+      "summary": "In a July 20 Bloomberg report, DoubleLine disclosed a tactical shift into shorter-dated government bonds on the view that new Fed Chair Kevin Warsh's credibility will allow the Fed to keep rates steady without hiking. Elevated Treasury yields are acting as passive tightening, reducing the need for explicit Fed action \u2014 a nuanced evolution from Gundlach's earlier 'rate hike more likely than cut' stance toward a 'hold with short duration' position.",
+      "key_views": [
+        "Tactical shift to shorter-dated government bonds reported July 20 \u2014 DoubleLine positioning evolving",
+        "Warsh credibility thesis: new Fed Chair's hawkish credibility allows rates to stay steady without hiking",
+        "Elevated long-term Treasury yields acting as passive tightening \u2014 reducing need for explicit Fed action",
+        "DoubleLine at lowest risk in 17-year history \u2014 overall defensive posture intact despite duration pivot",
+        "Rate cuts remain structurally unjustifiable: 2-year Treasury ~50bps above Fed funds reinforces hold stance"
+      ],
+      "trade_ideas": [
+        "Long shorter-dated US government bonds"
+      ],
+      "asset_classes": [
+        "bonds",
+        "rates"
+      ],
+      "sentiment": "neutral",
+      "sources": [
+        "https://www.bloomberg.com/news/articles/2026-07-20/doubleline-says-higher-bond-yields-to-help-fed-keep-rates-steady",
+        "https://doubleline.com/markets-insights/gundlach-unlocked-positioning-for-higher-rates-persistent-inflation-and-rate-hikes/"
+      ]
+    },
+    {
+      "id": "2026-07-22-a6b77afe",
+      "date": "2026-07-22",
+      "investor": "Liz Ann Sonders",
+      "side": "sell",
+      "summary": "Sonders's July 20 Schwab Market Perspective declared the end of the Great Moderation Era, with markets entering a 'Temperamental Era' resembling the 1960s-1990s \u2014 marked by volatile inflation, frequent supply shocks, and geopolitical instability. Oil and yields remain elevated after Middle East escalation, and the Information Technology sector (31% of MSCI ACWI) is forecast to contribute 55% of total 2026 earnings growth \u2014 a dangerous concentration that mirrors prior temperamental era fragilities.",
+      "key_views": [
+        "End of Great Moderation: entering 'Temperamental Era' (1960s-1990s analog) \u2014 structurally more volatile regime",
+        "Temperamental Era markers: volatile inflation, frequent supply shocks, unstable geopolitical landscape",
+        "IT sector at 31% of MSCI ACWI but expected to drive 55% of total 2026 earnings growth \u2014 extreme concentration",
+        "Oil and yields elevated after Middle East escalation \u2014 stagflation-adjacent pressure points are active",
+        "Extreme tech earnings concentration mirrors prior temperamental era fragilities that preceded corrections"
+      ],
+      "trade_ideas": [
+        "Diversify away from US and global tech concentration risk"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "commodities"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://www.advisorperspectives.com/commentaries/2026/07/20/schwab-perspective",
+        "https://www.schwab.com/learn/story/market-snapshot"
+      ]
+    },
+    {
+      "id": "2026-07-22-2bc6b016",
+      "date": "2026-07-22",
+      "investor": "Michael Hartnett",
+      "side": "sell",
+      "summary": "Hartnett escalated his bubble warning to the historical extreme, declaring the current market the 'largest speculative bubble since the 19th-century railroad boom,' and led his latest Flow Show with Rothschild's 'buy on cannons, sell on trumpets.' His 2026 playbook is built around three Cs \u2014 Conflict, Climate, Commerce \u2014 and he introduced a 'sleep like a baby' 25/25/25/25 portfolio (stocks/bonds/cash/commodities) as defensive positioning against bubble resolution.",
+      "key_views": [
+        "Largest speculative bubble since 19th-century railroad boom \u2014 most extreme historical bubble characterization yet",
+        "Rothschild framing: 'buy on cannons, sell on trumpets' \u2014 sell when consensus is most comfortable",
+        "Three Cs macro framework: Conflict, Climate, Commerce \u2014 structural forces reshaping markets in 2026",
+        "'Sleep like a baby' portfolio: 25% stocks / 25% bonds / 25% cash / 25% commodities",
+        "Asset allocation 'frozen bullish' despite 5% long-bond yields \u2014 positioning has not adjusted to risk signals"
+      ],
+      "trade_ideas": [
+        "25/25/25/25 defensive portfolio",
+        "Long commodities as bubble resolution hedge",
+        "Commodities, ex-US equities, value over growth in post-bubble playbook"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "commodities"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://finance.yahoo.com/markets/stocks/articles/bofa-hartnett-warns-bullish-positioning-110000962.html",
+        "https://www.investing.com/analysis/boas-michael-hartnetts-playbook-for-life-after-the-bubble-200681248"
+      ]
+    },
+    {
+      "id": "2026-07-22-c318437e",
+      "date": "2026-07-22",
+      "investor": "Alan Howard",
+      "side": "buy",
+      "summary": "Brevan Howard launched a new private fund effective July 1, 2026 designed to actively buy BH Macro shares on the London Stock Exchange to narrow their discount to NAV, financing purchases by redeeming from the Master Fund. Simultaneously, Brevan Howard has been expanding its macro trading team, signaling multi-year conviction that macro volatility will generate persistent alpha opportunities.",
+      "key_views": [
+        "New private fund (July 1, 2026): buying BH Macro LSE shares to narrow discount to NAV \u2014 structural support",
+        "Capital recycling: redeeming from Master Fund to buy public BH Macro shares at discount",
+        "Expanding macro trading team \u2014 conviction that the macro volatility environment will persist",
+        "Multi-year view: Brevan Howard sees macro dislocations as durable opportunity, not a temporary spike",
+        "Equity book continuing to offset rates/FX losses \u2014 macro alpha increasingly coming from non-traditional sources"
+      ],
+      "trade_ideas": [
+        "Long BH Macro (LSE) shares at discount to NAV"
+      ],
+      "asset_classes": [
+        "fx",
+        "rates",
+        "equities"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://www.tipranks.com/news/company-announcements/bh-macro-backs-new-brevan-howard-private-fund-investing-in-its-shares",
+        "https://www.hedgeweek.com/brevan-howard-expands-macro-trading-team/"
+      ]
+    },
+    {
+      "id": "2026-07-21-8e1e0837",
+      "date": "2026-07-21",
+      "investor": "David Rosenberg",
+      "side": "sell",
+      "summary": "Rosenberg extends his bearish thesis beyond 2026, now warning of a 'very significant recession' in 2027 as the two engines driving the current expansion \u2014 AI capex and fiscal stimulus \u2014 are poised to exhaust simultaneously. He argues AI-related spending will peak in 2026 as data center construction completes, while fiscal stimulus faces likely gridlock through 2027. This represents a meaningful escalation from his July 16 inflation-crater call: the disinflation he expects in 2026 sets the stage for a harder economic landing the following year.",
+      "key_views": [
+        "2027 recession risk 'very significant' as AI capex peaks and fiscal stimulus faces gridlock",
+        "AI data center spending is pulling forward demand \u2014 a vacuum follows in 2027",
+        "Fiscal stimulus likely a 'no-show' in 2027 due to political gridlock over deficits",
+        "2026 inflation will crater (disinflation thesis intact), clearing path for Fed cuts",
+        "Tax refund 'lifeline' extends the economy 2-3 months before pressures intensify"
+      ],
+      "trade_ideas": [
+        "Long gold and silver as macro hedge and central bank diversification play",
+        "Long uranium/nuclear as AI electricity demand secular story",
+        "Long bonds as disinflation forces Fed to cut more than priced"
+      ],
+      "asset_classes": [
+        "bonds",
+        "commodities",
+        "rates"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://finance.yahoo.com/news/top-economist-says-sees-very-094501278.html",
+        "https://www.rosenbergresearch.com/2026/06/26/disinflation-explained-why-2026-will-surprise-the-inflation-hawks/"
+      ]
+    },
+    {
+      "id": "2026-07-21-0b05ff1e",
+      "date": "2026-07-21",
+      "investor": "Mike Wilson",
+      "side": "sell",
+      "summary": "Wilson acknowledges near-term turbulence before the next bull leg resumes, citing semiconductor rollover, heavy equity and credit issuance supply, and the upcoming Fed leadership transition as headwinds. He maintains his S&P 500 year-end target of 7,800 and argues the broadening trade is real \u2014 with the median S&P 1500 stock generating 10%+ EPS growth for the first time since the post-COVID boom \u2014 but warns that markets must digest correction risks before that next leg begins. The bull case is broadening away from semiconductors toward financials, healthcare, and small caps.",
+      "key_views": [
+        "Near-term corrective activity expected before the next leg of the bull market resumes",
+        "Semiconductor momentum fading \u2014 transition risk as semiconductors lose crowded-trade status",
+        "Median S&P 1500 stock generating 10%+ EPS growth \u2014 best since post-COVID recovery",
+        "Broadening trade maturing: leadership shifting to financials, healthcare, small caps",
+        "Fed leadership transition adds policy uncertainty; heavy equity/credit supply weighs short-term"
+      ],
+      "trade_ideas": [
+        "Reduce semiconductor exposure, rotate into financials and healthcare",
+        "Buy small caps as earnings broadening gains traction",
+        "Maintain S&P 7,800 year-end target \u2014 use dips as entry points"
+      ],
+      "asset_classes": [
+        "equities"
+      ],
+      "sentiment": "bullish",
+      "sources": [
+        "https://www.morganstanley.com/insights/podcasts/thoughts-on-the-market/equity-market-broadening-sector-rotation-bull-market-outlook-mike-wilson",
+        "https://www.bloomberg.com/news/articles/2026-07-13/morgan-stanley-s-wilson-sees-profit-boost-for-stocks-beyond-tech"
+      ]
+    },
     {
       "id": "2026-07-20-8fc60fc5",
       "date": "2026-07-20",
@@ -6999,62 +7478,6 @@
         "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSHpLUlI1X19TQUNwOGVHeF9zUzlMMkd2ZDNESVdNWnp6Tkpta3YxempsMU9vYldCOGdvaUVPUWM1N05HaUQ1M3R6WUZTWUp4Mnh1ckZsTjlKVGljMzNpM1o4WkFBUm82MDZlS2tFSWZzVHA3Uk5uRjdHemtzUUZPNFFSNllsZC1Gc0VieW9pRU9kMzVvUTEzYWpSR0JQaXRLMEpYSWRZN0ZBS1AxYkk0UC05WGdUYTBZWTBEcmRZZw?oc=5",
         "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNY254TDM0Z2ZsbmI0ajhpeUs1aXlSa3U2bng2WnRYRGlITW5UOWo1MnFFWlVabGtOQU5QbXVXQkZZcmRTQm1OTnBIaWNOeGw1Q0drZmFMb3V0Si0zWmtVel8xWElTWWJGQVNEaFoxVDhpTUhScEN1ekUwTWI2QWxSdmdMamVKN2JyWEVnbHdFekliSDZ6WmE5U3Y4UTU0OE9qN3gwMjZRLUZlaUxlUXEwdmdueHNYRUJJdy1hY254c2lXYkx5Q1g1UXVzNXVRZnBRd2VqTkFTUGNuQ0tNb3IwejBHYzFOV25qeTZvQWZvUGZ1c0V5c1hPZ0FwZHc?oc=5",
         "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTTAwMk9qa2ZST0ZoYWtwdlpVRnpfd2xTRzZIazQ0NENRUGtETmFaNTktdFRKYk9pekpPdjlCUEIzQzZOUk5pcVZiYUdpYU1fcDlySnBVMDVyenlZa1dJUDdMYWRxZ3hzUHdxbUZERjlLQzY0bHVDMTN2eWUydTJQZ09aWEVPamFXRkVwLQ?oc=5"
-      ]
-    },
-    {
-      "id": "2026-07-21-8e1e0837",
-      "date": "2026-07-21",
-      "investor": "David Rosenberg",
-      "side": "sell",
-      "summary": "Rosenberg extends his bearish thesis beyond 2026, now warning of a 'very significant recession' in 2027 as the two engines driving the current expansion \u2014 AI capex and fiscal stimulus \u2014 are poised to exhaust simultaneously. He argues AI-related spending will peak in 2026 as data center construction completes, while fiscal stimulus faces likely gridlock through 2027. This represents a meaningful escalation from his July 16 inflation-crater call: the disinflation he expects in 2026 sets the stage for a harder economic landing the following year.",
-      "key_views": [
-        "2027 recession risk 'very significant' as AI capex peaks and fiscal stimulus faces gridlock",
-        "AI data center spending is pulling forward demand \u2014 a vacuum follows in 2027",
-        "Fiscal stimulus likely a 'no-show' in 2027 due to political gridlock over deficits",
-        "2026 inflation will crater (disinflation thesis intact), clearing path for Fed cuts",
-        "Tax refund 'lifeline' extends the economy 2-3 months before pressures intensify"
-      ],
-      "trade_ideas": [
-        "Long gold and silver as macro hedge and central bank diversification play",
-        "Long uranium/nuclear as AI electricity demand secular story",
-        "Long bonds as disinflation forces Fed to cut more than priced"
-      ],
-      "asset_classes": [
-        "bonds",
-        "commodities",
-        "rates"
-      ],
-      "sentiment": "bearish",
-      "sources": [
-        "https://finance.yahoo.com/news/top-economist-says-sees-very-094501278.html",
-        "https://www.rosenbergresearch.com/2026/06/26/disinflation-explained-why-2026-will-surprise-the-inflation-hawks/"
-      ]
-    },
-    {
-      "id": "2026-07-21-0b05ff1e",
-      "date": "2026-07-21",
-      "investor": "Mike Wilson",
-      "side": "sell",
-      "summary": "Wilson acknowledges near-term turbulence before the next bull leg resumes, citing semiconductor rollover, heavy equity and credit issuance supply, and the upcoming Fed leadership transition as headwinds. He maintains his S&P 500 year-end target of 7,800 and argues the broadening trade is real \u2014 with the median S&P 1500 stock generating 10%+ EPS growth for the first time since the post-COVID boom \u2014 but warns that markets must digest correction risks before that next leg begins. The bull case is broadening away from semiconductors toward financials, healthcare, and small caps.",
-      "key_views": [
-        "Near-term corrective activity expected before the next leg of the bull market resumes",
-        "Semiconductor momentum fading \u2014 transition risk as semiconductors lose crowded-trade status",
-        "Median S&P 1500 stock generating 10%+ EPS growth \u2014 best since post-COVID recovery",
-        "Broadening trade maturing: leadership shifting to financials, healthcare, small caps",
-        "Fed leadership transition adds policy uncertainty; heavy equity/credit supply weighs short-term"
-      ],
-      "trade_ideas": [
-        "Reduce semiconductor exposure, rotate into financials and healthcare",
-        "Buy small caps as earnings broadening gains traction",
-        "Maintain S&P 7,800 year-end target \u2014 use dips as entry points"
-      ],
-      "asset_classes": [
-        "equities"
-      ],
-      "sentiment": "bullish",
-      "sources": [
-        "https://www.morganstanley.com/insights/podcasts/thoughts-on-the-market/equity-market-broadening-sector-rotation-bull-market-outlook-mike-wilson",
-        "https://www.bloomberg.com/news/articles/2026-07-13/morgan-stanley-s-wilson-sees-profit-boost-for-stocks-beyond-tech"
       ]
     }
   ]
