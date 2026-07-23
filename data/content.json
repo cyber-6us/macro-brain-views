@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "entries": [
     {
       "id": "2026-07-22-33d0e4ad",
@@ -7478,6 +7478,123 @@
         "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSHpLUlI1X19TQUNwOGVHeF9zUzlMMkd2ZDNESVdNWnp6Tkpta3YxempsMU9vYldCOGdvaUVPUWM1N05HaUQ1M3R6WUZTWUp4Mnh1ckZsTjlKVGljMzNpM1o4WkFBUm82MDZlS2tFSWZzVHA3Uk5uRjdHemtzUUZPNFFSNllsZC1Gc0VieW9pRU9kMzVvUTEzYWpSR0JQaXRLMEpYSWRZN0ZBS1AxYkk0UC05WGdUYTBZWTBEcmRZZw?oc=5",
         "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNY254TDM0Z2ZsbmI0ajhpeUs1aXlSa3U2bng2WnRYRGlITW5UOWo1MnFFWlVabGtOQU5QbXVXQkZZcmRTQm1OTnBIaWNOeGw1Q0drZmFMb3V0Si0zWmtVel8xWElTWWJGQVNEaFoxVDhpTUhScEN1ekUwTWI2QWxSdmdMamVKN2JyWEVnbHdFekliSDZ6WmE5U3Y4UTU0OE9qN3gwMjZRLUZlaUxlUXEwdmdueHNYRUJJdy1hY254c2lXYkx5Q1g1UXVzNXVRZnBRd2VqTkFTUGNuQ0tNb3IwejBHYzFOV25qeTZvQWZvUGZ1c0V5c1hPZ0FwZHc?oc=5",
         "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTTAwMk9qa2ZST0ZoYWtwdlpVRnpfd2xTRzZIazQ0NENRUGtETmFaNTktdFRKYk9pekpPdjlCUEIzQzZOUk5pcVZiYUdpYU1fcDlySnBVMDVyenlZa1dJUDdMYWRxZ3hzUHdxbUZERjlLQzY0bHVDMTN2eWUydTJQZ09aWEVPamFXRkVwLQ?oc=5"
+      ]
+    },
+    {
+      "id": "2026-07-23-28e0322a",
+      "date": "2026-07-23",
+      "investor": "Paul Tudor Jones",
+      "side": "buy",
+      "summary": "Jones positions for persistent fiscal inflation by naming Bitcoin the best available inflation hedge over gold, citing its 21M hard cap and decentralized structure. He views current US equity valuations as dangerously stretched\u2014S&P market cap/GDP near dot-com bubble extremes implying negative 10-year forward returns. With the Fed having cut rates six times since September 2024 and restarting QE, he favors a vol-adjusted blend of Bitcoin, gold, and commodities as the optimal inflation-fighting portfolio.",
+      "key_views": [
+        "Bitcoin is the best inflation hedge due to hard 21M supply cap and decentralized structure, outranking gold",
+        "US equities overvalued: S&P market cap/GDP near dot-com extremes, implying negative 10-year forward returns",
+        "Fed has cut rates 6 times since Sept 2024 and restarted QE; structural fiscal expansion makes debt inflation inevitable",
+        "Optimal inflation hedge portfolio: Bitcoin (primary) + gold ETFs + commodities (vol-adjusted blend)",
+        "Hard assets and inflation-linked plays outperform in extended fiscal dominance regime"
+      ],
+      "trade_ideas": [
+        "Long Bitcoin as primary inflation hedge over gold",
+        "Long gold ETFs as secondary inflation hedge",
+        "Long commodities for vol-adjusted inflation protection",
+        "Reduce or hedge US equity exposure at current dot-com-era valuations"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "commodities"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://www.coindesk.com/markets/2026/04/28/paul-tudor-jones-calls-bitcoin-the-best-inflation-hedge-warns-of-overvalued-stocks",
+        "https://www.rcmalternatives.com/2024/11/paul-tudor-jones-positioning-for-inflation-through-bitcoin-gold-and-commodities/",
+        "https://finance.yahoo.com/news/paul-tudor-jones-global-macro-203245241.html"
+      ]
+    },
+    {
+      "id": "2026-07-23-b3fe3662",
+      "date": "2026-07-23",
+      "investor": "Howard Marks",
+      "side": "buy",
+      "summary": "Marks identifies the third major structural 'sea change' of his 53-year career: rapid capital inflows have commoditized direct lending, eroding alpha, and future credit excess returns will require moving into asset-backed finance and distressed credit. In his 'What's Going on in Private Credit?' memo, he traces how direct lending grew post-GFC but is now crowded, with mispricings arising instead from complexity premiums, supply-demand imbalances, technical forced selling, and investor misunderstandings\u2014areas Oaktree explicitly targets.",
+      "key_views": [
+        "Third major 'sea change' underway: direct lending commoditized by capital flood, alpha has largely disappeared",
+        "Future credit excess returns come from asset-backed finance and distressed credit, not plain-vanilla direct lending",
+        "Mispricings arise from complexity, supply-demand imbalances, forced technical selling, and market misunderstandings",
+        "Current AI investment boom shows characteristics of Alan Greenspan's 'irrational exuberance'\u2014overly cautious investors may miss historic opportunities",
+        "Sub-investment-grade credit market has evolved from junk bonds to direct lending to increasingly complex multi-asset solutions"
+      ],
+      "trade_ideas": [
+        "Shift from commoditized direct lending toward asset-backed finance and distressed credit for excess returns",
+        "Exploit mispricings via superior thinking rather than relying on efficient market pricing"
+      ],
+      "asset_classes": [
+        "credit",
+        "bonds",
+        "equities"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://www.oaktreecapital.com/docs/default-source/memos/ai-hurtles-ahead.pdf",
+        "https://index.fame.so/show/the-memo-by-howard-marks/reflections-on-oaktree-conference-2026-with-howard-marks",
+        "https://privatewealth.brookfield.com/insight/memos-howard-marks-what-really-matters"
+      ]
+    },
+    {
+      "id": "2026-07-23-2b08f3db",
+      "date": "2026-07-23",
+      "investor": "Russell Napier",
+      "side": "sell",
+      "summary": "Napier maintains his financial repression thesis: a 15-20 year era of structurally elevated inflation is underway as governments force interest rates below nominal growth to inflate away bloated sovereign debt. Central banks have lost operational independence, now subordinate to indebted governments. He warns that fully enforcing this repression may ultimately require capital controls, radically reshaping portfolio construction for an entire generation of investors.",
+      "key_views": [
+        "15-20 year era of financial repression underway: governments systematically keeping rates below inflation to erode sovereign debt",
+        "Central banks have lost independence and now serve indebted sovereigns rather than targeting 2% inflation independently",
+        "Fiscal dominance has replaced monetary dominance\u2014the defining investment regime shift of this decade",
+        "Capital controls may be required to fully enforce financial repression and trap assets in domestic markets",
+        "Current regime most analogous to post-WWII period of deliberate real rate suppression to pay down war debt"
+      ],
+      "trade_ideas": [
+        "Avoid long-duration government bonds from highly indebted sovereigns in financial repression regime",
+        "Favor real assets (equities, commodities, gold) that benefit from structurally negative real rates"
+      ],
+      "asset_classes": [
+        "bonds",
+        "rates",
+        "equities",
+        "commodities"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://www.themebfabershow.com/episodes/xvzCybmV3b3",
+        "https://marcellus.in/story/we-are-entering-a-time-of-financial-repression/",
+        "https://behindthebalancesheet.substack.com/p/russell-napiers-warning-the-great-portfolio-reset"
+      ]
+    },
+    {
+      "id": "2026-07-23-a3d6bf24",
+      "date": "2026-07-23",
+      "investor": "George Soros",
+      "side": "buy",
+      "summary": "Soros Fund Management maintains a $9.12 billion US portfolio heavily concentrated in mega-cap AI and technology infrastructure\u2014Amazon, Nvidia, TSMC, Alphabet, and Apple\u2014while applying reflexivity theory to position around geopolitical stress points, policy pivots, and monetary credibility shifts. The fund embeds strict downside protection given elevated uncertainty across elections, central bank decisions, and trade disputes, reflecting Soros's view that market participants' biases are actively influencing the AI-cycle fundamentals.",
+      "key_views": [
+        "$9.12B US portfolio concentrated in AI/tech infrastructure: top positions in Amazon, Nvidia, TSMC, Alphabet, Apple",
+        "Reflexivity framework active: AI cycle is self-reinforcing, with investor biases amplifying underlying fundamentals",
+        "Geopolitical stress points (elections, central bank pivots, trade disputes) create tactical positioning opportunities",
+        "Strict downside protection embedded across portfolio amid elevated macro tail risks and capital flow disruption",
+        "Rising nationalism and eroding monetary credibility create capital-war risks that structure fund positioning"
+      ],
+      "trade_ideas": [
+        "Long Amazon, Nvidia, TSMC, Alphabet, Apple as primary AI-cycle beneficiaries",
+        "Tactical hedges around geopolitical flashpoints and policy-driven capital flow disruptions"
+      ],
+      "asset_classes": [
+        "equities",
+        "fx"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://hedgefundalpha.com/strategies/george-soros-portfolio/",
+        "https://www.opensocietyfoundations.org/voices/george-soros-open-society-the-financial-crisis-and-the-way-ahead"
       ]
     }
   ]
