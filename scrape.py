@@ -15,7 +15,8 @@ import requests
 import xml.etree.ElementTree as ET
 from urllib.parse import quote_plus
 from bs4 import BeautifulSoup
-from datetime import date, timedelta
+from datetime import date, timedelta, timezone
+from email.utils import parsedate_to_datetime
 import anthropic
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
@@ -72,6 +73,18 @@ SELL_SIDE = [
 
 # ── Google News RSS ────────────────────────────────────────────────────────────
 
+def parse_pub_date(raw: str) -> str | None:
+    """Parse an RSS pubDate (RFC 822) into an ISO 8601 UTC string, or None."""
+    if not raw:
+        return None
+    try:
+        dt = parsedate_to_datetime(raw)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc).isoformat()
+    except Exception:
+        return None
+
 def google_news_rss(query: str, period: str = "30d", max_results: int = 5) -> list[dict]:
     """Fetch Google News RSS — free, no API key, Google-quality results."""
     encoded = quote_plus(f'{query} when:{period}')
@@ -85,8 +98,9 @@ def google_news_rss(query: str, period: str = "30d", max_results: int = 5) -> li
             link    = item.findtext("link", "").strip()
             snippet = BeautifulSoup(item.findtext("description", ""), "html.parser").get_text()
             source  = item.findtext("source", "")
+            pub_date = parse_pub_date(item.findtext("pubDate", ""))
             if title:
-                results.append({"title": title, "url": link, "snippet": snippet, "source": source})
+                results.append({"title": title, "url": link, "snippet": snippet, "source": source, "pub_date": pub_date})
         return results
     except Exception:
         return []
@@ -179,6 +193,7 @@ def scrape_person(person: dict, side: str) -> dict | None:
     name = person["name"]
     snippets = []
     sources = []
+    pub_dates = []  # ISO timestamps of contributing articles, for "most recent" published_at
 
     # Direct URLs (for investors who publish on their own site)
     for url in person.get("urls", []):
@@ -200,6 +215,8 @@ def scrape_person(person: dict, side: str) -> dict | None:
 
             if url and url not in sources:
                 sources.append(url)
+                if result.get("pub_date"):
+                    pub_dates.append(result["pub_date"])
                 actual_url = resolve_google_url(url)
                 article = fetch_article_text(actual_url)
                 if article:
@@ -237,6 +254,7 @@ def scrape_person(person: dict, side: str) -> dict | None:
     return {
         "id": f"{TODAY}-{hashlib.md5(name.encode()).hexdigest()[:8]}",
         "date": TODAY,
+        "published_at": max(pub_dates) if pub_dates else None,
         "investor": name,
         "side": side,
         "summary": extracted.get("summary", ""),
