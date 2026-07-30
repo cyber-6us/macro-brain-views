@@ -4,64 +4,65 @@
     "date": "2026-07-30",
     "entries_count": 16,
     "buy_side_bullets": [
-      "AI valuations in late-stage bubble territory mirroring 1999-2000 — crash risk rising as semiconductor shorts expand and mega-cap tech avoided. [Paul Tudor Jones, Michael Burry]",
-      "Bond market forcing Fed's hand — inflation persistence ending the long-term bull in duration, 30-year yield above 5% signals credibility crisis. [Jeffrey Gundlach]",
-      "Mega-cap tech (Alphabet, Amazon, Meta) and dislocated names (Uber) offer selective risk-reward despite broad market caution — conviction concentrated in 11 positions. [Bill Ackman]",
-      "Bitcoin emerging as primary macro hedge as AI equity narrative fades — structural case strengthened by institutional ETF inflows and regulatory clarity ahead. [Paul Tudor Jones, Scott Bessent]",
-      "Volatile macro regime generating alpha through systematic frameworks — market dislocations are opportunities, not catastrophes. [Ray Dalio]"
+      "AI valuations mirror late-1999/2000 dot-com bubble — markets priced for perfection ahead of likely crash; semiconductor shorts expanding. [Burry, Tudor Jones]",
+      "Bond market signaling Fed is behind the curve — end of long-duration bull era as 30-year Treasury tops 5% and rates stay higher for longer. [Gundlach]",
+      "Mega-cap tech (Alphabet, Amazon, Meta) and select dislocations (Uber) offer favorable risk-reward in concentrated conviction portfolios — selective not broad bullishness. [Ackman]",
+      "Bitcoin is the dominant macro hedge amid AI bubble risk and fiat credibility concerns — fundamental case strengthening. [Tudor Jones, Burry via contrast]",
+      "Systematic macro frameworks outperform in volatile/dislocated markets — volatility is alpha, not risk. [Dalio]"
     ],
     "sell_side_bullets": [
-      "AI productivity payoff is years away while markets price near-term delivery — mismatch creates systemic repricing risk for hyperscalers, mega-cap tech, and high-debt balance sheets. [Jim Reid, Torsten Slok]",
-      "Semiconductor sector facing near-term correction of 12%+ — broad consensus across bull and bear camps to reduce semis exposure now. [Ed Yardeni, Mike Wilson]",
-      "S&P 500 targeting 8,000 year-end but interim pullback to 7,000 expected — rotation rather than direction is the dominant trade, rebalancing discipline critical. [Mike Wilson, Liz Ann Sonders]",
-      "Recession risk materially reduced but energy price spike from US-Iran tensions creating offsetting consumer headwinds — soft landing thesis intact but fragile. [Jan Hatzius]",
-      "Fed controls short-term rates but long-end yields are market-determined — Treasury issuance surge and fiscal deterioration undermining the '3-3-3' macro scenario. [John Mauldin, Scott Bessent ↑ evolving]"
+      "AI productivity payoff is years away while markets price near-term delivery — failure to materialise triggers painful repricing of hyperscalers, mega-cap tech, and debt sustainability. [Reid, Slok]",
+      "S&P 500 targets 8,000 year-end with interim pullback to 7,000 — semiconductor sector facing correction, AI adoption remains key profit driver. [Wilson, Yardeni]",
+      "Recession probability materially reduced but energy price spike from US-Iran geopolitical tensions creates consumer demand headwind offsetting Fed relief. [Hatzius]",
+      "Sector and factor rotation is the dominant market dynamic — rebalancing critical as certain areas stretched; US exceptionalism still justified by fundamentals. [Sonders]",
+      "Canadian dollar faces structural collapse toward 60 cents driven by mortgage strain and three macro headwinds — sovereign stress outside US borders intensifying. [Rosenberg]"
     ],
     "whats_new": [
-      "Gundlach explicitly reverses long-standing bond bull stance — now arguing Fed must hike further, 30-year above 5% reflecting credibility loss, shift away from duration entirely. [Jeffrey Gundlach ↑ shift]",
-      "Bridgewater flagship gained 8.1% H1 2026 — concrete performance validation of systematic volatile-market framework rather than directional macro call. [Ray Dalio]",
-      "Bessent's '3-3-3 economy' target (3% growth, 3% inflation, 3% yields) explicitly acknowledged as unachievable near-term — significant admission from Treasury that macro framework is slipping. [Scott Bessent ↑ shift]",
-      "Visser explicitly rotating macro thesis from AI equities to Bitcoin — calls Bitcoin the only AI-proof trade and targets $70,000 on Fed rate-skip scenario. [Jordi Visser ↑ shift]",
-      "Burry expands short book into Nvidia/semiconductors while opening idiosyncratic longs in DraftKings and Flutter on prediction market regulation narrative — most granular trade expression of bear thesis. [Michael Burry]"
+      "Gundlach reverses long-standing bond bull stance — now argues Fed must raise rates and 30-year yields topping 5% marks the end of the duration era. [Gundlach ↑ shift]",
+      "Bridgewater flagship gained 8.1% H1 2026 — systematic macro funds are monetising volatility while consensus debates crash vs melt-up. [Dalio]",
+      "Bessent concedes '3-3-3 economy' target (3% growth, 3% inflation, 3% yields) is slipping out of reach — signals official acknowledgment of macro deterioration. [Bessent ↑ shift]",
+      "Visser explicitly rotating macro thesis from AI equities to Bitcoin — argues AI easy-money phase is over and labor weakness is crypto-positive. [Visser ↑ shift]",
+      "Burry adds long DraftKings and Flutter on prediction market regulation narrative while simultaneously expanding Nvidia short — idiosyncratic pair alongside macro bear thesis. [Burry]"
     ],
     "vs_market_buy": [
-      "Shorting Nvidia and broad semiconductors while market still prices AI capex supercycle at elevated multiples — direct bet against consensus crowded trade. [Michael Burry]",
-      "Dumping duration exposure as bond market signals more Fed hikes needed — sharply contra consensus view that tightening cycle is over and cuts are coming. [Jeffrey Gundlach]",
-      "Long Uber as market over-discounts Tesla robotaxi disruption — sees dislocation as entry point where consensus fear has overshot fundamentals. [Bill Ackman]"
+      "Shorting Nvidia and semiconductor leaders while market still prices AI capex supercycle at elevated multiples — direct bet against consensus growth narrative. [Burry]",
+      "Reducing long-end Treasury exposure and flagging fiscal bill issuance risks while rates market prices eventual Fed easing — duration skepticism cuts against rate-cut consensus. [Bessent, Gundlach]",
+      "Long Bitcoin targeting $70,000 while equity bulls dominate positioning — crypto seen as only AI-proof macro trade as US stocks potentially underperform. [Tudor Jones, Visser]"
     ],
     "vs_market_sell": [
-      "AI productivity gains years away while equity multiples embed near-term payoff — 'painful repricing' risk not reflected in current hyperscaler valuations or broad index levels. [Jim Reid, Torsten Slok]",
-      "Canadian dollar heading to near 60 cents — a move far beyond current market pricing, implying structural deterioration in Canadian macro well beyond consensus CAD forecasts. [David Rosenberg]",
-      "Bitcoin trading as overheated momentum asset not digital gold — valuation stretched relative to narrative at a time when crypto bulls are most vocal. [Barry Bannister]"
+      "AI productivity payoff years away while equities trade at elevated forward multiples pricing near-term hyperscaler profit delivery — significant valuation disconnect. [Reid, Slok]",
+      "Semiconductor sector (SOXX) facing 12%+ further downside from bear market levels while consensus treats semis as AI infrastructure beneficiary. [Yardeni, Wilson]",
+      "Bitcoin trading as overheated momentum equity rather than digital gold — valuations stretched against its fundamental safe-haven narrative. [Bannister]"
     ],
     "buy_vs_sell_divergence": [
-      "Mega-cap tech as conviction long vs. mega-cap tech as primary repricing risk — Ackman running concentrated longs in Alphabet/Amazon/Meta while Reid and Slok flag these exact names as most vulnerable to AI disappointment unwind. [Bill Ackman vs Jim Reid, Torsten Slok]",
-      "Duration: Gundlach explicitly short duration on inflation/hike thesis while Hatzius recommends long duration as rate hike probability collapses — directly opposed Fed outlooks driving opposite fixed income trades. [Jeffrey Gundlach vs Jan Hatzius]",
-      "Bitcoin as legitimate macro hedge vs Bitcoin as overheated momentum equity — Tudor Jones and Visser structurally long BTC while Bannister warns it is trading like a crowded Big Tech speculative position. [Paul Tudor Jones, Jordi Visser vs Barry Bannister]"
+      "Mega-cap tech is a conviction long on secular AI adoption grounds vs mega-cap tech faces painful repricing as AI profit timelines slip — direct confrontation on same assets. [Ackman vs Reid, Slok]",
+      "Volatility and dislocations are alpha opportunities to be systematically harvested vs volatility reflects genuine bubble/debt fragility requiring defensive repositioning — opposite interpretations of same market signal. [Dalio vs Burry, Gundlach]",
+      "Recession risk materially reduced and year-end equity rally expected vs debt sustainability and AI disappointment risk make current equity levels untenable — growth outlook divergence. [Hatzius, Wilson, Yardeni vs Reid, Slok, Rosenberg]"
     ],
     "aligned": [
-      "Semiconductors facing near-term correction regardless of broader market direction — rare cross-camp consensus spanning bulls, bears, buy-side, and sell-side to reduce semis exposure. [Michael Burry, Ed Yardeni, Mike Wilson, Paul Tudor Jones]",
-      "AI's near-term productivity and profit delivery is being overpriced by markets — timing mismatch between capex and returns is the defining macro risk of H2 2026. [Jim Reid, Torsten Slok, Paul Tudor Jones, Michael Burry]",
-      "Fiscal trajectory and Treasury issuance creating structural upward pressure on long-end yields beyond Fed control — long-end is a market, not a policy tool. [Jeffrey Gundlach, John Mauldin, Scott Bessent]"
+      "Semiconductor sector is vulnerable to meaningful correction regardless of broader equity view — consensus short/underweight across buy and sell side. [Burry, Wilson, Yardeni, Sonders]",
+      "AI productivity timeline is the critical macro variable — gap between capex investment and actual returns is the single biggest risk to current market pricing. [Reid, Slok, Tudor Jones, Burry]",
+      "Long-end rates staying elevated with Fed credibility under pressure — duration risk is real whether from inflation persistence or fiscal deterioration. [Gundlach, Bessent, Mauldin, Slok]"
     ],
     "buy_side_trades": [
-      "Short Nvidia and semiconductors broadly — AI bubble valuation with no near-term earnings catalyst to justify multiples. [Michael Burry]",
-      "Long Bitcoin as macro hedge targeting $70,000 — AI narrative fade, Fed pause, and regulatory clarity converging as crypto tailwinds. [Paul Tudor Jones, Scott Bessent]",
-      "Long Alphabet, Amazon, Meta; long Uber on dislocation — selective mega-cap tech conviction while avoiding Tesla and semis. [Bill Ackman]",
-      "Reduce long-end Treasury duration, short CAD — fiscal deterioration and currency structural weakness as paired macro expression. [Jeffrey Gundlach, Scott Bessent]"
+      "Short Nvidia and semiconductor sector — AI bubble dynamics mirror 1999/2000 dot-com peak with crash risk. [Burry]",
+      "Long Bitcoin as macro hedge targeting $70,000 — only AI-proof asset amid fiat and equity bubble concerns. [Tudor Jones, Visser]",
+      "Long Alphabet, Amazon, Meta; long Uber on Tesla robotaxi dislocation — concentrated mega-cap tech conviction. [Ackman]",
+      "Short duration / reduce long-end Treasury exposure — fiscal bill issuance and inflation persistence make duration toxic. [Gundlach, Bessent]",
+      "Long volatility and dispersion strategies — systematic alpha harvesting in geopolitical and macro dislocation environment. [Dalio]"
     ],
     "sell_side_trades": [
-      "Reduce/avoid semiconductor exposure (SOXX, MU, AMD, INTC, NVDA) — 12%+ downside risk with correction already underway across bull and bear sell-side frameworks. [Ed Yardeni, Mike Wilson]",
-      "Long duration fixed income on recession risk reduction and rate hike elimination — Hatzius sees June inflation data as closing the July hike door. [Jan Hatzius]",
-      "Rotation trades within equities — sector and factor rebalancing as new momentum rather than directional index bets; biotech IPOs outperforming AI listings. [Liz Ann Sonders, Barry Bannister]",
-      "Short Canadian dollar targeting near 60 cents — structural mortgage stress and three macro headwinds driving CAD well below current pricing. [David Rosenberg]"
+      "Reduce / avoid semiconductor exposure (SOXX, MU, AMD, INTC, SNDK, Nvidia) — correction risk from AI capex disappointment and stretched valuations. [Wilson, Yardeni, Reid, Slok]",
+      "Long broad US equities for year-end rally to S&P 8,000 — use geopolitical dips as entry points; rotation and rebalancing over directional shorts. [Wilson, Yardeni, Sonders]",
+      "Energy and commodity hedges given US-Iran geopolitical risk premium — consumer demand drag from higher energy costs creates defensive case. [Hatzius]",
+      "Short Canadian dollar (CAD toward 60 cents) — structural mortgage strain, growth headwinds, and currency debasement thesis. [Rosenberg]"
     ],
     "dominant_themes": [
-      "AI productivity timing mismatch vs market pricing",
-      "Semiconductor sector correction",
-      "Bitcoin as macro hedge vs speculative momentum asset",
-      "Fed credibility and long-end yield independence",
-      "Fiscal deterioration undermining soft-landing narrative"
+      "AI productivity timing gap vs market pricing",
+      "Semiconductor sector correction risk",
+      "Bitcoin as macro rotation destination",
+      "Fed credibility and long-end rate regime shift",
+      "Bubble dynamics mirroring 1999-2000 dot-com peak"
     ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
@@ -71,66 +72,65 @@
     "period_end": "2026-07-30",
     "entries_count": 23,
     "buy_side_bullets": [
-      "S&P market cap/GDP near dot-com extremes implying negative 10-year forward returns — reducing equity exposure in favor of hard assets. [Tudor Jones, Burry]",
-      "AI valuation bubble mirrors late 1999/2000 dynamics — crash risk elevated while selective shorts in semis being expanded. [Burry, Tudor Jones ↑ evolving]",
-      "Bitcoin is the primary inflation hedge over gold given 21M hard cap and decentralized structure — Fed's six cuts and QE restart make debt inflation inevitable. [Tudor Jones]",
-      "Mega-cap tech (Alphabet, Amazon, Meta) offers favorable risk-reward via concentrated conviction — Tesla robotaxi fears creating Uber dislocation as buying opportunity. [Ackman]",
-      "Volatile macro environment systematically profitable — market dislocations generate alpha for disciplined macro frameworks rather than signaling imminent crash. [Dalio]"
+      "US equity valuations at dot-com bubble extremes — S&P market cap/GDP implying negative 10-year forward returns, crash risk rising. [Paul Tudor Jones, Burry]",
+      "Bitcoin is the primary inflation hedge over gold — hard 21M cap and decentralized structure superior in fiscal dominance regime; Fed has cut 6x since Sept 2024 and restarted QE. [Paul Tudor Jones]",
+      "Mega-cap tech (Alphabet, Amazon, Meta) still offers favorable risk-reward via selective conviction — dislocations in Uber from Tesla robotaxi narrative creating specific entry points. [Ackman]",
+      "Bond market signaling Fed must raise rates — 30-year yield topping 5% marks end of multi-decade bond bull market; shift away from duration. [Gundlach ↑ shift]",
+      "Volatile macro regime generating alpha via systematic frameworks — market dislocations are opportunity, not crisis. [Dalio]"
     ],
     "sell_side_bullets": [
-      "AI productivity payoff is years away — markets pricing near-term gains that won't materialize, creating painful repricing risk for hyperscalers and debt sustainability. [Reid, Slok]",
-      "Semiconductors in confirmed bear market (SOXX -20.3% from June peak) with explicit further 12% downside call — AI ROI concerns revived by Kimi K3/DeepSeek 2.0 debate. [Yardeni ↑ evolving, Hartnett, Wilson]",
-      "Bull & Bear indicator at extreme 9.5 sell signal with frozen bullish sentiment — $33.9B exiting money markets into risk at peak readings while hyperscaler FCF turns negative. [Hartnett]",
-      "Financial repression regime underway for 15-20 years — central banks subordinated to indebted sovereigns, capital controls possible, reshaping an entire generation of portfolio construction. [Napier]",
-      "Three simultaneous catalysts collided week of July 28-31: hyperscaler earnings, Fed meeting, Iran conflict — core inflation sticky from tariffs even as energy eases, Fed on hold. [Slok ↑ evolving]"
+      "AI productivity gains are years away — painful hyperscaler repricing risk if capex fails to deliver profit growth; debt levels amplify downside. [Reid, Slok ↑ evolving]",
+      "SOXX in bear market territory (down 20%+ from June peak) — further 12% downside explicit; AI ROI debate and Middle East energy shock creating compounding headwinds for semis. [Yardeni ↑ evolving, Hartnett, Wilson]",
+      "Sentiment at extreme 9.5 Bull & Bear sell signal with $33.9B cash deploying into risk at peak readings — 'frozen bullish' positioning creates asymmetric downside. [Hartnett]",
+      "Financial repression regime entrenched for 15-20 years — central banks subordinated to indebted sovereigns, capital controls a tail risk; avoid long-duration sovereign bonds. [Napier]",
+      "Fed path uniquely hazardous — 9 of 18 officials projecting rate hike, forward guidance eliminated, core inflation sticky despite energy relief; Fedspeak only remaining signal. [Slok ↑ evolving, Mauldin]"
     ],
     "whats_new": [
-      "Gundlach formally abandons long-standing bond bull stance — bond market now signaling Fed must raise rates, 30-year yield topping 5% reflects credibility loss, shift away from duration. [Gundlach ↑ shift]",
-      "Goldman Sachs materially cuts recession probability — June inflation data eliminated July rate hike likelihood, marking significant change from prior cautious forecast. [Hatzius ↑ shift]",
-      "Bessent concedes '3-3-3 economy' target (3% growth, 3% inflation, 3% yields) is slipping out of reach — moderating growth environment acknowledged by sitting Treasury official. [Bessent ↑ shift]",
-      "Visser formally pivots macro framework from AI equities to Bitcoin — argues AI's easy money phase is over, Bitcoin is the only AI-proof trade, targets $70K on Fed rate-skip. [Visser ↑ shift]",
-      "Burry expands semiconductor shorts (Nvidia specifically) while going long DraftKings and Flutter on prediction market regulation narrative — idiosyncratic long/short layered onto macro bear thesis. [Burry ↑ evolving]"
+      "Gundlach explicitly reverses long-standing bond bull stance — now argues Fed must hike, 30-year above 5% marks structural regime change; shift from bull to bear on duration. [Gundlach ↑ shift]",
+      "Bessent publicly acknowledges '3-3-3 economy' target (3% growth, 3% inflation, 3% yields) is becoming unachievable — marks deterioration from prior confident framing of fiscal path. [Bessent ↑ shift]",
+      "Hatzius materially reduces recession probability and eliminates July Fed hike expectation following June inflation data — significant dovish pivot from prior cautious stance. [Hatzius ↑ shift]",
+      "Visser explicitly rotates macro thesis from AI equities to Bitcoin — calls AI 'easy money phase over' and positions Bitcoin as the only AI-proof macro trade targeting $70K on Fed skip. [Visser ↑ shift]",
+      "Burry expands semiconductor shorts to include Nvidia specifically while adding idiosyncratic longs in DraftKings and Flutter on prediction market regulation narrative — most actionable stock-level expression of bear case. [Burry]"
     ],
     "vs_market_buy": [
-      "US equity valuations at dot-com extremes implying negative 10-year forward returns — while market trades near S&P 7,500 with bulls targeting 8,000-8,250, hard asset rotation thesis sharply diverges from consensus multiple expansion narrative. [Tudor Jones, Burry]",
-      "Bitcoin as primary macro hedge outranking gold and equities — while market still debates crypto's role, concentrated Bitcoin long positioned against fiscal dominance and Fed credibility loss. [Tudor Jones, Visser]",
-      "Direct lending alpha has disappeared — while institutional capital continues flooding private credit, Marks repositions toward asset-backed finance and distressed credit as the only remaining excess return source. [Marks]"
+      "Short Nvidia and broad semiconductors while Soros fund holds Nvidia as top AI-cycle position — direct intra-period buy-side contradiction on most consensus AI trade. [Burry vs Soros]",
+      "Bitcoin framed as superior inflation hedge over gold while market still prices gold as primary hard-asset hedge — structural repricing thesis not yet consensus. [Paul Tudor Jones]",
+      "Long Uber as dislocated opportunity while market prices Tesla robotaxi disruption as existential — contrarian read on competitive dynamics at odds with prevailing Tesla bull narrative. [Ackman]"
     ],
     "vs_market_sell": [
-      "Hyperscaler FCF turning negative even as 61% of FMS respondents expect no capex cut — market consensus deeply complacent on AI capex sustainability while sell-side flags structural fault line between platform owners and semi dependents. [Hartnett, Slok, Reid]",
-      "15-20 year financial repression regime underway with capital controls possible — market pricing normal monetary cycles while Napier argues sovereign debt dynamics have permanently subordinated central bank independence. [Napier]",
-      "Canadian dollar heading toward 60 cents on three structural headwinds — market not pricing severity of CAD weakness implied by mortgage strain and household debt stress. [Rosenberg]"
+      "SOXX bear market with explicit further 12% downside call while 61% of FMS respondents expect no hyperscaler capex cut — consensus complacency creates asymmetric short setup. [Yardeni, Hartnett, Wilson]",
+      "Core inflation structurally sticky and Fed hike risk alive while bond market partially pricing relief from energy decline — 'energy down, yields up' decoupling ignored by rate markets. [Slok ↑ evolving]",
+      "Canadian dollar to 60 cents on structural headwinds while market has not priced mortgage strain severity — FX dislocation thesis well ahead of consensus CAD forecasts. [Rosenberg]"
     ],
     "buy_vs_sell_divergence": [
-      "Mega-cap tech is a conviction long (Alphabet, Amazon, Meta at favorable risk-reward) vs. mega-cap tech/hyperscalers face painful repricing as AI productivity disappoints — direct long/short disagreement on the same assets. [Ackman, Soros vs. Reid, Slok, Hartnett]",
-      "Bitcoin is the next dominant macro trade and only AI-proof asset targeting $70K vs. Bitcoin trading as overheated Big Tech stock with stretched valuations at current levels — fundamental buy/sell split on crypto's near-term risk-reward. [Tudor Jones, Visser vs. Bannister]",
-      "Recession probability materially reduced and rate hike in July eliminated vs. nine of eighteen Fed officials project a hike this year with Fedspeak as only remaining policy signal — direct conflict on Fed trajectory and recession odds. [Hatzius vs. Slok]"
+      "Mega-cap tech still attractive at current levels vs AI productivity payoff years away making current valuations untenable — Ackman/Soros long AI names directly contradicts Reid/Slok painful repricing thesis. [Ackman, Soros vs Reid, Slok]",
+      "Bitcoin is the next great macro trade targeting $70K vs Bitcoin trading like overheated Big Tech stock with stretched valuations — direct bull/bear split on crypto's risk-reward. [Paul Tudor Jones, Visser vs Bannister]",
+      "S&P 8,000–8,250 year-end targets with bull market intact vs dot-com crash analog with negative 10-year forward returns — unbridgeable gap between sell-side constructive base case and buy-side bear case. [Wilson, Yardeni vs Paul Tudor Jones, Burry]"
     ],
     "aligned": [
-      "Semiconductors are the highest-conviction underweight across both camps — SOXX bear market confirmed with further downside expected, driven by AI ROI doubts, negative hyperscaler FCF, and Nvidia-specific overvaluation. [Yardeni, Hartnett, Wilson, Burry]",
-      "AI capex cycle has created a dangerous valuation gap between promised and deliverable productivity — both buy-side bears and sell-side skeptics agree the timing mismatch poses systemic repricing risk. [Tudor Jones, Burry, Reid, Slok]",
-      "Structural inflation regime has replaced transitory narrative — hard assets, real assets, and inflation-linked portfolios favored as fiscal dominance and elevated debt make sustained disinflation unlikely. [Tudor Jones, Napier, Russell]"
+      "Semiconductor sector facing material further downside — consensus short/underweight across buy and sell side regardless of broader equity view. [Burry, Paul Tudor Jones, Hartnett, Yardeni, Wilson]",
+      "AI spending sustainability under serious scrutiny — hyperscaler FCF turning negative, ROI timeline extended, DeepSeek 2.0 reigniting efficiency debate; shared concern across camps. [Reid, Slok, Hartnett, Paul Tudor Jones ↑ evolving]",
+      "Long-duration government bonds from indebted sovereigns structurally unattractive — financial repression, fiscal dominance, and sticky core inflation converging to compress real returns. [Gundlach ↑ shift, Napier, Slok, Bessent]",
+      "Geopolitical risk (US-Iran, Middle East) creating energy price spike and inflation re-acceleration tail — shared hedge via energy/commodities recommended across multiple frameworks. [Yardeni, Slok, Hatzius]"
     ],
     "buy_side_trades": [
-      "Long Bitcoin as primary inflation hedge over gold — vol-adjusted blend with gold ETFs and commodities as fiscal dominance and Fed credibility erosion make hard asset rotation essential. [Tudor Jones]",
-      "Long Alphabet, Amazon, Meta; long Uber as Tesla robotaxi dislocation — concentrated 11-stock portfolio expressing conviction in secular growth while explicitly avoiding Tesla and broad tech. [Ackman]",
-      "Short Nvidia and broader semiconductors — late 1999/2000 bubble dynamics with crash risk; pair with selective longs in DraftKings and Flutter on regulatory outcome thesis. [Burry]",
-      "Long volatility and dispersion strategies across equities and macro — systematic profitability from geopolitical and economic shocks rather than directional crash positioning. [Dalio]",
-      "Reduce long-end Treasury duration; long emerging market reforms (Pakistan); crypto/blockchain positioning ahead of regulatory clarity — navigating moderating growth with fiscal risk overlay. [Bessent]"
+      "Long Bitcoin as primary inflation hedge, gold ETFs secondary, commodities tertiary — vol-adjusted hard asset blend for fiscal dominance regime. [Paul Tudor Jones]",
+      "Short Nvidia and semiconductor leaders — dot-com analog crash risk, AI ROI overstated, semis most vulnerable to narrative unwind. [Burry]",
+      "Long Alphabet, Amazon, Meta; long Uber as dislocation — concentrated conviction in selective mega-cap tech and rideshare vs avoid Tesla. [Ackman]",
+      "Long volatility and dispersion strategies across equities and macro — volatile regime generates systematic alpha, not crisis. [Dalio]"
     ],
     "sell_side_trades": [
-      "Underweight/short SOXX semiconductors with explicit further 12% downside target — AI ROI debate, hyperscaler FCF deterioration, and bear market confirmation make this the highest-conviction sector short. [Yardeni, Hartnett, Wilson]",
-      "Long Mag7/software platforms, short SOX/cyclicals — platform owners outperform semi dependents as FCF divergence widens; 25/25/25/25 portfolio maintained for risk management. [Hartnett]",
-      "Short Canadian dollar (CAD/USD toward 0.60) and underweight Canadian equities — mortgage strain and three structural headwinds make CAD the highest-conviction FX short. [Rosenberg]",
-      "Long duration fixed income if AI disappointment triggers risk-off repricing — recession probability cut but rate hike risk from sticky core inflation creates asymmetric long bond entry on any equity dislocation. [Slok, Hatzius]",
-      "Overweight energy stocks as Middle East/oil price hedge — Brent surge from $72 to $95 on Iran re-escalation creates tactical energy long while geopolitical dips in broad equities are buying opportunities for year-end rally. [Yardeni]"
+      "Short SOX / underweight semiconductors — bear market confirmed, further 12% downside, hyperscaler FCF deterioration, AI ROI scrutiny. [Yardeni, Hartnett, Wilson]",
+      "25/25/25/25 portfolio (stocks/bonds/cash/commodities) — extreme sentiment sell signal warrants maximum diversification over directional equity risk. [Hartnett]",
+      "Overweight energy stocks as geopolitical hedge — Brent at $95, Iran conflict risk, oil supply constriction could reignite headline inflation. [Yardeni]",
+      "Avoid long-duration sovereign bonds from highly indebted governments — financial repression and fiscal dominance structurally compress returns for a generation. [Napier]"
     ],
     "dominant_themes": [
-      "AI productivity timing gap vs. market pricing — hyperscaler capex sustainability and ROI credibility",
-      "Semiconductor bear market — convergent short conviction across buy and sell side",
-      "Bitcoin as macro hedge — fiscal dominance, inflation regime, and AI-proof narrative",
-      "Fed path uncertainty — rate hike vs. hold vs. cut debate with guidance eliminated",
-      "Financial repression and fiscal dominance — structural regime shift reshaping multi-decade portfolio construction"
+      "AI productivity timeline vs market pricing — painful repricing risk",
+      "Semiconductor bear market and hyperscaler FCF deterioration",
+      "Fed path uncertainty — hike risk vs hold vs cut, forward guidance void",
+      "Bitcoin as macro hedge and inflation regime rotation",
+      "Financial repression and fiscal dominance reshaping duration risk"
     ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "bearish"
@@ -140,66 +140,66 @@
     "period_end": "2026-07-30",
     "entries_count": 224,
     "buy_side_bullets": [
-      "AI valuations at late-1999/2000 extremes — S&P market cap/GDP near dot-com bubble peaks implying negative 10-year forward returns; crash risk rising. [Tudor Jones ↑ evolving, Burry, Einhorn]",
-      "Hyperscaler $700B AI capex cycle is durable compounding, not speculative peak — mega-cap tech (Alphabet, Amazon, Meta) undervalued on token cost deflation economics. [Ackman, Soros]",
-      "Bitcoin is the primary inflation hedge over gold — 21M hard cap, decentralized structure, and 'only AI-proof trade' as fiscal dominance and QE restart make debt inflation inevitable. [Tudor Jones ↑ evolving, Druckenmiller]",
-      "US equities at historically unprecedented valuations — closing to new investors, shifting all macro expression to gold, copper, and rates directly rather than equity proxies. [Einhorn ↑ evolving]",
-      "Financials sector re-rating on deregulation and deal-machine revival — $325M XLF position as conviction cycle rotation away from AI mega-cap. [Druckenmiller]"
+      "AI valuations at dot-com 1999-2000 extremes — S&P market-cap/GDP near bubble peaks implying negative 10-year forward returns; reducing equity exposure and rotating to hard assets. [Tudor Jones ↑ evolving, Burry, Einhorn, Dalio]",
+      "Hyperscaler $700B AI capex cycle is durable compounding, not a speculative peak — META and Amazon 'cheap stocks' at current dislocation prices; contrarian buy after worst hyperscaler month in years. [Ackman, Soros, Druckenmiller]",
+      "Bitcoin is the primary inflation hedge over gold — 21M hard cap, decentralized structure, and Fed QE restart make it the optimal fiscal dominance trade; targeting $70K+ on any Fed skip. [Tudor Jones ↑ evolving, Visser]",
+      "US equities most expensive in history — capital preservation now top priority; macro alpha through direct gold, copper, and rates positions rather than equity proxies. [Einhorn, Marks]",
+      "Memory chips and AI infrastructure the defining 2026 trade — HBM cycle driving outsized returns vs crowded mega-cap software; rotating into cyclicals and EM mean-reversion as payoff skew shifts. [Tepper ↑ shift, Druckenmiller]"
     ],
     "sell_side_bullets": [
-      "Largest speculative bubble since 19th-century railroad boom — Bull & Bear indicator at extreme 9.5 sell signal for consecutive weeks; only 4% of S&P 500 at new highs, identical to March 2000 breadth collapse. [Hartnett ↑ evolving]",
-      "AI productivity gains are years away from materializing — if hyperscalers fail to deliver, painful market repricing across mega-cap tech and debt sustainability becomes untenable. [Reid, Slok ↑ evolving]",
-      "Financial repression regime underway for 15-20 years — governments suppressing rates below inflation to inflate away sovereign debt; capital controls may ultimately be required. [Napier, Edwards ↑ evolving]",
-      "S&P EPS growth decelerating to 3.3% YoY by December vs. 25% consensus — K-shaped consumer tapped out, inflation cannot reach low-2% without recession. [Bannister]",
-      "SOXX in bear market territory (down 20%+ from peak) with further 12% downside — semiconductor correction spreading as AI ROI concerns revive and hyperscaler FCF turns negative. [Yardeni ↑ shift, Wilson ↑ shift, Hartnett]"
+      "Largest speculative bubble since 19th-century railroad boom — Bull & Bear indicator at sustained 9.5 extreme sell signal; only 4% of S&P 500 making new highs, identical to March 2000 breadth collapse; 'frozen bullish' positioning despite 5% long-bond yields. [Hartnett ↑ evolving]",
+      "AI productivity gains are years away from materializing — entire hyperscaler valuation case rests on S&P 493 margin expansion that hasn't appeared; if productivity fails to deliver, unsustainable debt levels become catastrophic. [Reid, Slok ↑ evolving]",
+      "Financial repression regime underway for 15-20 years — governments holding rates below inflation to inflate away 300% debt-to-GDP; central banks now subordinate to indebted sovereigns; capital controls may ultimately be required. [Napier ↑ evolving, Edwards ↑ evolving]",
+      "Semiconductor bear market deepening — SOXX down 20%+ from June peak with explicit call for further 12% decline; AI ROI concerns revived by Kimi K3/DeepSeek 2.0; chip momentum fading as AI infrastructure enters deployment phase. [Yardeni, Hartnett, Wilson]",
+      "Three convergent risks for week of July 28-31 — hyperscaler earnings, Fed meeting, and Iran re-escalation colliding simultaneously; 9 of 18 Fed officials now project a rate hike; 'Energy Down, Yields Up' decoupling confirms core inflation problem persists. [Slok ↑ evolving]"
     ],
     "whats_new": [
-      "3-3-3 economy target explicitly acknowledged as slipping out of reach — federal deficit tracking 5.7% of GDP vs. 3% target; Bessent shifts from confident delivery to managing moderation. [Bessent ↑ shift]",
-      "Gundlach pivots from 'rate hike more likely than cut' to tactical short-duration government bonds — Warsh credibility thesis means passive tightening via elevated long yields reduces need for explicit Fed action; bond market now signaling Fed must act on inflation. [Gundlach ↑ shift]",
-      "Slok pivots from overheating concern back to AI productivity skepticism — July 30 warns delayed AI profits would trigger 'painful repricing' and AI adoption lowers wages without cutting jobs, reducing near-term economic benefits; materially different from mid-July bullish overheating framing. [Slok ↑ shift]",
-      "Visser transitions macro outlook from AI equities to Bitcoin — explicitly states 'AI's easy money phase is over' and Bitcoin is the 'only AI-proof trade'; labor market weakness now framed as crypto catalyst via Fed easing channel. [Visser ↑ shift]",
-      "Rosenberg pivots focus to Canada macro — CAD forecast to plummet to 60 cents on mortgage strain and structural headwinds; distinct from prior US-centric disinflation/recession calls. [Rosenberg ↑ shift]"
+      "Bessent's 3-3-3 plan publicly acknowledged as 'slipping out of reach' — federal deficit tracking 5.7% of GDP vs 3% target; growth target deteriorating; pivot to mixed from unconditional bullish. [Bessent ↑ shift]",
+      "Gundlach signals bond market itself is now demanding Fed rate hikes — 30-year Treasury topping 5% framed as credibility crisis, marking shift from 'hike more likely than cut' to 'bond market is forcing the Fed's hand.' [Gundlach ↑ shift]",
+      "Visser explicitly rotating from AI equities to Bitcoin — declares AI's 'easy money phase is over'; Bitcoin the only AI-proof trade; targets $70K on Fed rate-skip scenario; US stocks may underperform crypto. [Visser ↑ shift]",
+      "Rosenberg pivots bearish focus to Canada — CAD forecast to collapse to ~60 cents by end of next year on mortgage strain and three structural headwinds; shifts from US disinflation thesis to cross-border currency call. [Rosenberg ↑ shift]",
+      "Slok reverses from overheating concern back to bearish AI repricing — argues AI adoption lowers wages without cutting jobs, reducing near-term economic benefit; 'painful repricing' thesis for hyperscalers now dominant message. [Slok ↑ shift]"
     ],
     "vs_market_buy": [
-      "Shorting Nvidia, Micron, Palantir, Applied Materials via puts while market prices AI semis at historically extreme extensions — Micron more stretched above 200-day MA than any point since 1984, yet consensus remains long. [Burry]",
-      "US equities at most expensive levels in recorded history — low gross/net equity exposure while market continues making highs; capital preservation explicitly prioritized over participation. [Einhorn]",
-      "Bitcoin as primary inflation hedge over gold while market still treats it as risk-on speculative asset — hard 21M cap and fiscal dominance dynamics structurally misunderstood by consensus. [Tudor Jones]"
+      "Shorting Nvidia, Micron, Palantir, Applied Materials via puts while market prices AI semis at multi-decade technical extremes — Micron more extended above 200-day MA than any point since 1984, yet consensus expects continued AI capex uplift. [Burry]",
+      "Bitcoin as primary inflation hedge over gold while market still treats crypto as risk-on speculative asset — Tudor Jones and Visser structurally long BTC as fiscal dominance trade at a time when consensus underweights digital assets in inflation hedge portfolios. [Tudor Jones, Visser]",
+      "Financials re-rating via $325M XLF bet while consensus underweights banks on higher-for-longer rate fears — Goldman Q2 EPS +100% YoY validates the investment banking revival thesis market has not fully priced. [Druckenmiller]"
     ],
     "vs_market_sell": [
-      "Bull & Bear indicator at extreme 9.5 sell signal while investors 'frozen bullish' — $33.9B exited money market funds in one week deploying into risk at peak sentiment; market ignoring 5% long-bond yields as warning signal. [Hartnett]",
-      "SOXX bear market with further 12% downside explicitly called while 61% of Fund Manager Survey respondents expect no hyperscaler capex cut — hyperscaler FCF already turning negative, creating fault line between platform owners and semi dependents. [Hartnett, Yardeni]",
-      "Financial repression regime making 15+ years of long-duration government bonds structurally uninvestable — market still treating bonds as a safe haven while governments systematically suppress real yields. [Napier, Edwards]"
+      "S&P 493 margins flat at ~10% for three years despite massive AI investment while market prices broad earnings acceleration — widest AI-economy bifurcation on record; entire bull thesis dependent on unproven productivity trickle-down. [Slok, Berezin]",
+      "Bull & Bear at 9.5 extreme sell signal and 'frozen bullish' positioning while 5% long-bond yields are historically sufficient to cap equity multiples — market ignoring the passive tightening already embedded in the yield curve. [Hartnett]",
+      "Defensive Value EPS growth of only 3.3% YoY by December while consensus prices 20%+ earnings growth — inflation cannot fall to low-2% without recession, making the soft landing narrative structurally fragile. [Bannister]"
     ],
     "buy_vs_sell_divergence": [
-      "Hyperscaler AI capex is durable compounding cycle creating buying opportunity vs. hyperscaler FCF already rolling over and AI productivity gains years away — same $700B capex fact, diametrically opposite interpretation. [Ackman vs. Hartnett, Slok, Berezin]",
-      "US equities are 'stupidly cheap' quality compounders with 10x return potential vs. largest speculative bubble since 19th-century railroad boom requiring defensive 25/25/25/25 portfolio — widest valuation perception gap in period. [Ackman vs. Hartnett, Einhorn, Bannister]",
-      "Bitcoin is the only AI-proof macro trade and best-performing asset of 2026 vs. Bitcoin trading as overheated Big Tech stock with stretched valuations — fundamental disagreement on crypto's regime role. [Visser, Tudor Jones vs. Bannister]"
+      "Hyperscalers are a durable compounding buy at current dislocation vs hyperscaler FCF already rolling over signaling the AI capex bubble is cracking — same $700B capex cycle, diametrically opposite interpretation of whether it monetizes. [Ackman vs Slok, Berezin, Hartnett]",
+      "US equities offer 'stupidly cheap' quality compounders with 10x return potential vs US equities are the most expensive in history and capital should be preserved — fundamental disagreement on whether current S&P valuations represent opportunity or extreme risk. [Ackman, Druckenmiller vs Einhorn, Dalio, Hartnett]",
+      "AI bull market has another year or two to run with genuine productivity parallels to 1990s internet vs AI productivity gains are years away and failure to deliver makes unsustainable debt catastrophic — consensus on 1999 analog but opposite conclusions on what follows. [Tudor Jones vs Reid, Slok, Burry]"
     ],
     "aligned": [
-      "Semiconductor sector facing material correction — broad consensus to reduce/avoid SOX exposure regardless of broader equity stance. [Burry, Hartnett, Yardeni, Wilson, Bannister]",
-      "Gold and real assets as core portfolio anchors — convergence across buy-side and sell-side on inflation protection regardless of whether thesis is fiscal dominance, capital wars, or financial repression. [Dalio, Einhorn, Edwards, Napier, Gundlach, Rosenberg]",
-      "AI productivity gains will not materialize in economic data for years — shared concern that capex-to-return timing mismatch creates systemic vulnerability even among those still long equities. [Reid, Slok, Rosenberg, Burry]"
+      "Semiconductors overvalued and facing correction — avoid or short SOX/chip names; AI hardware cycle maturing with ROI concerns rising across buy and sell side simultaneously. [Burry, Hartnett, Yardeni, Wilson, Slok]",
+      "Gold and real assets as essential portfolio anchors — financial repression, dollar debasement, and fiscal dominance make nominal bonds structurally dangerous; near-universal agreement on real asset preference. [Dalio, Einhorn, Tudor Jones, Napier, Edwards, Rosenberg, Gundlach]",
+      "Market breadth collapse is a serious warning — only 4% of S&P 500 at new highs mirrors March 2000 dot-com top; extreme Mag-7 concentration creates fragility regardless of directional view on overall market. [Hartnett, Sonders, Bannister, Berezin]"
     ],
     "buy_side_trades": [
-      "Long mega-cap tech quality compounders (Alphabet, Amazon, Meta) — durable AI infrastructure spending cycle misunderstood by market as speculative peak. [Ackman, Soros, Tepper]",
-      "Long Bitcoin as primary inflation/fiscal dominance hedge — optimal vol-adjusted portfolio: Bitcoin + gold ETFs + commodities as debt inflation becomes inevitable. [Tudor Jones ↑ evolving, Visser ↑ shift]",
-      "Long gold and copper directly — not via equity proxies; macro expression for financial repression, dollar debasement, and capital wars regime. [Einhorn, Dalio, Druckenmiller]",
-      "Short Nvidia, Micron, Palantir, Applied Materials via puts — AI chip euphoria at historically extreme technical extension; comprehensive semi bear book. [Burry]",
-      "Long XLF financials sector + Goldman Sachs — deregulation and deal-machine revival re-rating; layered with Brazil EM inflow trade and copper as USD hedge. [Druckenmiller]"
+      "Long Bitcoin as primary fiscal inflation hedge — hard supply cap and decentralized structure superior to gold in extended QE/fiscal dominance regime; target $70K+ on Fed skip. [Tudor Jones, Visser ↑ shift]",
+      "Long gold, copper, and real assets directly — own macro themes through direct instruments not equity proxies; financial repression makes nominal bonds structurally negative real return for a generation. [Einhorn, Dalio, Gundlach]",
+      "Short Nvidia, Micron, Palantir, Applied Materials via puts — AI chip rally at historically extreme technical extension; cyclical fundamentals cannot support current valuations. [Burry]",
+      "Long XLF and financials — deregulation and deal machine reopening driving re-rating; Goldman Q2 EPS +100% YoY validates thesis. [Druckenmiller]",
+      "Long mega-cap tech quality compounders (Alphabet, Amazon, Meta, Uber) — token cost deflation enables AI revenue flywheel; dislocation from hyperscaler selloff creates contrarian entry. [Ackman, Soros]"
     ],
     "sell_side_trades": [
-      "25/25/25/25 stocks/bonds/cash/commodities defensive portfolio — best-performing allocation since 1933; avoid frozen-bullish consensus positioning at Bull & Bear 9.5 extreme. [Hartnett]",
-      "Underweight/short SOX semiconductors — SOXX in bear market with explicit 12% further downside; long Mag7/software platforms as FCF divergence from semi dependents widens. [Hartnett, Yardeni]",
-      "Long duration bonds on disinflation/recession thesis — AI capex peaks in 2026, fiscal stimulus gridlock in 2027, Fed forced to cut more aggressively than priced. [Rosenberg]",
-      "Long gold, TIPS, commodities — avoid long-duration nominal government bonds; fiscal dominance + credit expansion creating structural inflation regime not seen since 1970s. [Edwards, Napier]",
-      "Rotate from AI equities into Bitcoin — AI easy money phase over; labor market weakness is crypto catalyst via Fed easing; Bitcoin targeting $70K on Fed rate-skip scenario. [Visser ↑ shift]"
+      "25/25/25/25 stocks/bonds/cash/commodities — defensive equal-weight portfolio up 26% YTD, best year since 1933; bubble risk too elevated for concentrated equity long. [Hartnett]",
+      "Short SOX/semiconductors, long Mag7/software platforms — hyperscaler FCF turning negative while 61% of FMS expects no capex cut; fault line between platform owners and chip dependents. [Hartnett, Yardeni, Wilson]",
+      "Long duration bonds — either disinflation forces Fed to cut more than priced (Rosenberg) or AI disappointment triggers deflationary risk-off repricing (Slok, Berezin); both paths bullish for duration. [Rosenberg, Slok, Berezin]",
+      "Long Defensive Value (healthcare, consumer staples, gold) over Big Tech cyclical growth — EPS growth decelerating to 3.3% YoY by December; tighter financial conditions cap PE expansion. [Bannister]",
+      "Long energy/commodities and short long-duration nominal bonds — Middle East re-escalation, surging bank lending, and fiscal dominance create 1970s-style inflationary backdrop. [Edwards, Yardeni]"
     ],
     "dominant_themes": [
-      "AI bubble valuation vs. durable capex cycle — widest conviction split in period",
-      "Semiconductor sector bear market and hyperscaler FCF deterioration",
-      "Financial repression / fiscal dominance inflation regime",
-      "Bitcoin as macro hedge displacing gold in inflation portfolios",
-      "Fed path uncertainty — hike vs. hold vs. cut with no forward guidance"
+      "AI productivity delivery risk vs valuation bubble",
+      "Fed policy path — hike, hold, or cut",
+      "Financial repression and inflation regime shift",
+      "Semiconductor correction and tech concentration risk",
+      "Bitcoin as fiscal dominance hedge"
     ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "bearish"
