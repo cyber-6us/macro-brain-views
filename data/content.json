@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30",
+  "last_updated": "2026-07-31",
   "entries": [
     {
       "id": "2026-07-22-33d0e4ad",
@@ -8146,6 +8146,67 @@
         "https://www.mauldineconomics.com/frontlinethoughts",
         "https://www.mauldineconomics.com/",
         "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQkxFcy14Rm1nNmZqNXRnMGxsemV6WnFMRTZCbGIxTzNQWkhFbmd6ckpmWi1LWTdyZi1SNC1aY3BGRWRsTjlJZHJsOUc2YmVNeHNDTHB3MXVzUlZJSjQxallGMjFQWlBRS3diZ1pHX2lGaXhBdzJjM2VXQ1R5VDRJMHU3NEo?oc=5"
+      ]
+    },
+    {
+      "id": "2026-07-31-b3fe3662",
+      "date": "2026-07-31",
+      "published_at": "2026-07-28T21:45:43+00:00",
+      "investor": "Howard Marks",
+      "side": "buy",
+      "summary": "Marks warns of emotional, potentially irrational market behavior and signals caution on valuations, particularly in tech/AI where he sees bubble characteristics similar to Lehman Brothers precedent. He advocates for contrarian positioning departing from consensus to outperform, implying current crowded trades are overextended.",
+      "key_views": [
+        "Markets are currently driven by emotion rather than fundamentals",
+        "AI sector exhibits bubble characteristics that could trigger major market correction",
+        "Current investor behavior is unprecedented and unsustainable, risking systemic meltdown",
+        "Outperformance requires departing from consensus positions"
+      ],
+      "trade_ideas": [
+        "Short or avoid crowded tech/QQQ positions during emotional upswings",
+        "Take contrarian positions against prevailing market consensus"
+      ],
+      "asset_classes": [
+        "equities",
+        "credit"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVC14RVdZaVBJOWtRdTdUNWRkQWRERFA1M3ZPYXlEbkVCdW1mVkdaMzNDVHlYTmhDWTA2dVFuYWhvYTJjWGdTYzBERW5uVFo4TG5iTlBHekFUaWZCRHJLZW1heW1zSG12RDEwZHBtMl9KSF9UQWw5eDVRb3hZb3hyVjNhSWdZMmI1bXBYMDl0RGRxYkwwY1B4LUR2WnJONFNFc2p5SUJ4NUFNQ1ZsUW05Q3ljVnM?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQemVfT3pNMHowQjVva2pwYmwxZDQycDM2T2lKUXRnTTRSY3EtcTBsdzZRU3IwdjNETDdseGdTWXFFcWFBR3VMM1JuVFJhSFJadWlCTVJIRy1YZFNLaWtXeHp2eGQ0Q0g2Z1JYZVdEVVluWndzYk55Q3RFMGpIejhmU0YwQUZHUTZyTW5ZdmVGTGhic0o1?oc=5",
+        "https://news.google.com/rss/articles/CBMivwJBVV95cUxPUTFSRTJ0cTNwZktWSXRaenF4eEJ4NURpblNHdDl5LUhyb0JxTzZ0X3ZWYTdmM1dnMmZnanBDWEttQ25GRGpVX3ZUUHNWZ1dTZFJzbmIyVW9fYVp5ZUVUdzVuTnh2TUVsMHlIR3BDXy14ZDgyaXd1RFJWamx5R3hVQ2dCRTZvdy1QbFRtV2dvNENvZmJVSTE2NzhfQTE4QmEySTd3Skk4MVZ5Z0FwTVpBTEpaVkZab0ZJQmtKV0JBckt4MTUtbnBzS1VXWEZFTl9GV2ZIMHVBWHZuOWFpTUw4N0duZ3h6R3BQLTV3aE1FX0VwSnAyUF8xRVN5WlJxdVMyMzdEVjZYWFQxOWxPdnFhSWJnWlVtVFh0YlVMZjlkSThRWkFfcDNteTRiamlYVnZfaWwxYW1kTG9yVE82SXFv?oc=5",
+        "https://news.google.com/rss/articles/CBMimwJBVV95cUxOZE4yMXcyRVlMNlBTM3o4UjRTUXVScEYtVkoyT29tZl9PWlgxQWFWUnlXdW5wLWFONDljQ2tWRVRPekUyaGQ1QU1EYl91cDZQcE8zcXBaNjRfaFlqYnhNUmtJZC1mMzZrMHhkeWRhcVZkbFBfbmFWVHJvMnNFRVREQ2dJRHA4cDBoeXdGOV9xV2hRNzMzNkhGdVFUelV1dDhQUFlxLUE2ank0QzVpeV9ickJxQ3dLZW9EMUZCWHFlM3JFbVowei12cmItbTlORE1pZzk1MjlPNzdJT09fMjRpWmNUTmc5SGxZWXBnLUhkVGljcTBVaGs4ZU0xeF9Rb1JVVGluNWY0TVhFT2FzcHRxTV90Y2FxX2FBMGZF?oc=5"
+      ]
+    },
+    {
+      "id": "2026-07-31-2bc6b016",
+      "date": "2026-07-31",
+      "published_at": "2026-07-20T07:00:00+00:00",
+      "investor": "Michael Hartnett",
+      "side": "sell",
+      "summary": "Hartnett argues investors are excessively bullish with extreme positioning signals flashing sell warnings. He specifically warns that if Magnificent Seven capital expenditures are cut, a broader market correction would be difficult to avoid, making summer an opportune time to reduce exposure.",
+      "key_views": [
+        "Investors are too bullish on summer market upside",
+        "AI bubble ranks as top tail risk for first time in BofA surveys",
+        "Cash levels have triggered a 'sell' signal",
+        "Bull & Bear Indicator at 9.5 represents most extreme level in 5 years and flashes sell signal",
+        "Mag7 capex cuts could trigger broad market correction",
+        "Summer presents good opportunity to retreat from equities"
+      ],
+      "trade_ideas": [
+        "Reduce equity exposure heading into summer",
+        "Monitor Magnificent Seven capex guidance as key correction trigger",
+        "Watch Japanese bank stocks as 'canary' for global sell-off"
+      ],
+      "asset_classes": [
+        "equities",
+        "fx"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc2p1R05QRVBJM2czUWpPRXRBZ1o0eHRjM2k4TGh5UkRESnhVN2R6NHBFNGlyQUtWZ3hMaVBsaTk4NEUtZ2Z3SS1KZ2tkTGUzclhhUXdJSTJuZi00YV9rUzhHM3pPcEc3UXplX1lrcUtlNEJreDU4X3hxMHZIZkhVXzBiZEpyWWRlX0hIN0YzSlVxRk1rTWp0RW1ZUzNueWlVSmtDSnJEV0V5dw?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zenRHRzFaOHZtOWJ1MENwYWszQnRHdVluWVFyN1BMUXNuTjdJRjZaUU5PdmtFRWFJYzlYajFzMjhwblFMZXR1aUltVkdEVFhiWjUzcFhlNUhiRENPZnNVQjhCZThLR1lERDRPTDVNa0VlNzVvdnc?oc=5",
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObENBVUM4SjY0VTNhTDBxWGRqcnlya1luTWJrM3BrT1F5MS1mSUM2ZWZXaldxU3ZtVlE5MlBrcmxGOG5nRENwRDBpVFdNOFU3OVlsdjNJQ0JKaVZqbXVrbTZSd0FMQlhQbkNiRWRGc1A4RnFoX3pjWG15a3ZqYVpNX0ZSc3Q1MGlUbmNxY0VKQ3BDZldzVWRFTDlFRThDa09HZHdVSUE5LXBYQkstRmZqczJBeVBMdUpacU8tYkxKLWl4TnBmYU05dTlwcWVxQ29LZW5LTURmSjMxVGJuNDRJ?oc=5",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdHhZTDFGN2xLQ0UwNmRXZnpTV1pMY0JDNDhVaTVpcm5EaXRfNWRmWXduYW53RFlOTkZicEpRVFdUaDlkR2V6TWFLX3FHY1pld0V0V1hQSmhPakxnRldoLWdnSFF4WS1WMDItSHJrckxobGI1ZkhKUndFQzNKNlU4ZDM3QUxzY2daZmEwVlVFZFJ3RWI0aHp1T3ZkRDA2eUl1dTRhdlZjOE9DQ3I3cmZSTXNMTkpuZ0ZxdVg0?oc=5"
       ]
     }
   ]
