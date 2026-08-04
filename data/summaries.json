@@ -2,42 +2,52 @@
   "generated_at": "2026-08-04",
   "today": {
     "date": "2026-08-04",
-    "entries_count": 3,
+    "entries_count": 4,
     "buy_side_bullets": [
-      "Weak yen creates $1.2T Japanese Treasury liquidation risk \u2014 US coordinated first G7 yen-support action since 2011 to protect 10-year yields from Japanese selling pressure. [Bessent]"
+      "Yen at 40-year lows triggering coordinated G7 intervention — weak JPY directly threatens $1.2T Japanese Treasury holdings and US yield stability, making JPY management a de facto US fiscal tool. [Bessent]",
+      "Quality compounders with durable moats outperform AI-hype chasing — Amazon >15% portfolio concentration reflects conviction in predictable FCF over speculative AI exposure. [Ackman]",
+      "FIMA Repo Facility expansion sought to allow Japan to raise dollars without liquidating Treasuries — structural plumbing fix that could meaningfully relieve upward pressure on US long yields. [Bessent]"
     ],
     "sell_side_bullets": [
-      "Momentum trade rotating from semiconductors to quality earnings names \u2014 insurance and healthcare equipment replacing chip stocks at market leadership; semiconductor correction 'pretty well advanced.' [Wilson]",
-      "Q2 demand stronger than GDP headline suggests \u2014 Baby Boomer spending and AI capex accelerating both growth and inflation; proforma earnings +38.8% YoY confirms 9th consecutive double-digit quarter. [Yardeni]"
+      "Q2 proforma earnings +38.8% YoY — 9th consecutive double-digit quarter and highest since Q3-2021 — GDP import surge was demand-pull strength, not weakness; Roaring 2020s thesis intact. [Yardeni]",
+      "Momentum factor rotating out of semiconductors into insurance and healthcare equipment — earnings quality, stability, and FCF generation are the new leadership criteria replacing chip-led momentum. [Wilson]",
+      "S&P 500 targets of 8,000–8,250 for year-end maintained despite near-term choppiness — 'Big Beautiful Bill' consumer tailwinds and AI capex cycle sustain full-year bull case with possible interim dip to 7,000. [Wilson, Yardeni]"
     ],
     "whats_new": [
-      "Bessent links yen intervention to US Treasury yield management \u2014 first G7 yen-support since 2011, explicitly motivated by $1.2T Japanese Treasury holdings risk, not FX competitiveness. [Bessent]",
-      "Wilson shifts momentum call from semiconductor-led to earnings-quality-led \u2014 insurance and healthcare equipment named as rotation destinations as chip correction described as 'pretty well advanced.' [Wilson shift]",
-      "Yardeni reframes Q2 import surge as demand-pull signal, not GDP drag \u2014 extends Roaring 2020s earnings confirmation and contradicts consensus bearish GDP narrative. [Yardeni evolving]"
+      "First US yen-support intervention since 2011 coordinated by Bessent — Washington explicitly framing JPY weakness as a US Treasury yield stability threat, not a trade competitiveness issue; signals Japanese capital repatriation risk now top Treasury priority. [Bessent]",
+      "Semiconductor momentum described as 'pretty well advanced' in its correction — insurance and healthcare equipment named explicitly as the incoming momentum factor leaders replacing chips. [Wilson]",
+      "Q2 proforma earnings growth of 38.8% YoY flagged as the highest since Q3-2021 — ninth consecutive double-digit quarter reframes any GDP headline softness as a non-event for the earnings bull case. [Yardeni]"
     ],
     "vs_market_buy": [
-      "Bond market protection now explicitly the primary motivation for currency policy \u2014 Bessent's yen intervention prioritizes 10-year yield stability over FX competitiveness or trade balance, a framework the market has not priced. [Bessent]"
+      "Market pricing yen intervention as FX competitiveness policy — Bessent's actual rationale is Treasury yield protection, meaning successful intervention is bullish US bonds in a way markets may not yet be pricing. [Bessent]",
+      "Market concentrated in AI-hype names; Ackman's quality-compounder discipline (Amazon, Google over speculative AI) positions against consensus momentum in a way that is currently underwater but fundamentally defended. [Ackman]"
     ],
     "vs_market_sell": [
-      "Sell-side moderating bearish tone against recent bear camp: Wilson and Yardeni both flagging demand resilience and earnings quality diverging from Hartnett/Edwards extreme sell signals from prior day. [Wilson, Yardeni]"
+      "Inflation re-accelerating alongside growth — AI capex, Boomer spending, and energy prices all contributing simultaneously — while market consensus still prices eventual Fed easing; stagflation-lite scenario underpriced. [Yardeni]",
+      "Near-term S&P choppiness and possible dip to 7,000 flagged even within a bull case — market currently trading near 8,000 area implies limited upside before turbulence, a risk not fully reflected in low volatility pricing. [Wilson]"
     ],
     "buy_vs_sell_divergence": [
-      "US government actively preventing Japanese Treasury selling via yen intervention vs. Edwards' Aug 3 call that JGB/yen carry trade unwind is #1 systemic risk \u2014 US policy is explicitly targeting the same feedback loop bears are positioned to exploit. [Bessent vs Edwards]"
+      "Bessent treats JPY intervention as a Treasury yield suppression tool implying concern about US fiscal conditions — sell-side bulls (Yardeni, Wilson) see earnings strength and consumer spending as self-sustaining, requiring no such financial plumbing intervention; divergent underlying macro confidence levels. [Bessent vs Yardeni, Wilson]",
+      "Ackman avoids semiconductor and AI-hype names on valuation/moat discipline — sell-side bulls explicitly underweight semiconductors but for momentum-rotation reasons rather than valuation skepticism; same trade, fundamentally different rationale. [Ackman vs Wilson, Yardeni]"
     ],
     "aligned": [
-      "AI capex and consumer spending driving both growth and inflation simultaneously \u2014 demand strength confirmed by Q2 earnings underpins year-end equity bull case. [Bessent, Yardeni, Wilson]"
+      "Semiconductors are no longer the leadership trade — both buy-side quality discipline and sell-side momentum analysis converge on reducing chip exposure in favor of other equity segments. [Ackman, Wilson, Yardeni]",
+      "US long yields are a systemic vulnerability — yen intervention to prevent Japanese Treasury selling and FIMA expansion both signal that rate stability requires active policy management, consistent with sell-side recognition of inflation re-acceleration risk. [Bessent, Yardeni]"
     ],
     "buy_side_trades": [
-      "Long JPY via coordinated G7 action; support FIMA Repo expansion to prevent Treasury selling pressure; monitor 10-year yield as primary intervention success indicator. [Bessent]"
+      "Long JPY via coordinated intervention; long US Treasuries contingent on intervention successfully capping Japanese selling pressure — yield protection play. [Bessent]",
+      "Large Amazon position (>15% portfolio) as core quality compounder; Microsoft-for-Google swap held despite near-term losses on fundamental conviction. [Ackman]",
+      "Monitor Fed FIMA Repo Facility expansion as a signal for rate relief — structural dollar-liquidity provision to Japan without Treasury liquidation is a latent bond-bullish catalyst. [Bessent]"
     ],
     "sell_side_trades": [
-      "Long quality earnings: insurance, healthcare equipment, FCF-stable names; reduce semiconductor overweight on momentum rotation confirmation. [Wilson]",
-      "Long S&P 500 (target 8,250); long AI capex beneficiaries; underweight SOXX vs. software and infrastructure; buy summer weakness for year-end rally. [Yardeni]"
+      "Long quality earnings — insurance, healthcare equipment, FCF-stable names as new momentum leadership; reduce semiconductor overweight on rotation confirmation. [Wilson]",
+      "Long S&P 500 targeting 8,000–8,250 for 2026; buy summer weakness for year-end rally; long AI capex infrastructure beneficiaries. [Wilson, Yardeni]",
+      "Underweight semiconductors vs. software and AI infrastructure plays — earnings quality and stability screen favors non-chip tech and defensive growth. [Yardeni, Wilson]"
     ],
     "dominant_themes": [
-      "Yen/Treasury yield linkage \u2014 US government defending bond market via currency intervention",
-      "Earnings quality rotation \u2014 semiconductors giving way to insurance and healthcare in momentum factor",
-      "Q2 demand resilience beneath GDP headline \u2014 growth and inflation simultaneously accelerating"
+      "Japanese capital repatriation risk and US Treasury yield stability",
+      "Earnings quality rotation — semiconductors out, FCF compounders in",
+      "Roaring 2020s inflation-with-growth regime challenging Fed easing narrative"
     ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "bullish"
@@ -45,143 +55,130 @@
   "week": {
     "period_start": "2026-07-28",
     "period_end": "2026-08-04",
-    "entries_count": 30,
+    "entries_count": 31,
     "buy_side_bullets": [
-      "Healthcare diagnostics and EM commodity exposure replacing AI/Mag7 as primary thesis \u2014 portfolio no longer AI-driven; Natera (NTRA) surpasses Nvidia as top holding. [Druckenmiller shift]",
-      "AI exhibiting textbook bubble characteristics within broader 80-year global cycle entering final decline \u2014 systematic diversification required. [Dalio, Burry, Marks]",
-      "Bitcoin is the superior inflation hedge and only AI-proof macro trade \u2014 significant runway remaining despite bubble concerns elsewhere. [Tudor Jones, Gundlach shift]",
-      "Mega-cap platform businesses (Alphabet, Amazon, Meta) offer durable moats vs. AI hype speculation \u2014 Tesla robotaxi fears creating Uber mispricing. [Ackman]",
-      "Yen weakness creates $1.2T Japanese Treasury liquidation risk \u2014 coordinated G7 yen intervention to protect US 10-year yields, first since 2011 G7 action. [Bessent]"
+      "Yen intervention as Treasury yield protection tool — weak JPY forces Japan to liquidate $1.2T in US Treasuries, tightening US financial conditions; coordinated G7 action marks first yen-support since 2011. [Bessent ↑ evolving]",
+      "AI bubble characteristics confirmed within broader 80-year cycle decline — systematic diversification and hedging required over concentrated equity exposure. [Dalio, Marks, Burry]",
+      "Quality compounders with durable moats and FCF generation preferred over AI hype — predictable businesses defensible regardless of cycle. [Ackman, Druckenmiller ↑ evolving]",
+      "Bitcoin is the dominant inflation hedge and only AI-proof macro trade — superior to gold and equities as portfolio protection in current regime. [Tudor Jones, Gundlach ↑ evolving]"
     ],
     "sell_side_bullets": [
-      "Bull & Bear indicator at 9.5 \u2014 most extreme contrarian sell signal in 5 years; investors 'frozen bullish' ignoring 5% long-bond yields with Jackson Hole August 28 as critical inflection. [Hartnett evolving]",
-      "JGB market now #1 systemic risk globally \u2014 yen carry trade unwind would cause 'loud sucking sound' in US financial assets; US equities cannot sustain 20x+ P/E if JGB yields approach 4%. [Edwards shift]",
-      "AI productivity gains years away from materializing \u2014 painful repricing risk as hyperscaler FCF turns negative and debt sustainability depends on undelivered productivity. [Reid, Slok]",
-      "Momentum trade rotating from semiconductor-led to earnings-quality-led \u2014 insurance and healthcare equipment replacing chip stocks; semiconductor correction 'pretty well advanced.' [Wilson evolving]",
-      "Q2 underlying demand stronger than GDP headline \u2014 Baby Boomer consumption and AI capex drove both growth and inflation; proforma earnings +38.8% YoY, 9th consecutive double-digit quarter. [Yardeni evolving]"
+      "BofA Bull & Bear indicator at 9.5 — most extreme contrarian sell signal in 5 years; investors 'frozen bullish' while ignoring 5% long-bond yields and Jackson Hole hike risk on Aug 28. [Hartnett ↑ evolving]",
+      "JGB market is the #1 systemic risk globally — 10-year yields at highest since 1999, 30-year near record 3.5%; yen carry trade unwind would cause 'loud sucking sound in US financial assets.' [Edwards ↑ shift]",
+      "Q2 proforma earnings +38.8% YoY — 9th consecutive double-digit quarter; GDP import surge was demand-pull not weakness, validating S&P 8,000–8,250 year-end targets. [Yardeni, Wilson]",
+      "Semiconductor correction well advanced — momentum leadership rotating decisively to insurance, healthcare equipment, and FCF-stable quality names. [Wilson ↑ evolving, Yardeni]"
     ],
     "whats_new": [
-      "Bessent deploys coordinated yen intervention to protect US Treasury yields \u2014 first G7 yen-support since 2011, linking currency management to bond market stability in explicit policy framework. [Bessent]",
-      "JGB market elevated to #1 global systemic risk above AI bubble \u2014 BOJ normalization accelerating yen carry trade unwind with direct US equity repricing implications. [Edwards shift]",
-      "Fed characterized as 'nakedly dovish' under Warsh \u2014 1994 parallel invoked as financial conditions tighten independently until credibility restored via aggressive hike cycle. [Hartnett evolving]",
-      "Natera (NTRA) surpasses Nvidia as Druckenmiller's largest holding at 18% \u2014 explicit confirmation portfolio is 'no longer AI-driven.' [Druckenmiller shift]",
-      "Wilson identifies momentum factor rotation to earnings quality: insurance and healthcare outpacing semiconductors \u2014 semiconductor correction now described as 'pretty well advanced.' [Wilson evolving]",
-      "Yardeni reframes Q2 GDP deceleration as misread \u2014 positive import demand signal contradicts consensus bearish growth narrative, extending double-digit earnings cycle. [Yardeni evolving]"
+      "First US yen-support intervention since 2011 coordinated by Bessent — $5–10B JPY purchase reframes FX policy as a Treasury yield stability tool, not trade competitiveness; FIMA Repo Facility expansion sought to prevent Japanese Treasury liquidation. [Bessent ↑ evolving]",
+      "Edwards explicitly deprioritizes AI bubble as #1 risk — JGB market normalization and yen carry trade unwind now ranked as higher systemic danger than AI valuations, with US equity 20x+ P/E questioned if JGBs approach 4%. [Edwards ↑ shift]",
+      "Hartnett escalates to 1994 template warning — Fed under Warsh characterized as 'nakedly dovish'; expects aggressive hike signal at Jackson Hole Aug 28 triggering equity consolidation analogous to jobless-recovery shock of 1994. [Hartnett ↑ evolving]",
+      "Yardeni reinterprets Q2 GDP: import surge is demand-pull from hot domestic economy, not drag — Q2 proforma earnings +38.8% YoY highest since Q3-2021 cited as Roaring 2020s confirmation. [Yardeni ↑ evolving]"
     ],
     "vs_market_buy": [
-      "Shorting semiconductors and exiting AI/Mag7 while market prices hyperscaler capex cycle as intact \u2014 Druckenmiller and Burry positioned against consensus 61% expecting no capex cut. [Druckenmiller shift, Burry]",
-      "Bond market signaling imminent Fed hike cycle while equity market sustains 20x+ forward P/E \u2014 Gundlach and Marks see duration and valuation risk not priced by equities. [Gundlach shift, Marks]",
-      "Yen intervention motivated by Treasury yield protection not FX management \u2014 Bessent's framework reveals US policy priorities the bond market has not fully priced. [Bessent]"
+      "Market pricing 20x+ forward P/E on US equities while JGB normalization and yen carry unwind risk is unpriced — Japanese capital repatriation could force violent repricing that consensus ignores. [Edwards, Bessent]",
+      "Semiconductors still widely held as AI proxy while smart money rotating aggressively to healthcare diagnostics and quality compounders — positioning divergence from crowded consensus. [Druckenmiller, Burry]",
+      "30-year Treasury yield at multi-year highs signals Fed credibility crisis while equity markets remain near all-time highs — bond market warning ignored by equity allocators. [Gundlach, Hartnett]"
     ],
     "vs_market_sell": [
-      "JGB carry trade unwind risk ranked above AI bubble as top systemic threat while US equity multiples remain at 20x+ forward P/E \u2014 market pricing neither scenario. [Edwards shift]",
-      "Bull & Bear at maximum sell signal with global equity flows at 88th percentile \u2014 positioning extreme vs. sell-side warning that investors are 'frozen bullish.' [Hartnett evolving]",
-      "Sell-side moderating bearish note: Wilson and Yardeni both see strong underlying fundamentals (earnings quality, Q2 demand) as 2025 bull case extends against bear-camp sell signals. [Wilson, Yardeni]"
+      "S&P targets of 8,000–8,250 imply 10–15% additional upside from current levels while sentiment indicators flash most extreme sell signals in 5 years — bull case rests on earnings quality and AI capex cycle continuation. [Wilson, Yardeni]",
+      "Consumer resilience and AI-driven capex are re-accelerating growth and inflation simultaneously — GDP headline understated strength, contradicting the 'economic gravity' slowdown consensus. [Yardeni ↑ evolving, Hatzius]"
     ],
     "buy_vs_sell_divergence": [
-      "Bitcoin is best inflation hedge with significant upside vs. Bitcoin trading as overheated Big Tech stock with stretched technicals \u2014 same asset, opposite risk assessment. [Tudor Jones vs Bannister]",
-      "No imminent market crash with mega-cap tech offering favorable risk-reward vs. extreme sentiment sell signals and 1994/2000 crash parallels \u2014 buy and sell camps in direct conflict on near-term direction. [Ackman vs Hartnett, Burry, Dalio]",
-      "US government actively preventing Japanese Treasury selling via yen intervention vs. Edwards' view JGB/yen carry unwind is #1 systemic risk \u2014 policy directly targets the bear thesis. [Bessent vs Edwards]",
-      "S&P 8,000-8,250 year-end target with buy-the-dip framework vs. retreat from risk assets ahead of Jackson Hole \u2014 directly opposing tactical postures. [Wilson, Yardeni vs Hartnett]"
+      "AI trade has Apple II-level runway remaining vs AI capex will end 'in a destructive way' and productivity gains are years away — Tudor Jones sees structural upside while Reid, Slok, and Berezin warn of painful repricing on unmet profit expectations. [Tudor Jones vs Reid, Slok, Berezin]",
+      "No imminent market crash, mega-cap tech offers favorable risk-reward vs Bull & Bear at 9.5 flashing sell, retreat from risk assets ahead of Jackson Hole — direct bullish/bearish split on near-term equity direction. [Ackman, Wilson, Yardeni vs Hartnett, Edwards, Dalio]",
+      "Long US Treasuries if yen intervention holds vs short or reduce long-end duration given fiscal pressures and hike cycle risk — same instrument, opposing directional conviction. [Bessent vs Gundlach, Hartnett]"
     ],
     "aligned": [
-      "Semiconductor sector (SOXX) facing material further downside \u2014 bear market confirmed with AI ROI scrutiny and hyperscaler FCF deterioration as shared catalysts. [Yardeni, Wilson, Hartnett, Burry]",
-      "AI bubble characteristics present and valuation risk elevated \u2014 disagreement on timing but convergence on eventual painful unwind across buy and sell side. [Dalio, Marks, Burry, Hartnett, Reid, Slok, Berezin]",
-      "Fed credibility problem and higher-for-longer rates structural reality \u2014 30-year Treasury trending to multi-year highs with bond market forcing policy response. [Hartnett, Gundlach, Slok, Mauldin]",
-      "Geopolitical oil shock (US-Iran, Brent $95) creating stagflationary consumer headwind \u2014 energy as portfolio hedge with defensive rotation warranted near-term. [Hatzius, Yardeni, Slok]"
+      "Semiconductors facing material correction — chip stocks being replaced as momentum leaders across both buy and sell side. [Druckenmiller, Burry, Wilson, Yardeni, Bannister]",
+      "AI bubble characteristics present and valuation risk is real — disagreement is on timing of unwind, not existence of excess. [Dalio, Marks, Burry, Hartnett, Edwards, Reid, Slok, Berezin]",
+      "Rotation within equities is the dominant market dynamic — quality earnings, healthcare, and FCF generation replacing semiconductor and AI hype leadership. [Wilson, Sonders, Ackman, Druckenmiller]"
     ],
     "buy_side_trades": [
-      "Long Natera (NTRA) healthcare diagnostics and YPF Argentina oil \u2014 decisive rotation out of AI/Mag7 into non-tech secular growth and commodity USD hedges. [Druckenmiller shift]",
-      "Long Bitcoin as inflation hedge; targeting $70,000 on Fed rate-skip scenario with dollar debasement as structural tailwind. [Tudor Jones, Visser]",
-      "Long Alphabet, Amazon, Meta with Uber as dislocation entry \u2014 platform moats and cash generation over AI hype; swap Microsoft for Google on relative value. [Ackman]",
-      "Long JPY via coordinated G7 action; FIMA Repo expansion to prevent Japanese Treasury selling pressure; monitor 10-year yield response. [Bessent]"
+      "Long JPY via coordinated intervention; long US Treasuries contingent on successful prevention of Japanese selling pressure — yen as Treasury yield protection mechanism. [Bessent ↑ evolving]",
+      "Long Natera (NTRA) as top conviction at 18% of portfolio; long YPF as commodity/USD hedge — decisive de-AI pivot into healthcare diagnostics and EM commodity exposure. [Druckenmiller ↑ evolving]",
+      "Long Bitcoin as best available inflation hedge; long AI-exposed equities for continued structural upside — dual inflation and growth positioning. [Tudor Jones]",
+      "Long Amazon (>15% of portfolio), Alphabet, Meta, Uber as quality compounders — avoid Tesla and speculative AI hype in favor of defensible moat businesses. [Ackman]"
     ],
     "sell_side_trades": [
-      "Retreat from risk assets; sell the dip ahead of Jackson Hole August 28; rotate into long-duration bonds and defensives \u2014 1994 hike cycle template. [Hartnett evolving]",
-      "Underweight SOXX semiconductors with further downside; long quality earnings (insurance, healthcare equipment, FCF-stable names) on momentum rotation. [Wilson evolving]",
-      "Hedge US equity exposure against yen carry trade unwind \u2014 monitor JGB yields and BOJ normalization signals as leading indicator for global risk-off. [Edwards shift]",
-      "Long S&P 500 (target 8,250); buy summer weakness for year-end rally; underweight semiconductors vs. software/infrastructure. [Yardeni evolving]",
-      "Short Canadian dollar to ~60 cents \u2014 mortgage strain and structural headwinds creating multi-year CAD weakness thesis. [Rosenberg]"
+      "Retreat from risk assets ahead of Jackson Hole Aug 28 — rotate into long-duration bonds, defensive stocks, and USD; sell the dip rather than buy it. [Hartnett ↑ evolving]",
+      "Reduce semiconductor overweight on rotation confirmation — long insurance, healthcare equipment, and FCF-stable quality names as new momentum leadership. [Wilson ↑ evolving, Yardeni]",
+      "Long bonds overweight vs equities in H2 as macro cycle ages; long metals over energy secular preference; near-term long USD before resuming downtrend. [Berezin]",
+      "Long energy and commodities on geopolitical supply risk premium from US-Iran tensions; defensive positioning ahead of consumer slowdown from gas above $4. [Hatzius]"
     ],
     "dominant_themes": [
-      "AI bubble valuation and capex ROI reckoning",
-      "Fed credibility crisis and hike cycle risk",
-      "JGB/yen carry trade systemic unwind risk",
-      "Yen/Treasury yield linkage \u2014 US government defending bond market via currency intervention",
-      "Rotation from AI/semis into quality earnings, healthcare, commodities, and crypto"
+      "Japan/JGB systemic risk and yen carry trade unwind as #1 global threat",
+      "AI bubble vs earnings quality rotation — semiconductor correction accelerating",
+      "Fed credibility crisis — Jackson Hole hike signal and long-end yield breakout",
+      "Inflation re-acceleration alongside growth — Roaring 2020s vs painful repricing divergence"
     ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   },
   "month": {
     "period_start": "2026-07-05",
     "period_end": "2026-08-04",
-    "entries_count": 235,
+    "entries_count": 236,
     "buy_side_bullets": [
-      "US equity market at historically unprecedented valuations \u2014 capital preservation now top priority, closing funds to new investors and expressing macro views directly via gold, copper, and rates. [Einhorn, Marks evolving]",
-      "AI bull market feels like 1999 with another year or two to run, but 'breathtaking corrections' await if markets rally another 40% \u2014 sizing accordingly with Bitcoin as primary inflation hedge. [Tudor Jones]",
-      "Decisive de-AI pivot underway \u2014 healthcare diagnostics (Natera) now largest position at 18%, portfolio 'no longer AI-driven,' dollar bearishness expressed through EM and commodities. [Druckenmiller shift]",
-      "Mega-cap tech platforms (Alphabet, Amazon, Meta) are 'stupidly cheap' quality compounders \u2014 $700B hyperscaler AI capex is durable compounding cycle not speculative peak. [Ackman]",
-      "Weak yen as $1.2T Treasury liquidation trigger \u2014 coordinated G7 yen intervention to protect US 10-year yields explicitly links currency management to bond market stability. [Bessent]",
-      "Global 80-year Big Cycle entering final decline \u2014 capital wars, nationalism, and trust erosion in USD system require diversification into gold, commodities, and non-US assets. [Dalio evolving]"
+      "US equities at historically unprecedented valuations — capital preservation prioritized over return-chasing, fund closed to new investors. [Einhorn, Dalio, Marks ↑ evolving]",
+      "Complete de-AI pivot underway — healthcare diagnostics (Natera 18%), financials (XLF $325M), and EM commodities replacing Nvidia/Mag7 as primary theses. [Druckenmiller ↑ shift]",
+      "Quality mega-cap compounders (Alphabet, Amazon, Meta) remain 'stupidly cheap' versus intrinsic value — $700B hyperscaler capex cycle is durable compounding, not speculative peak. [Ackman]",
+      "Bitcoin is the best inflation hedge available — outranks gold on hard supply cap; AI trade still has Apple II-level runway remaining. [Tudor Jones, Visser]",
+      "Yen carry trade unwind is the #1 systemic risk — BOJ normalization forcing Japanese capital repatriation that would cause 'loud sucking sound' in US financial assets. [Bessent ↑ shift, Edwards]"
     ],
     "sell_side_bullets": [
-      "BofA Bull & Bear indicator at 9.5 \u2014 most extreme contrarian sell signal in 5 years, investors 'frozen bullish' despite 5% long-bond yields, Jackson Hole August 28 the critical inflection with 1994 rate-hike parallel. [Hartnett evolving]",
-      "JGB market now #1 systemic risk globally \u2014 10-year JGB yields at 2.12% (highest since 1999), yen carry trade unwind would cause 'loud sucking sound in US financial assets,' US equities cannot sustain 20x+ P/E if JGBs approach 4%. [Edwards shift]",
-      "AI productivity gains are years away from materializing \u2014 S&P 493 margins stuck at 10% for three years despite massive AI investment, creating 'painful repricing' risk if hyperscaler profit expectations disappoint. [Slok, Reid]",
-      "Bull market 'aging' but recession unlikely in 2026 \u2014 AI capex will end 'in a destructive way,' bonds to outperform equities in H2 as macro cycle ages, metals favored over energy long-run. [Berezin shift]",
-      "Momentum rotating from semiconductor-led to earnings-quality-led \u2014 Q2 proforma earnings +38.8% YoY (9th double-digit quarter) confirms Roaring 2020s while inflation re-accelerates alongside growth. [Yardeni evolving, Wilson evolving]"
+      "BofA Bull & Bear indicator at 9.5 — most extreme contrarian sell signal in 5 years; largest speculative bubble since 19th-century railroad boom with only 4% of S&P making new highs, a March 2000 parallel. [Hartnett ↑ evolving]",
+      "JGB market now #1 global systemic risk surpassing AI bubble — 10yr JGB at 2.12% (highest since 1999), 30yr near record 3.5%; US equities cannot sustain 20x+ P/E if JGBs approach 4%. [Edwards ↑ shift]",
+      "Q2 proforma earnings +38.8% YoY — 9th consecutive double-digit quarter validating Roaring 2020s thesis; S&P target 8,000-8,250 with summer dip as buying opportunity. [Yardeni, Wilson]",
+      "Financial repression regime of 15-20 years underway — governments keeping rates below inflation to inflate away sovereign debt; most post-1979 investment skills now obsolete. [Napier ↑ evolving]",
+      "AI productivity gains are years away from materializing — if hyperscalers fail to deliver, painful market repricing inevitable; S&P 493 margins stuck at 10% despite 3 years of AI investment. [Slok ↑ evolving, Reid]"
     ],
     "whats_new": [
-      "Bessent deploys coordinated yen intervention to protect US Treasury yields \u2014 first G7 yen-support since 2011, introducing explicit currency-to-yield transmission into Treasury policy framework. [Bessent]",
-      "Japan's bond market explicitly elevated to #1 global systemic risk above AI bubble \u2014 BOJ normalization accelerating yen carry trade unwind with direct US equity repricing trigger identified. [Edwards shift]",
-      "Hartnett frames Fed under Warsh as 'nakedly dovish' and invokes explicit 1994 template \u2014 Jackson Hole August 28 marked as critical inflection for surprise hike cycle signaling and equity consolidation. [Hartnett evolving]",
-      "Druckenmiller Q1 2026 13F confirms complete portfolio overhaul \u2014 Natera at 18% surpasses Nvidia as top holding, 30 new positions opened, 23 exited, assets shrank 22% to $3.38B. [Druckenmiller shift]",
-      "Berezin moderates from outright bearish H2 selloff call to 'Aging Bull' \u2014 recession now unlikely in 2026, pivoting to bonds over equities in H2 and near-term USD strength before secular downtrend resumes. [Berezin shift]",
-      "Wilson identifies momentum factor rotation to earnings quality: insurance and healthcare outpacing semiconductors \u2014 semiconductor correction 'pretty well advanced' with explicit sector rotation call. [Wilson evolving]"
+      "First US yen-support intervention since 2011 — Bessent coordinated $5-10B JPY purchase, explicitly framing weak yen as a US Treasury yield stability threat via Japan's $1.2T Treasury holdings; seeking Fed FIMA Repo Facility expansion to prevent forced Japanese selling. [Bessent ↑ shift]",
+      "JGB market elevated above AI bubble as #1 systemic risk — Edwards explicitly pivots from double-digit inflation thesis to yen carry trade unwind as the more immediate danger, with 10yr JGB at 2.12% highest since 1999. [Edwards ↑ shift]",
+      "Druckenmiller Q1 2026 13F confirms complete portfolio overhaul — Natera (NTRA) at 18% surpasses Nvidia as top holding, portfolio shrank 22% to $3.38B, 30 new positions opened; de-AI pivot now 13F-confirmed. [Druckenmiller ↑ shift]",
+      "Hartnett invokes 1994 template at Jackson Hole — Fed under Warsh characterized as 'nakedly dovish'; jobless recovery ending abruptly with surprise hike cycle forcing extended equity consolidation; August 28 flagged as critical inflection. [Hartnett ↑ evolving]",
+      "Berezin moderates from outright bearish to 'Aging Bull' — Q3 strategy shifts from H2 broad selloff call to recession unlikely in 2026, with bonds over equities in H2 and near-term USD strength. [Berezin ↑ shift]"
     ],
     "vs_market_buy": [
-      "Shorting Nvidia, Palantir, Micron, Applied Materials via puts while market prices AI semis at historically extreme extensions above 200-day moving averages \u2014 most extended since 1984. [Burry]",
-      "Closing fund to new investors and maintaining sub-market net equity exposure while S&P trades at generational valuation peaks \u2014 willing to miss upside to preserve capital for offensive deployment. [Einhorn]",
-      "Rotating portfolio away from AI/Mag7 into healthcare diagnostics and EM commodities while market consensus remains 61% confident no hyperscaler capex cut occurs in 2026. [Druckenmiller shift]",
-      "Yen intervention reveals Treasury yield control as US policy's highest priority \u2014 framework not priced by bond market pricing Treasury yields as solely domestic monetary policy outcome. [Bessent]"
+      "Market pricing equities at 20x+ forward P/E while multiple buy-side legends treat valuations as historically unprecedented extremes — Greenlight closed to new investors, Druckenmiller overhauled entire portfolio away from US tech concentration. [Einhorn, Druckenmiller, Burry]",
+      "Market ignoring yen carry trade unwind risk — coordinated G7 intervention and FIMA expansion push signal US Treasury treats Japanese capital repatriation as systemic threat, while equity markets remain 'frozen bullish' near highs. [Bessent, Edwards]",
+      "Bitcoin positioned as primary inflation hedge over equities — at a time when equity multiples embed optimistic growth/disinflation assumptions, hard-cap digital assets preferred for fiscal dominance environment. [Tudor Jones, Visser, Dalio]"
     ],
     "vs_market_sell": [
-      "JGB carry trade unwind flagged as #1 systemic risk while market prices US equities at 20x+ forward P/E and treats Japan normalization as benign \u2014 extreme valuation vulnerability if Japanese capital repatriates. [Edwards shift]",
-      "Bull & Bear indicator at 5-year extreme sell signal while global equity fund flows hit 88th percentile \u2014 market ignoring 5% long-bond yields entirely, 'frozen bullish' positioning historically precedes violent corrections. [Hartnett evolving]",
-      "Consensus pricing no hyperscaler capex cut, no hard landing, no Fed hike, no Democratic sweep \u2014 any single 'four won'ts' failure triggers violent correction, especially with hyperscaler FCF already turning negative. [Hartnett, Slok]"
+      "Bull & Bear indicator at 9.5 maximum sell signal while global equity fund flows at 88th percentile — market consensus ('Four Won'ts': no hard landing, no hike, no AI capex cut, no Dem sweep) represents maximum crowding that any single failure would violently unwind. [Hartnett]",
+      "Jackson Hole rate hike signal expected while market prices no hike — Fed Warsh credibility play and 30yr Treasury trending to multi-year highs contradicts broad market positioning for higher-for-longer but no hike. [Hartnett, Gundlach, Slok]",
+      "JGB market signaling global equity repricing while US P/E multiples assume stable Japanese capital flows — BOJ normalization transmission to US Treasury yields structurally underpriced by consensus. [Edwards, Bessent]"
     ],
     "buy_vs_sell_divergence": [
-      "Hyperscaler $700B AI capex is durable compounding cycle and buying opportunity vs. FCF already rolling over and capex echoing 2001 telecom bust with $2T in assets creating future depreciation catastrophe. [Ackman vs Berezin, Slok]",
-      "Bitcoin is the best inflation hedge and AI equity trade still has significant upside vs. AI's easy money phase is over and US stocks may underperform crypto as macro rotation occurs. [Tudor Jones vs Visser]",
-      "Quality mega-cap tech (Alphabet, Amazon, Meta) are 'stupidly cheap' compounders vs. AI bubble is largest since 19th-century railroad boom and investors should retreat from risk assets this summer. [Ackman vs Hartnett]",
-      "US government actively preventing Japanese Treasury selling via yen intervention vs. Edwards framing JGB normalization as #1 systemic risk \u2014 policy directly confronts the bear thesis in real time. [Bessent vs Edwards]"
+      "Q2 earnings +38.8% YoY validates Roaring 2020s bull case vs extreme sell signals and bubble warnings — strongest earnings print since 2021 supports Yardeni/Wilson targets of 8,000-8,250 while Hartnett's Bull & Bear at 9.5 maximum says sell into the strength. [Yardeni, Wilson vs Hartnett, Bannister]",
+      "Yen intervention as Treasury yield protection tool (bullish for US bonds if successful) vs JGB normalization as the trigger for global equity repricing (bearish) — same Japan story, radically opposite portfolio implications. [Bessent vs Edwards]",
+      "Hyperscaler $700B AI capex is durable compounding cycle worth buying on weakness vs AI capex echoes 2001 telecom bust with $2T in assets by 2030 generating devastating depreciation — fundamentally incompatible readings of the same capital expenditure data. [Ackman vs Berezin, Slok]"
     ],
     "aligned": [
-      "AI bubble characteristics confirmed across camps \u2014 textbook speculative excess with dot-com-era breadth collapse (only 4% of S&P at new highs), but market continues making highs as sell signals go unheeded. [Dalio, Hartnett, Edwards, Marks, Burry]",
-      "Financial repression and structurally elevated inflation as the dominant multi-decade regime \u2014 governments cannot unwind fiscal expansion, real rates to stay negative, long-duration nominal bonds to be avoided. [Napier, Edwards, Gundlach, Rosenberg evolving]",
-      "Dollar structurally bearish \u2014 diversification into gold, real assets, non-US equities, and commodities as USD purchasing power erodes under fiscal dominance and capital war dynamics. [Dalio, Gundlach, Druckenmiller, Einhorn]"
+      "Semiconductor sector correction 'pretty well advanced' — chips being replaced by quality earnings, insurance, healthcare equipment, and software at the top of momentum; both bull and bear camps reducing chip overweights. [Wilson, Yardeni, Burry, Hartnett]",
+      "Dollar structural decline intact — broad consensus across buy and sell side for non-USD diversification via gold, commodities, EM, and real assets regardless of near-term tactical differences. [Druckenmiller, Dalio, Gundlach, Napier, Rosenberg]",
+      "Financial conditions tightening faster than the Fed is moving — 30yr Treasury near 5%, passive tightening via long yields reducing need for explicit hikes but also compressing equity multiples; both camps monitoring the same threshold. [Hartnett, Gundlach, Hatzius, Sonders]"
     ],
     "buy_side_trades": [
-      "Long Bitcoin as primary inflation hedge, long gold ETFs and commodities as vol-adjusted secondary protection \u2014 optimal portfolio for persistent fiscal dominance and dollar debasement regime. [Tudor Jones, Dalio]",
-      "Long Natera (NTRA) healthcare diagnostics at 18% and YPF Argentine oil at 4.4% \u2014 de-AI pivot into secular healthcare growth and South American commodity exposure as USD hedge. [Druckenmiller shift]",
-      "Long Alphabet, Amazon, Meta, Uber \u2014 quality cash-generative compounders with durable moats, rotating out of Microsoft into Google on relative value, Uber as Tesla robotaxi fear dislocation. [Ackman]",
-      "Long gold and copper directly \u2014 own macro themes through direct instruments not equity proxies, maintaining lowest gross/net equity exposure in fund history. [Einhorn]",
-      "Long JPY via G7 coordinated intervention; FIMA Repo expansion to prevent Japanese Treasury selling pressure; monitor 10-year yield response as policy success signal. [Bessent]"
+      "Long JPY via coordinated intervention + long US Treasuries if Japan yen support prevents forced selling — managing yen as Treasury yield protection tool. [Bessent ↑ shift]",
+      "Long Natera (NTRA), YPF, XLF — healthcare diagnostics and EM commodities replacing AI/Mag7 as primary conviction; international/commodity positions as structural USD short. [Druckenmiller ↑ shift]",
+      "Long gold, silver, copper, uranium/nuclear directly — inflation hedge and financial repression protection via hard assets over equity proxies; AI electricity demand as structural uranium catalyst. [Einhorn, Dalio, Rosenberg, Tudor Jones]",
+      "Long Amazon, Alphabet, Meta, Uber — quality compounders with durable moats at 'stupidly cheap' intrinsic value; contrarian entry after worst hyperscaler month in years. [Ackman]",
+      "Long Bitcoin targeting $70K+ on Fed rate-skip scenario — only AI-proof macro trade; machine economy stablecoin demand as structural driver. [Visser, Tudor Jones]"
     ],
     "sell_side_trades": [
-      "Retreat from risk assets this summer \u2014 sell the dip ahead of Jackson Hole, rotate into long-duration bonds, defensive stocks, and USD; 25/25/25/25 stocks/bonds/cash/commodities as core defensive framework. [Hartnett evolving]",
-      "Hedge US equity exposure against yen carry trade unwind \u2014 watch JGB market as leading indicator for global risk asset correction, monitor BOJ policy acceleration. [Edwards shift]",
-      "Long quality earnings (insurance, healthcare equipment, FCF-stable names); reduce semiconductor overweight on rotation from chip-led to earnings-quality-led momentum. [Wilson evolving]",
-      "Long bonds overweight vs equities in H2 2026 \u2014 favor metals over energy long-run, near-term USD strength before secular downtrend resumes as AI capex cycle ages destructively. [Berezin shift]",
-      "Long S&P 500 (target 8,250); buy summer weakness for year-end rally; underweight SOXX vs. software/infrastructure plays. [Yardeni evolving]"
+      "25/25/25/25 stocks/bonds/cash/commodities 'sleep like a baby' portfolio — defensive framework at maximum Bull & Bear sell signal; retreat from risk assets ahead of Jackson Hole. [Hartnett ↑ evolving]",
+      "Underweight/short semiconductors (SOX, Micron, SOXX ETF) — chip correction 'pretty well advanced'; rotate into insurance, healthcare equipment, FCF-stable quality names and software platforms. [Wilson, Yardeni, Bannister]",
+      "Long bonds over equities in H2 — recession unlikely but bull market aging; bonds outperform once growth slows; metals over energy in long run. [Berezin ↑ shift, Rosenberg, Napier]",
+      "Short long-duration government bonds + long inflation protection (TIPS, gold, commodities) — fiscal dominance + surging bank lending + JGB normalization make secular yield decline structurally impossible. [Edwards ↑ evolving, Napier]",
+      "Rotate long Mag7/software vs short SOX/cyclicals — hyperscaler FCF turning negative while 61% of FMS expects no capex cut; platform owners outperform semiconductor dependents in the rotation. [Hartnett]"
     ],
     "dominant_themes": [
-      "AI bubble peak vs. durable capex cycle \u2014 valuation and duration debate intensifying",
-      "JGB/yen carry trade unwind as systemic risk \u2014 US government intervention signals policy awareness of transmission mechanism",
-      "Fed credibility and Jackson Hole rate hike catalyst",
-      "Financial repression and dollar debasement regime",
-      "Semiconductor correction and quality-earnings rotation within broader AI de-risking"
+      "Yen carry trade unwind and JGB normalization as systemic risk",
+      "AI bubble valuation vs earnings growth reality",
+      "Fed path uncertainty — hike risk vs hold at Jackson Hole",
+      "Financial repression and structural inflation regime shift",
+      "Semiconductor rotation — quality earnings replacing chip momentum"
     ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "bearish"
