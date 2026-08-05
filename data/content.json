@@ -8646,6 +8646,397 @@
         "https://www.cnbc.com/2026/07/30/heres-where-jeffrey-gundlach-is-investing-after-the-fed-held-rates-steady.html",
         "https://www.cnbc.com/video/2026/07/29/jeffrey-gundlach-fed-has-to-raise-interest-rates-if-it-wants-to-get-inflation-to-2-percent.html"
       ]
+    },
+    {
+      "id": "2026-08-05-b3fe3662",
+      "date": "2026-08-05",
+      "published_at": "2026-08-04T22:00:25+00:00",
+      "investor": "Howard Marks",
+      "side": "buy",
+      "summary": "Marks observes significant market rotation and changing conditions in bonds, emphasizing selective stock picking (buy best, sell worst, avoid worst). He highlights that investors are taking unprecedented actions that could trigger major market disruption, while advocating for contrarian positioning to outperform.",
+      "key_views": [
+        "Bond market conditions are shifting materially ('The Seas Are Changing Once Again')",
+        "Significant market rotation occurring across equities, potentially the most important in years",
+        "U.S. investors engaging in unprecedented behavior with meltdown risk",
+        "Stock selection critical - quality matters; avoid worst performers"
+      ],
+      "trade_ideas": [
+        "Selective long positions in best-quality stocks",
+        "Exit losing stock positions",
+        "Avoid worst-performing stocks entirely",
+        "Contrarian positioning away from crowd consensus"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGdTMXV5SW9OQ2Zzc1d3NUxRZEZNcTNwUE9hNVdHZnBhTnlkMnVxaVBvdVIwbTlkam1va0F0T2NHTXZFMnlQWWtWc2c4WGZvU2Rla1oxdVdtQ2NGS0dpbHp0cm8xVU1nR0JOR09OTmNEM2FkTU9BbFBDMkFOYmpjVElWS1Q?oc=5",
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYVV6YnJWWUF0b2xFNGZwcU5PelU4NUVzWEdFcmNRY3R4T1JiYkplNlZBbWN6TFBFYnhOOGFMMGdFQTU3dFZjd09Cc1MwX2NjTEZaZmxMc0FwVHRubEloZXpNS1VvNnJiMGQ4R3REUzlZaU5ROE0tZXRCUFZsUVJDVlVDTUFTVWdERkhneGhqODMzUEFjNUViemQzS1lqOHJYd05PMWlkT3V3ZEZpMGdWMGVsWjNxWmJUaTFrZkE2Rk5WNWs2cVVUVk9DX3NEX09oOE80?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVC14RVdZaVBJOWtRdTdUNWRkQWRERFA1M3ZPYXlEbkVCdW1mVkdaMzNDVHlYTmhDWTA2dVFuYWhvYTJjWGdTYzBERW5uVFo4TG5iTlBHekFUaWZCRHJLZW1heW1zSG12RDEwZHBtMl9KSF9UQWw5eDVRb3hZb3hyVjNhSWdZMmI1bXBYMDl0RGRxYkwwY1B4LUR2WnJONFNFc2p5SUJ4NUFNQ1ZsUW05Q3ljVnM?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbkFCa0ZzbU5hdVdBRnlNTU4zUjVqZHI2VlA2UklqcXRIbGtNZ3YxWHVjUVhxU25ic3paTFlsNmdINVRWVHZkUXFMU3laQWYzRUFRdGNQQXB3cWdYQ0xLbE0yNTRLdU5CU0lmZ2x0dVR6aU1YUzREdmU5VGlEN0NXVFBiQlVRQW9VaFVrckxRdzUtUy1MclJobw?oc=5"
+      ]
+    },
+    {
+      "id": "2026-08-05-90f51a16",
+      "date": "2026-08-05",
+      "published_at": "2026-08-05T02:01:00+00:00",
+      "investor": "Scott Bessent",
+      "side": "buy",
+      "summary": "Bessent is bullish on the Trump economy and actively using Treasury resources to manage currency and geopolitical risks. He's applying hedge fund tactics to support the yen, negotiate strategic deals (Strait of Hormuz access), and prop up US debt markets while warning that China has been aggressive and positioning the US to use economic coercion as statecraft.",
+      "key_views": [
+        "Trump economy is performing well and worthy of highlighting",
+        "China has been aggressive ('done a lot of kicking lately') and requires pushback",
+        "Currency intervention (yen support) is justified and the US will do 'whatever it takes' to stabilize allies",
+        "Economic statecraft and coercion are legitimate tools of US foreign policy",
+        "International capital market access (Pakistan, Japan) should be leveraged for US strategic interests"
+      ],
+      "trade_ideas": [
+        "Long USD via yen intervention support and currency stability focus",
+        "Support for Japan yen through $5bn-$10bn direct purchases",
+        "Emerging market re-entry plays (Pakistan capital market returns)",
+        "Geopolitical resolution trades (Strait of Hormuz freedom of movement deals)"
+      ],
+      "asset_classes": [
+        "fx",
+        "bonds",
+        "equities"
+      ],
+      "sentiment": "bullish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNzJHSVNBRndlUE15MHIxMHZlNEJPYVNuMU8xT2dZT083TGxvMEt1bWViVWJvYnhJX0VlSW5KZHZSS1JidXU3a3MwYmJ6M0JONnF1NlJzeDV2YlRxWXZMMVcxakJDVGVXaXl6MF9kWVJ5eVJxX0ZRS2k4QzkyZDNjMUZwbDFjMXczWUJDTHE0dUxvcFJhdXdJRkJCV2RlWHpLRTZQR18xV0lzdkQ2dE1jemNRZzIwY0Q2SUNPa2xUaElERlZKZ1R0YnctYmhPUk5Vb19sNFlB?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1h3WGN5WWVKQ3FxSk1JS05BakRxWkdIRGl3Q25yeERrMXZOcVdWdVF0S0xqQkF0VjZsZVhfSmZnVUU5ZFZSMWtnVFlFdFlCdVRPMF9hXzBtRlZ2ZXFIMHRYZnlWZVdpR3RROGRYaVNBTVk1bWlHVUpXVldKOUI5UjdlTE9Hbnc3bHNfdEsya0x3NGI4cmlZM25zbEZsLThzeTNzX1VmTmFPZVhO0gGyAUFVX3lxTE9mbmhsMEFaTkw0ZUdMdFkwUUczY19ldTFTNXo3VHJ2QWZfV0hvWHV3Njh4dUdvQ1k3cVROWGo4anZaTFRqbWl5TWNPemtFZGFld3RrdnpSaF9VTmdaSHc1LU1nWkI5WTBab2JIODJLSkpPVXBGaW8yVm5vZlBxUm9kenVab1dKc2pRb3pldHN6TUNnTnFSaGdiZ192MWFCeTEyZi1ULUJIaXpkMi00bC03TXc?oc=5",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLW5ZcUFHeUZRaEhwNjZqZGJoQXh4T3BXYXpZTzJhYmMtdFdlUjFnOEMta2JOaUlRNzBlSmFUQmlNY0RTdEtQaURxVkJ6VVRDeWE2TkdoTldVM2RWQmNMcl9aMDZ1RDQ0d215VWQ1VjVUS2hwTGtuWVhtenZRTHd1RE5xU295NGhLaHZ4ZXJhR1dKNGxLR1R3MWVKNjVsVXJwdGJad1cxcFM1aHVBRVF5QndreWM4OFM0cE9zUld2VnJtZw?oc=5",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVJfcEJwX1A4aF9jaEQwbTZFZlNNMkpTeml3R3hEcXpZLVJ6emhQUV90bU1OUDlKelpQVWZjbmwwYzlCU3Q5Q0EyLUlUMGUyelJtUjlnZGhrNE5fZEd4UXdBMmVldk1vNHlIM0VTMWhvUDBXSVBGdHJrSm13XzRDZXBPSGQ1aktHbDdRLXF5aTdlNjJvck94b1RQWk1YSmlJYkw4?oc=5"
+      ]
+    },
+    {
+      "id": "2026-08-05-4500a9e4",
+      "date": "2026-08-05",
+      "published_at": "2026-07-31T04:50:00+00:00",
+      "investor": "Bill Ackman",
+      "side": "buy",
+      "summary": "Ackman maintains a bullish macro outlook, explicitly stating he doesn't see a market crash ahead and remains enthusiastic about equities. He is actively deploying capital into large-cap tech names, particularly Amazon (15%+ of portfolio) and Microsoft, while expressing conviction in long-term growth narratives despite near-term volatility in some positions.",
+      "key_views": [
+        "No market crash expected in the near term",
+        "Bullish on large-cap technology equities, particularly Amazon and Microsoft",
+        "Starlink represents a near-monopoly in global satellite internet but remains structurally unattractive for investment",
+        "Maintains enthusiasm for Israel as an investment opportunity"
+      ],
+      "trade_ideas": [
+        "Amazon - concentrated long position (15%+ of portfolio allocation)",
+        "Microsoft - increased position via swap out of Google",
+        "Swapped Microsoft for Google (positioning shift within mega-cap tech)"
+      ],
+      "asset_classes": [
+        "equities"
+      ],
+      "sentiment": "bullish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdGlEUFhLUFQ1NEdhY1EtcFZQZHo4QmhTR3hScVBtQjBsWF9EbWVjQ0RlaDdIdnNpLUprOTNtcGkxR01lUFBNeHN5dzFXV2s1cDVsOVQ5SV9fMHh4LXRLQ2xLWVdXTWQ4dXIwcUJVY1hvZXNzUFVNWGtaNUstVHg1TTVNT2huV0RVZFQ4dXdJcFlQSW9oZkhQR29kMDdIeEVyYXY0Nmt4aF83Zw?oc=5",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX2cycTlwWWJ3MXNZRnBaODkzZ3MtWUZ3V1VFMmtQZGZDV01DLXkyMzVTeWFzNU5LTklIZWo2TXJSdU50YjF4YTJlT2hBU3lFdEE4TTcxSGdvUVhTeWJZY2FNMnRBdFZqZ3pLaVFGc2NaSUhfRm5WNW43Z3Q4Z3VNWGxxRGdtTDBMLTFJTkNFQzluOFYteGFKajBnMk9MYmhGSDNEMTBjMHFkbWdMQ2Z3LUEzNllxeEpldTY0?oc=5",
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVmVOeEZadDZCakVVQkNWampSSjQ5ajkyeUEtUXFPeXAxV2NKcWY1WHdCZzFEcEZSZVl4VGtCdEdnRGNOSDdoUk14R0w4dmZJWC02RGcwNVR4RnUwY3h5a1VhdG05UnVtX0E3VVQtYjZkdGpqQTk0UlNncnAyVUs1aERsMXFmQjNvSXdjUi1uVHBQZ2M1c1lYekRMOFc5Yzk2cmVTMmxB?oc=5",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMEVBNDBPcC1IeFZXQU5jeGZfNEpFeUQ5OHNwYnRQbVVWcUtrNzBjY2tmNnl2dFpndjVLejg4a2tSRmx2OGNkb3YzVDNEOUtSaEhWZktrQVY3OFZ0aHA0SG1mY2NOWlZvMkdwckR0T3BNdXBGTmFNUFNJbC1nS2xjS21xVlc3eVkwczVEU3A1anc4cWFxZk5kRDVEVUhPdm9iODBYZUdyQko2aXZ3MkQ5T0dKN21nUjkzRmNGQ1BOYWFvSFUwT0FpZWU0UWE?oc=5"
+      ]
+    },
+    {
+      "id": "2026-08-05-c0d529c0",
+      "date": "2026-08-05",
+      "published_at": "2026-07-31T00:55:02+00:00",
+      "investor": "Jim Reid",
+      "side": "sell",
+      "summary": "Jim Reid, Deutsche Bank's global head of macro research, argues that AI productivity gains are years away from materializing, which poses a significant risk to debt sustainability if the technology fails to deliver on its promise. He views the AI narrative skeptically given the timeline mismatch between current valuations and actual economic impact.",
+      "key_views": [
+        "AI productivity gains are years away, not imminent",
+        "Failure to deliver on AI productivity could worsen already elevated debt levels",
+        "Skepticism about the AI-driven growth narrative currently priced into markets"
+      ],
+      "trade_ideas": [
+        "Potential overvaluation in mega-cap tech stocks (Magnificent 7) if AI productivity fails to materialize",
+        "Long duration bonds could benefit if AI disappointment triggers growth concerns and rate cuts"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "rates"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOGRILWpuY0FXcTZCQ054M1g3MmhPM0Z4aW85YjV2Wld3M1NOdWtzMWpLM1VVYWFhN3VOcG9sVVY2M2lmNkNYYjRJSW1hLXpaVjFJUG83NlBoOVNuaUZLZlh2X1AxTEhyVGxaNENhbGNRTG1qWDFKaU1lTWU1eFlMd1V3dTBKQ1FSQWc?oc=5",
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVmVhcXVvZmtKY0l2Y0xoejRqYWY3ZkVMMkE0VmlsZjV0cHFFV05tdEtHam9mSEhURWw2WVNIdnA0YUNjTmVPcHJ5SDBYdEpNM0pOdkljejduZWVEdmxXRGlYeUxkZmZobmxrSFUydzl0ejk2ejFUSGpOeDIwMWtvWE1fUGhQbUJJNUFnNXVOeUQ5bDFMb0xMNk1FZUFNRElGWmRTOEVlRlNwSlAxOGZ3Ui15Tm15UnBxMDNYRmZoTkVfTEVYMzFWQk1Md3pCWnlOMFZGcVRn?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNS1tYjZDZTV0QXdka2RoXzJwS0ZTMDRIcVRSLWtMQ2RpTm5VaGYyVHNhblRnYWhnRWZYMEhiVkI0T3RqYVFlOVdXbHZBM1ZkU2dadEdjVkFaZ3Q3UERTYnROYm5FWDVZUENaM2lWXzVGaUZkUkhIalo2aGc4bWVDRXVqTWNrQXp2Tk5MTExYVXRwWGluOHFmbVk5N01ZWkhhbmxEZE1XekVSeXFmRWJBdHV0MA?oc=5",
+        "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPb3NNMDJUS19TR3ZwVTYtQ2dqZmhHSlRyM3NGSzRtSmh6ZF91WEswM0JtN3ZFTk8tMHhMMElMTDV0UC1xZGF6aWVrcHJib3JGX1hYSWdpZDh2X3dkY3J4eDdLMVZqQVVBcGxQRDJGQ21fSG1pZzFBUE16OVk1Z2lZSmFLWlJ3a1lYQWpZTFVEYTFjcnBCWFpyLW00cGx0S2ZhcU5sT2FMckhTYnR5Z1dpeDVGV3JVeHJOM2ZvX2QwUV9kdVpWYm9WdEZKZVY5amZ1ajhxSmJlcGI1bDdpQjFSMmFuMXhPOXZScDE2NWJkY3BwNEpuS29aRm1HdGpId0lTNGFIQ0RXSW5OVFpSaG9od1FMUGktekxKSXVFMTRGZUFvY3dUdXNmdTJmUDZ1aVZJcXFWUzJwWDVvQmdOTkRCTXJMcUF2ajhaeFNpNUdSdGtEVVg2VGdsLUF2bXhkRzhzQ1NmdXhCcGkzRknSAfACQVVfeXFMUE05ZGpmdGZhc1g2dVhtN05jWk1uYXJoREx2ckVnamZ6V0xqU1NsODd1aFdGYmlGUE9McW1hRWF6bHpHN01FOWlhbTJxMC1KbkdFcW5PNlExczF6Z2FhbUFrSU45NkFmQkE5SHpNU2Rqb0VoeURhbGphQUZ0LTMtSHFyX3UzczJCdTFIWDluQUhVdDhkWmxocmVoY09mOE55ajBsWTh2cG51aXRZZHdjY0xST0hLenotcmdUSUtEX2NheFNzbzJfZFFnbG0xdUZKTHhCOEljN2ZTTmVGZ0NUV2JtWnFXczktSERZZGpwTS1xdWVSbzFYZk1aUDVtRjl5ZHdEVHNFR05GRTdxSGNxS0RsN1lZSjJPM2VyTGJvZEwwVXdkRnVxNHM5R2RuTzVOcm5BTWRiV0R5Q0g3WmJEb1Bmb0dlZGs1NXlMUi1EdDRFamloU3lYdkl1UWc1bm9IRXJ2c2RobGVmMWFHeXBYeTk?oc=5"
+      ]
+    },
+    {
+      "id": "2026-08-05-0fcc170e",
+      "date": "2026-08-05",
+      "published_at": "2026-08-03T21:09:00+00:00",
+      "investor": "Torsten Slok",
+      "side": "sell",
+      "summary": "Slok warns that a slowdown in AI productivity payoffs could trigger recession and 'painful repricing' of markets, as AI has failed to deliver on productivity hype despite massive capex investment. He flags debt sustainability risks if AI productivity gains fail to materialize, and notes AI has broken traditional 60/40 portfolio hedges.",
+      "key_views": [
+        "AI productivity gains are years away but capex and valuations are priced for near-term delivery",
+        "Failure to deliver on AI productivity could tip economy into recession due to debt sustainability concerns",
+        "AI has decoupled traditional risk hedges, breaking the 60/40 portfolio framework",
+        "Two-punch sequence risk: slowing AI payoff combined with continued high yields creates market repricing risk"
+      ],
+      "trade_ideas": [
+        "Position for market repricing/correction as AI narrative faces credibility test",
+        "Reassess 60/40 portfolio construction as AI has altered traditional equity-bond relationships",
+        "Monitor yield dynamics relative to energy—decoupling signals structural shifts"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "rates",
+        "commodities"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcTk5aTVZb0N0SEYzQVJxUVV5UDBtN0l1VHl1bld1Q1ZpVGxIM0hSbmZCMTVzd0R3LWx6NHVwSWxaU095b0g2ZUJRV2o4OGN5eEFraHZ4VFJVNDZyaGxkZ2ZPQ2I5MGp0NXdINHZVay1vRkFPN21fNm9XbnR0aTNwX1RBSW9ZYjgyVUVwejZZYS02ZFh0Q2ZhNEdoM2d4Zl9BdXNKbGJuOW5UTHFoN3B1TTZfcW9GRFptREctSGZsdEZVOG5OaGJnQlQ1LTRXV2VlWmc?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc2Jkb0V6X1NvazdTSVRZN2twX2xHVjU0N2NEMFBGaU9WblBvalBpdWVYbmNyTWgxTXlDZmNDS1ZkbXNTNTh2aVdBTHFtdFU0RWRtQllLU0Z6aGxpRUo4VEpxMlhDTi01dmpEaVNWaGphY1hIZUh0TG1DYkZERlJFemhYMzJpMTBXWWpWangzT3BESFM3S0lWck9vcjVOQ002SlBBQ0l2WUl6MWw2RjQw?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaFRCNHctZjY5SzF0dDMxYUJWOXBwX3NTUks3bXpmNDdlUEU1RHUzMEs1QmVNS3l2QU82X1NaTnZPWkpXRm1WQnJZNi1JRG1DVmExT3FrZFBRNFlQQ1BsaUlTM3ZCWjBjWlMyWWxtQ0NxUzV4aWUtRmpKSVRpdUJubktIVC1ER1NXbGtHOXNIamhubW55N1N3N0hTLXdvZHJzMEhDTjM3Q2ZIS0tCVEFlRzAzWFo?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbm9oTHBMMEN5bE84cEljdnVnUFB5b2k2SWdNVWtwY1Q0dWhQMDZfMi1aTktRSnFsSF9YMWFZaVJTdHM4RGV1SUxhTWgwOWl0OUFnc21lbUZVa3l5UUZFc0xWczhaQkhTQXVzdjczSG16cTc5Qm9VVmtSUzZFMWx0QkpLNlhqMjAyTDB1eldzdlFqTXVfMjhCRGRuN01Gcnp3?oc=5"
+      ]
+    },
+    {
+      "id": "2026-08-05-2bc6b016",
+      "date": "2026-08-05",
+      "published_at": "2026-07-28T16:00:00+00:00",
+      "investor": "Michael Hartnett",
+      "side": "sell",
+      "summary": "Hartnett is sounding a cautious tone on equities, warning that investors are too bullish and that summer presents an opportunity to retreat. He flags the AI bubble as a top tail risk and notes that if Magnificent Seven capital expenditures are cut, a broader market correction could be hard to avoid. He also sees positive signals in bonds if the Fed panics.",
+      "key_views": [
+        "Investors are too bullish; summer market upside should be forgotten",
+        "AI bubble now tops tail risks for the first time",
+        "Bull & Bear Indicator at 9.5 flashes sell signal",
+        "Cash levels trigger 'sell' signal",
+        "If Magnificent Seven cut capex, broader market correction likely",
+        "A panicking Fed would be positive for the bond market",
+        "Nearly $1 trillion in weekly inflows to emerging markets despite Fed hawkishness; China fueling EM equity flows"
+      ],
+      "trade_ideas": [
+        "Retreat from equities during summer",
+        "Long bonds on Fed panic scenario",
+        "Short Canadian dollar (loonie is world's most shorted major currency)"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "fx",
+        "emerging markets"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc2p1R05QRVBJM2czUWpPRXRBZ1o0eHRjM2k4TGh5UkRESnhVN2R6NHBFNGlyQUtWZ3hMaVBsaTk4NEUtZ2Z3SS1KZ2tkTGUzclhhUXdJSTJuZi00YV9rUzhHM3pPcEc3UXplX1lrcUtlNEJreDU4X3hxMHZIZkhVXzBiZEpyWWRlX0hIN0YzSlVxRk1rTWp0RW1ZUzNueWlVSmtDSnJEV0V5dw?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zenRHRzFaOHZtOWJ1MENwYWszQnRHdVluWVFyN1BMUXNuTjdJRjZaUU5PdmtFRWFJYzlYajFzMjhwblFMZXR1aUltVkdEVFhiWjUzcFhlNUhiRENPZnNVQjhCZThLR1lERDRPTDVNa0VlNzVvdnc?oc=5",
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObENBVUM4SjY0VTNhTDBxWGRqcnlya1luTWJrM3BrT1F5MS1mSUM2ZWZXaldxU3ZtVlE5MlBrcmxGOG5nRENwRDBpVFdNOFU3OVlsdjNJQ0JKaVZqbXVrbTZSd0FMQlhQbkNiRWRGc1A4RnFoX3pjWG15a3ZqYVpNX0ZSc3Q1MGlUbmNxY0VKQ3BDZldzVWRFTDlFRThDa09HZHdVSUE5LXBYQkstRmZqczJBeVBMdUpacU8tYkxKLWl4TnBmYU05dTlwcWVxQ29LZW5LTURmSjMxVGJuNDRJ?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nbDNLbjBSQkt6MVRlSjc3d1JZeE5wMFRNN3JKeGRGVGZlUkZORDZyWjY0UzJ6OVhxZHYwQmhuOWZVcFA4WTZ6RzRXdjloWTg0cWViTFhvaUh2VjN4Ykp2MWdGMUFnZU1MQ1lmcGo4Snd5OU9KeEE?oc=5"
+      ]
+    },
+    {
+      "id": "2026-08-05-8e1e0837",
+      "date": "2026-08-05",
+      "published_at": "2026-08-03T21:25:00+00:00",
+      "investor": "David Rosenberg",
+      "side": "sell",
+      "summary": "Rosenberg is bearish on Canada's economic outlook, citing mortgage strain as a headwind to growth. He forecasts the Canadian dollar will depreciate significantly to nearly 60 cents by end of next year, reflecting broader economic weakness.",
+      "key_views": [
+        "Canadian dollar will plummet to nearly 60 cents by end of 2025",
+        "Mortgage strain is clouding Canada's growth outlook",
+        "Canadian economic fundamentals are deteriorating"
+      ],
+      "trade_ideas": [
+        "Short CAD/USD to 0.60",
+        "Underweight Canadian equities due to growth concerns"
+      ],
+      "asset_classes": [
+        "fx",
+        "equities"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IWVFTbG5ucm9MOHpfNmhkdS1vcHdjQlYtb3ZITl8wMWpPVDhKNVc1MHBuODhSQVN1eUNOaDBrbEt3V0pXSWlDY1pMVTZGeUM0dzY5Z0NjZ25EU0hn?oc=5",
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONlE1UEJCeko5eEo2dnE0SVBPQWtYQnZaTkRyZkswNDQzZHN5eDY4c2p0ZXlWS28ybW1rUnRybmNsVy15NmJaVnYtaVRSTHZ3aHF3ZkNLNUVfdGFpVnJ0ZDRaekxBY3c5eHpiM2RSaTd0TThsNkZPOVRyRDdaWXl3TlJZTFE3emdpODlTSXd3bU04UDFPVkQwUFN6RW94T1dEamIyM2Utd1lGQTJ0ZUtUYWE5d2V1azdxSUJvaU05eHZYeTBVbm5UOXgyZERwc1dwbklNV1A1RU1xVjN6TXlB?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ1A4MlRINUFhSTFIZ2otckdyQmpQV3NLQXlRcUxidW0yUEpkaUFTYzBxQkhicDBXOGcyMTNmLUdhTFpyWnJoVjYteFYzOGstV0tHZW05VUN4UmRVdklQeGV6ZExCejBwRkRiZS10WVZ2X2Q3Z0VIU1JHLUtpWmZiX2VKUzJUMEIzYmFWUXhVZC05UGp2Nml2cFRXajZETndCZkFzTDBYdFh0YWFKRUQ4OWpB?oc=5",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSThUVS0yZnlRYW9SdHo2NkpBM2p4UG04bDVOVnVBYU00cUZyNTloc1VieFJ0QzdsblgzNWJjbERzT3E0a1JZVV9Fci1ETGJQb082LWpDQzFUTVdSeXZYQTFCdEJTRm9MallCOHk3VU5WeGVaMFpramtMcVc1YktzVkhlc3RwV25HRUhWRlJqMklyYkM2MHZ1aDhEc1BXQVpIRlZv?oc=5"
+      ]
+    },
+    {
+      "id": "2026-08-05-db94b918",
+      "date": "2026-08-05",
+      "published_at": "2026-08-05T04:20:47+00:00",
+      "investor": "Ed Yardeni",
+      "side": "sell",
+      "summary": "Yardeni is predominantly bullish on equities with a raised S&P 500 target for 2026 following 'gangbusters' earnings, expecting a 'good' market rally at year-end and potential move to 10,000. However, he has turned cautious on near-term risks including semiconductor sector weakness (expecting another 12% decline in SOXX), potential Fed policy surprises from AI boom, and geopolitical concerns around oil prices.",
+      "key_views": [
+        "S&P 500 target raised for 2026; expects index to reach 10,000 (admits he 'wasn't bullish enough')",
+        "Semiconductor stocks (SOXX) could fall another 12% from bear market levels",
+        "AI boom could trigger surprise Fed interest rate hike despite current expectations",
+        "Oil prices, Fed policy, and mega IPOs pose near-term risks to market rally",
+        "Stock market functions as America's primary retirement system"
+      ],
+      "trade_ideas": [
+        "Long large-cap equities targeting 10,000 on S&P 500 by 2026",
+        "Short/reduce semiconductors with 12% downside target remaining",
+        "Tactical caution ahead of potential Fed surprise from AI-driven growth"
+      ],
+      "asset_classes": [
+        "equities",
+        "rates",
+        "commodities"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU201R2FuaHFLZWs3TjdCT2NKQnFDWXFkRDdfbmpEN2o4bzJWUjRFZXRoQlJHZDAtWm16cTkwRkxOcDFCaGp4bUxhcTJHSnJXUXdxZVZWMC1vVzBvNVBMRkpGeEF2NzFHWklTRG5wVzRkYTZIck1pTl9ZY3Nad2RTbFRzTGQ5NHhaU1E4T0YyYmJLb0tUUmtKenh3?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbzdBZEJJLWZCcTdkcGRwUzJWX2taeFpEeklXaUdfWmFBb0tvaTJOWEx3SkJDeXQzbUFHRkZjeHV6ZWVaNWx2U19BYm1NOWl2T3ZGLS1TMWNMeHg5Ul84ZEQwTThRNGtvN2wwbFRFLXpUVnFCNVhDZmJjNVZoNldvMlk0N1R5NTh5Y3Byd1JNNUJiajRRbmJMdkJGcHpDckVaWmh2aV9XMXptT2RqQ1QwbTh4a0ZWSmtrT3pUUTNkZw?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY0tNWHJlazgxREtjNXVEbUJ0TkFoU2VJNnUtQ0YzVC1Yd0Y3RFZiQzM3bHotNEpiU3M0d2UyYTVmNUZSOGt5NzB6WjlSR3AwTzVWU0pYVTFCdzdPRmNVMTN3YlRGbEQydzF4aTZDc3YwZHpLVGlHd0QxTXAyQUh5b3ZMTHUtZ2U3RkJVX2pZS1FiSktidV9JMzZ6LUtvYTFYQ0RGSQ?oc=5",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lN3NWVEpqZHFvOHB2LUVGOS0ydnFIdVdXSEJhQU1kdEs1TThvM08zLU5JZUJMMnhSOXJfTFZVNEhDdktjR3l0OXFSTWR2b2Nxb1pUZ3A5N0h2ZUhSWGNsVGFvQmRJZXJ0XzhpYzhqRkVWNXB5SGxrUkZRYkFVdw?oc=5"
+      ]
+    },
+    {
+      "id": "2026-08-05-6e546460",
+      "date": "2026-08-05",
+      "published_at": "2026-08-04T16:00:00+00:00",
+      "investor": "Jan Hatzius",
+      "side": "sell",
+      "summary": "Hatzius at Goldman Sachs expresses concern that reduced Fed communication transparency could increase market volatility and misinformation risks. He appears focused on the relationship between central bank communication strategy and financial stability, particularly regarding potential policy framework changes under new Fed leadership.",
+      "key_views": [
+        "Less Fed information disclosure will lead to more volatile markets",
+        "Reduced Fed transparency could amplify misinformation and market instability",
+        "Fed communication strategy materially impacts financial market functioning"
+      ],
+      "trade_ideas": [
+        "Increase hedging positions in anticipation of higher volatility from Fed opacity",
+        "Consider defensiveness in equities given expected market instability"
+      ],
+      "asset_classes": [
+        "equities",
+        "rates",
+        "volatility"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ScWdmS2NnZDBhODVQNVl6bktUNVE0M25PbmN3ZExEZ1lrcTlwdy1YZDhBTDRQX0JRRkN5N0dnT3hVMThuTExPLVZDU2xxVVlsbVpWdEtQNGJaZzh1YnQtWnNYclctOTlCQWtn?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpQd29WcHJNNE4yU1FDcmowQ3Q0QTlQR19BQWFnazQ3SmFNUTNLQVNKZklOelRRZWljREcwTUVTRUNBN2V3VDBqV2FuY2VBQXpiNnJyMS1NNUYzVXF6ZVIxcW10NTdKRHBlMS1KN0tmU2thaXBsZDJRWmxqdTJEeks2bnlmMmtXNlVkZ25FakZKSDBxQ2xPa0p0Y3ZfTXNlZ0txeFFnNkUwZw?oc=5",
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ2NvQ3RxaTNienV3aExpakVtMGRGcTNMRWxURVhISUJmWEtyTVRPNmZ4QXo5NnlwVW1PQVFpWWpjTXVSdlFySG9tMkxXRDVlM3hOUFUwSENITk1VTmlkTHpodmF2UEs4THVmTDZ6eVR3d0o1X2VXODVpdnQyUmdTNUNtMG9SN1hsWU9EUkFRbmxHTUlVc0NST210LVE1RTlIWTZOQ1RfVWNsUGhESUgtckpqdFpQbmFIbDAtd0RVZ3NBenpkeW9nNjVzVE9ROXBhOHc?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU2hDS2doMFdGS3kxQzVIRDBUcWhyV1NqQ2VKT3JDbkpQS2xPZ2tMb0JSYzVFbEY2OVh2dmlhRFhEaXY3RmdxYUdhUnV6SVpfRXpfa1h3NTJKMnVsTk9PdzJFNTE2aERNNkdSX2tkNlloaEV1d2dsVXB6U1pvR3ZxaG15cjBTRGh3ZkJN?oc=5"
+      ]
+    },
+    {
+      "id": "2026-08-05-2b08f3db",
+      "date": "2026-08-05",
+      "published_at": "2026-08-03T10:56:44+00:00",
+      "investor": "Russell Napier",
+      "side": "sell",
+      "summary": "Napier observes that American markets are cyclically prone to creating asset bubbles but have historically recovered, suggesting structural resilience. However, he warns of emerging bubble risks in AI spending heading toward $7 trillion, alongside structural challenges like Australia's persistent rental crisis, indicating uneven macro vulnerabilities across sectors and geographies.",
+      "key_views": [
+        "US equity markets have demonstrated repeated bubble creation and recovery cycles, suggesting cyclical rather than structural fragility",
+        "AI spending bubble risks are material as capital allocation reaches $7 trillion levels without commensurate demand validation",
+        "Structural supply-side constraints (Australia's rental crisis extending into 2030s) represent secular macro headwinds unlikely to resolve via market cycles alone"
+      ],
+      "trade_ideas": [
+        "Short or fade AI-related equities and capex plays if valuations detach further from fundamental returns",
+        "Long housing/real estate supply-constrained markets as structural undersupply persists"
+      ],
+      "asset_classes": [
+        "equities",
+        "credit",
+        "real estate"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zNWc5elJ0b1BxTkJvZUNQUHA3dE44QTRLYTFxb1lkTHgxT3FpbDdJTTcwNzk4QVcwdE9KcW5wOV9BU0xIdThaMS02d3VTWndKOWFRWXlmNmFleTJlTG5rbm1nTG85OUM4STIyUUt0akp5R3dvU2NLTGJ0LU5lZw?oc=5",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNDlpaXd3MXdDZU9ka3pXblR1c1Z4UzNBWnVkajR6RE9nMUtjd2FMeGFNT19MdzBjekF1UDdUV2Zoampuckx3bENDY1dMUFNRT01fSXh1NTFmV2J6d09KZDNWbm1KWk9RRk5sellXbFlyMVRkMWxLVHpqMGdhNWtOSUlIUGxaVkxLZ05oT0lvOV91UUpuSHlDdV9jRk9TOWdieEVr0gGjAUFVX3lxTFA0OWlpd3cxd0NlT2RrelduVHVzVnhTM0FadWRqNHpET2cxS2N3YUx4YU1PX0x3MGN6QXVQN1RXZmhqam5yTHdsQ0NjV0xQU1FPTV9JeHU1MWZXYnp3T0pkM1ZubUpaT1FGTmx6WVdsWXIxVGQxbEtUemowZ2E1a05JSUhQbFpWTEtnTmhPSW85X3VRSm5IeUN1X2NGT1M5Z2J4RWs?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxPSVB2WGpNbldGOXpTdm9qVUFvR0psZmtGWEl0RVF4ZllnRWlxME4tT1VXblBwQTBuMVF1NU5Zcy16WlBNV1NTbGdIc00xU081Z1pranRQVHd3ZFFTb2c3QW5zQi1wbzNRSkZSSHRlV1pDX082ajY5MEo5YXhGWGFyTl9zUnNBRnlhZXg3ZDJyaVZVb1Z1QjVleC10QzZLUQ?oc=5"
+      ]
+    },
+    {
+      "id": "2026-08-05-a6b77afe",
+      "date": "2026-08-05",
+      "published_at": "2026-07-29T13:00:14+00:00",
+      "investor": "Liz Ann Sonders",
+      "side": "sell",
+      "summary": "Sonders warns that the era of easy index gains is over, signaling a major market shift away from passive momentum strategies. She emphasizes the importance of rebalancing discipline and identifies rotation as the new momentum trade, suggesting a transition from broad-based index gains to sector/factor-based selectivity.",
+      "key_views": [
+        "The era of easy index gains is officially over",
+        "Rebalancing is an important discipline for investors right now",
+        "Rotation is the new momentum trade"
+      ],
+      "trade_ideas": [
+        "Sector rotation strategies",
+        "Active rebalancing vs. passive indexing"
+      ],
+      "asset_classes": [
+        "equities"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObGNaaGZKV2JjV0E3Rkc3aGZaeUh4bUFJang0c2QzV09valRzamFBbzhnUFZRckNHd3NQLTBxeFNIUE9UUDJMZHVmaUNSbC1TWWJaU21hbnZaVEIzdWh1eXRSNnBMME1fTThjMU9QN2lDWDRWeGFUY1RYTy12UndNUjhXTm5aZDJfbkYwX0JHdlJ3OEFseW4tWEVLaE0zQzBKZmZ0Q3pxM3RGc2RqU1FsaXJybnBvZlJHUGdwRmRjQ3UxTUthc25Cc3lvOHJwX3p0a2dr?oc=5",
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS190SUkxbUFUR01EU0FlV09ZLXZRbnM2QW1xM1YtZW5DMUREQ1F3QVBZWHl5M1J2YjZZSlR6enBBaWxFVTkxVE1LSE5mZUlrZTdkNnc4X3d6eE00X294Y1ItOEUwSkJUYW9WV1lFUEJVUUhVVXlIU3RHNXdtdTdNVUJzLXVCVkdWdEJrcXZLWVBLV3pFQUdkTmtuNnA3MFh2TG94clNabGdDbkNSOE9adktaSXpjdlotZmpEcmdNRnNGRnBtU0p1Zk9NQUlSYUJra01n?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa1ZhZlhLUHBNcTVMdkNMSko5R21KWFRGTDJMLTJLRmlzSFVsbXZHUlcyMUZMMDdlNzQzTVRycjFFSWFhN1dQaWVYb01YZVJPb0dVak56Z0VDUThabHNkUzhxbGlBbE5YbTFtMTdVZFZiNnNMY1dKek1kWTNhM1AyVDlVWktLaXFiRFotb1dhY3U1bllvbjRQaFQ4TVZrd24wa0d3Wg?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV282VTZMb1diZ2pqN0s5TEVxMHhncUtuekpHS3FtSGpkOG4zNWxCNFpETUxlVUs0anpiX3F1cFVIMmk3RThRMDhmTVk3N2t6WXZrWFhKSkI5UkRrRUhtSWNSRG5yMlkzdExDdnVzWVY5eXFRTWxmMDdycWNBSEpaYmdzYTlMVE03ZHJ6LVplV0dSbDVLZ09Wdk04WXcxR2s?oc=5"
+      ]
+    },
+    {
+      "id": "2026-08-05-33196b91",
+      "date": "2026-08-05",
+      "published_at": "2026-08-04T16:05:59+00:00",
+      "investor": "Jordi Visser",
+      "side": "sell",
+      "summary": "Jordi Visser believes AI's easy money phase is ending and is pivoting bullish on Bitcoin as a hedge against macro weakness. He sees job market weakness as positive for Bitcoin and views Bitcoin as the only AI trade that AI itself cannot destroy, contrasting with his bearish view on the easy gains in traditional AI/tech stocks like Nvidia.",
+      "key_views": [
+        "AI's easy money phase is over; traditional AI trades have exhausted their upside",
+        "Job market weakness will be positive for Bitcoin and crypto assets",
+        "Bitcoin is the only AI trade that AI cannot destroy (following Michael Saylor's thesis)",
+        "US equities may fall behind other asset classes",
+        "Nvidia shows decade-low valuation but represents end of AI momentum trade"
+      ],
+      "trade_ideas": [
+        "Long Bitcoin as macro hedge and post-AI rotation trade",
+        "Long Ethereum (convergence view with Tom Lee)",
+        "Long Dogecoin (monitoring position after Micron exit)",
+        "Short or avoid traditional AI/semiconductor trades (Nvidia, Micron)"
+      ],
+      "asset_classes": [
+        "equities",
+        "commodities"
+      ],
+      "sentiment": "bearish on equities/AI; bullish on Bitcoin/crypto",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxQcDFwUUx1a3RIZVQ5VDRpaDFXbDZNUjFxQlVoOWJ4VUtkdnM2Z3JtVF84VUhaQ1E2dkVFX0N4LUNlWE9YWHZNdWRfakJfbUR0NlBGREZzZGRsaVhhbjc3eE1yUmQ1ZXRpWDdPTFpxcDAzVXRNaURJNFNPQUtxMEN2T0ZZSGlLZ0lPNGxYOUxDd19GUkpKa0tlaTdXaGZydw?oc=5",
+        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcFF5cTFVWTRrU1V6Qy1YYnFmTnNhbWxHSTVSMTJvaWZyRC1SWTBuQnNOWkY1VDV3eU53b0huT0FWX2l4eTdwTks3T2xfMVgzd2laVkFET2hxZnBoX0psNjk4SDFnVC1XVFVEVFVDMmxDTEszQmM5anZkNW9TdlNjeGF3bEFad3FRMUxjelJBV2Y1dGxKZzA4Z3A5dHBDaVpnejAwUXQ2RDZUSTl1a0xSa0tjZmlXelF1MTdNMURldnRGQ0x5M0dlcTF2b2RHbjBrbGw0TzRIOWhXRE5pQlJZWTN1VHpFQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMickFVX3lxTFBHYnVJYTJBcnVPS1A5Rm5UZzU1VmtXb283QV9fVnJNMFpxMkhSa0trYkpzYTViMWpQR2xRSU5aYjdMYWhiMFhwcWtsYUdwSjBTMEtLOHpCVUwwZHlVbldOel81dE40Nm1qVjNtQWRoYWc3Zw?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNalZ2a3NXMWdYRUVNd0NiZk51c3JLclMwbDZLUFdrYWdfU0l4VENZUjFib1ZKLUtoalBtX21PWW9ZaTV3cXdJa044TzhiQVo3R2hvTE94dC1zN0Q2djNvZUNOclFjSzZxNkpReXZNajRXNUNxSlluRERKVlUzN1UzUm1POHhDd3lKTTIyYVZmRF9iQnpwSmRBcFln?oc=5"
+      ]
+    },
+    {
+      "id": "2026-08-05-3ab9db1a",
+      "date": "2026-08-05",
+      "published_at": "2026-07-25T13:08:35+00:00",
+      "investor": "John Mauldin",
+      "side": "sell",
+      "summary": "Mauldin suggests the recent Fed FOMC vote involved more complexity than a simple rate hold, with significant implications ahead. He emphasizes the Fed has limited direct power over long-term rates and mortgages despite common perception, and identifies inflation, Fed policy, and interest rate dynamics as critical focal points requiring sophisticated analysis.",
+      "key_views": [
+        "Fed has dictatorial control over short-term rates and overnight liquidity but much less power over long-term yields and mortgages",
+        "The mechanism for Fed influence on mortgage and long-term rates is 'very complicated and often counterintuitive'",
+        "Recent FOMC vote had 'a lot more going on behind the scenes' beyond surface-level rate hold interpretation",
+        "Inflation dynamics remain a central puzzle requiring synthesis of multiple authoritative research perspectives"
+      ],
+      "trade_ideas": [],
+      "asset_classes": [
+        "rates",
+        "bonds"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://www.mauldineconomics.com/frontlinethoughts",
+        "https://www.mauldineconomics.com/",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxObEtHbllfdWRORzl6S054RTdxQjdkZ1N0UU41RFBMMVVyckxHQTJwVTRhNHpoUVh6T0tmTURkc2VablFlOHJWYmM3TDdfTWZKZkt4aDRRUVdWNjBxci1hYjdJczdJMWxPQ2h4bjUtcF9nZ3UtUGVFUXhXdnVQNmlMam15Z0ZwMVk?oc=5",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQkxFcy14Rm1nNmZqNXRnMGxsemV6WnFMRTZCbGIxTzNQWkhFbmd6ckpmWi1LWTdyZi1SNC1aY3BGRWRsTjlJZHJsOUc2YmVNeHNDTHB3MXVzUlZJSjQxallGMjFQWlBRS3diZ1pHX2lGaXhBdzJjM2VXQ1R5VDRJMHU3NEo?oc=5"
+      ]
     }
   ]
 }
