@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04",
+  "last_updated": "2026-08-05",
   "entries": [
     {
       "id": "2026-07-22-33d0e4ad",
@@ -8592,6 +8592,59 @@
         "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX2cycTlwWWJ3MXNZRnBaODkzZ3MtWUZ3V1VFMmtQZGZDV01DLXkyMzVTeWFzNU5LTklIZWo2TXJSdU50YjF4YTJlT2hBU3lFdEE4TTcxSGdvUVhTeWJZY2FNMnRBdFZqZ3pLaVFGc2NaSUhfRm5WNW43Z3Q4Z3VNWGxxRGdtTDBMLTFJTkNFQzluOFYteGFKajBnMk9MYmhGSDNEMTBjMHFkbWdMQ2Z3LUEzNllxeEpldTY0?oc=5",
         "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV0FLWTRPQmVITWxzNlFGaFRGV0Zra1JvM19vYjZySlJuV2hDVDNZWXItZmJEdS04Z3NtTE5JTWZVMWJDeEJMbDJqX2JSWm9pMFlLVkQxVktKOUJsVUZhcXZPQWstdGlBVEF2aXlzZGhQRXpHV3EzaUlReEF5MEhEUkdydTMtRmk5eXlHZjh4QjFGRU9rNE81eUhNUHBjbk0?oc=5",
         "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVmVOeEZadDZCakVVQkNWampSSjQ5ajkyeUEtUXFPeXAxV2NKcWY1WHdCZzFEcEZSZVl4VGtCdEdnRGNOSDdoUk14R0w4dmZJWC02RGcwNVR4RnUwY3h5a1VhdG05UnVtX0E3VVQtYjZkdGpqQTk0UlNncnAyVUs1aERsMXFmQjNvSXdjUi1uVHBQZ2M1c1lYekRMOFc5Yzk2cmVTMmxB?oc=5"
+      ]
+    },
+    {
+      "id": "2026-08-05-f45a8d53",
+      "date": "2026-08-05",
+      "investor": "Michael Burry",
+      "side": "buy",
+      "summary": "Burry issued a specific August 3 warning about a 'bloody mess' scenario triggered by volatility-targeting hedge funds. He identifies a structural cascade risk: roughly $400-500B of leveraged capital in vol-targeting strategies (risk-parity, CTAs, insurers) auto-deleverage when volatility spikes, with as little as a 2.5% S&P drawdown potentially forcing these funds to cut equity exposure from 77% to ~50%, amplifying losses well beyond the initial trigger. Passive investors joining the sell-off would compound the carnage.",
+      "key_views": [
+        "$400-500B vol-targeting capital represents >30% of daily trading volume — systematic deleveraging is the structural trigger for a rapid crash",
+        "A 2.5% S&P drawdown alone could force vol funds to cut equity exposure from 77% to ~50% — setting off a cascade amplifying losses",
+        "'Inhuman institutions' (automated vol-targeting funds) are fueling sharper market panics and faster rebounds than fundamentals justify",
+        "Passive investors' stability could unravel if systematic selling pulls them off the sidelines",
+        "This structural risk is distinct from — and additive to — his ongoing dot-com bubble comparison and AI overvaluation concerns"
+      ],
+      "trade_ideas": [],
+      "asset_classes": [
+        "equities"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://finance.yahoo.com/markets/stocks/articles/michael-burry-warns-bloody-mess-163843586.html",
+        "https://stocktwits.com/news-articles/markets/equity/michael-burry-says-inhuman-institutions-fueling-sharper-market-panic/cZoTiNmRJdx"
+      ]
+    },
+    {
+      "id": "2026-08-05-5c826b4b",
+      "date": "2026-08-05",
+      "investor": "Jeffrey Gundlach",
+      "side": "sell",
+      "summary": "In back-to-back July 29-30 CNBC appearances post-Fed hold (3.5-3.75%), Gundlach turned decisively hawkish: the bond market is signaling that the Fed under Kevin Warsh must raise rates — not cut — to reach the 2% inflation target. The 30-year Treasury surging above 5.2% (highest since 2007) validates his longstanding long-bond bearishness. He is positioning in the 2-7 year maturity bucket, favoring investment-grade and selective BB-rated credit while explicitly warning against CCC bank loans.",
+      "key_views": [
+        "'Bond market is telling Warsh the Fed has to start acting on inflation' — rate hikes now more probable than cuts",
+        "30-year Treasury above 5.2% — highest since 2007 — confirms the long end is structurally hostile",
+        "10-year Treasury at 4.68% with upside risk to 'mid-5s' before September Fed meeting",
+        "Reaching 2% inflation could take 'a couple of years' — Fed hold was insufficient; hikes on the table",
+        "Positioning: 2-7yr maturities, BBB and above, selective BB high yield; avoid CCC bank loans given widening spreads and rising defaults"
+      ],
+      "trade_ideas": [
+        "Underweight long-duration Treasuries (30-year bearish)",
+        "Overweight 2-7yr Treasury maturities",
+        "Selective BBB and above credit; cautious on BB; avoid CCC bank loans"
+      ],
+      "asset_classes": [
+        "bonds",
+        "rates",
+        "credit"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html",
+        "https://www.cnbc.com/2026/07/30/heres-where-jeffrey-gundlach-is-investing-after-the-fed-held-rates-steady.html",
+        "https://www.cnbc.com/video/2026/07/29/jeffrey-gundlach-fed-has-to-raise-interest-rates-if-it-wants-to-get-inflation-to-2-percent.html"
       ]
     }
   ]
