@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07",
+  "last_updated": "2026-08-08",
   "entries": [
     {
       "id": "2026-07-22-33d0e4ad",
@@ -9274,6 +9274,66 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTzgySXlxLV83VnpJQi1lWVI1S3ZRczVGT210WGNTeXJ2dWE0RUV1ZFJJUGRkbUF2b1M1ZEF2Mkw3bFhwbEtNR3NtZkd6UDFtcWMzLTNMMGVaRTdDYjNfT2NJN3lodTV5UXpTcmpUaHRJVDhNX1Myd05mUVdyand0RDY4UnU3SXF1N0ktbko0TUxLUTQ?oc=5",
         "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVGU2Zy15WS11RXB6SkJ5RGdsOXVtdEJFbEFyQ0JZSUpLT0NDZFA3MDZ2Rmt3RFJ2aWl1dDgzeWpESF9yNEF0dXdpOThjMEtMakhyeVN5bmR2WjJibUtVZW1FczJvT1RTOGdXRzZvaDBjaVJIRjNvQ0NGVVRQNWhWZ293ZFktX0dHbmlESklzdXZINDJLNWpUd2hsVWNwYzNzTkpsSzZLbjhLaG12X0hLbFZJcmVRODdSZFlmT0dNNDZ0eEg4dGxYY0Nnd19abE5NdGU1YlQ1V2VhUQ?oc=5",
         "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSThUVS0yZnlRYW9SdHo2NkpBM2p4UG04bDVOVnVBYU00cUZyNTloc1VieFJ0QzdsblgzNWJjbERzT3E0a1JZVV9Fci1ETGJQb082LWpDQzFUTVdSeXZYQTFCdEJTRm9MallCOHk3VU5WeGVaMFpramtMcVc1YktzVkhlc3RwV25HRUhWRlJqMklyYkM2MHZ1aDhEc1BXQVpIRlZv?oc=5"
+      ]
+    },
+    {
+      "id": "2026-08-08-0fcc170e",
+      "date": "2026-08-08",
+      "published_at": "2026-08-07T14:44:00+00:00",
+      "investor": "Torsten Slok",
+      "side": "sell",
+      "summary": "Torsten Slok warns that a significant slowdown in AI payoff could trigger an economic recession. He argues that AI capital expenditure is growing nearly twice as fast as the 2000s housing boom and risks unwinding at a similar pace, potentially bursting the AI bubble and causing macro damage.",
+      "key_views": [
+        "AI capex growth is accelerating at nearly 2x the pace of the mid-2000s housing bubble",
+        "A slowdown in AI monetization/payoff could tip the economy into recession",
+        "AI capex unwinding could occur at a similar speed to the housing bust, creating systemic risk",
+        "The AI investment boom represents the biggest macro gamble in the U.S. economy currently"
+      ],
+      "trade_ideas": [
+        "Reduce exposure to AI-dependent equities and mega-cap tech stocks vulnerable to capex disappointment",
+        "Position defensively ahead of potential AI payoff slowdown and economic contraction"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "rates"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcTk5aTVZb0N0SEYzQVJxUVV5UDBtN0l1VHl1bld1Q1ZpVGxIM0hSbmZCMTVzd0R3LWx6NHVwSWxaU095b0g2ZUJRV2o4OGN5eEFraHZ4VFJVNDZyaGxkZ2ZPQ2I5MGp0NXdINHZVay1vRkFPN21fNm9XbnR0aTNwX1RBSW9ZYjgyVUVwejZZYS02ZFh0Q2ZhNEdoM2d4Zl9BdXNKbGJuOW5UTHFoN3B1TTZfcW9GRFptREctSGZsdEZVOG5OaGJnQlQ1LTRXV2VlWmc?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc2Jkb0V6X1NvazdTSVRZN2twX2xHVjU0N2NEMFBGaU9WblBvalBpdWVYbmNyTWgxTXlDZmNDS1ZkbXNTNTh2aVdBTHFtdFU0RWRtQllLU0Z6aGxpRUo4VEpxMlhDTi01dmpEaVNWaGphY1hIZUh0TG1DYkZERlJFemhYMzJpMTBXWWpWangzT3BESFM3S0lWck9vcjVOQ002SlBBQ0l2WUl6MWw2RjQw?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaFRCNHctZjY5SzF0dDMxYUJWOXBwX3NTUks3bXpmNDdlUEU1RHUzMEs1QmVNS3l2QU82X1NaTnZPWkpXRm1WQnJZNi1JRG1DVmExT3FrZFBRNFlQQ1BsaUlTM3ZCWjBjWlMyWWxtQ0NxUzV4aWUtRmpKSVRpdUJubktIVC1ER1NXbGtHOXNIamhubW55N1N3N0hTLXdvZHJzMEhDTjM3Q2ZIS0tCVEFlRzAzWFo?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUFRrb2l1MklLeXFQTUFoRHlLZ0JzY0dmSTFOXzZYYlNLMDNRNWVTSUw1WEZVYVpFT0k3cEEzb09DNzlnckltVlQyNzFxVVUwejFSejNoc2l0cHdOeDBSa0pRMWhiVE5TQWpQSWU4SHlJUlhuNUk5bkFVZGlod3ZkWEJxLUJUWkFnNEowanNTanplV0UzVUF5Mw?oc=5"
+      ]
+    },
+    {
+      "id": "2026-08-08-0b05ff1e",
+      "date": "2026-08-08",
+      "published_at": "2026-08-04T10:46:00+00:00",
+      "investor": "Mike Wilson",
+      "side": "sell",
+      "summary": "Wilson maintains a constructive outlook on equities, specifically targeting S&P 500 at 8,000 by year-end despite potential near-term pullback to 7,000. He believes earnings momentum will revive the momentum trade and emphasizes AI adoption as critical to profit margin expansion, positioning him as a tactical bull with near-term volatility expectations.",
+      "key_views": [
+        "S&P 500 targets 8,000 by year-end, potentially dipping to 7,000 first",
+        "Earnings season will revive momentum trading and drive market strength",
+        "AI adoption is key driver of profit margin expansion and earnings growth",
+        "Early autumn pullback expected but bull market remains intact",
+        "Market valuations justified by AI-driven margin expansion"
+      ],
+      "trade_ideas": [
+        "Buy 24 AI-adopter stocks benefiting from margin expansion",
+        "Harvest momentum trade on earnings catalysts",
+        "Position for semiconductor and memory stocks (MU, AMD, INTC, SNDK) despite near-term weakness"
+      ],
+      "asset_classes": [
+        "equities"
+      ],
+      "sentiment": "bullish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHh2czdxNzJQMTNkWl93QVdheDFhM19FcTAyVHhZb2RyRXl2VmswdnkzaUk3RHVoTlBjbFJRSXk0ZXNZaFVLWE9kQzYtRzBSQVhqX080aVZrVThVUk52eWE2WXUwTkdBUlBBTFptWkVjWUs3dFhuZ1hocnhLaWIwSXBNSksxS05Tb2pYeFJpMVhGeFNpRmNTSTV3UXNvLUxyU2c?oc=5",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQkdWX1dmMy13ek5IdE9ycl9wN1lVdjNBTWF6MGVLV2pSekhScWY5VVBGX3VJSTEyeWlnajg1OXJ3eGZzN0pxUDdmZm13b1RWX21pbVdMSXM0djlYNjNiSWpGN2xOeVE3YUlfdXVUSWJCeVp1UWRXLTRUQkxmUnI3c0lHUlJiTGJ0UUlSbjZLZDA4ejg?oc=5",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNnJ4LTR2aTh4cHhseFdSTGxURnlsNGNTcTE5bURPVk5ObkM2bW8yOEJfWmp2N1VJX1l0OEFNaDJkWEtGSUJrYmM4bzk0Ykp5UmdoWXl3YW81OENnanhacFBYRTBaOVF2QzJnYnZyeEtkOS1tTE1wUzg0cmNLcW5sYzdyTkVXNXlMQ2tHbmtGR2VQWVpPQUtwQWt4R2NYZEkzT1NhRUtrdHZUenlVZkZHaTdQQ2hXMVRXaDJVZU15YnVyRF9IQXhuVEF4cFFXUFFGZUc3TVBmZw?oc=5",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVUV5UDBkRnpDbUNuVDhjaFo1XzJLWDhlWGpYeUZTV0tVbkh5T0hnWERiclVDZEx3WVprS0ZydEVONnljMzRnazhlTU9CMWZkcnlFaXp3ODZ5ZGh2RXRUUzl0RFhRcVlhcWw0aWVXa2xvcnlYX3VTaDlqVXJNenFQX3pjUlNoeTFGTVRxR0xQR2VNenhYZDZ0Q3BOT281UGQ1RFJ0YjhNNVYyTVpNRGVobUZlbjg1a3dBQ0lBX294WGZwcVEwV2ln?oc=5"
       ]
     }
   ]
