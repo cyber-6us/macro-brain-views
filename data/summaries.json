@@ -2,51 +2,212 @@
   "generated_at": "2026-08-11",
   "today": {
     "date": "2026-08-11",
-    "entries_count": 0,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "entries_count": 5,
+    "buy_side_bullets": [
+      "AI chip supply chain over GPU leader: rotating to Broadcom, Arm Holdings, Micron, Seagate, TSMC \u2014 skipping Nvidia entirely. [Druckenmiller shift]",
+      "Quality equities 'stupidly cheap' \u2014 deploying $10B into high-quality stocks at what may be a generational buying opportunity. [Ackman]",
+      "High-end consumption rollover is the critical recession leading indicator; China-Taiwan geopolitical clock ticking faster than markets price. [Bass]",
+      "Equity market most expensive in fund's history \u2014 closing to new investors, preserving capital over deploying at current valuations. [Einhorn]"
+    ],
+    "sell_side_bullets": [
+      "Bull market aging \u2014 H1 Great Rotation (tech\u2192non-tech) gives way to broad H2 selloff as AI capex decelerates; overweight bonds. [Berezin]"
+    ],
+    "whats_new": [
+      "Druckenmiller exits Nvidia entirely, concentrating in non-GPU AI infrastructure (custom silicon, storage) \u2014 major portfolio rotation away from market darling.",
+      "Einhorn closes Greenlight to new investors effective July 1 \u2014 capital preservation over deployment signals highest risk-off posture in firm history.",
+      "Berezin introduces 'Aging Bull' Q3 framework: two-stage 2026 with H2 broad selloff driven by AI capex deceleration tipping into mild recession."
+    ],
+    "vs_market_buy": [
+      "Druckenmiller contra consensus: exiting Nvidia as market remains long GPU leader. [Druckenmiller]",
+      "Einhorn contra bullish consensus: describes market as most expensive ever while peers deploy capital. [Einhorn]"
+    ],
+    "vs_market_sell": [
+      "Berezin contra soft-landing consensus: expects broad H2 equity selloff while market prices benign growth slowdown. [Berezin]"
+    ],
+    "buy_vs_sell_divergence": [
+      "Ackman calls this 'one of the best times to buy quality stocks' [bullish] vs. Einhorn calls it 'most expensive market in firm history' [bearish] \u2014 same macro, opposite conclusions on timing.",
+      "Druckenmiller bullish on AI chip supply chain [buy] vs. Berezin warns AI capex deceleration tips into recession [sell]."
+    ],
+    "aligned": [
+      "AI capex deceleration is the key macro risk for H2 2026 \u2014 both sides monitoring spend as critical inflection.",
+      "China-Taiwan geopolitical risk is underpriced by markets. [Bass, aligned with prior Jim Reid view]"
+    ],
+    "buy_side_trades": [
+      "Long AI chip supply chain: Broadcom, Arm Holdings, Micron, Seagate, Sandisk, TSMC. [Druckenmiller]",
+      "Long high-quality growth equities at deep discounts \u2014 $10B deployment planned. [Ackman]",
+      "Long reshoring/manufacturing beneficiaries; geopolitical hedges (defense, semiconductors). [Bass]"
+    ],
+    "sell_side_trades": [
+      "Overweight bonds vs. equities; long non-tech cyclicals vs. short AI mega-caps (Great Rotation), then broad equity short H2. [Berezin]"
+    ],
+    "dominant_themes": [
+      "AI infrastructure rotation (Nvidia exit \u2192 custom silicon/storage)",
+      "Buy-side split: value bulls vs. capital-preservation bears at expensive valuations",
+      "H2 2026 growth deceleration risk from AI capex slowdown"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "bearish"
   },
   "week": {
     "period_start": "2026-08-04",
     "period_end": "2026-08-11",
-    "entries_count": 49,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "entries_count": 54,
+    "buy_side_bullets": [
+      "AI bubble risk rising \u2014 1999/2000 parallels cited; put options on Nvidia and Palantir comprise ~80% of disclosed portfolio. [Burry]",
+      "AI chip supply chain rotation: non-Nvidia silicon (Broadcom, Arm, Micron, TSMC) preferred as GPU mania fades. [Druckenmiller shift]",
+      "Appaloosa surged 32% H1 on memory chips (Micron, Samsung, SK Hynix) but maintains ~40% cash \u2014 a hedge against further volatility. [Tepper]",
+      "30-year Treasury >5.2% (highest since 2007): bond market telling the Fed to raise rates; long end of curve at risk. [Gundlach]",
+      "Quality equities 'stupidly cheap' \u2014 deploying $10B as macro backdrop improves with potential rate cuts and AI tailwinds. [Ackman]",
+      "U.S. equity market most expensive in Greenlight's history; Greenlight closed to new investors \u2014 extreme risk-off posture. [Einhorn]",
+      "K-shaped economy declared 'over' by Treasury \u2014 lower-income wage growth accelerating; C-economy (convergence) emerging. [Bessent]",
+      "AI uncertainty acknowledged as transformative but non-linear; mispricings in private credit and asset-backed finance exploitable. [Howard Marks]"
+    ],
+    "sell_side_bullets": [
+      "Bull & Bear Indicator hit 9.7 \u2014 first sell signal since 2021; 'retreat/rotate not reload' stance into defensive stocks. [Hartnett]",
+      "S&P target 5,250-5,500 by year-end; three underappreciated risks: AI capex exhaustion, sticky inflation, and tech monopoly concentration. [Bannister]",
+      "AI doomsday 'here right now': fiscal dominance replacing secular stagnation as primary structural force; double-digit inflation risk. [Edwards]",
+      "Financial repression will last 15-20 years: governments keeping rates below inflation to erode debt; gold and real assets critical. [Napier]",
+      "Economy at 'stall speed': July jobs -23K vs. +83K est.; Fed will prioritize inflation data over employment going forward. [Hatzius]",
+      "Aging Bull \u2014 H1 Great Rotation (tech\u2192non-tech) then broad H2 selloff; AI will kill tech monopolies by commoditizing software. [Berezin]",
+      "S&P 500 raised to 8,250; Roaring 2020s scenario odds raised to 80%; BRAIN Revolution (biotech, robotics, AI, nano) sustaining cycle. [Yardeni]",
+      "S&P at 8,000 year-end; mid-cycle dip to 7,000 possible; earnings breadth narrowing but bull market alive. [Wilson]"
+    ],
+    "whats_new": [
+      "Druckenmiller exits Nvidia entirely \u2014 first confirmed full exit from GPU leader among major macro funds.",
+      "Einhorn closes Greenlight to new investors (July 1) \u2014 most explicit capital-preservation signal from a major buy-side fund this cycle.",
+      "Hartnett's Bull-Bear Indicator reached 9.7, highest since 2021 \u2014 formal 'sell signal' territory; 'retreat/rotate' is the Hartnett playbook now.",
+      "Gundlach calling for Fed rate hikes (not just hold) \u2014 shift from his earlier 'rate cuts impossible' stance to actively forecasting tightening. [Gundlach shift]",
+      "Berezin introduces H2 broad selloff framework ('Aging Bull') \u2014 more explicit than prior 'mild recession' language.",
+      "Bessent declares K-shaped economy 'over' \u2014 official Treasury position is now C-economy convergence; contested by economists."
+    ],
+    "vs_market_buy": [
+      "Druckenmiller exiting Nvidia vs. market consensus long GPU leader. [Druckenmiller]",
+      "Gundlach calling for rate hikes vs. market pricing in eventual rate cuts. [Gundlach]",
+      "Einhorn most risk-off posture in fund history vs. Ackman/Druckenmiller deploying aggressively. [Einhorn]"
+    ],
+    "vs_market_sell": [
+      "Bannister's S&P 5,250-5,500 target sharply below Wilson's 8,000 and Yardeni's 8,250. [Bannister]",
+      "Hartnett 'retreat/rotate' vs. market consensus still adding to risk assets. [Hartnett]",
+      "Napier's 15-20yr financial repression thesis vs. market pricing eventual return to normal rates. [Napier]"
+    ],
+    "buy_vs_sell_divergence": [
+      "AI outlook: Druckenmiller/Ackman bullish on AI infrastructure returns [buy] vs. Bannister/Berezin warning AI capex deceleration tips recession [sell].",
+      "S&P 500 targets: Wilson (8,000) / Yardeni (8,250) [sell, bullish] vs. Bannister (5,250) [sell, bearish] \u2014 58% range within sell-side alone.",
+      "Fed view: Gundlach calling for rate hikes [buy, hawkish] vs. Hatzius expecting inflation to cool enabling eventual cuts [sell, dovish].",
+      "Economy: Bessent 'K-shaped economy is over' / strong growth [buy] vs. Hatzius 'stall speed' / weak July jobs [sell]."
+    ],
+    "aligned": [
+      "30-year Treasury yield above 5% is a structural risk \u2014 both sides monitoring long bond as key risk-off signal. [Gundlach, Hartnett, Bannister]",
+      "AI capex cycle maturing \u2014 concentration of spend in a few hyperscalers is a systemic risk regardless of bull/bear view.",
+      "Geopolitical risks (US-Iran/oil >$100, China-Taiwan) are underpriced by markets. [Jim Reid, Bass, Mauldin]",
+      "Earnings breadth narrowing: smaller number of companies driving market \u2014 risk concentration rising. [Wilson, Hartnett, Einhorn]"
+    ],
+    "buy_side_trades": [
+      "Long AI chip supply chain: Broadcom, Arm Holdings, Micron, Seagate, TSMC. [Druckenmiller]",
+      "Long quality growth equities at discounts \u2014 $10B deployment. [Ackman]",
+      "Long memory chips (Micron, Samsung, SK Hynix) \u2014 significant H1 alpha generator. [Tepper]",
+      "Short long-duration bonds; favor BBB+/BB-rated credit; avoid CCC bank loans. [Gundlach]",
+      "Long commodities/energy on US-Iran/geopolitical risk (Brent >$100). [Jim Reid]",
+      "Long reshoring/manufacturing, defense; long dollar hedges via gold. [Bass, Druckenmiller]"
+    ],
+    "sell_side_trades": [
+      "Rotate into defensives: staples, REITs, small caps, biotech \u2014 out of AI mega-caps. [Hartnett]",
+      "Overweight bonds vs. equities; long non-tech cyclicals vs. short AI heavyweights. [Berezin]",
+      "'Sleep like a baby' portfolio: 25% stocks / 25% bonds / 25% cash / 25% commodities. [Hartnett]",
+      "Long gold and real assets as financial repression hedge. [Napier, Edwards]",
+      "Defensive Value (DV) stocks over Cyclical Growth / mega-cap tech. [Bannister]"
+    ],
+    "dominant_themes": [
+      "AI bubble vs. AI infrastructure rotation (1999 parallels cited across buy and sell side)",
+      "Bond market signals tightening: 30-year >5.2%, Fed under pressure to hike",
+      "Equity market divergence: bulls (S&P 8,000-8,250) vs. bears (S&P 5,250) \u2014 widest target dispersion since 2008"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "bearish"
   },
   "month": {
     "period_start": "2026-07-12",
     "period_end": "2026-08-11",
-    "entries_count": 183,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "entries_count": 188,
+    "buy_side_bullets": [
+      "AI is a textbook bubble \u2014 80-year grand cycle near terminal decline; government involvement adds uncertainty; reduce/hedge AI/tech exposure. [Dalio]",
+      "AI chip supply chain rotation: exit Nvidia, load Broadcom/Arm/Micron/TSMC for custom silicon next leg; skipping megacap tech broadly. [Druckenmiller]",
+      "Global 80-year grand cycle and AI bubble converging \u2014 structural diversification across gold, hard assets, and international required. [Dalio, Druckenmiller]",
+      "Quality equities at rare value \u2014 'one of best times in a long time to buy'; $10B deployment; AI trade (Claude Code, ChatGPT) has Apple II-era runway. [Ackman, Tudor Jones]",
+      "30-year Treasury >5.2%: Fed must hike to credibility; favoring BBB+ credit; bearish on CCC bank loans; long gold. [Gundlach]",
+      "Memory chips (Micron, Samsung, SK Hynix) drove 32% H1 returns; high cash (~40%) maintained despite strong performance. [Tepper]",
+      "Equity market most expensive in firm history; Greenlight closing to new investors \u2014 extreme capital preservation mode. [Einhorn]",
+      "K-shaped economy declared over by Treasury; C-economy (convergence) emerging with lower-income wage growth accelerating. [Bessent shift]",
+      "AI productivity is real; 3% GDP growth forecast with 'Roaring 2020s' continuing \u2014 contrarian bullish vs. consensus slowdown fears. [Yardeni \u2014 but on sell side]",
+      "High-end consumer rollover is recession trigger; China-Taiwan geopolitical risk accelerating; reshoring as national security. [Bass]"
+    ],
+    "sell_side_bullets": [
+      "Bull & Bear Indicator at 9.7 \u2014 sell signal active; 'retreat/rotate not reload'; 1999 dot-com parallel (21 new highs vs. 20 at March 2000 peak). [Hartnett]",
+      "AI doomsday 'here right now': fiscal dominance replacing Ice Age thesis; double-digit inflation risk; secular regime change underway. [Edwards]",
+      "15-20 year financial repression cycle: governments eroding debt via below-inflation rates; gold and real assets critical; bonds will suffer. [Napier]",
+      "Aging Bull \u2014 two-stage 2026: H1 Great Rotation then broad H2 selloff; AI capex deceleration tips mild recession; overweight bonds. [Berezin]",
+      "Economy at stall speed: July jobs -23K; Fed will emphasize inflation over employment; global growth at 2.8% with US outperforming at 2.6%. [Hatzius]",
+      "S&P 5,250-5,500 target: earnings growth decelerating to 3.3% YoY; Defensive Value beats Cyclical Growth; three underappreciated risks flagged. [Bannister]",
+      "Deutsche Bank '1999 meets 1990' macro: AI investment boom meets oil shock forcing central bank hawkishness; Brent at $86-$150. [Jim Reid]",
+      "Stagflation looms: AI/fiscal/industrial renaissance driving growth, but inflation stuck at 3% creates persistent crosscurrents. [Torsten Slok]",
+      "S&P at 8,250 (highest Wall Street target); BRAIN Revolution sustaining cycle; inflation peaked; 80% Roaring 2020s probability. [Yardeni]",
+      "S&P at 8,000 year-end, dip to 7,000 possible; earnings breadth narrowing; bull market broadening to quality from tech. [Wilson]"
+    ],
+    "whats_new": [
+      "Druckenmiller's full Nvidia exit \u2014 most significant portfolio rotation signal among major managers this month.",
+      "Hartnett's Bull-Bear Indicator reaching 9.7 and triggering formal sell signal \u2014 first since 2021.",
+      "Edwards pivoting from Ice Age thesis to fiscal dominance/inflation paradigm \u2014 multi-decade framework shift.",
+      "Einhorn closing Greenlight to new investors \u2014 institutional capital preservation signal.",
+      "Bessent declaring K-shaped economy 'over' \u2014 official Treasury framing contested by independent economists.",
+      "Gundlach calling for rate hikes vs. market pricing cuts \u2014 hawkish pivot from 'cuts impossible' to 'hikes needed'.",
+      "Berezin 'Aging Bull' H2 selloff thesis \u2014 more explicit recession timeline than prior cautionary language.",
+      "Torsten Slok stagflation framing \u2014 inflation stuck at 3% with simultaneous growth/stimulus creating US stagflation environment."
+    ],
+    "vs_market_buy": [
+      "Dalio, Burry, Einhorn contra consensus on AI/equities \u2014 calling bubble while market bids AI names higher.",
+      "Gundlach contra consensus: calling for rate hikes while market prices eventual cuts.",
+      "Bass: high-end consumer rollover as recession trigger \u2014 underappreciated vs. consensus soft landing."
+    ],
+    "vs_market_sell": [
+      "Bannister (S&P 5,250) and Hartnett ('retreat/rotate') contra bullish Wilson (8,000) / Yardeni (8,250) consensus.",
+      "Napier / Edwards: secular regime change (financial repression, fiscal dominance) contra market's cyclical framework.",
+      "Berezin: broad H2 selloff vs. market pricing gradual growth deceleration without equity correction."
+    ],
+    "buy_vs_sell_divergence": [
+      "AI outlook: Druckenmiller/Ackman/Tudor Jones bullish on AI infrastructure and runway [buy] vs. Hartnett/Bannister/Berezin warning of AI bubble and capex deceleration [sell].",
+      "S&P targets: 5,250 (Bannister) to 8,250 (Yardeni) \u2014 widest dispersion on record; buy and sell side split within sell side itself.",
+      "Fed view: Gundlach (rate hikes needed) [buy, hawkish] vs. Hatzius (inflation will cool, eventual cuts) [sell, dovish].",
+      "Economy: Bessent 'K-shaped economy over, 3% growth' [buy, bullish] vs. Hatzius 'stall speed', Slok 'stagflation', Berezin 'mild recession' [sell, cautious]."
+    ],
+    "aligned": [
+      "30-year Treasury >5% is a critical risk-off signal \u2014 all sides monitoring long bond as systemic indicator. [Gundlach, Hartnett, Bannister, Berezin]",
+      "AI capex cycle concentration is a systemic risk \u2014 megacap tech spending dominance creates single point of failure for markets.",
+      "Geopolitical fragmentation accelerating: US-Iran/oil >$100, China-Taiwan, Russia-Ukraine \u2014 consensus that tail risks are underpriced.",
+      "Earnings breadth narrowing: rally concentrated in shrinking number of leaders \u2014 structural vulnerability widely acknowledged. [Wilson, Hartnett, Einhorn, Dalio]",
+      "Gold and real assets consensus: financial repression, dollar hedging, and geopolitical risk all pointing to hard asset allocation. [Druckenmiller, Napier, Edwards, Gundlach]"
+    ],
+    "buy_side_trades": [
+      "Long AI chip supply chain: Broadcom, Arm Holdings, Micron, Seagate, Sandisk, TSMC. [Druckenmiller]",
+      "Long quality growth equities at discounts; $10B deployment. [Ackman]",
+      "Long memory chips (Micron, Samsung, SK Hynix). [Tepper]",
+      "Short long-duration bonds; favor BBB+/BB credit; avoid CCC bank loans. [Gundlach]",
+      "Long gold, copper, and international equities as dollar hedges. [Druckenmiller, Dalio]",
+      "Long reshoring/manufacturing beneficiaries and defense. [Bass]",
+      "Short AI mega-caps / long defensives as hedge. [Burry, Einhorn]"
+    ],
+    "sell_side_trades": [
+      "Rotate into defensives: staples, REITs, small caps, biotech; 'sleep like a baby' 25/25/25/25 portfolio. [Hartnett]",
+      "Overweight bonds vs. equities; Great Rotation long non-tech vs. short AI heavyweights; broad equity short H2. [Berezin]",
+      "Long gold and real assets as financial repression/fiscal dominance hedge. [Napier, Edwards]",
+      "Defensive Value stocks over Cyclical Growth / mega-cap tech. [Bannister]",
+      "Long commodities/energy on geopolitical risk (Brent $86-$150). [Jim Reid]",
+      "S&P 8,250 long: Roaring 2020s / BRAIN Revolution; one Fed cut in 2026. [Yardeni]"
+    ],
+    "dominant_themes": [
+      "AI bubble vs. AI infrastructure rotation (defining debate of the cycle, spanning buy and sell side)",
+      "Structural regime change: financial repression, fiscal dominance, and end of post-2008 low-rate era",
+      "Geopolitical fragmentation accelerating macro risks (oil >$100, China-Taiwan, trade wars)"
+    ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   }
