@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11",
+  "last_updated": "2026-08-12",
   "entries": [
     {
       "id": "2026-08-09-33d0e4ad",
@@ -10077,6 +10077,264 @@
         "https://www.youtube.com/watch?v=3DjI_5nzYDk",
         "https://www.hoover.org/research/global-macro-investing-and-geoeconomics-hedge-fund-investor-kyle-bass",
         "https://lagniappe.stokesfamilyoffice.com/navigating-the-current-macro-landscape-with-kyle-bass/"
+      ]
+    },
+    {
+      "id": "2026-08-12-8fc60fc5",
+      "date": "2026-08-12",
+      "investor": "Stan Druckenmiller",
+      "side": "buy",
+      "summary": "Druckenmiller is maintaining his TSMC position after a Q2 earnings beat validated his non-Nvidia AI chip thesis, while actively accumulating Sea Ltd after a 77% drawdown from $300 peaks \u2014 viewing the market's Q1 earnings miss reaction as an overreaction ahead of 22% projected EPS growth in 2026. Despite his bullish US equity stance, he declares the dollar is at 'historic purchasing power peak' and is hedging via copper, describing his portfolio as 'no longer AI-driven' in the traditional Nvidia sense.",
+      "key_views": [
+        "Holding TSMC after Q2 beat \u2014 chip demand from Nvidia and AMD confirms non-GPU AI infrastructure thesis",
+        "Accumulating Sea Ltd (down 77% from $300 peaks): market overreacted to Q1 miss; 22% EPS growth projected in 2026",
+        "'Contrarianism is overrated' \u2014 invest in US stocks but hedge the dollar via commodities",
+        "Dollar at 'historic purchasing power peak' and facing long-term structural headwinds",
+        "Portfolio is 'no longer AI-driven' in traditional Nvidia sense \u2014 shifted to non-GPU infrastructure and mean-reversion"
+      ],
+      "trade_ideas": [
+        "Long TSMC (held after Q2 beat \u2014 chip demand from Nvidia/AMD confirmed)",
+        "Long Sea Ltd (accumulating at -77% entry; 22% EPS growth catalyst in 2026)",
+        "Long copper as dollar hedge"
+      ],
+      "asset_classes": [
+        "equities",
+        "commodities",
+        "fx"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://www.fool.com/investing/2026/08/04/druckenmiller-hold-tsmc-chip-nvidia-amd/",
+        "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-loaded-stock-down-173413901.html",
+        "https://finance.yahoo.com/news/contrarianism-overrated-stan-druckenmiller-says-101700316.html",
+        "https://www.realclearpolitics.com/video/2026/03/01/druckenmiller_portfolio_no_longer_ai-driven_bearish_on_dollar_at_historic_purchasing_power_peak.html"
+      ]
+    },
+    {
+      "id": "2026-08-12-33d0e4ad",
+      "date": "2026-08-12",
+      "investor": "Ray Dalio",
+      "side": "buy",
+      "summary": "Dalio, now managing his family office following his late-2025 Bridgewater departure, warns of three interlocking threats converging in 2026: a policy-induced recession, eroding foreign confidence in US assets, and the AI arms race \u2014 a convergence he calls a potential 'financial heart attack' in the global economy. He highlighted 'capital wars' at Davos 2026 as trust dynamics around debt, capital flows, and monetary credibility come under pressure. He is repositioning toward gold, diversified currencies, and reduced dollar-concentrated assets.",
+      "key_views": [
+        "Three interlocking 2026 threats: policy-induced recession + eroding foreign confidence in US assets + AI arms race = 'financial heart attack' risk",
+        "Foreign buyers of US debt pulling back \u2014 threatening long bond stability and dollar hegemony",
+        "Now running family office (not Bridgewater); Bridgewater saw Q1 2026 drawdown of 6.44% after record 33-34% returns in 2025",
+        "'Capital wars' emerging: nations restructuring trust around debt, capital flows, and monetary credibility (Davos 2026 warning)",
+        "Gold, diversified currencies, reduced USD asset concentration are the defensive response"
+      ],
+      "trade_ideas": [
+        "Long gold",
+        "Long diversified non-USD currencies",
+        "Reduce USD-denominated asset concentration"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "fx",
+        "commodities"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://medium.com/@gsaidheeraj/ray-dalios-2026-warning-the-financial-reset-no-one-is-ready-for-2ed7739896ff",
+        "https://hbr.org/podcast/2026/01/ray-dalio-on-economic-trends-investing-and-making-decisions-amid-uncertainty",
+        "https://hedgeco.net/news/01/2026/ray-dalio-after-bridgewater-the-macro-legends-next-act.html",
+        "https://hedgefundalpha.com/strategies/ray-dalio-portfolio/"
+      ]
+    },
+    {
+      "id": "2026-08-12-a3d6bf24",
+      "date": "2026-08-12",
+      "investor": "George Soros",
+      "side": "buy",
+      "summary": "Soros Fund Management's Q1 2026 13F reveals a $9.12 billion US portfolio across 263 positions, led by SPY (8.7%), AMZN (4.4%), and TSM (3.3%), reflecting cautious but broad engagement across US equities and AI infrastructure. The structural asset mix prioritizes strict downside protection, consistent with Soros's reflexivity-based view that current market biases are exuberantly bullish \u2014 a condition that by his own framework sows the seeds of reversal.",
+      "key_views": [
+        "$9.12B US portfolio (263 positions) as of Q1 2026 \u2014 cautious but broadly engaged",
+        "Largest positions: SPY (8.7%), AMZN (4.4%), TSM (3.3%) \u2014 broad market and AI infrastructure exposure",
+        "Strict downside protection dominates portfolio construction \u2014 reflexivity thesis applied to current bullish crowding",
+        "Reflexivity: market participants' bullish biases are actively influencing economic fundamentals, creating a feedback loop that tends to reverse",
+        "Family empire control passed to Alex Soros; public macro commentary from Soros has been rare since mid-2023"
+      ],
+      "trade_ideas": [],
+      "asset_classes": [
+        "equities"
+      ],
+      "sentiment": "neutral",
+      "sources": [
+        "https://hedgefundalpha.com/strategies/george-soros-portfolio/",
+        "https://www.investorlens.capital/investors/george-soros"
+      ]
+    },
+    {
+      "id": "2026-08-12-c0d529c0",
+      "date": "2026-08-12",
+      "investor": "Jim Reid",
+      "side": "sell",
+      "summary": "Deutsche Bank's Research Institute is tracking five key themes for the remainder of 2026: continued AI mania, persistently elevated inflation (global headline at 3.8%), oil shock risk from the Middle East (Brent $86-$150), central banks returning to hawkish stance, and 3% global real GDP growth. Reid's '1999 meets 1990' macro framework \u2014 an AI investment boom coinciding with an energy shock \u2014 remains the Deutsche Bank house view, with the bank warning the combination is historically rare and forces difficult policy tradeoffs.",
+      "key_views": [
+        "Five H2 2026 themes: AI mania, sticky inflation at 3.8%, Middle East oil shock ($86-$150 Brent), forced central bank hawkishness, 3% global growth",
+        "'1999 meets 1990' macro framework: AI investment boom + oil shock = unprecedented central bank policy bind",
+        "Global headline inflation revised higher to 3.8% \u2014 significantly above targets globally",
+        "Brent oil in $86-$150 scenario range \u2014 geopolitical risk premium from Middle East conflict unresolved",
+        "S&P 8,000 year-end target from Deutsche Bank's US equity strategist 'notable given strong track record'"
+      ],
+      "trade_ideas": [
+        "Long commodities/energy on geopolitical risk (Brent $86-$150 scenario)"
+      ],
+      "asset_classes": [
+        "equities",
+        "commodities",
+        "rates",
+        "fx"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://www.db.com/news/detail/20260813-five-themes-the-deutsche-bank-research-institute-is-tracking-through-the-rest-of-2026?language_id=1",
+        "https://finance.yahoo.com/economy/articles/deutsche-bank-maps-volatile-1999-133056198.html",
+        "https://flow.db.com/topics/macro-and-markets/the-world-outlook-2026-never-a-dull-moment"
+      ]
+    },
+    {
+      "id": "2026-08-12-0fcc170e",
+      "date": "2026-08-12",
+      "investor": "Torsten Slok",
+      "side": "sell",
+      "summary": "Slok's mid-year 2026 view represents a meaningful shift: his earlier stagflation concerns have given way to overheating risk as all three growth drivers fire simultaneously. AI investment adds 1% to GDP, the industrial renaissance adds 0.3%, and fiscal stimulus adds 0.9% \u2014 pushing the economy well above its 2% long-run potential. Employment, consumer spending, and business investment are all strong at mid-year, but tariff-driven inflation continues to complicate the Fed's policy path.",
+      "key_views": [
+        "Mid-year pivot: stagflation concern replaced by overheating risk as all three growth forces fire simultaneously",
+        "Three growth forces: AI investment (+1% GDP) + industrial renaissance (+0.3%) + fiscal stimulus (+0.9%) = >2% growth",
+        "Employment, consumer spending, and business investment all strong \u2014 economy is 'doing quite well' at mid-year",
+        "Tariff-driven inflation persists, complicating Fed's ability to cut without stoking price pressures further",
+        "Near-term stagflationary crosscurrents remain despite improved momentum \u2014 'year of contradictions' framing"
+      ],
+      "trade_ideas": [],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "credit"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://www.apollo.com/wealth/insights-news/insights/the-view-from-apollo/2026/06/2026-mid-year-outlook",
+        "https://www.privatemarketsinsights.com/post/stagflation-looms-as-ai-becomes-us-economy-s-lifeline-apollo-macro-outlook",
+        "https://www.youtube.com/watch?v=IjD4Ycm8I8s"
+      ]
+    },
+    {
+      "id": "2026-08-12-2bc6b016",
+      "date": "2026-08-12",
+      "investor": "Michael Hartnett",
+      "side": "sell",
+      "summary": "Hartnett warns investors are 'frozen bullish' despite 5% long-bond yields \u2014 historically a sign of dangerous crowding. The Mag7 now constitutes 34% of the S&P 500, invoking the Nifty 50 parallel of 1972 concentration before the subsequent crash. He declares the 'Anything But Bonds' era has arrived, with the 60/40 portfolio effectively dead and capital flight to gold inevitable. His '25/25/25/25' sleep-like-a-baby portfolio is up 26% YTD, its best year since 1933. The Bull & Bear Indicator remains at 9.7 in formal sell-signal territory.",
+      "key_views": [
+        "Investors 'frozen bullish' despite 5% long-bond yields \u2014 crowding at historic extremes, Bull & Bear at 9.7",
+        "Mag7 at 34% of S&P 500 = Nifty 50 parallel (1972 extreme concentration preceded a major crash)",
+        "'Anything But Bonds' era is here \u2014 60/40 portfolio effectively dead; capital flight to gold is inevitable",
+        "Sleep like a baby 25/25/25/25 portfolio (stocks/bonds/cash/commodities) up 26% YTD \u2014 best since 1933",
+        "Tactical stance: 'retreat and rotate not reload' \u2014 defensives (staples, healthcare, REITs, biotech) over AI mega-caps"
+      ],
+      "trade_ideas": [
+        "25/25/25/25 'sleep like a baby' balanced portfolio",
+        "Rotate into consumer staples, healthcare, REITs, biotech",
+        "Long gold (inevitable capital flight destination)",
+        "Underweight Mag7 and AI mega-caps"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "commodities",
+        "credit"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://metalsandminers.substack.com/p/the-20-year-market-sell-signal-bofa",
+        "https://stockwirex.com/news/bofa-bull-bear-indicator-equity-sell-signal-august-2026/",
+        "https://www.investing.com/news/stock-market-news/bofas-hartnett-says-rotate-into-defensives-as-sell-signal-returns-4845556",
+        "https://thedarksideoftheboom.substack.com/p/hartnett-flow-show-the-mag7-surprise",
+        "https://www.investing.com/news/stock-market-news/bofas-hartnett-says-investors-remain-frozen-bullish-despite-5-longbond-yields-4739166"
+      ]
+    },
+    {
+      "id": "2026-08-12-0b05ff1e",
+      "date": "2026-08-12",
+      "investor": "Mike Wilson",
+      "side": "sell",
+      "summary": "Wilson on July 28 CNBC reaffirmed he is 'still very constructive' on the S&P 500 for the full year, maintaining his 8,000 year-end target despite acknowledging a potential mid-cycle dip to 7,000. He sees the market now broadening from tech mega-caps to quality equities as a new economic and earnings cycle begins. Last week's Fed hawkish cut \u2014 indicating it will do more if the labor market softens \u2014 provided incremental support for his bullish full-year thesis.",
+      "key_views": [
+        "Still 'very constructive' on S&P 500 full-year \u2014 8,000 year-end target maintained as of July 28",
+        "Mid-cycle dip to 7,000 possible but temporary \u2014 bull market intact and broadening to quality from mega-cap tech",
+        "New economic and earnings cycle is underway \u2014 re-acceleration expected in H2",
+        "Fed's hawkish cut provided incremental support: 'will do more if labor market continues to soften'",
+        "Earnings breadth narrowing remains a risk but market broadening is now actively underway"
+      ],
+      "trade_ideas": [
+        "Long quality equities as market broadens from tech mega-caps",
+        "Buy dips toward 7,000 as mid-cycle entry opportunity"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds"
+      ],
+      "sentiment": "bullish",
+      "sources": [
+        "https://www.cnbc.com/video/2026/07/28/morgan-stanleys-mike-wilson-still-very-constructive-on-where-the-sp-500-ends-up-for-the-full-year.html",
+        "https://coincentral.com/morgan-stanleys-mike-wilson-says-sp-500-could-drop-to-7000-then-rally-to-8000-by-year-end/",
+        "https://www.morganstanley.com/insights/podcasts/thoughts-on-the-market/us-equity-market-outlook-2026-mike-wilson"
+      ]
+    },
+    {
+      "id": "2026-08-12-8e1e0837",
+      "date": "2026-08-12",
+      "investor": "David Rosenberg",
+      "side": "sell",
+      "summary": "Rosenberg maintains his bullish Treasury call despite the Iran war shock derailing it since February, arguing the 30-year yield at 5.2% with a 3% embedded real rate offers near-zero probability of negative returns, and a return to pre-war levels would deliver approximately 20% total returns. He sees a consumer-led H2 slowdown that markets have not yet priced: flat employment overall, 1.5 million fewer full-time jobs, negative real income growth, and a savings rate that has collapsed from 5% to 2.3%.",
+      "key_views": [
+        "Maintaining bullish long-duration Treasury call despite Iran war shock (derailed since February but thesis intact)",
+        "30-yr at 5.2% with 3% real rate = near-zero probability of losses; pre-war return = ~20% total return",
+        "10-year may have peaked at 4.75% \u2014 Rosenberg sees it heading back below 4% within 6-12 months",
+        "Consumer-led H2 slowdown unpriced: 1.5M fewer full-time jobs, negative real income growth, savings rate collapsed 5%\u21922.3%",
+        "Front end offers 'safe' 5-6% return if markets price out the two Fed rate hikes currently expected"
+      ],
+      "trade_ideas": [
+        "Long long-duration Treasuries (30-yr 5.2% \u2014 near-zero downside, ~20% upside if rates normalize)",
+        "Long front-end Treasuries (5-6% if Fed hike expectations fade)"
+      ],
+      "asset_classes": [
+        "bonds",
+        "rates"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://dollarcollapse.com/top-ten-videos-august-10-2026/",
+        "https://realwealthconcepts.substack.com/p/david-rosenberg-doubles-down-on-recession",
+        "https://www.theglobeandmail.com/investing/markets/inside-the-market/article-david-rosenberg-no-im-not-backing-away-from-my-recession-call-and-that/"
+      ]
+    },
+    {
+      "id": "2026-08-12-a6b77afe",
+      "date": "2026-08-12",
+      "investor": "Liz Ann Sonders",
+      "side": "sell",
+      "summary": "Sonders frames the current macro backdrop as a structural shift into a 'Temperamental Era' \u2014 resembling the 1960s-1990s period characterized by more volatile inflation, unstable geopolitics, and frequent supply shocks, rather than the post-2008 Great Moderation. Near-term fundamentals remain supportive with S&P 500 Q1 2026 earnings tracking +28% year-over-year and rising profit margins, but she cautions that market concentration and macro risks leave less room for error. Inflation persisting near 3% significantly above the Fed's 2% target complicates the rate path.",
+      "key_views": [
+        "'Temperamental Era' replacing Great Moderation: more volatile inflation, unstable geopolitics, frequent supply shocks \u2014 parallels 1960s-1990s",
+        "S&P 500 Q1 2026 earnings tracking +28% YoY with rising profit margins \u2014 near-term fundamentals supportive",
+        "Inflation persisting near 3% (significantly above Fed's 2% target) \u2014 complicates rate cut timing",
+        "Market concentration and macro risks leave less room for error despite strong earnings",
+        "Rebalancing discipline critical: don't chase AI mega-cap concentration \u2014 diversify into quality"
+      ],
+      "trade_ideas": [
+        "Rebalance away from AI mega-cap concentration into diversified quality positions"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds"
+      ],
+      "sentiment": "neutral",
+      "sources": [
+        "https://www.schwab.com/learn/story/market-snapshot",
+        "https://www.schwab.com/learn/story/2026-market-outlook-us-economy-equities-fixed-income",
+        "https://www.advisorperspectives.com/commentaries/2025/12/15/schwabs-perspective-2026-outlook"
       ]
     }
   ]
