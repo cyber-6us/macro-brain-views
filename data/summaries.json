@@ -1,53 +1,199 @@
 {
-  "generated_at": "2026-08-12",
+  "generated_at": "2026-08-13",
   "today": {
-    "date": "2026-08-12",
-    "entries_count": 9,
+    "date": "2026-08-13",
+    "entries_count": 4,
     "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
+    "sell_side_bullets": [
+      "Bull & Bear Indicator at 9.7 \u2014 first BofA sell signal since 2021; extreme crowding in equities, credit, and bonds simultaneously. [Hartnett]",
+      "AI capex building at 0.85pp of GDP/year, nearly 2x the housing boom's peak pace; profits still investor-funded not customer-earned \u2014 unwind risk is the macro tail risk. [Slok]",
+      "2026 macro regime is '1999 meets 1990': AI capex boom colliding with oil shock-driven hawkishness; 5 unresolved H2 themes include dollar/gold credibility and Iran/Gulf risk. [Reid]",
+      "US recession odds at 40%, Europe/Japan at 50%; Hormuz shock GDP damage peaks ~4 quarters out \u2014 7 factors cushioning economy so far, but worst still ahead. [Berezin]"
+    ],
+    "whats_new": [
+      "Hartnett escalates to formal sell signal (9.7) \u2014 first since 2021; prior weeks were at cautionary 8.5 levels",
+      "Slok introduces explicit housing-boom comparison for AI capex pace \u2014 framing the unwind risk more precisely than prior Apollo commentary",
+      "Reid publishes DB Research Institute H2 tracker with 5 named macro themes \u2014 most structured H2 framework from sell-side this week",
+      "Berezin articulates 7-factor cushion analysis \u2014 more constructive framing than prior flat recession warnings, but maintains 40% US odds"
+    ],
     "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
+    "vs_market_sell": [
+      "Hartnett's sell signal contradicts continued equity fund inflows \u2014 market investors still buying while his indicator says sell",
+      "Berezin's 40% US recession odds vs market pricing minimal near-term recession probability",
+      "Slok's AI capex unwind framing challenges consensus that hyperscaler capex is unambiguously bullish for the cycle"
+    ],
+    "buy_vs_sell_divergence": [
+      "No buy-side entries today; all four new entries are sell-side, all cautious to bearish on risk assets"
+    ],
+    "aligned": [
+      "Iran/Hormuz oil shock remains the dominant macro tail risk [Reid, Berezin]",
+      "AI capex cycle sustainability is a critical 2026 question [Slok, Reid]",
+      "Defensive repositioning advised \u2014 rotate out of crowded risk, rotate into quality/bonds/commodities [Hartnett, Reid, Berezin]"
+    ],
     "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "sell_side_trades": [
+      "Rotate into consumer staples, REITs, long-duration Treasuries, USD [Hartnett]",
+      "Long energy/commodities on Hormuz Strait risk scenario (Brent toward $150) [Reid]",
+      "Underweight European and Japanese equities given 50% recession risk [Berezin]",
+      "Cautious on AI-adjacent equities if revenue-to-capex gap doesn't close by 2027 [Slok]"
+    ],
+    "dominant_themes": [
+      "Sell signal / positioning extreme \u2014 retreat from risk assets",
+      "Iran/Hormuz oil shock GDP lag risk",
+      "AI capex bubble and unwind speed"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "bearish"
   },
   "week": {
-    "period_start": "2026-08-05",
-    "period_end": "2026-08-12",
-    "entries_count": 59,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "period_start": "2026-08-06",
+    "period_end": "2026-08-13",
+    "entries_count": 48,
+    "buy_side_bullets": [
+      "Capital preservation dominant theme \u2014 minimal gross/net exposure, US equities most expensive since inception. [Einhorn]",
+      "Bearish USD, long TSMC as non-Nvidia AI chip thesis; Latin American EM as structural macro bet outside biotech. [Druckenmiller]",
+      "AI trade still has runway (Apple II parallel), but market exhibiting 1999-2000 bubble dynamics with crash risk and economy addicted to AI capex. [Tudor Jones]",
+      "Appaloosa up 32% H1 on memory chips (Micron, Samsung, SK Hynix); maintains ~40% cash despite strong performance. [Tepper]",
+      "Quality stocks 'stupidly cheap' \u2014 best buying opportunity in years; Microsoft accumulation; Fannie/Freddie as 10x value play. [Ackman]"
+    ],
+    "sell_side_bullets": [
+      "Bull & Bear at 9.7 \u2014 first sell signal since 2021; 'Retreat/Rotate, not Reload'; only 4% of S&P making new highs, same as dot-com peak. [Hartnett]",
+      "US recession 40%, Europe/Japan 50%; Hormuz oil shock GDP damage 4-quarter lagged; 7 cushioning factors not permanent buffers. [Berezin]",
+      "AI capex at 2x housing boom build pace; profits investor-funded not customer-earned; unwind at 0.85pp/year is the macro tail risk. [Slok]",
+      "Economy at 'stall speed': July jobs -23,000, unemployment drop driven by labor force departure not hiring; Fed pivoting to inflation focus. [Hatzius]",
+      "S&P 500 target 8,250, earnings-led meltup; AI is real, not a bubble; Roaring 2020s thesis intact. [Yardeni shift]"
+    ],
+    "whats_new": [
+      "Hartnett escalates to formal 9.7 sell signal (first since 2021), up from 8.5 cautionary level last week [Hartnett evolving]",
+      "Berezin upgrades recession framing with 7-factor cushion analysis \u2014 more nuanced than prior binary recession call [Berezin shift]",
+      "Slok introduces housing-boom comparison for AI capex pace \u2014 explicitly frames unwind speed as macro risk [Slok shift]",
+      "Gundlach: Fed must RAISE rates (not cut) to get to 2% inflation \u2014 contra prior 'can't cut' stance to now 'must hike' [Gundlach shift]",
+      "Druckenmiller reveals Latin American EM (Brazil/Argentina) as largest non-biotech theme \u2014 structurally new disclosure [Druckenmiller shift]"
+    ],
+    "vs_market_buy": [
+      "Druckenmiller bearish on USD 'at top of historic range, foreigners overloaded' \u2014 contra consensus dollar stability [Druckenmiller]",
+      "Burry 80% short Nvidia/Palantir and PHLX Semis \u2014 extreme contra-consensus on AI megacaps [Burry]",
+      "Einhorn: US equities 'most expensive since we began managing money' \u2014 contra Wall Street 8,000+ S&P targets [Einhorn]",
+      "Gundlach: rates must go UP not down \u2014 contra market pricing eventual Fed cuts [Gundlach]"
+    ],
+    "vs_market_sell": [
+      "Yardeni's 8,250 S&P target (highest on Wall Street) vs consensus more cautious, contra Bannister's 5,250-5,500 [Yardeni]",
+      "Bannister's 5,250-5,500 year-end target at sharp discount to consensus \u2014 positioning for meaningful EPS deceleration [Bannister]",
+      "Berezin's 40% US recession odds vs market pricing sub-10% near-term probability [Berezin]",
+      "Napier: government-mandated bond ownership ahead (financial repression) vs markets still pricing free capital flows [Napier]"
+    ],
+    "buy_vs_sell_divergence": [
+      "Ackman says 'best time in years to buy quality stocks' vs Hartnett says 'retreat/rotate, not reload' \u2014 polar opposite near-term tactical views",
+      "Yardeni (sell-side) at S&P 8,250 vs Bannister (sell-side) at 5,250 \u2014 57% gap between top and bottom Wall Street targets",
+      "Bessent/Ackman bullish on US growth vs Berezin/Hatzius flagging stall speed and 40% recession odds \u2014 macro narrative deeply split",
+      "PTJ/Druckenmiller say AI trade has runway vs Burry and Edwards say AI capex bubble is here now"
+    ],
+    "aligned": [
+      "Iran/Hormuz oil shock is primary geopolitical macro risk for H2 2026 [Reid, Berezin, Jim Reid, Mauldin]",
+      "AI capex sustainability is the defining investment question \u2014 both buy and sell side flagging unwind risk [Slok, Tudor Jones, Burry, Edwards]",
+      "Fed is not cutting rates near-term; inflation remains elevated above target [Gundlach, Reid, Hatzius, Sonders]",
+      "Dollar under structural pressure \u2014 reserve status, fiscal credibility concerns [Druckenmiller, Napier, Dalio, Reid]"
+    ],
+    "buy_side_trades": [
+      "Long TSMC (non-Nvidia AI chip play) [Druckenmiller]",
+      "Long Latin American EM (Brazil/Argentina) [Druckenmiller]",
+      "Long Microsoft, Fannie/Freddie [Ackman]",
+      "Short Nvidia, Palantir; short PHLX Semiconductor Index [Burry]",
+      "Long memory chips: Micron, Samsung, SK Hynix [Tepper]",
+      "Favor 2-7yr Treasury maturities; avoid long end [Gundlach]"
+    ],
+    "sell_side_trades": [
+      "Rotate into consumer staples, REITs, long-duration Treasuries, USD [Hartnett]",
+      "Long energy/commodities on Hormuz tail risk [Reid]",
+      "Underweight European/Japanese equities given 50% recession odds [Berezin]",
+      "Long 30yr Treasury at 5.2% yield / near-zero real rate for buy-and-hold investors [Rosenberg]",
+      "Avoid CCC bank loans; prefer BBB+ and selective BB high yield [Gundlach]"
+    ],
+    "dominant_themes": [
+      "Positioning extreme / sell signal triggered \u2014 BofA Bull & Bear at 9.7",
+      "Iran/Hormuz oil shock GDP lag risk threatening H2 2026\u20132027 growth",
+      "AI capex bubble vs AI productivity reality \u2014 both sides engaging"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "bearish"
   },
   "month": {
-    "period_start": "2026-07-13",
-    "period_end": "2026-08-12",
-    "entries_count": 189,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "period_start": "2026-07-14",
+    "period_end": "2026-08-13",
+    "entries_count": 180,
+    "buy_side_bullets": [
+      "Capital preservation dominant: minimal gross/net exposure, US equities most expensive on record, favoring macro book over long-short. [Einhorn]",
+      "Bearish on USD structural overvaluation; long non-Nvidia AI hardware (TSMC) and Latin American EM as largest non-biotech macro bet. [Druckenmiller]",
+      "Three interlocking threats: policy-induced recession, eroding foreign confidence in US assets, AI arms race destabilization \u2014 'capital wars' at Davos. [Dalio]",
+      "Short 80% of portfolio against Nvidia, Palantir, PHLX Semis; AI sector exhibiting 2000-era bubble disconnects between capex and revenue. [Burry]",
+      "Quality stocks at historically cheap levels; Fannie/Freddie as 10x opportunity; $10B deployment planned in summer. [Ackman]"
+    ],
+    "sell_side_bullets": [
+      "Bull & Bear at 9.7 \u2014 first sell signal since 2021; only 4% of S&P making new highs; 'Retreat/Rotate, not Reload' into defensives, long bonds, USD. [Hartnett evolving]",
+      "Financial repression is back: 15-20yr structurally elevated inflation, government-mandated bond ownership, central banks subordinated to sovereigns. [Napier]",
+      "AI capex building 2x housing boom pace \u2014 hyperscaler capex to 3% of GDP by 2027-2029; profits still investor-funded; unwind risk the macro tail risk. [Slok evolving]",
+      "Economy at stall speed: July jobs -23,000; Fed pivoting to inflation focus over employment; Goldman sees no rate cuts until inflation confirms trend. [Hatzius]",
+      "2026 macro is '1999 meets 1990': AI boom collides with oil shock-driven hawkishness; dollar/gold credibility divergence is structural theme. [Reid]",
+      "US recession 40%, Europe/Japan 50%; oil shock GDP lag peaks 4Q out; 7 near-term cushions not permanent buffers. [Berezin]"
+    ],
+    "whats_new": [
+      "Hartnett escalated from 8.5 cautionary level to 9.7 formal sell signal \u2014 first since 2021 [Hartnett evolving]",
+      "Gundlach pivoted from 'Fed can't cut' to 'Fed must hike' to get to 2% inflation [Gundlach shift]",
+      "Druckenmiller disclosed Latin America as largest non-biotech macro theme \u2014 new structural long outside tech [Druckenmiller shift]",
+      "Slok explicitly framed AI capex unwind speed as macro risk comparable to housing \u2014 more alarming than prior capex commentary [Slok evolving]",
+      "Berezin shifted from binary recession warning to 7-factor cushion analysis \u2014 acknowledging resilience while maintaining elevated recession odds [Berezin shift]",
+      "Edwards: Ice Age thesis officially retired in favor of fiscal dominance/inflation paradigm \u2014 major framework evolution [Edwards shift]"
+    ],
+    "vs_market_buy": [
+      "Burry 80% short AI megacaps (Nvidia, Palantir, PHLX Semis) vs market consensus long AI hardware [Burry]",
+      "Druckenmiller bearish on USD 'at historic high purchasing power, foreigners overloaded' [Druckenmiller]",
+      "Einhorn: US equities 'most expensive since we began managing money' vs Wall Street bullish consensus [Einhorn]",
+      "Gundlach: Fed must hike not cut to achieve 2% inflation \u2014 contra consensus rate cut pricing [Gundlach]",
+      "Dalio warning of 'capital wars' and foreign confidence erosion in US assets vs consensus US exceptionalism [Dalio]"
+    ],
+    "vs_market_sell": [
+      "Yardeni's 8,250 S&P target (highest on Wall Street) vs consensus more cautious; earnings-led meltup thesis [Yardeni]",
+      "Bannister's 5,250-5,500 S&P target at 25-30% discount to market \u2014 sharpest bearish target on the street [Bannister]",
+      "Berezin's 40% US recession odds vs market pricing sub-10% recession probability [Berezin]",
+      "Napier's financial repression thesis implies negative real returns on bonds for 15-20 years \u2014 contra bond market pricing [Napier]",
+      "Reid's 3.8% global inflation forecast vs consensus expecting disinflation from Hormuz resolution [Reid]"
+    ],
+    "buy_vs_sell_divergence": [
+      "Ackman/Bessent: best time to buy quality stocks, economy blockbuster vs Hartnett/Berezin: sell signal triggered, 40% recession odds \u2014 polar tactical split",
+      "Yardeni sell-side at S&P 8,250 vs Bannister sell-side at 5,250 \u2014 57% divergence between top/bottom Wall Street targets",
+      "PTJ/Druckenmiller say AI trade has runway vs Burry/Edwards: AI macro doomsday is 'here right now'",
+      "Bessent: K-shaped economy over, labor gains broad-based vs Rosenberg/Hatzius: economy at stall speed, labor market deteriorating"
+    ],
+    "aligned": [
+      "Iran/Hormuz oil shock is primary H2 2026 geopolitical macro risk \u2014 oil shock GDP lag still feeding through [Reid, Berezin, Mauldin, Hatzius]",
+      "AI capex cycle sustainability is the defining investment question \u2014 both sides flagging revenue/capex disconnect [Slok, Tudor Jones, Burry, Edwards, Hartnett]",
+      "Fed not cutting near-term; inflation structurally sticky above 2% target [Gundlach, Reid, Hatzius, Sonders, Napier]",
+      "Dollar under structural pressure \u2014 overvalued, reserve status questioned, foreigners overloaded [Druckenmiller, Napier, Dalio, Reid]",
+      "Geopolitical realignment (US-China-Europe) reshaping capital flows and investment returns [Dalio, Mauldin, Reid, Druckenmiller]"
+    ],
+    "buy_side_trades": [
+      "Long TSMC (non-Nvidia AI chip exposure) [Druckenmiller]",
+      "Long Latin American EM (Brazil/Argentina) [Druckenmiller]",
+      "Long Microsoft, Fannie/Freddie (10x value play) [Ackman]",
+      "Short Nvidia, Palantir, PHLX Semiconductor Index [Burry]",
+      "Long memory chips: Micron, Samsung, SK Hynix [Tepper]",
+      "Favor 2-7yr Treasury maturities; avoid long-end bonds [Gundlach]",
+      "Long gold and real assets as financial repression hedge [Dalio via All-Weather framework]"
+    ],
+    "sell_side_trades": [
+      "Rotate into consumer staples, REITs, long-duration Treasuries, USD [Hartnett]",
+      "Long energy/commodities on Hormuz tail risk (Brent toward $150) [Reid]",
+      "Long 30yr Treasury at 5.2% yield [Rosenberg]",
+      "Underweight European/Japanese equities given 50% recession odds [Berezin]",
+      "Avoid CCC bank loans; prefer BBB+ and selective BB high yield [Gundlach]",
+      "Short AI-heavy tech stocks on capex exhaustion and productivity concerns [Reid]"
+    ],
+    "dominant_themes": [
+      "Iran/Hormuz oil shock and its 4-quarter lagged GDP impact",
+      "AI capex bubble vs productivity reality \u2014 widening revenue/capex gap",
+      "Sell signal era \u2014 crowding extremes, positioning unwind risk"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "bearish"
   }
 }
