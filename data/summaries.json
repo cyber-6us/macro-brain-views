@@ -1,180 +1,53 @@
 {
-  "generated_at": "2026-08-15",
+  "generated_at": "2026-08-16",
   "today": {
-    "date": "2026-08-15",
-    "entries_count": 2,
+    "date": "2026-08-16",
+    "entries_count": 0,
     "buy_side_bullets": [],
-    "sell_side_bullets": [
-      "S&P 500 raised to 8,400 on Q2 earnings surge of 46.7% YoY; 80% Roaring 2020s probability; targets 10,000 by 2029. [Yardeni]",
-      "July CPI confirmed benign at +0.1% MoM (3.4% annual); H1 tariff/oil/World Cup inflation overshoot fading through 2027; no Fed hikes expected. [Hatzius]"
-    ],
-    "whats_new": [
-      "Yardeni raised S&P 500 target again to 8,400 \u2014 second upgrade in a week \u2014 on Q2 earnings 46.7% YoY surge. [Yardeni shift]",
-      "Goldman CPI call confirmed: July inflation benign, Hatzius now pivots from stall-speed growth focus to disinflation narrative. [Hatzius evolving]"
-    ],
+    "sell_side_bullets": [],
+    "whats_new": [],
     "vs_market_buy": [],
-    "vs_market_sell": [
-      "Yardeni targets 8,400 vs. Wall Street median ~7,800 \u2014 highest estimate on the Street.",
-      "Hatzius expects no Fed hikes at all in 2026 vs. market pricing in one hike by September."
-    ],
+    "vs_market_sell": [],
     "buy_vs_sell_divergence": [],
-    "aligned": [
-      "Soft July CPI print reduces near-term recession/stagflation risk and supports continued equity market strength."
-    ],
+    "aligned": [],
     "buy_side_trades": [],
-    "sell_side_trades": [
-      "Long equities; earnings momentum argues against defensive positioning. [Yardeni]",
-      "Long short-to-medium duration Treasuries and rate-sensitive assets as disinflation path resumes. [Hatzius]"
-    ],
-    "dominant_themes": [
-      "Earnings-led melt-up accelerating",
-      "Inflation normalization after H1 overshoots",
-      "Fed on hold; no hikes expected"
-    ],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "week": {
-    "period_start": "2026-08-08",
-    "period_end": "2026-08-15",
-    "entries_count": 48,
-    "buy_side_bullets": [
-      "Six of seven AI shorts profitable; Nvidia, Palantir, SOXX in drawdown \u2014 AI bubble thesis being confirmed in real time. [Burry, Dalio, Einhorn]",
-      "AI chip rotation: Broadcom, ARM, Intel, Micron surging as next phase shifts from training to deployment; Nvidia era ending. [Druckenmiller, Tepper]",
-      "Best quality buying opportunity in years \u2014 $10B+ deployment ahead into blue chips (Netflix, Visa, Mastercard) at multi-year discounts. [Ackman]",
-      "C-shaped economy: broad-based recovery now includes lower-income workers; US targeting above-3% growth, below-2% inflation by year-end. [Bessent]",
-      "US equities most expensive in 30 years; capital preservation top priority with minimal gross exposure. [Einhorn]"
-    ],
-    "sell_side_bullets": [
-      "BofA Bull & Bear Indicator at 9.7 \u2014 first formal sell signal since 2021; Mag7 is 34% of S&P, Nifty-50 parallel; record equity inflows into crowded market. [Hartnett]",
-      "S&P 500 raised to 8,400 on Q2 earnings surge 46.7% YoY; 80% Roaring 2020s probability; FEMO argues against defensive positioning. [Yardeni]",
-      "AI capex at 2x pace of 2000s housing bubble; monetization ROI uncertain; risk of hard demand collapse if AI payoff disappoints. [Slok, Jim Reid]",
-      "July CPI benign at +0.1% MoM; H1 tariff/oil/World Cup effects fading; Goldman sees disinflation through 2027; no Fed hikes expected. [Hatzius]",
-      "Fiscal dominance replacing secular stagnation; bank lending surge dangerously ignored; double-digit inflation risk persists for next decade. [Edwards, Napier]"
-    ],
-    "whats_new": [
-      "Yardeni raised S&P target twice in one week (8,250 then 8,400) on back-to-back earnings beats. [Yardeni shift]",
-      "Druckenmiller fully exited Nvidia \u2014 his largest historical AI position \u2014 rotating into non-Nvidia AI infrastructure. [Druckenmiller shift]",
-      "Bessent replaced K-shaped recovery narrative with C-shaped economy framing to claim broad-based gains. [Bessent shift]",
-      "Hartnett issued first formal sell signal (Bull & Bear > 8.0) since 2021, an explicit break from neutral stance. [Hartnett evolving]",
-      "Dalio formally departed Bridgewater and is now managing his family office; tone more bearish post-separation. [Dalio shift]",
-      "Hatzius pivoted from stall-speed/jobs focus (Aug 7) to inflation normalization theme as July CPI confirmed benign. [Hatzius evolving]",
-      "Tepper disclosed 101.8% return through August \u2014 extraordinary alpha from memory chip concentration call. [Tepper evolving]"
-    ],
-    "vs_market_buy": [
-      "Druckenmiller avoiding consensus Nvidia long, betting on Broadcom/ARM/Micron as next AI cycle plays.",
-      "Einhorn holding near-zero equity beta when consensus is maximally bullish \u2014 willing to miss upside to stay defensive.",
-      "Bass warning high-end consumer spending as the overlooked macro trip-wire; market not pricing this risk."
-    ],
-    "vs_market_sell": [
-      "Hartnett calling formal sell at market highs when consensus remains long equities.",
-      "Bannister targeting S&P 5,250-5,500 year-end vs. current ~8,000 \u2014 40% bearish outlier vs. Street consensus.",
-      "Rosenberg buying 30-year Treasuries at 5.2% vs. consensus avoiding the long end; views current yields as generational entry point.",
-      "Edwards warning of fiscal-dominance inflation decade while consensus expects disinflation."
-    ],
-    "buy_vs_sell_divergence": [
-      "S&P 500 direction: Ackman/Tepper/Bessent bullish vs. Einhorn/Burry/Dalio maintaining bearish/defensive stance.",
-      "AI trade: Druckenmiller/Tudor Jones see more runway in AI infrastructure vs. Burry actively short AI leaders.",
-      "Inflation path: Buy-side (Gundlach) sees structurally elevated yields and inflation vs. sell-side (Hatzius) sees clear disinflation."
-    ],
-    "aligned": [
-      "AI is the dominant macro and investment theme for both sides \u2014 disagreement is about valuation and timing, not AI's significance.",
-      "Geopolitical risk (Iran war, Hormuz oil shock) acknowledged as meaningful tail risk by both sides.",
-      "Late-cycle dynamics warranted caution; volatility expected to remain elevated."
-    ],
-    "buy_side_trades": [
-      "Long Broadcom, ARM, Intel, Micron, Seagate \u2014 next-generation AI infrastructure plays. [Druckenmiller]",
-      "Long Netflix, Visa, Mastercard \u2014 quality blue chips at multi-year discounts. [Ackman]",
-      "Short Nvidia, Palantir, SOXX \u2014 AI overvaluation unwind. [Burry]",
-      "Long gold, real assets, international equities as USD hedge. [Druckenmiller, Marks]",
-      "Avoid long-end Treasuries; 30-year above 5.2% signals danger. [Gundlach]"
-    ],
-    "sell_side_trades": [
-      "Long equities broadly; earnings momentum argues against defensive positioning. [Yardeni, Wilson]",
-      "Long short-to-medium duration Treasuries (2-7yr range) as disinflation resumes. [Hatzius, Rosenberg]",
-      "Long defensive value (healthcare, staples, gold) vs. overweight big tech. [Bannister]",
-      "Reduce Mag7 concentration; rotate from momentum to quality. [Hartnett, Visser]",
-      "Long Canadian short-term bonds on Canada-US divergence. [Rosenberg]"
-    ],
-    "dominant_themes": [
-      "AI bubble vs. earnings-led melt-up: bears shorting vs. bulls deploying",
-      "Inflation normalization after H1 tariff/oil/World Cup overshoot",
-      "Crowding risk: Mag7 at 34% of S&P, Hartnett's first sell signal since 2021"
-    ],
+    "period_start": "2026-08-09",
+    "period_end": "2026-08-16",
+    "entries_count": 44,
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "neutral"
+    "sell_side_sentiment": "mixed"
   },
   "month": {
-    "period_start": "2026-07-16",
-    "period_end": "2026-08-15",
-    "entries_count": 160,
-    "buy_side_bullets": [
-      "AI market is approaching bubble dynamics but has 1-2 years runway; defense more critical than offense now \u2014 positioning for correction without shorting outright. [Tudor Jones, Dalio, Druckenmiller, Marks]",
-      "AI chip rotation underway: Nvidia dominance ending, next cycle in deployment infrastructure (Broadcom, ARM, Micron); memory chips (Micron, Samsung, SK Hynix) are the real H1 2026 winner. [Druckenmiller, Tepper]",
-      "US equities at historic extremes \u2014 most expensive market in 30 years; Greenlight closing to new investors; shorts on AI leaders accumulating. [Einhorn, Burry]",
-      "Best quality-stock buying opportunity in years; blue chips severely undervalued on technical selling; $10B+ being deployed. [Ackman]",
-      "C-shaped/broad economic recovery underway; K-shape over; US above-3% growth, dollar strength fading. [Bessent, Scott Bessent]"
-    ],
-    "sell_side_bullets": [
-      "BofA first formal sell signal since 2021 as Bull & Bear hits 9.7; record inflows, Mag7 concentration at Nifty-50 levels. [Hartnett]",
-      "Earnings momentum extraordinary (Q2 +46.7% YoY); S&P 500 targets rising to 8,400; Roaring 2020s at 80% probability. [Yardeni, Wilson]",
-      "AI capex building at 2x housing bubble pace; monetization ROI unproven; potential hard landing if AI fails to deliver. [Slok, Jim Reid, Peter Berezin]",
-      "Fiscal dominance replacing secular stagnation; financial repression thesis advancing; real yields to be suppressed for 15-20 years. [Edwards, Napier, Rosenberg]",
-      "Inflation temporarily elevated by tariffs/oil/World Cup in H1 but fading; Goldman sees disinflation through 2027; no Fed hikes. [Hatzius, Liz Ann Sonders]"
-    ],
-    "whats_new": [
-      "Hartnett issued first formal sell signal since 2021 \u2014 marks a threshold, not just a warning. [Hartnett evolving]",
-      "Druckenmiller fully exited Nvidia, marking symbolic end of the initial AI trade. [Druckenmiller shift]",
-      "Bessent replaced K-shaped narrative with C-shaped framing as lower-income wage growth catches up. [Bessent shift]",
-      "Yardeni raised S&P 500 target twice in one week to 8,400, lifting Roaring 2020s probability to 80%. [Yardeni evolving]",
-      "Burry's 6/7 AI shorts profitable, validating his concentrated short book. [Burry evolving]",
-      "Tepper returned 101.8% through August on memory chip concentration \u2014 one of the best hedge fund years in history. [Tepper evolving]"
-    ],
-    "vs_market_buy": [
-      "Druckenmiller avoiding Nvidia consensus; rotating into Broadcom/ARM/Micron counter-thesis.",
-      "Einhorn holding near-zero equity beta when market is fully invested and at record highs.",
-      "Bass highlighting high-end consumer as overlooked recession trigger ignored by consensus."
-    ],
-    "vs_market_sell": [
-      "Hartnett calling formal sell while consensus is maximally long equity.",
-      "Bannister at S&P 5,250-5,500 target \u2014 most bearish on the Street vs. consensus ~7,800.",
-      "Edwards warning of double-digit inflation for next decade vs. consensus disinflation.",
-      "Rosenberg aggressively long 30-year Treasuries at 5.2% against consensus bond avoidance."
-    ],
-    "buy_vs_sell_divergence": [
-      "Equity direction: Ackman/Tepper/Bessent/Tudor Jones bullish vs. Einhorn/Burry/Dalio bearish/defensive.",
-      "AI trade: Druckenmiller/Tudor Jones still long AI infrastructure vs. Burry/Dalio shorting AI leaders.",
-      "Inflation: Gundlach (buy-side) sees structurally sticky yields vs. Hatzius (sell-side) sees clear disinflation path.",
-      "Dollar: Druckenmiller/Marks hedging USD weakness vs. Bessent defending dollar strength from Treasury."
-    ],
-    "aligned": [
-      "AI dominates both sides \u2014 disagreement is valuation/timing, not AI's transformative significance.",
-      "Late-cycle positioning appropriate; earnings are exceptional but valuation risk is elevated.",
-      "Iran war and Hormuz geopolitical risk acknowledged as significant tail risk by both sides.",
-      "Financial repression and fiscal dominance as structural multi-year force gaining cross-side acceptance."
-    ],
-    "buy_side_trades": [
-      "Long Broadcom, ARM, Intel, Micron, Seagate \u2014 next-gen AI infrastructure. [Druckenmiller]",
-      "Long Netflix, Visa, Mastercard, blue-chip quality. [Ackman]",
-      "Short Nvidia, Palantir, SOXX \u2014 AI bubble unwind. [Burry]",
-      "Long gold, real assets, non-US equities as USD hedge. [Druckenmiller, Marks, Dalio]",
-      "Short long-end Treasuries; avoid 30yr at current yields. [Gundlach]",
-      "Long memory chips (Micron, Samsung, SK Hynix) as AI deployment plays. [Tepper]"
-    ],
-    "sell_side_trades": [
-      "Long equities; earnings momentum argues against defensive positioning. [Yardeni, Wilson]",
-      "Long short-to-medium duration bonds (2-7yr); disinflation supports duration. [Hatzius, Rosenberg]",
-      "Defensive value (healthcare, staples, gold) over big tech/momentum. [Bannister, Hartnett]",
-      "Reduce Mag7 concentration; diversify away from AI-heavy indices. [Hartnett, Visser]",
-      "Long energy/commodities on Iran war/Hormuz risk. [Jim Reid, Peter Berezin]",
-      "Long Canadian bonds on rate divergence. [Rosenberg]"
-    ],
-    "dominant_themes": [
-      "AI bubble vs. deployment cycle: peak AI fear vs. infrastructure rotation",
-      "Earnings-led equity melt-up vs. crowding/valuation risk (Hartnett's sell signal)",
-      "Inflation normalization vs. fiscal dominance debate: temporary H1 factors vs. structural decade-long shift"
-    ],
+    "period_start": "2026-07-17",
+    "period_end": "2026-08-16",
+    "entries_count": 157,
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "neutral"
+    "sell_side_sentiment": "mixed"
   }
 }
