@@ -1,229 +1,52 @@
 {
-  "generated_at": "2026-08-16",
+  "generated_at": "2026-08-17",
   "today": {
-    "date": "2026-08-16",
-    "entries_count": 5,
-    "buy_side_bullets": [
-      "Dollar at historic purchasing power peak \u2014 foreigners 'way, way overloaded' in USD; structural decline underway. [Druckenmiller]",
-      "Brazil/Argentina EM trade is the top macro theme outside of AI/biotech: EWZ ~4.5% of portfolio, YPF +433% in Q1 \u2014 cheapest real rates globally. [Druckenmiller]",
-      "730% accumulation of iShares Core S&P 500 ETF (IVV) in Q2 \u2014 now the largest single holding; passive US equity re-entry at scale signals conviction on H2. [Tudor Jones]",
-      "AI is the singular market driver: 'All that matters is AI and Nvidia; I couldn't care less about rates.' [Druckenmiller]"
-    ],
-    "sell_side_bullets": [
-      "Near-record household equity exposure and margin leverage historically signal weaker forward returns \u2014 key contrarian risk even amid strong fundamentals. [Sonders]",
-      "S&P 500 earnings tracking +25% YoY for full-year 2026 (vs. initial 16% estimates), GDP near 3% \u2014 but masks tail risks. [Sonders]",
-      "Inflation persistently near 3%, above Fed's 2% target \u2014 disinflation path remains non-linear; policy cushion limited. [Sonders]",
-      "Bitcoin positioned as best macro hedge against AI-driven age of abundance where labor deflation compresses traditional equity premiums. [Visser]",
-      "CBO projects 1.8% real GDP growth 2026-2035 \u2014 'prepare to muddle through'; Global Restructuring is a generational reorder, not a cyclical correction. [Mauldin]"
-    ],
-    "whats_new": [
-      "Druckenmiller shift: Portfolio 'no longer AI-driven' \u2014 pivoting to dollar short + Latin America EM as dominant macro theme (new from prior TSMC/chip focus)",
-      "Tudor Jones shift: Dramatic passive equity accumulation via IVV (730% increase) \u2014 prior stance was more tactical/hedged",
-      "Mauldin evolving: 'Prepare to Muddle Through' framing added to Global Restructuring thesis \u2014 more explicit about sub-2% structural GDP trajectory"
-    ],
-    "vs_market_buy": [
-      "Druckenmiller's dollar short is counter-consensus: market prices USD resilience on US growth exceptionalism",
-      "Druckenmiller's EM (Brazil/Argentina) focus is deeply contrarian vs. US-centric positioning of most peers"
-    ],
-    "vs_market_sell": [
-      "Sonders' near-record equity exposure warning contrasts with current bullish consensus on earnings momentum",
-      "Mauldin's 1.8% structural GDP trajectory is well below buy-side consensus of 3%+ Roaring 2020s scenario",
-      "Visser's Bitcoin-as-macro-hedge positioning is highly unconventional for a macro sell-side research firm"
-    ],
-    "buy_vs_sell_divergence": [
-      "Buy side (Tudor Jones) aggressively accumulating passive US equity via IVV; sell side (Sonders) warning near-record equity exposure historically precedes weaker returns",
-      "Buy side (Druckenmiller) thinks AI is the singular driver of everything; sell side (Visser) thinks AI disrupts the equity return premium itself \u2014 argues for Bitcoin over equities"
-    ],
-    "aligned": [
-      "AI remains the central macro force \u2014 acknowledged as dominant driver by both buy and sell side",
-      "Inflation above 2% target persists \u2014 both sides note the Fed's path back to target is uncertain"
-    ],
-    "buy_side_trades": [
-      "Short USD, long EM: Brazil ETF (EWZ), Argentine YPF [Druckenmiller]",
-      "Long US equities with dollar hedge overlay [Druckenmiller]",
-      "Long US equities via passive IVV in size; overweight TSMC, Nvidia, Micron [Tudor Jones]"
-    ],
-    "sell_side_trades": [
-      "Reduce elevated equity allocation; favor fixed income as inflation and rates risk premium elevated [Sonders]",
-      "Long Bitcoin as core macro hedge against AI abundance/labor deflation [Visser]",
-      "Position for prolonged elevated volatility and above-target inflation; avoid long-duration bonds [Mauldin]"
-    ],
-    "dominant_themes": [
-      "Dollar weakness / EM rotation (Druckenmiller)",
-      "US equity reloading \u2014 passive scale accumulation (Tudor Jones)",
-      "AI abundance deflating traditional asset returns, Bitcoin as hedge (Visser)"
-    ],
+    "date": "2026-08-17",
+    "entries_count": 0,
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "bearish"
+    "sell_side_sentiment": "mixed"
   },
   "week": {
-    "period_start": "2026-08-09",
-    "period_end": "2026-08-16",
-    "entries_count": 49,
-    "buy_side_bullets": [
-      "US equity re-entry at scale: passive IVV 730% increase and Fannie/Freddie '10x' call signal highest buy-side conviction level since March. [Tudor Jones, Ackman]",
-      "Dollar at historic purchasing power peak; structural short emerging \u2014 foreigners 'way, way overloaded' in USD. [Druckenmiller shift]",
-      "AI chip supply chain is the buy-side's preferred AI expression: Broadcom, Arm, Micron, TSMC over Nvidia and Mag7. [Druckenmiller]",
-      "Memory chip AI infrastructure (Micron, Samsung, SK Hynix) drove 32% H1 outperformance; now doubling down on Micron (+200%). [Tepper evolving]",
-      "AI bubble forming: textbook speculative excess and 1999-2000 parallels flagged by the week's most bearish buy-side voices. [Dalio, Burry]",
-      "Capital preservation mode with lowest-ever net exposure \u2014 'most expensive US equity market we have ever seen.' [Einhorn]",
-      "High-end consumer health is the economy's critical leading indicator \u2014 rollover would take the whole economy with it. [Bass]"
-    ],
-    "sell_side_bullets": [
-      "Bull & Bear Indicator at 9.7 (highest since 2021) \u2014 first sell signal since 2021; only 21/500 stocks (4%) making new highs, matching dot-com peak. [Hartnett]",
-      "S&P 500 year-end target raised to 8,400 on 'FEMO' (Fabulous Earnings Momentum) \u2014 Q2 EPS +46.7% YoY; Roaring 2020s probability lifted to 80%. [Yardeni evolving]",
-      "'1999 meets 1990' macro regime: AI boom colliding with oil shock-driven central bank hawkishness; global inflation revised to 3.8%. [Reid]",
-      "AI capex cycle biggest in history at 0.85pp GDP/year; profits 'funded by investors not earned from customers' \u2014 revenue gap is the critical 2026-27 risk. [Slok]",
-      "US recession risk at 40%, Europe/Japan at 50%; oil shock GDP lag means worst damage still 4 quarters ahead. [Berezin]",
-      "Long-duration Treasuries are the trade: 30-yr at 5.2% with 3% real rate = near-zero downside, ~20% upside as consumer slowdown hits. [Rosenberg]",
-      "Financial repression for 15-20 years: governments will structurally keep real rates below inflation; capital controls are entirely unpriced tail risk. [Napier]",
-      "Ice Age thesis retired: fiscal dominance replacing secular stagnation; AI macro doomsday 'is here now, not 2028.' [Edwards shift]",
-      "July CPI benign (+0.1% MoM, 3.4% annual); H1 inflation drivers (tariffs, Iran oil, World Cup) are fading; Goldman expects sustained disinflation. [Hatzius]",
-      "S&P 500 8,000 year-end target maintained; 'worst momentum selloff in history' is a rotation signal, not a bear market \u2014 new leadership in insurance/healthcare. [Wilson]"
-    ],
-    "whats_new": [
-      "Druckenmiller shift: pivot from AI-driven positioning to dollar short + Latin America EM as #1 macro theme",
-      "Tudor Jones shift: massive passive equity accumulation (IVV 730%) vs. prior more cautious/hedged stance",
-      "Tepper evolving: H1 memory chip thesis now concentrating into Micron 200% position increase",
-      "Edwards shift: Ice Age thesis formally retired \u2014 fiscal dominance and double-digit inflation replace secular stagnation",
-      "Yardeni evolving: S&P 500 target raised to 8,400 from 8,250, Roaring 2020s probability lifted to 80%",
-      "Hartnett: Bull & Bear Indicator hitting 9.7 is first sell signal since 2021 \u2014 formal tactical sell call issued"
-    ],
-    "vs_market_buy": [
-      "Druckenmiller's bearish dollar + EM rotation is deeply counter-consensus vs. USD strength and US exceptionalism narrative",
-      "Burry and Dalio AI bubble warnings vs. market consensus that AI capex cycle is self-sustaining",
-      "Einhorn's 'most expensive market ever' caution vs. broadly bullish buy-side sentiment on earnings momentum"
-    ],
-    "vs_market_sell": [
-      "Hartnett's formal sell signal (BBI 9.7) and 'retreat not reload' call vs. Yardeni's 8,400 target and 80% Roaring 2020s probability",
-      "Rosenberg's long-duration Treasury thesis vs. Gundlach's 'rates must go higher' view \u2014 explicit intra-sell-side divergence",
-      "Berezin and Napier's structural bearishness vs. Wilson and Yardeni's constructive year-end equity calls"
-    ],
-    "buy_vs_sell_divergence": [
-      "US equities: buy side broadly re-entering (Tudor Jones, Ackman, Tepper); sell side split \u2014 Hartnett issuing formal sell signal vs. Wilson/Yardeni at 8,000-8,400 targets",
-      "AI bubble: buy side split (Druckenmiller/Burry/Dalio see bubble; Ackman/Tepper see opportunity); sell side united that AI capex sustainability is the key risk",
-      "Rates: buy side (Druckenmiller) says 'I couldn't care less about rates'; sell side (Gundlach) says 30-yr yield surge to 5.2% is THE defining macro signal",
-      "Dollar: buy side (Druckenmiller) structurally bearish; sell side (Bessent) bullish USD on US growth outperformance"
-    ],
-    "aligned": [
-      "AI is the central macro force \u2014 universal acknowledgment from all 28 investors as the dominant driver",
-      "Inflation above target (3-3.8%) will persist longer than the Fed wants \u2014 no quick return to 2%",
-      "Gold broadly liked as hedge: Dalio, Einhorn, Napier, Rosenberg all adding/holding gold",
-      "Iran oil shock is an unresolved macro risk that could tip Europe/Japan into recession if Hormuz disruption extends",
-      "US earnings momentum is genuine \u2014 Q2 surge of 46.7% YoY is factual and broadly acknowledged"
-    ],
-    "buy_side_trades": [
-      "Short USD / long Brazil EWZ and Argentine YPF [Druckenmiller]",
-      "Long US equities with dollar hedge; long AI chip supply chain: Broadcom, Arm, Micron, TSMC [Druckenmiller]",
-      "Long US equities via passive IVV; overweight TSMC, Nvidia, Micron [Tudor Jones]",
-      "Long Netflix, Visa, Mastercard; long Fannie Mae and Freddie Mac (10x thesis) [Ackman]",
-      "Long Micron (+200%); long Alibaba (China recovery) [Tepper]",
-      "Short Nvidia, Palantir via puts; short PHLX Semiconductor ETF and Oracle [Burry]",
-      "Long gold, diversified non-USD currencies [Dalio]"
-    ],
-    "sell_side_trades": [
-      "25/25/25/25 'sleep like a baby' portfolio: stocks/bonds/cash/commodities equally weighted [Hartnett]",
-      "Short Nvidia and AI mega-caps via tactical rotation; long consumer staples, healthcare, REITs [Hartnett]",
-      "Long long-duration Treasuries (30-yr 5.2% = near-zero downside, ~20% upside) [Rosenberg]",
-      "Long short-to-medium duration Treasuries (2-7yr); long CMBS [Gundlach, Hatzius]",
-      "Long gold as primary financial repression hedge [Napier, Einhorn]",
-      "Long quality / stable-earnings equities; rotate out of AI momentum names [Wilson]",
-      "Long bonds over equities for H2 2026; underweight European and Japanese equities [Berezin]",
-      "Long Bitcoin as macro hedge against AI-driven labor deflation [Visser]",
-      "Long energy / commodities on Iran Hormuz risk scenario [Reid, Mauldin]"
-    ],
-    "dominant_themes": [
-      "AI capex bubble risk vs. earnings momentum \u2014 the week's central unresolved tension",
-      "Extreme bullish crowding (BBI 9.7) vs. FEMO earnings melt-up \u2014 Hartnett vs. Yardeni",
-      "Dollar structural bearishness + EM rotation (Druckenmiller) gaining buy-side momentum"
-    ],
+    "period_start": "2026-08-10",
+    "period_end": "2026-08-17",
+    "entries_count": 43,
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "month": {
-    "period_start": "2026-07-17",
-    "period_end": "2026-08-16",
-    "entries_count": 162,
-    "buy_side_bullets": [
-      "US equities re-loaded at scale across the buy side; Tepper 101.8% return, memory chips (+200% Micron) and China recovery (Alibaba) as top expressions. [Tepper, Ackman, Tudor Jones]",
-      "Dollar structural bearishness solidifying \u2014 historic purchasing power peak with foreigners 'way, way overloaded'; EM (Brazil, Argentina) emerging as the contrarian macro expression. [Druckenmiller shift]",
-      "AI chip supply chain over Nvidia: rotation to Broadcom, Arm, Micron, TSMC as the disciplined AI infrastructure play. [Druckenmiller]",
-      "AI bubble warnings intensifying \u2014 AI is a 'textbook bubble,' 1999-2000 parallels are explicit, and short bets against Nvidia/PLTR now represent 80% of disclosed portfolio. [Dalio, Burry]",
-      "Private credit evolved: direct lending alpha is gone; asset-backed finance and distressed credit are the new alpha sources in credit markets. [Marks]",
-      "Fannie Mae and Freddie Mac called 'stupidly cheap' \u2014 one of the best buying opportunities in years for high-quality franchises near conservatorship exit. [Ackman]",
-      "Capital preservation at all-time-low net exposure \u2014 'most expensive US equity market ever seen'; closed to new investors. [Einhorn]"
-    ],
-    "sell_side_bullets": [
-      "Extreme bullish crowding at historic levels \u2014 BBI 9.7 (first sell signal since 2021); 21 stocks (4%) making new highs, matching dot-com peak. [Hartnett]",
-      "S&P 500 target raised to 8,400 on FEMO; Roaring 2020s probability 80%; Q2 earnings +46.7% YoY; 10,000 by end of 2029. [Yardeni evolving]",
-      "AI capex cycle is the largest ever \u2014 0.85pp of GDP/year, reaching 3% by 2027-29 \u2014 but profits 'funded by investors not customers'; revenue gap is the 2027 reckoning. [Slok]",
-      "'1999 meets 1990' macro regime: AI boom + oil shock = central banks forced into unexpected hawkishness; global inflation 3.8%. [Reid]",
-      "Financial repression for 15-20 years: capital controls largely unpriced; gold is the canary. [Napier]",
-      "Ice Age thesis retired; fiscal dominance replaces secular stagnation; double-digit inflation plausible; AI doomsday 'here now.' [Edwards shift]",
-      "Long-duration Treasury thesis: 30-yr at 5.2% with 3% real rate = near-zero loss probability, ~20% upside as consumer slowdown materializes. [Rosenberg]",
-      "Disinflation resumes: July CPI +0.1% MoM confirms H1 overshoots were temporary (tariffs, Iran, World Cup); Goldman projects no rate hike in 2026. [Hatzius]",
-      "US recession risk at 40%, Europe/Japan at 50%; oil shock GDP damage lags 4 quarters \u2014 worst still ahead if Hormuz closure extends. [Berezin]",
-      "S&P 500 8,000 target intact; momentum selloff is rotation not bear market; insurance and healthcare emerging as new leadership. [Wilson]",
-      "Global Restructuring + muddle through: CBO projects 1.8% GDP 2026-2035; this is the generational inflection point. [Mauldin]"
-    ],
-    "whats_new": [
-      "Druckenmiller shift: from AI-driven (Nvidia adjacents) to dollar short + EM (Brazil/Argentina) as dominant macro theme",
-      "Edwards shift: formally retired 30-year Ice Age thesis; now calling for fiscal dominance and double-digit inflation",
-      "Yardeni evolving: raised S&P 500 target to 8,400, lifted Roaring 2020s probability to 80%",
-      "Tepper evolving: H1 memory chip theme now concentrating into Micron 200% position increase in Q2",
-      "Hartnett: BBI first sell signal since 2021 \u2014 tactical inflection point for contrarian positioning",
-      "Gundlach: post-Fed-hold view shifted to 'just not possible' to cut rates given 2yr Treasury 50bps above Fed funds"
-    ],
-    "vs_market_buy": [
-      "Druckenmiller's dollar short + EM (Brazil/Argentina) vs. consensus USD long and US exceptionalism narrative",
-      "Burry's 80%-of-portfolio AI short bets vs. consensus that AI capex is self-sustaining and Nvidia is secular",
-      "Einhorn's 'most expensive market ever' caution vs. broadly bullish macro momentum"
-    ],
-    "vs_market_sell": [
-      "Hartnett's sell signal and 4% breadth reading vs. Yardeni's 80% Roaring 2020s and 8,400 target",
-      "Rosenberg's long-duration Treasury thesis vs. Gundlach's explicit bet on yields going higher",
-      "Napier's capital controls as unpriced tail risk vs. market consensus that financial repression is theoretical"
-    ],
-    "buy_vs_sell_divergence": [
-      "Equities: buy side (Jones, Ackman, Tepper) re-entering at scale; sell side split \u2014 Hartnett sell signal vs. Yardeni/Wilson 8,000-8,400 targets",
-      "AI: buy side (Druckenmiller, Burry, Dalio) sees AI bubble; sell side (Slok, Reid) worried about capex sustainability but not calling it over yet",
-      "Inflation: buy side (Bessent) says K-shaped economy over and growth back to 3%; sell side (Edwards, Reid) warn double-digit inflation is plausible",
-      "Rates: buy side (Druckenmiller) dismisses rate impact; sell side (Gundlach) says 30-yr at 5.2%+ is THE defining macro signal; Rosenberg says long the 30-yr"
-    ],
-    "aligned": [
-      "AI is the central macro force \u2014 universally acknowledged as the dominant structural driver across all 28 investors",
-      "Inflation above 2% target will persist longer than consensus expects \u2014 no quick return to pre-2022 norms",
-      "Gold broadly favored as portfolio hedge: Dalio, Einhorn, Napier, Rosenberg, Mauldin all adding/maintaining gold",
-      "Iran/Hormuz oil shock is an unresolved macro tail risk that could tip Europe/Japan into recession",
-      "US earnings momentum is genuine and above expectations \u2014 Q2 +46.7% YoY acknowledged by bears and bulls alike",
-      "AI capex cycle is the largest ever \u2014 bears and bulls both agree on its unprecedented scale, they differ on sustainability"
-    ],
-    "buy_side_trades": [
-      "Short USD / long Brazil EWZ and Argentine YPF [Druckenmiller]",
-      "Long US equities with dollar hedge; long AI chip supply chain: Broadcom, Arm, Micron, TSMC [Druckenmiller]",
-      "Long US equities via passive IVV in size; overweight AI infrastructure [Tudor Jones]",
-      "Long Netflix, Visa, Mastercard (new); long Fannie Mae and Freddie Mac [Ackman]",
-      "Long Micron (+200%), Alibaba (China recovery) [Tepper]",
-      "Short Nvidia and Palantir via puts; short PHLX Semiconductor ETF, Oracle [Burry]",
-      "Long gold, diversified non-USD currencies [Dalio]",
-      "Long asset-backed finance and distressed credit over commoditized direct lending [Marks]"
-    ],
-    "sell_side_trades": [
-      "25/25/25/25 balanced portfolio: stocks/bonds/cash/commodities equally weighted [Hartnett]",
-      "Long long-duration Treasuries (30-yr 5.2% = ~20% upside) [Rosenberg]",
-      "Long short-to-medium duration Treasuries (2-7yr); long CMBS; avoid long-end [Gundlach]",
-      "Long gold as financial repression hedge [Napier, Einhorn, Hartnett]",
-      "Long bonds over equities for H2 2026/2027; underweight European and Japanese equities [Berezin]",
-      "Long quality / stable-earnings equities; rotate from AI momentum to insurance, healthcare [Wilson]",
-      "Long energy / commodities on Iran Hormuz risk [Reid, Mauldin]",
-      "Long Bitcoin as AI abundance macro hedge [Visser]",
-      "Rotate to defensive value (Defensive Value over Cyclical Growth in correction) [Bannister]"
-    ],
-    "dominant_themes": [
-      "AI capex bubble vs. earnings melt-up \u2014 the month's unresolved central tension between bears and bulls",
-      "Financial repression / fiscal dominance regime shift \u2014 Napier, Edwards, Rosenberg all building the same structural case",
-      "Dollar structural decline + EM rotation \u2014 Druckenmiller's conviction trade gaining momentum as US exceptionalism is questioned"
-    ],
+    "period_start": "2026-07-18",
+    "period_end": "2026-08-17",
+    "entries_count": 148,
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   }
