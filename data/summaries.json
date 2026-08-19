@@ -2,109 +2,130 @@
   "generated_at": "2026-08-19",
   "today": {
     "date": "2026-08-19",
-    "entries_count": 1,
+    "entries_count": 9,
     "buy_side_bullets": [
-      "No buy-side entries for this period — insufficient data to generate bullets. [N/A]"
+      "TBAC minutes reveal $1.45T funding shortfall in FY2027-28 from bill-heavy financing strategy \u2014 Bessent's financial engineering to keep deficit costs low has created a structural refinancing wall; JPMorgan estimates cumulative $3.7T gap by 2030. [Bessent]",
+      "Apple position is a complex hedge: long equity + simultaneous $241M put options on 835K underlying shares \u2014 not a pure directional bet; CoreWeave $107M new long adds AI cloud conviction despite -$5.7B FCF and 8.94x D/E. [Tepper]",
+      "Short AI cloud infrastructure (CoreWeave puts) while long AI hardware enablers (MU, AMAT, AMD, TSM) \u2014 direct picks-and-shovels divergence trade in action, explicitly opposing Tepper's CoreWeave long. [Soros]"
     ],
     "sell_side_bullets": [
-      "AI capex boom accelerating at nearly 2x the pace of the 2000s housing bubble — unwinding risk systemic and underpriced by markets. [Slok]",
-      "Macro risks from AI investment cycle extend well beyond tech equities — contagion potential to broader economy if cycle turns. [Slok]",
-      "UK growth prospects structurally weak — 'not great' outlook amid global headwinds. [Slok]",
-      "Consumer balance sheets resilient despite headwinds — not a primary source of near-term macro stress. [Slok]"
+      "BofA Bull & Bear Indicator at 9.7 \u2014 highest since 2021, outright sell signal active as US debt crosses $40T milestone; tactically retreat from banks/industrials/semis, go long gold as debt-debasement hedge. [Hartnett]",
+      "Markets too hawkish on Fed rate hike bets \u2014 Goldman pushes back explicitly; July jobs 'a weaker report,' consumer spending slowing as Q2 tax refund boost fades; September hike 'very unlikely.' [Hatzius]",
+      "30-year Treasury above 5.20% (20-year high) signals inflation confidence eroding; avoid long end, prefer 2-7yr maturities with BBB+ quality; CCC bank loans facing widening spreads and rising defaults. [Gundlach]",
+      "AI capex buildout at nearly 2x housing bubble pace \u2014 systemic unwind risk underpriced; de-risk AI capex-dependent equities before cycle peaks. [Slok]",
+      "Higher Treasury yields now actively headwinding equities \u2014 healthcare emerging as yield-resistant rotation winner alongside insurance; record margin debt adds tail risk. [Sonders, Wilson]"
     ],
     "whats_new": [
-      "AI capex cycle explicitly compared to 2008 housing boom/bust in scale and pace — a new and pointed warning with systemic macro framing rather than sector-specific caution. [Slok]",
-      "UK economy flagged as a distinct area of concern with poor growth prospects — newly added geographic risk dimension beyond prior US-centric commentary. [Slok]"
+      "BofA Bull & Bear crosses 9.7 for first time since 2021 \u2014 outright sell signal now active, paired with 'Strife Begins at Forty' debt milestone warning and explicit gold long recommendation. [Hartnett evolving]",
+      "Goldman explicitly labels market Fed hike pricing 'too hawkish' \u2014 first direct push against consensus rate expectations, moving beyond prior 'rate hike unlikely' language to an active market call. [Hatzius shift]",
+      "TBAC minutes expose $1.45T structural Treasury funding shortfall from Bessent's bill-heavy strategy \u2014 government advisory committee officially flags the refinancing risk his financial engineering created. [Bessent]",
+      "Tepper reveals long Apple equity + Apple put options simultaneously \u2014 complex hedged structure contradicting the pure-long reading from Q2 13F headlines; CoreWeave long adds new AI cloud conviction. [Tepper]",
+      "Soros-Tepper CoreWeave face-off crystallizes: Tepper long $107M vs Soros short via puts \u2014 AI cloud infrastructure at extreme leverage is this week's most concrete buy-vs-sell-side divergence. [Soros vs Tepper]"
     ],
     "vs_market_buy": [
-      "No buy-side data available for this period — vs-market divergence cannot be assessed. [N/A]"
+      "TBAC $1.45T funding shortfall vs market pricing benign Treasury supply outlook \u2014 structural refinancing risk from bill-heavy strategy not yet in spread or duration pricing. [Bessent]",
+      "CoreWeave puts while market prices 112% YoY revenue growth as bullish confirmation \u2014 Soros skeptical of AI cloud intermediaries with 8.94x D/E and negative FCF despite backlog. [Soros]"
     ],
     "vs_market_sell": [
-      "AI capex-linked equities remain richly valued as market prices continued hyperscaler spend — Slok's bust-cycle warning sits in sharp contrast to consensus growth assumptions embedded in 20x+ forward multiples. [Slok]",
-      "Macro contagion risk beyond tech is unpriced — credit spreads and broad equity risk premia do not reflect a potential AI investment cycle collapse of 2008-housing magnitude. [Slok]"
+      "Formal BofA sell signal active while consensus equity targets point to S&P 8,000-8,400 \u2014 contrarian warning at historic crowding extremes. [Hartnett]",
+      "Goldman dovish on Fed while Gundlach calls for rate hikes \u2014 bond market caught between sell-side heavyweights with diametrically opposed outlooks; market cannot price both simultaneously. [Hatzius vs Gundlach]"
     ],
     "buy_vs_sell_divergence": [
-      "No buy-side entries this period — cross-camp divergence cannot be constructed from available data. [N/A]"
+      "CoreWeave: Tepper long $107M vs Soros short via puts \u2014 direct face-off on whether AI cloud infrastructure at 8.94x D/E and -$5.7B FCF is a growth buy or credit risk short. [Tepper vs Soros]",
+      "Fed path: Goldman says markets too hawkish on rate hike bets vs Gundlach says bond market signals Fed must raise rates \u2014 largest current-week rate outlook gap between major voices. [Hatzius vs Gundlach]"
     ],
     "aligned": [
-      "Only one analyst active this period — no cross-analyst consensus can be established. [N/A]"
-    ],
-    "sell_side_trades": [
-      "De-risk or reduce exposure to AI capex-dependent equities — unwinding risk of housing-bust magnitude not reflected in current valuations. [Slok]",
-      "Add hedges against AI investment cycle collapse — tail risk protection warranted given pace and scale of capex acceleration. [Slok]"
+      "Sector rotation away from semiconductor/AI leaders ongoing \u2014 Wilson names insurance and healthcare equipment as new momentum winners; Sonders confirms healthcare as yield-resistant rotation beneficiary. [Wilson, Sonders]",
+      "Structurally higher long-end yields as macro baseline \u2014 30yr at 5.20%+ with further increases expected from deficit, AI financing, and Social Security shortfalls. [Gundlach, Hartnett]"
     ],
     "buy_side_trades": [
-      "No buy-side entries this period — no trades to report. [N/A]"
+      "Long CoreWeave (CRWV, ~$107M) \u2014 AI cloud infrastructure conviction alongside hedged Apple exposure via simultaneous equity long and put options. [Tepper]",
+      "Long AI hardware enablers (MU, AMAT, AMD, TSM); short AI cloud intermediaries via CoreWeave puts \u2014 picks-and-shovels AI trade expressed against levered cloud layer. [Soros]"
+    ],
+    "sell_side_trades": [
+      "Long gold as primary debt-debasement hedge \u2014 $40T milestone, dollar depreciation trajectory, Bull & Bear sell signal all converge. [Hartnett]",
+      "Long 2-7yr investment-grade credit (BBB+); avoid long-end Treasuries; exit CCC bank loans \u2014 duration and quality discipline as 30yr holds above 5.20%. [Gundlach]",
+      "Long healthcare equities as yield-resistant rotation; reduce margin/leverage exposure given record debt levels. [Sonders]",
+      "Long insurance and healthcare equipment as new momentum leaders post 'worst momentum selloff in history'; reduce semiconductor/AI chip exposure. [Wilson]",
+      "Fade market-implied Fed hike pricing \u2014 dovish rate positioning warranted as labor market decelerates and consumer spending slows. [Hatzius]"
     ],
     "dominant_themes": [
-      "AI capex bubble and systemic unwind risk",
-      "Macro contagion beyond technology sector",
-      "UK and global growth fragility"
+      "Fed rate path divergence \u2014 Goldman dovish vs Gundlach hawkish, BofA sell signal adding urgency to the uncertainty",
+      "AI cloud vs AI hardware split \u2014 CoreWeave Tepper/Soros face-off as microcosm of levered intermediary vs picks-and-shovels thesis",
+      "Treasury structural refinancing risk \u2014 TBAC $1.45T gap, $40T debt milestone, and bill-heavy engineering unwind risk"
     ],
-    "buy_side_sentiment": "neutral",
+    "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "bearish"
   },
   "week": {
     "period_start": "2026-08-12",
     "period_end": "2026-08-19",
-    "entries_count": 47,
+    "entries_count": 55,
     "buy_side_bullets": [
-      "AI valuations mirror 1929/2000 bubble extremes — reducing risk, diversifying away from USD-concentrated assets, and warning of 'financial heart attack' convergence risk from policy recession + eroding foreign confidence + AI arms race. [Dalio, Burry, Einhorn]",
-      "Mega-cap tech and AI infrastructure still have significant runway — loading Amazon, Alphabet, AMD as dominant platform winners while selectively trimming peripheral chipmakers; S&P 500 re-entry in size signals H2 conviction. [Druckenmiller, Tudor Jones, Tepper]",
-      "Bitcoin re-entering as macro hedge — renewed conviction after year of selling; framed as 'S&P 500 of the future' as AI commoditizes labor and compresses traditional equity return premiums. [Tudor Jones, Visser]",
-      "Semiconductor sector bifurcating — long MU, AMAT, AMD, TSM on structural AI memory demand while hedging NVIDIA concentration via puts, signaling macro skepticism beneath sector optimism. [Soros, Tepper]"
+      "AI valuations mirror 1929/2000 bubble extremes \u2014 reducing risk, diversifying away from USD-concentrated assets, and warning of 'financial heart attack' convergence risk from policy recession + eroding foreign confidence + AI arms race. [Dalio, Burry, Einhorn]",
+      "Mega-cap tech and AI infrastructure still have significant runway \u2014 Amazon elevated to largest holding, Alphabet loaded alongside Klarman, Micron doubled on AI memory thesis, CoreWeave $107M new long on AI cloud conviction. [Tepper, Druckenmiller]",
+      "Bitcoin re-entering as macro hedge \u2014 renewed conviction after year of selling; framed as 'S&P 500 of the future' as AI commoditizes labor and compresses traditional equity return premiums. [Tudor Jones, Visser]",
+      "AI trade bifurcating at the cloud layer \u2014 long semiconductor hardware (MU, AMAT, AMD, TSM) while shorting AI cloud intermediaries (CoreWeave puts); complex Apple hedge (long equity + puts) signals tactical risk management. [Soros, Tepper]",
+      "Treasury funding risk crystallizing \u2014 TBAC $1.45T FY2027-28 shortfall from bill-heavy financing exposed; US-Japan joint intervention signals active G7 macro coordination as dollar under structural pressure. [Bessent]"
     ],
     "sell_side_bullets": [
-      "BofA Bull & Bear at 9.7 — first sell signal since 2021, crowding at historic extremes with Mag7 at 34% of S&P 500 (Nifty 50 parallel), only 4% of index making new highs, record tech fund inflows; 'retreat and rotate not reload.' [Hartnett ↑ evolving]",
-      "AI capex buildout accelerating at 0.85pp of GDP/year — nearly 2x peak housing bubble pace — with profits still 'funded by investors not customers'; a cycle building this fast can unwind just as fast. [Slok ↑ evolving]",
-      "US recession probability at 40%, Europe/Japan at 50% — Iran-driven Hormuz oil shock disrupting ~10% of global supply, crude could reach $200/bbl; GDP damage from oil shocks typically peaks 4 quarters after impact, worst still ahead. [Berezin ↑ evolving]",
-      "S&P 500 to contract to 6,350 near-term — EPS growth decelerating to 3.3% YoY, labor market 'tenuous,' current stretched valuations unsustainable; Defensive Value over Cyclical Growth. [Bannister]",
-      "Fabulous earnings momentum driving targets higher — Q2 earnings +46.7% YoY, Roaring 2020s probability raised to 80%, S&P 500 year-end target lifted to 8,400 with 10,000 in sight by 2029; geopolitical spikes are buy opportunities. [Yardeni]"
+      "BofA Bull & Bear at 9.7 \u2014 first outright sell signal since 2021, crowding at historic extremes with Mag7 at 34% of S&P 500 (Nifty 50 parallel), only 4% making new highs; 'retreat and rotate not reload,' long gold as $40T debt milestone is hit. [Hartnett evolving]",
+      "AI capex buildout accelerating at 0.85pp of GDP/year \u2014 nearly 2x peak housing bubble pace \u2014 with profits still 'funded by investors not customers'; a cycle building this fast can unwind just as fast. [Slok evolving]",
+      "US recession probability at 40%, Europe/Japan at 50% \u2014 Iran-driven Hormuz oil shock disrupting ~10% of global supply; GDP damage from oil shocks typically peaks 4 quarters after impact, worst still ahead. [Berezin evolving]",
+      "S&P 500 to contract to 6,350 near-term \u2014 EPS growth decelerating to 3.3% YoY, labor market 'tenuous,' current stretched valuations unsustainable; Defensive Value over Cyclical Growth. [Bannister]",
+      "Fabulous earnings momentum driving targets higher \u2014 Q2 earnings +46.7% YoY, Roaring 2020s probability at 80%, S&P 500 year-end target lifted to 8,400; geopolitical spikes are buy opportunities. [Yardeni]"
     ],
     "whats_new": [
-      "SpaceX IPO at $1.75T valuation explicitly flagged as 'major speculative top' marker — new bearish signpost from a historically contrarian voice, paired with quiet reduction of GLD despite gold bull reputation. [Einhorn]",
-      "Gundlach breaks from consensus by arguing bond market is signaling the Fed must raise rates — explicit tightening call while Hatzius and market price zero hikes for remainder of 2026. [Gundlach]",
-      "Burry shifts from 6-of-7 shorts profitable to issuing 1987-style crash warning citing a 150-year record indicator — escalation beyond prior 1999-2000 bubble parallel framing. [Burry ↑ evolving]",
-      "Druckenmiller rotates into Alphabet and Amazon alongside loading AMD while dumping other chipmakers — new portfolio configuration versus prior TSMC/Sea Ltd/copper positioning from earlier in the week. [Druckenmiller ↑ shift]"
+      "BofA Bull & Bear crosses 9.7 for first time since 2021 \u2014 outright sell signal now active, 'Strife Begins at Forty' flags US debt at $40T now/$50T by 2029; explicit gold long recommendation added. [Hartnett evolving]",
+      "Goldman explicitly pushes back on market-implied Fed hike pricing as 'too hawkish' \u2014 moving beyond prior 'rate hike unlikely' language; July jobs called 'weaker report,' consumer slowdown warned. [Hatzius shift]",
+      "SpaceX IPO at $1.75T valuation explicitly flagged as 'major speculative top' \u2014 quiet GLD reduction despite gold bull reputation signals broad risk-off repositioning. [Einhorn]",
+      "Gundlach breaks from consensus: bond market signaling Fed must raise rates \u2014 30yr at 5.20%+ is 20-year high; specific positioning (2-7yr, BBB+, avoid CCC) replaces vague hawkish framing. [Gundlach shift]",
+      "TBAC $1.45T funding shortfall exposed \u2014 Bessent's bill-heavy financing strategy created structural refinancing wall; JPMorgan estimates $3.7T cumulative gap 2027-2030. [Bessent]",
+      "Tepper Apple position revealed as hedged structure: long equity + $241M puts simultaneously \u2014 CoreWeave $107M adds AI cloud conviction; Soros directly opposes with CoreWeave puts. [Tepper, Soros]"
     ],
     "vs_market_buy": [
-      "Shorting QQQ, NVDA, Palantir, Micron, and semis ETF while S&P 500 trades at record highs and market prices continued AI-driven earnings growth — among the most aggressive counter-consensus positions in the tracker. [Burry]",
-      "Holding cash over equities as preferred asset class while credit spreads remain near multi-year tights and equity risk premium is compressed — explicit rejection of current market pricing on recession odds. [Berezin, Dalio]",
-      "Long 30-year Treasuries at 5.2% yield as core conviction trade while market prices two additional Fed rate hikes — if hike expectations fade, ~20% total return upside vs near-zero downside. [Rosenberg]"
+      "Shorting QQQ, NVDA, Palantir, Micron, and semis ETF while S&P 500 trades at record highs \u2014 among the most aggressive counter-consensus positions in the tracker. [Burry]",
+      "Holding cash over equities as preferred asset class while credit spreads remain near multi-year tights and equity risk premium is compressed \u2014 explicit rejection of current market pricing on recession odds. [Berezin, Dalio]",
+      "Short CoreWeave via puts while market prices 112% YoY revenue growth as bullish \u2014 Soros skeptical despite $104B backlog given 8.94x D/E and -$5.7B FCF. [Soros]"
     ],
     "vs_market_sell": [
-      "Stagflation and fiscal dominance risks deeply underpriced — surging bank lending and money supply could rekindle double-digit inflation while asset prices and credit spreads reflect no such scenario. [Edwards, Mauldin]",
-      "Industrial cycle deteriorating beneath AI narrative — 'blue-collar semiconductor' index down 21% from June high signals real economy divergence that equity markets have not priced. [Hartnett]",
-      "European and Japanese equities priced for resilience while recession probability sits at 50% given energy import dependence and Hormuz shock GDP lag still ahead. [Berezin, Reid]"
+      "Stagflation and fiscal dominance risks deeply underpriced \u2014 surging bank lending and money supply could rekindle double-digit inflation while asset prices and credit spreads reflect no such scenario. [Edwards, Mauldin]",
+      "Industrial cycle deteriorating beneath AI narrative \u2014 'blue-collar semiconductor' index signals real economy divergence that equity markets have not priced. [Hartnett]",
+      "European and Japanese equities priced for resilience while recession probability sits at 50% given energy import dependence and Hormuz shock GDP lag still ahead. [Berezin, Reid]",
+      "BofA formal sell signal at 9.7 while consensus targets point to S&P 8,000-8,400 \u2014 contrarian warning at historic crowding extremes. [Hartnett]"
     ],
     "buy_vs_sell_divergence": [
-      "AI trade has significant runway with mega-cap tech as dominant H2 winners vs. AI capex building at bubble pace with revenue not justifying investment — direct collision between largest buy-side accumulators and sell-side structural warning. [Druckenmiller, Tudor Jones, Tepper vs Slok, Hartnett, Dalio]",
-      "No Fed rate hikes this year as disinflation resumes vs bond market explicitly signaling Fed must raise rates to hit inflation target — irreconcilable rate path views with large asset allocation implications. [Hatzius vs Gundlach]",
-      "S&P 500 earnings momentum justifies 8,000–8,400 year-end targets vs index set to contract to 6,350 near-term on decelerating EPS and tenuous labor — widest strategic equity target gap in tracker. [Yardeni, Wilson, Hatzius vs Bannister, Berezin, Hartnett]"
+      "AI trade has significant runway with mega-cap tech as dominant H2 winners vs AI capex building at bubble pace with revenue not justifying investment \u2014 direct collision between largest buy-side accumulators and sell-side structural warning. [Druckenmiller, Tudor Jones, Tepper vs Slok, Hartnett, Dalio]",
+      "No Fed rate hikes this year as disinflation resumes vs bond market explicitly signaling Fed must raise rates to hit inflation target \u2014 markets too hawkish (Goldman) vs too dovish (Gundlach), irreconcilable. [Hatzius vs Gundlach]",
+      "CoreWeave: Tepper long $107M vs Soros short via puts \u2014 AI cloud infrastructure at extreme leverage is the week's most concrete buy-vs-sell divergence trade. [Tepper vs Soros]",
+      "S&P 500 to 8,000-8,400 by year-end on 'fabulous earnings' vs index contracting to 6,350 near-term on decelerating EPS \u2014 widest strategic equity target gap in tracker. [Yardeni, Wilson vs Bannister, Berezin, Hartnett]"
     ],
     "aligned": [
-      "Market concentration at dangerous extremes — Mag7 at 34% of S&P 500, bubble parallels to 1929/1972/2000 cited across both camps, with near-record household equity exposure historically signaling weaker forward returns. [Dalio, Hartnett, Burry, Einhorn, Sonders, Bannister]",
-      "Dollar in structural decline — at historic purchasing power peak with foreign investors overloaded in USD assets; gold and diversified non-USD currencies are the agreed defensive response across buy and sell side. [Druckenmiller, Dalio, Hartnett, Reid]",
-      "Sector rotation persisting away from AI mega-caps — both bullish and cautious voices agree market leadership is shifting toward quality, defensives, and broader participation regardless of directional equity view. [Wilson, Hartnett, Sonders, Druckenmiller]"
+      "Market concentration at dangerous extremes \u2014 Mag7 at 34% of S&P 500, bubble parallels to 1929/1972/2000 cited across both camps, near-record household equity exposure historically signaling weaker forward returns. [Dalio, Hartnett, Burry, Einhorn, Sonders, Bannister]",
+      "Dollar in structural decline \u2014 at historic purchasing power peak with foreign investors overloaded in USD assets; gold and diversified non-USD currencies are the agreed defensive response. [Druckenmiller, Dalio, Hartnett, Bessent]",
+      "Sector rotation persisting away from AI mega-caps \u2014 market leadership shifting toward quality, insurance, healthcare, and defensives regardless of directional equity view. [Wilson, Hartnett, Sonders, Druckenmiller]",
+      "Long-end yields structurally elevated \u2014 30yr at 5.20%+ with further increases expected from deficits, AI financing, and Social Security shortfalls. [Gundlach, Hartnett, Bessent]"
     ],
     "buy_side_trades": [
-      "Long Amazon (largest holding), Micron (200% position increase), Apple (new entry), Alphabet — rotating within tech toward platform dominance and AI memory infrastructure while exiting Microsoft and peripheral winners. [Tepper, Druckenmiller]",
-      "Long Bitcoin via BlackRock ETF and long S&P 500 passively in size — risk-on re-entry after year of selling, framing BTC as inflation/AI-abundance hedge alongside core equity exposure. [Tudor Jones ↑ evolving]",
-      "Short USD via EM overlay — long Brazil ETF (EWZ), Argentine YPF, copper as dollar hedges while maintaining long US equity exposure; dollar at 'historic purchasing power peak.' [Druckenmiller ↑ evolving]",
-      "Long gold and diversified non-USD currencies — systematic shock absorption against 80-year grand cycle finale and eroding foreign confidence in US assets. [Dalio]"
+      "Long Amazon (largest holding), Micron (doubled), Apple (hedged: long equity + puts), Alphabet \u2014 rotating within tech toward platform dominance and AI memory; CoreWeave $107M new AI cloud bet. [Tepper, Druckenmiller]",
+      "Long Bitcoin via BlackRock ETF and long S&P 500 passively in size \u2014 risk-on re-entry framing BTC as inflation/AI-abundance hedge. [Tudor Jones evolving]",
+      "Short USD via EM overlay \u2014 long Brazil ETF (EWZ), Argentine YPF, copper as dollar hedges; dollar at 'historic purchasing power peak.' [Druckenmiller evolving]",
+      "Long AI hardware enablers (MU, AMAT, AMD, TSM); short AI cloud intermediaries (CoreWeave puts) \u2014 picks-and-shovels AI trade vs levered cloud layer. [Soros]",
+      "Long gold and diversified non-USD currencies \u2014 systematic hedge against 80-year grand cycle finale and eroding foreign confidence in US assets. [Dalio]"
     ],
     "sell_side_trades": [
-      "Rotate from Mag7/growth into consumer staples, healthcare, REITs, and biotech — sell into record tech inflow strength as Bull & Bear indicator sustains formal sell signal; 25/25/25/25 balanced portfolio as core holding. [Hartnett]",
-      "Long long-duration Treasuries (30-yr at 5.2%) and front-end bonds — near-zero downside with ~20% upside if Fed hike expectations fade; long short-to-medium duration on confirmed disinflation path. [Rosenberg, Hatzius]",
-      "Long energy and commodities on Hormuz risk — Brent in $86–$150 scenario range; underweight European and Japanese equities given 50% recession probability and maximum oil shock GDP damage still 2–3 quarters ahead. [Berezin, Reid]",
-      "Long Defensive Value (staples, utilities, healthcare) vs short Cyclical Growth — reduce broad S&P 500 exposure and target re-entry near 6,350–6,500 as EPS deceleration materializes. [Bannister]"
+      "Long gold as primary hedge \u2014 $40T debt milestone, dollar depreciation, and Bull & Bear sell signal at 9.7 all converge; 'Strife Begins at Forty' makes gold the top sell-side trade idea of the week. [Hartnett]",
+      "Rotate from Mag7/growth into consumer staples, healthcare, REITs, biotech \u2014 sell into record tech inflow strength; 25/25/25/25 balanced portfolio as core holding. [Hartnett]",
+      "Long 2-7yr investment-grade credit (BBB+), avoid long-end Treasuries, exit CCC bank loans \u2014 duration and quality discipline as 30yr holds above 5.20%. [Gundlach]",
+      "Long energy and commodities on Hormuz risk \u2014 Brent in $86-$150 scenario range; underweight European and Japanese equities given 50% recession probability. [Berezin, Reid]",
+      "Fade market-implied Fed hike pricing \u2014 Goldman dovish: September hike 'very unlikely,' inflation on improving trajectory, consumer spending slowing. [Hatzius]"
     ],
     "dominant_themes": [
-      "AI capex bubble vs earnings momentum — irreconcilable camps on whether the cycle justifies valuations or is the next housing-style unwind",
-      "Extreme equity crowding and concentration — Bull & Bear at 9.7, Mag7 at 34% of S&P 500, with formal sell signals active",
-      "Hormuz oil shock and Iran war macro spillover — recession timing, energy price scenarios, and central bank policy bind",
-      "Dollar structural decline and gold/BTC as alternatives — consensus forming across buy and sell side on USD peak",
-      "Fed path uncertainty — Gundlach demanding hikes, Hatzius pricing zero, market caught between disinflation and fiscal dominance"
+      "AI capex bubble vs earnings momentum \u2014 irreconcilable camps on whether the cycle justifies valuations or is the next housing-style unwind",
+      "Extreme equity crowding \u2014 Bull & Bear at 9.7, Mag7 at 34% of S&P 500, with formal sell signal active",
+      "Fed path uncertainty \u2014 Goldman dovish vs Gundlach hawkish, with Jackson Hole August 28 as next inflection point",
+      "Dollar structural decline and gold as primary hedge \u2014 consensus forming across both camps as $40T debt milestone hits",
+      "AI cloud vs AI hardware split \u2014 CoreWeave face-off crystallizes picks-and-shovels thesis vs levered intermediary risk"
     ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
@@ -112,66 +133,72 @@
   "month": {
     "period_start": "2026-07-20",
     "period_end": "2026-08-19",
-    "entries_count": 160,
+    "entries_count": 168,
     "buy_side_bullets": [
-      "AI asset valuations at 1929/2000 bubble extremes — reducing equity concentration aggressively and rotating to gold, diversified currencies, and non-USD assets as 'financial heart attack' risk converges with oil shock and eroding foreign confidence in US assets. [Dalio, Burry, Einhorn]",
-      "Mega-cap tech and AI infrastructure still have durable runway — Amazon elevated to largest holding, Alphabet loaded alongside Klarman and Berkshire, Micron doubled on AI memory thesis, and passive S&P 500 exposure expanded 730% as earnings compound. [Tepper, Druckenmiller ↑ shift, Tudor Jones ↑ shift, Ackman]",
-      "Bitcoin re-entering as primary macro hedge — renewed conviction via BlackRock ETF after year of selling, framed as best inflation hedge in AI-abundance/fiscal-dominance regime, ahead of traditional gold and commodities. [Tudor Jones ↑ shift, Visser]",
-      "Short AI/semiconductor leaders while selectively long quality compounders — 6 of 7 AI shorts profitable with QQQ, Nvidia, Palantir, Micron puts intact; crash risk framed as 1987-type cascade through vol-targeting funds. [Burry ↑ evolving]",
-      "Capital preservation at maximum — market most expensive since fund founding, SpaceX IPO at $1.75T signals speculative peak, closing to new investors and reducing GLD despite gold bull narrative. [Einhorn ↑ evolving]"
+      "AI asset valuations at 1929/2000 bubble extremes \u2014 reducing equity concentration aggressively and rotating to gold, diversified currencies, and non-USD assets as 'financial heart attack' risk converges with oil shock and eroding foreign confidence. [Dalio, Burry, Einhorn]",
+      "Mega-cap tech and AI infrastructure still have durable runway \u2014 Amazon elevated to largest holding ($1.2B), Alphabet loaded, Micron doubled on AI memory thesis, CoreWeave $107M new long; AI hardware bifurcating from AI cloud as separate thesis. [Tepper, Druckenmiller shift, Tudor Jones shift, Ackman]",
+      "Bitcoin re-entering as primary macro hedge \u2014 renewed conviction via BlackRock ETF after year of selling; framed as best inflation/AI-abundance hedge ahead of traditional gold and commodities. [Tudor Jones shift, Visser]",
+      "Short AI/semiconductor leaders while selectively long quality compounders \u2014 6 of 7 AI shorts profitable with QQQ, Nvidia, Palantir, Micron puts intact; crash risk framed as 1987-type cascade via vol-targeting funds. [Burry evolving]",
+      "Capital preservation at maximum priority \u2014 market most expensive since fund founding, SpaceX IPO at $1.75T signals speculative peak; closing to new investors and reducing GLD despite gold bull narrative. [Einhorn evolving]"
     ],
     "sell_side_bullets": [
-      "Largest speculative bubble since 19th-century railroad boom — Bull & Bear Indicator at 9.7 (highest since 2021, formal sell signal), only 4% of S&P 500 stocks making new highs, Mag7 at 34% concentration mirrors 1972 Nifty 50 pre-crash; 'retreat/rotate not reload' is the summer posture. [Hartnett ↑ evolving]",
-      "AI capex buildout at 0.85pp of GDP/year — nearly 2x the housing boom pace — risks unwinding at the same speed if revenue-to-capex gap doesn't close by 2027; profits still funded by investors not customers. [Slok ↑ evolving]",
-      "S&P 500 earnings momentum 'fabulous' with Q2 +46.7% YoY driving target raise to 8,400 — Roaring 2020s probability lifted to 80%; buy geopolitical dips for year-end rally. [Yardeni]",
-      "US recession probability at 40%, Europe/Japan at 50% — Hormuz disruption affecting ~10% of global oil supply with GDP damage historically peaking 3-4 quarters after initial shock; cash preferred over equities now. [Berezin ↑ evolving]",
-      "Financial repression regime entrenched for 15-20 years — capital controls almost entirely unpriced, gold already signaling the shift; 60/40 portfolio effectively dead as JGB carry trade unwind threatens 'loud sucking sound' in US financial assets. [Napier, Edwards, Hartnett]"
+      "Largest speculative bubble since 19th-century railroad boom \u2014 Bull & Bear at 9.7 (highest since 2021, outright sell signal), Mag7 at 34% of S&P 500, only 4% of index at new highs; 'retreat/rotate not reload' and long gold as $40T debt milestone is crossed. [Hartnett evolving]",
+      "AI capex buildout at 0.85pp of GDP/year \u2014 nearly 2x the housing boom pace \u2014 risks unwinding at same speed if revenue-to-capex gap does not close by 2027; profits still funded by investors not customers. [Slok evolving]",
+      "S&P 500 earnings momentum 'fabulous' with Q2 +46.7% YoY driving target raise to 8,400 \u2014 Roaring 2020s probability lifted to 80%; buy geopolitical dips for year-end rally. [Yardeni]",
+      "US recession probability at 40%, Europe/Japan at 50% \u2014 Hormuz disruption affecting ~10% of global oil supply; GDP damage historically peaks 3-4 quarters after initial shock; cash preferred over equities now. [Berezin evolving]",
+      "Financial repression regime entrenched for 15-20 years \u2014 capital controls unpriced, gold already signaling the shift; 60/40 portfolio effectively dead as TBAC warns of $1.45T Treasury funding shortfall in FY2027-28. [Napier, Edwards, Hartnett, Bessent]"
     ],
     "whats_new": [
-      "Tepper Q2 13F reveals exit of Microsoft and SanDisk ($400M+), new $241M Apple stake initiated, Amazon raised to largest holding at $1.2B — rotation from AI-peripheral winners toward consumer platform dominance while retaining Micron AI memory conviction. [Tepper]",
-      "SpaceX IPO at $1.75T valuation called a 'major speculative top' marker — simultaneously selling GLD position despite long-standing gold bull reputation, signaling broad risk-off repositioning. [Einhorn ↑ shift]",
-      "Ackman portfolio overhaul disclosed: new positions in Netflix, Visa, and Mastercard added; Fannie Mae and Freddie Mac called 'stupidly cheap' with 10x return potential as conservatorship exit nears — despite fund trailing S&P by 16.5pp YTD. [Ackman]",
-      "Bessent introduces 'C-shaped economy' framing replacing K-shaped narrative — lower-income wages +5.5% YoY vs 1.5% for 75th percentile, while TBAC minutes reveal $1.45T Treasury funding shortfall in FY2027-28 left unaddressed publicly. [Bessent]",
-      "July CPI confirmed benign at +0.1% MoM — Goldman attributes H1 overshoots to three now-fading temporary factors (tariff pass-through, Iran oil spike, World Cup demand); no Fed rate hikes expected this year with disinflation continuing through 2027. [Hatzius ↑ shift]"
+      "BofA Bull & Bear crosses 9.7 for first time since 2021 \u2014 outright sell signal now active, 'Strife Begins at Forty' flags $40T now/$50T by 2029; explicit gold long recommendation added this week. [Hartnett evolving]",
+      "TBAC $1.45T funding shortfall exposed from Bessent's bill-heavy strategy \u2014 government advisory committee officially flags structural refinancing risk; JPMorgan sees $3.7T cumulative gap by 2030. [Bessent]",
+      "Goldman explicitly pushes back on market-implied Fed hike pricing as 'too hawkish' \u2014 active market call, not just 'unlikely'; July jobs 'weaker report,' consumer spending warning. [Hatzius shift]",
+      "Tepper Q2 13F: exits Microsoft/SanDisk ($400M+), new $241M Apple stake \u2014 PLUS simultaneous Apple put options on 835K underlying shares; CoreWeave $107M new AI cloud long. [Tepper]",
+      "SpaceX IPO at $1.75T valuation called 'major speculative top' \u2014 simultaneously selling GLD position despite long-standing gold bull reputation, signaling broad risk-off repositioning. [Einhorn shift]",
+      "Ackman portfolio overhaul: new positions in Netflix, Visa, Mastercard; Fannie Mae/Freddie Mac called 'stupidly cheap' with 10x return potential as conservatorship exit nears. [Ackman]"
     ],
     "vs_market_buy": [
-      "Shorting QQQ, Nvidia, Palantir, Micron, and semiconductor ETF while S&P 500 hits records — 6 of 7 positions profitable, implying significant valuation disconnect between market's 20x+ forward PE and Burry's 1987/2000 crash framework. [Burry]",
-      "Lowest net equity exposure in fund history with market most expensive since inception — willing to miss further upside entirely to preserve capital for offense when one of several downside scenarios materializes. [Einhorn]",
-      "Dollar at historic purchasing power peak with foreigners 'way, way overloaded' in USD — structurally short USD via EM and commodities while market consensus remains long US exceptionalism. [Druckenmiller]"
+      "Shorting QQQ, Nvidia, Palantir, Micron, and semiconductor ETF while S&P 500 hits records \u2014 6 of 7 positions profitable; 1987-style crash warning vs market pricing 20x+ forward PE. [Burry]",
+      "Lowest net equity exposure in fund history while market most expensive since inception \u2014 willing to miss further upside to preserve capital for offense. [Einhorn]",
+      "Dollar at historic purchasing power peak with foreigners 'way, way overloaded' \u2014 structurally short USD via EM and commodities while consensus remains long US exceptionalism. [Druckenmiller]",
+      "Short CoreWeave via puts while market prices 112% YoY growth as bullish \u2014 skeptical of AI cloud intermediaries at 8.94x D/E and -$5.7B FCF. [Soros]"
     ],
     "vs_market_sell": [
-      "Recession probability at 40% (US) and 50% (Europe/Japan) while credit spreads remain near multi-year tights and equity markets at records — oil shock GDP damage lag of 3-4 quarters means worst impact still ahead and is unpriced. [Berezin]",
-      "Double-digit inflation plausible via fiscal dominance + surging bank lending + geopolitical oil shock while market prices benign 3.4% CPI trajectory and no Fed hikes — structural divergence between market pricing and Edwards/Napier inflation regime thesis. [Edwards, Napier]",
-      "Consumer-led H2 slowdown unpriced: 1.5M fewer full-time jobs, savings rate collapsed from 5% to 2.3%, negative real income growth — market ignoring deteriorating fundamentals behind AI-driven equity rally. [Rosenberg]"
+      "Recession probability at 40% (US) and 50% (Europe/Japan) while credit spreads remain near multi-year tights and equity markets at records \u2014 oil shock GDP damage lag means worst still ahead and unpriced. [Berezin]",
+      "Double-digit inflation plausible via fiscal dominance + surging bank lending + geopolitical oil shock while market prices benign CPI trajectory and no Fed hikes. [Edwards, Napier]",
+      "Consumer-led H2 slowdown unpriced: 1.5M fewer full-time jobs, savings rate collapsed from 5% to 2.3%, negative real income growth \u2014 market ignoring deteriorating fundamentals behind AI-driven rally. [Rosenberg]",
+      "BofA formal sell signal at 9.7 while consensus targets point to S&P 8,000-8,400 \u2014 historic crowding extremes contradict buy recommendations. [Hartnett]"
     ],
     "buy_vs_sell_divergence": [
-      "AI trade has Apple II-level runway remaining with FEMO driving fundamentals-led rally vs. AI capex at 2x housing bubble pace with profits funded by investors not customers — same AI theme, diametrically opposed risk assessment. [Tudor Jones, Ackman, Tepper vs Slok, Berezin, Hartnett]",
-      "S&P 500 to 8,000-8,400 by year-end on 'fabulous earnings momentum' with Roaring 2020s probability at 80% vs S&P contracting to 6,350 near-term on decelerating EPS growth of 3.3% YoY and 25% recession probability. [Yardeni, Wilson, Hatzius vs Bannister, Berezin]",
-      "Bitcoin as 'S&P 500 of the future' and primary inflation hedge warranting core allocation vs Bitcoin trading as overheated Big Tech stock with stretched technicals unworthy of digital gold narrative. [Tudor Jones, Visser vs Bannister]"
+      "AI trade has Apple II-level runway remaining with FEMO driving fundamentals-led rally vs AI capex at 2x housing bubble pace with profits funded by investors not customers \u2014 same theme, diametrically opposed risk assessment. [Tudor Jones, Ackman, Tepper vs Slok, Berezin, Hartnett]",
+      "S&P 500 to 8,000-8,400 by year-end on 'fabulous earnings' vs S&P contracting to 6,350 near-term on decelerating EPS and 25% recession probability \u2014 widest strategic equity target gap in tracker. [Yardeni, Wilson, Hatzius vs Bannister, Berezin]",
+      "Bitcoin as 'S&P 500 of the future' warranting core allocation vs overheated speculative asset unworthy of digital gold narrative. [Tudor Jones, Visser vs Bannister]",
+      "No Fed rate hikes as disinflation resumes vs Fed must raise rates \u2014 markets too hawkish (Goldman) vs too dovish (Gundlach); cannot simultaneously be true. [Hatzius vs Gundlach]"
     ],
     "aligned": [
-      "AI bubble characteristics broadly acknowledged across both camps — debate is timing and severity of unwind, not whether excesses exist; Mag7 concentration, hyperscaler FCF deterioration, and revenue-to-capex gap are the shared warning signals. [Dalio, Burry, Einhorn, Hartnett, Slok, Berezin, Edwards, Reid]",
-      "60/40 portfolio framework broken and financial repression entrenched — gold, real assets, and diversified non-USD exposure are structural portfolio requirements regardless of near-term equity view. [Dalio, Tudor Jones, Hartnett, Napier, Mauldin]",
-      "Sector rotation persisting with semiconductors losing momentum leadership — insurance, healthcare equipment, quality/FCF-stable names, and defensive value outperforming as new cycle leadership emerges across buy and sell side. [Wilson, Hartnett, Sonders, Druckenmiller]"
+      "AI bubble characteristics broadly acknowledged across both camps \u2014 debate is timing and severity of unwind, not whether excesses exist; Mag7 concentration, hyperscaler FCF deterioration, revenue-to-capex gap are shared warning signals. [Dalio, Burry, Einhorn, Hartnett, Slok, Berezin, Edwards, Reid]",
+      "60/40 portfolio framework broken and financial repression entrenched \u2014 gold, real assets, and diversified non-USD exposure are structural portfolio requirements regardless of near-term equity view. [Dalio, Tudor Jones, Hartnett, Napier, Mauldin]",
+      "Sector rotation from semiconductors to quality/FCF-stable names persisting \u2014 insurance, healthcare equipment, and defensive value as new cycle leadership across buy and sell side. [Wilson, Hartnett, Sonders, Druckenmiller]",
+      "Long-end Treasury yields structurally elevated \u2014 30yr at 5.20%+ expected to remain high or rise further from deficits, AI financing, Social Security shortfalls. [Gundlach, Hartnett, Bessent]"
     ],
     "buy_side_trades": [
-      "Long Amazon ($1.2B largest holding), Alphabet, Apple (new $241M), Micron (200% position increase) — consumer platform dominance and AI memory as the durable AI beneficiary pair over software or pure GPU plays. [Tepper, Druckenmiller, Ackman]",
-      "Long Bitcoin via BlackRock ETF and passive S&P 500 (IVV +730%) — balanced risk-asset exposure with hard-asset inflation hedge overlay as dominant H2 2026 macro posture. [Tudor Jones ↑ shift]",
-      "Short Nvidia, Palantir, QQQ, iShares Semiconductor ETF via puts — concentrated bet on AI/semi bubble resolution with 6 of 7 positions profitable; sizing ~80% of disclosed portfolio. [Burry ↑ evolving]",
-      "Long Brazil ETF (EWZ ~4.5% of portfolio), YPF, copper — structural USD short expressed via EM and commodities as dollar sits at historic purchasing power peak with foreigners overloaded. [Druckenmiller]"
+      "Long Amazon ($1.2B largest), Alphabet, Apple (hedged: long equity + puts), Micron (200% increase), CoreWeave ($107M) \u2014 consumer platform dominance and AI infrastructure as the durable AI beneficiary pair. [Tepper, Druckenmiller, Ackman]",
+      "Long Bitcoin via BlackRock ETF and passive S&P 500 (IVV +730%) \u2014 balanced risk-asset exposure with hard-asset inflation hedge overlay as dominant H2 2026 macro posture. [Tudor Jones shift]",
+      "Short Nvidia, Palantir, QQQ, iShares Semiconductor ETF via puts \u2014 concentrated bet on AI/semi bubble resolution with 6 of 7 positions profitable; CoreWeave puts added as AI cloud hedge. [Burry evolving, Soros]",
+      "Long Brazil ETF (EWZ ~4.5% of portfolio), YPF, copper \u2014 structural USD short expressed via EM and commodities as dollar at historic purchasing power peak. [Druckenmiller]"
     ],
     "sell_side_trades": [
-      "'Sleep like a baby' 25/25/25/25 portfolio (stocks/bonds/cash/commodities) up 26% YTD — retreat from equities into summer, rotate into consumer staples, REITs, long-duration Treasuries, and USD; do not reload on dips. [Hartnett]",
-      "Long long-duration Treasuries (30-yr at 5.2%, near-zero downside, ~20% upside on normalization) — consumer-led H2 slowdown and 2027 recession risk will force Fed to cut more than priced; front-end offers safe 5-6% carry meanwhile. [Rosenberg]",
-      "Long cash / underweight equities with oil as hedge — US recession at 40%, Europe/Japan at 50%; toxic macro brew of elevated valuations, AI capex overhang, Hormuz disruption, and private credit stress warrants explicit defensive posture. [Berezin]",
-      "Long Defensive Value (staples, utilities, healthcare) vs short Cyclical Growth (tech, AI) — EPS growth decelerating to 3.3% YoY insufficient to sustain stretched multiples; near-term S&P target 6,350. [Bannister]"
+      "'Sleep like a baby' 25/25/25/25 portfolio (stocks/bonds/cash/commodities) up 26% YTD; long gold as primary debt-debasement hedge as $40T milestone crosses \u2014 Bull & Bear at 9.7 makes gold the top sell-side conviction trade. [Hartnett]",
+      "Long 2-7yr investment-grade credit (BBB+), avoid long-end Treasuries, exit CCC bank loans \u2014 duration and quality discipline as 30yr holds above 5.20% with further increases expected. [Gundlach]",
+      "Long long-duration Treasuries (30yr at 5.2%, near-zero downside, ~20% upside on normalization) \u2014 consumer-led H2 slowdown and 2027 recession risk will force Fed to cut more than priced. [Rosenberg]",
+      "Long cash / underweight equities with oil and commodities as hedge \u2014 40% US recession, 50% Europe/Japan; toxic brew of elevated valuations, AI capex overhang, Hormuz disruption warrants explicit defensive posture. [Berezin]",
+      "Long Defensive Value (staples, utilities, healthcare) vs short Cyclical Growth (tech, AI) \u2014 EPS growth decelerating to 3.3% YoY insufficient to sustain stretched multiples; near-term S&P target 6,350. [Bannister]"
     ],
     "dominant_themes": [
-      "AI capex bubble vs earnings momentum — revenue-to-capex validation the defining binary",
-      "Inflation regime shift — fiscal dominance, financial repression, and Hormuz oil shock converging",
-      "Sector rotation — semiconductors losing leadership to quality/FCF/defensive value",
-      "Fed path uncertainty — rate hike vs hold vs cut debate unresolved with Jackson Hole as inflection",
-      "Dollar structural decline — EM, gold, Bitcoin, and commodities as diversification destinations"
+      "AI capex bubble vs earnings momentum \u2014 revenue-to-capex validation the defining binary for H2 2026",
+      "Inflation regime shift \u2014 fiscal dominance, financial repression, TBAC shortfall, and Hormuz oil shock converging",
+      "Sector rotation \u2014 semiconductors losing leadership to quality/FCF/defensive value and healthcare",
+      "Fed path uncertainty \u2014 Goldman dovish vs Gundlach hawkish with Jackson Hole August 28 as next inflection",
+      "Dollar structural decline \u2014 EM, gold, Bitcoin, and commodities as diversification destinations as $40T debt milestone crosses"
     ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
