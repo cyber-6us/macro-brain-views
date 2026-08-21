@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20",
+  "last_updated": "2026-08-21",
   "entries": [
     {
       "id": "2026-08-16-8fc60fc5",
@@ -11856,6 +11856,65 @@
         "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX1Mxand3aW96cDlPcThnLTBvVW0tcURjZkVHQVVlV1RJSFZIa0V6LW9NY05HcXpMM1Y1N2NPTG5XUjllWTJWN1BRM3dYeEd0M0pVUmptV0hjMU83eFZzTVFaQzNiZUF4VHZYV2J3azZ1NDdFY3pnTWZMaGoyZFZCUWVIVlFIYkFyQkQ1dE5xQlcyOGxKSW85T1NFQzZjTDViVG9RSHVzd1BKZWpt?oc=5",
         "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNnJ4LTR2aTh4cHhseFdSTGxURnlsNGNTcTE5bURPVk5ObkM2bW8yOEJfWmp2N1VJX1l0OEFNaDJkWEtGSUJrYmM4bzk0Ykp5UmdoWXl3YW81OENnanhacFBYRTBaOVF2QzJnYnZyeEtkOS1tTE1wUzg0cmNLcW5sYzdyTkVXNXlMQ2tHbmtGR2VQWVpPQUtwQWt4R2NYZEkzT1NhRUtrdHZUenlVZkZHaTdQQ2hXMVRXaDJVZU15YnVyRF9IQXhuVEF4cFFXUFFGZUc3TVBmZw?oc=5",
         "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX3FneWFkVUN6R2ZCaHY1QXg1UmtSdy1HTmFDWEJ1VXc5aVhQSXNLY0hhMmhaaC1na1B0SE1jcnVEUFY4cE1uaWtNTUpmc0hyZXVFc1VYWU5mRGoyMmhXSzZQZnRWUGNuYUhCMVQ2T2lZeWlTbGd1bmdYLXFfZlhyVUZNWVUzSDBjaFl1WGdSbGdrdE5lRkRVdmNXeDJRbDlzZDl5M2tHWk9PQQ?oc=5"
+      ]
+    },
+    {
+      "id": "2026-08-21-a3d6bf24",
+      "date": "2026-08-21",
+      "published_at": "2026-08-20T14:33:00+00:00",
+      "investor": "George Soros",
+      "side": "buy",
+      "summary": "Soros is positioning defensively across multiple risk assets, taking puts against AI stocks (particularly NVIDIA) while selectively buying into consensus trades alongside peers like Loeb and Einhorn. His positioning suggests skepticism about stretched valuations in AI-driven equities despite tactical long positions, indicating a mixed macro stance with downside protection.",
+      "key_views": [
+        "AI stock valuations are stretched—holding puts against NVIDIA despite it being a 'top AI stock'",
+        "Selective opportunism in equities—buying the same stocks as other macro investors (Loeb, Einhorn) signals conviction in specific plays but not broad market strength",
+        "Divergence on nuclear/energy thesis with Druckenmiller—sold out of nuclear stocks while Druckenmiller bought, suggesting Soros sees better risk/reward elsewhere"
+      ],
+      "trade_ideas": [
+        "NVIDIA puts—short AI euphoria via downside protection",
+        "Long select equities in consensus with Loeb/Einhorn—identified value opportunities others see",
+        "Exit nuclear energy exposure—reallocation away from this thematic trade"
+      ],
+      "asset_classes": [
+        "equities",
+        "derivatives"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV2F4djJnaTZ4RWxETF8xd3U3aGF4TWxtVWpxNHRHc0x3QXhMckRtWWs2ZmxaVnQ4bHMtdE9GME9LVFp2TldkcXdxYmptS2ZRaTJHYVBCWWhsLWtCM0s4bi1BLVpUZlVZSTJWTENscndzVHJmbXVJeEJ6SFdUUDVOUjBnMk1pLVhldVhLZHJBakExZlZPZHJrZUpCTWl4bkpUUWVraGlLRk1hNmR4VVMyWjd4dDdobVpVTDRnS3paR1JwOFpXNy1Sa05SNjhQakFnQmpxQXBQZw?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUXZZRHNZSnJJQ002MkU1NWxVNjBhbDEzeHhodGNOTUdnSXZidzBNaTUzZ29HbUZKWlVVTFgwbmZWblZSeElQbXJJQ3IzNzE4V3l0XzNURTdiVHhQLXViakg2SnRmeDRqaW5nMmhLdGF0WHZ5bTVhRDhIc0dHUElWZjM5RHBxaDFQRml1aDRodm4xYVNE?oc=5",
+        "https://news.google.com/rss/articles/CBMiuANBVV95cUxQT01KcGNoTGNsQnlfNEwyZ2hXUVc2T3BFNUM4VkNjdEloRVZPTWNYYU56X2hsTmdPR1ZZYlU4d3dUQ0VpTHd1OVVyc2ttY2RndmtOejh6dTVNWnhESU0ySFkyczJtcUgwYmt4VV9GN2VnR2RnaFBqUTlDakxEN2UyeWo4NDZOSzdtMWpNNFZ0VjFWRkhZTlpFdTRubGNra3RWY1ZGTjFTQzF2VzEycnlqSGJRdy02TkhtbFNOeDhIVVplOWxGVHdwck1PSWRfczZoWksxY2VyeURmUV9CUkJyNldZUXotb0NRR0xCeGk1UnpjdzRtWGRua1hxbGp3TzYyb1VEaHNtZzllenRIMURDYVgyV29iZW11MjlyNUJzODVXVkhBMldkeVl0dDlNQnR6aVFaeDMyaXhsQWZSMEJpWDgtNE53VnRJbEJYZE1QT3pySVJmaW0yU0ZIbHZIUTh0aXl4TnY4RWNXLUtPX2F0V3RPblZudlh5RXJWU0dKYzJFVHRFR2taQjY3X2hicWk3a3dKMTdycksyTm9mSlcxd3pITi12TzRITXF1cVYybDlrX2NIRTNEbtIBvgNBVV95cUxPVUNmY0tFT1VHQ0xsRFFIR3NYZkp0N2FGUFZoSXRlTHl5S0ZDb0duTzFrQVFieE9zZ3VfbThpemxudUZNaFpPTlRPdzgtZFBtUnRjQXNWZ3IxUWRSOGNOZ2FnVDlHal9sYkpmZWMzLTBDOXVXWVlVYUp2aXVoT1A2ZXVHXzl3YURyLURrdFNxeE5yNzdkS2h6SWpmTjlQVU9xZVpKN3JTdmZWRV90aTdVU0JndXlxZ080dV8zTFpHNlEyWGtxOTNQSkhZc3lWMF9sMzNOVGRSUDljS1Nyek9uVV80Sl8wM0I5NWZROTZ1QWJ1QkNLQUtrWTAweTh0YWxNSERMSHd4cVVVV1otdWNNblBrTWY1Nl85ei1ZYlliSFRfQV94N2tscm9ZWGRCN2hrM0ZwOHRZTV9GT01kWVJpRjFfdGc3NkVfejBnRzVuUHZJZ0dscERCclBXNkZpNXlqeEdvVWJYenpZNm1WM2lCSFV6eDU1NVB6TGkwX25KMHAzX2xUYWNtLW0temM5VmpZSF96aElrbzRablc0aXdlVzN4VVliTGtCQTd2X3FCWFJLZUh2Tmlna1VJN25WUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPX0oxRFdlZEdvZGx2ZXRabFNPOU14aHp4U2NTOTZLMm56VUYtaXZGYklyNnlEdjlaS1ctSkFUWEFyS2kxTTJSbFV6RDV0T2pDUlppMHVKTDZYN3F6X1ZrN0FDd3luMWFsSkEzTVREZGdmUGpXZzBRcnBUUm1MN1VnZWRzTFJyN1RTb2tROFBoNk9wQ2tWNnpiRTVLNVQ1V1hLQmY2Qk55TnZ2WDlJZzFSc3YyQWpGUDVWd21ZLUlQVHJCNFhnOWowYUJJdjZ6V2lvajh3dTNkTHZhTGNOTTByelpB?oc=5"
+      ]
+    },
+    {
+      "id": "2026-08-21-a6b77afe",
+      "date": "2026-08-21",
+      "published_at": "2026-08-18T21:05:00+00:00",
+      "investor": "Liz Ann Sonders",
+      "side": "sell",
+      "summary": "Sonders emphasizes that higher yields are materially impacting equity market dynamics, driving persistent sector rotation rather than broad directional moves. She highlights a widespread investor behavioral mistake unrelated to stock picking, suggesting systematic portfolio construction issues are a primary drag on returns.",
+      "key_views": [
+        "Higher yields are a primary driver of equity market impact and decision-making",
+        "Equity market rotation backdrop is likely to persist going forward",
+        "Most investors are making a costly mistake in portfolio construction/strategy, not stock selection",
+        "Macro conditions (misery index) showing some improvement for consumers"
+      ],
+      "trade_ideas": [
+        "Sector rotation plays within equities rather than broad market directional bets",
+        "Reassess portfolio construction approach rather than focusing on individual stock picking"
+      ],
+      "asset_classes": [
+        "equities",
+        "rates",
+        "bonds"
+      ],
+      "sentiment": "neutral",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSTA5VnNjTUxxaHAySXZ5dGktNjFoQzRHOGR0MTdJQkJIYWJ3Zlk2WHk3SGJ6VFJPRF9CMTZvd3JPOWdyX1JnQ0NubFBiRFI2Ry1SOUtEVXpSYWJSVW13RWxkUngzTFh6dC1oUUVZeXRqUGR1UVJQRG8yVWVRbThoeF9yeW1NbGVhZXZkaXl5S2FiMnNTWTBIV2hCSmtFa3JGVWt3RGhaeC1DdXVUSzJCQVU4Zlp4U2JZUHowMXVRY3lDZw?oc=5",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxORjJfQ254dUhzY0lfbFhTTFFoUHB5b0FJRXNIaXctUzB5Q3Z4UkNiMkx0UHNDWFpJb05WcU1sMGNQZHQ2azJNUEJvLUk0LTlmamVaT0E2WVREX3B5NG9BZGZrSWlHSXJzdEt4cVdDZXVVZWhQN3FBZlg4ZUhGQzFaSVA2bUo?oc=5",
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeXZNWUpVVk95dkd6RFZQWXVMYnRXdTg4M2tUNS12UDBObXhnQlE2UnAzZkU5N1dhaEp6T1I3ckpsb2VyQlhkNFgtOHlEdDVlc3JLaUVmMjh2ZVByUzQ5cW5CdkZ5UjVjb0k2blZVN0ZFaDF1U051RlhCTjY5TFcwREt3MHE5N0lHZnZMaEJwVENOcVJhdjl3X0NvWTJpSXA5RnZhcC1CenNFMFY5eVFqdTZHNVFaZndkRDI4cVJKcUJmbFJVb3RIWEl3WHduRGZ2dFBvc2NmWHRKT29UZ3oyMg?oc=5",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTExYWTNvZUF0TWNkcFpwZlVRZDQzVzZXbVdHd1R1bnRxdnNXQ0s3a0NXUjFGOFN6LWVveU4wU3k5OV9oY1FyLXVfdm1jdDloZkhkSzFXYW9xYXJPVlBhSkRBUGFYNHQtd21SNTJPZUtES1V4TTZwQVZtb2k2OG40WFppbXJ6bzNrRXlTRUVXQUxPbDN2WUFxR0xvUFdYTnVfN3pDOFhGbXpyRXN2REptRC1Gem5zQlAxcG1KSXRsaFdLUQ?oc=5"
       ]
     }
   ]
