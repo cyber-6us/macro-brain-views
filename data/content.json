@@ -13790,6 +13790,39 @@
         "https://finance.yahoo.com/news/stifel-maps-2026-p-500-120335879.html",
         "https://2026macro.vercel.app/Stifel%20Outlook.pdf"
       ]
+    },
+    {
+      "id": "2026-08-27-8fc60fc5",
+      "date": "2026-08-27",
+      "published_at": "2026-08-26T15:40:00+00:00",
+      "investor": "Stan Druckenmiller",
+      "side": "buy",
+      "summary": "Druckenmiller is betting on a soft landing with selective exposure to AI equities, particularly Alphabet. He is simultaneously bearish on Treasury bond dynamics and critical of Scott Bessent's bond buyback proposals, arguing the bond market signals should be heeded rather than ignored through government intervention.",
+      "key_views": [
+        "Soft landing scenario ahead",
+        "Selective AI exposure is warranted (not broad AI bull)",
+        "Bond market signals should not be overridden by Treasury buyback schemes",
+        "Skeptical of Bessent's bond policy approach as Treasury Secretary",
+        "Alphabet (and mega-cap tech) offering value in selective AI exposure"
+      ],
+      "trade_ideas": [
+        "Long Alphabet stock",
+        "Long mega-cap AI equities (selective)",
+        "Implied short or underweight U.S. Treasuries/bonds given criticism of buyback plans",
+        "Positioning for soft landing scenario (reduce tail risk hedges)"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "rates"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYzg3MkNBS1dvT0RNdklGOHJSbU1Ed1hWcXNIOUVjOGhTUHVVSk1aTVViaU90TzZ4RmQwU2J2M1M2QmlKSHJzTXpya1NPRjdjeVNURHJqRm95b3lKQ29sNXlFMGNDWWJfWXVPSjNuVGdEUUFNYnNydXVUUm10eERUSlp3NFFXdFlWRWxFRGNYSkt0Ry1IN2NWb09wZy1OQWx0YUJsOEZGbEpIYlBSR0ZicVQyOFNIdw?oc=5",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPalVTSkIwRlFqa0FTVTlIWExLWG13T1BXakhaR09hOVhzNXRQRTVvUUpDRndaLU1oYUcxMnZEenJ5WWltTmNwWkxtLUo3a1pnMS1RUzZIc1lwc2l0LTNGa2JsMmxmdFdYTnNYSWxFOTZzcXlvX05zUzBuR1otcTRxX2JBRWxWMlpzaUI4bXE5ZWxJbmFxdExxYjA0clhDWFNsTTZlV0ZNTkh0QVFyR2phY2kzQU90aGNNQnZXRmVReXpkLTN0OThv?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa3ZGOURDSkpSa0I0dzFGR1pkLTB5NnVvWTJndTNBX1Fxb0JjRExPcURtZjh4b0NJX0ticTV0akljTnNaSV9yakNSa2U1R3JiczhKN0JqVEJrN2VhajVXR2F5NEFjM0Y4ZEZNek9hT1o1OUNSTjlGWFJ5a21UdWJ3YTVsVVBscHR1V084X0t6U19MeXNhTTQ0T0xxVkRwMkpNcHpWMFd5WW1ramlTX3UwSzBpc2QwRXho?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY2FyYnJtLTN3Um15b0xtUGh3cm9VcWs3Rkp3VHVGbFVONW5sY1dGRGQteDhDMTI3TXROME8tNDhtV3lZRlNSdzZMUXJJWTVDYzlhM3pBNlo3cUQyUTVBMWtfLXFFUWVpV1BDRU5UNEF5STQ4aEt4M0xLcWo4MUk1dUR3cHl5UmVnUEU1Rmg5WlVJMnhZWVRQTlNLbmtOUU5Pd0xWOG54MkJnSm5mUTdvaFF3?oc=5"
+      ]
     }
   ]
 }
