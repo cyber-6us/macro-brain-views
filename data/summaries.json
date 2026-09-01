@@ -1,52 +1,166 @@
 {
-  "generated_at": "2026-08-31",
+  "generated_at": "2026-09-01",
   "today": {
-    "date": "2026-08-31",
-    "entries_count": 10,
+    "date": "2026-09-01",
+    "entries_count": 1,
     "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
+    "sell_side_bullets": [
+      "If Fed hikes in September, sequential hikes likely — restart of tightening cycle, not one-and-done; Warsh's 'We have work to do' is credible commitment. [Slok shift]"
+    ],
+    "whats_new": [
+      "Slok pivots from dovish ('long rates lower in six months') to hawkish ('sequential hikes follow first one') in direct response to Warsh's Jackson Hole speech. [Slok shift]"
+    ],
     "vs_market_buy": [],
-    "vs_market_sell": [],
+    "vs_market_sell": [
+      "Slok now aligned with ~60% market pricing for September hike — but warns markets still underestimating total number of hikes if cycle restarts"
+    ],
     "buy_vs_sell_divergence": [],
     "aligned": [],
     "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "sell_side_trades": [
+      "Short intermediate Treasuries (2-5yr) if September hike materializes and signals tightening cycle restart. [Slok]",
+      "Underweight rate-sensitive sectors (REITs, utilities, leveraged credit) if multiple hikes become base case. [Slok]"
+    ],
+    "dominant_themes": [
+      "September Fed rate hike probability surge post-Warsh Jackson Hole hawkish speech",
+      "Tightening cycle restart risk: one hike begets more",
+      "Oil/Iran inflation adding commodity pressure to Fed's dilemma"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "bearish"
   },
   "week": {
-    "period_start": "2026-08-24",
-    "period_end": "2026-08-31",
-    "entries_count": 76,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "period_start": "2026-08-25",
+    "period_end": "2026-09-01",
+    "entries_count": 60,
+    "buy_side_bullets": [
+      "AI infrastructure at 1929/2000 bubble severity — >50% chance of trauma if fiscal deficit not addressed; debt crisis 'getting closer.' [Dalio]",
+      "Treasury buyback expansion is 'price management, not liquidity management' — bond market will overwhelm Bessent's intervention; 30-yr yield is the only remaining fiscal disciplinarian. [Druckenmiller]",
+      "Bitcoin re-entered as macro hedge against fiscal expansion and dollar debasement after year+ of selling — 18.9% IBIT stake increase reversal. [Tudor Jones evolving]",
+      "Biggest portfolio overhaul in years: added Netflix, Visa, Mastercard; betting on Fed rate cuts Q1 2027 — well ahead of market pricing. [Ackman]",
+      "SpaceX $1.75T IPO signals 'meme-ification of markets' and major speculative top; intentionally low gross exposure, gold +4% as macro hedge. [Einhorn]"
+    ],
+    "sell_side_bullets": [
+      "Bull & Bear Indicator at 9.7 — above 8.0 sell threshold; 'reduce risk exposure'; gold is premier 'Anything But Dollar' hedge if Bessent bond plan fails. [Hartnett]",
+      "September Fed rate hike now likely post-Warsh 'We have work to do'; if first hike materializes, sequential hikes almost certain to follow. [Slok shift, Gundlach]",
+      "Ice Age thesis officially over — fiscal dominance replacing 30-year secular stagnation; double-digit inflation risk as governments cannot unwind fiscal expansion. [Edwards shift]",
+      "AI profits 'being funded by investors rather than earned from customers' — capex-to-revenue gap a dot-com era analogy; PIK debt in BDCs a leading credit stress signal. [Slok]",
+      "S&P 500 confined to 6,500–7,500 corridor for 2026; labor 'tenuous'; AI capex cannot substitute if consumer cracks. [Bannister]"
+    ],
+    "whats_new": [
+      "Slok hawkish pivot: abandons 'long rates lower in six months' view, now warning sequential hikes follow September move. [Slok shift]",
+      "Albert Edwards ends Ice Age thesis: 30-year secular stagnation framework replaced by fiscal dominance/inflation paradigm. [Edwards shift]",
+      "Tudor Jones re-enters Bitcoin after year+ of consecutive selling — reverses multi-quarter exit trend. [Tudor Jones shift]",
+      "Druckenmiller publicly confronts Bessent in WSJ op-ed — unprecedented public criticism of his former protégé at Treasury. [Druckenmiller evolving]",
+      "Gundlach issues Nvidia '$500B AI financing plan won't age well' warning — elevates AI infrastructure bear case to specific stock thesis. [Gundlach evolving]"
+    ],
+    "vs_market_buy": [
+      "Dalio: >50% chance of AI bubble trauma — far more bearish on AI infrastructure than consensus expects",
+      "Ackman: betting on Fed rate cuts Q1 2027 — materially earlier than futures market pricing",
+      "Druckenmiller: bond market will overwhelm Bessent's buyback program — contrary to consensus that 30-yr yield can be sustainably suppressed"
+    ],
+    "vs_market_sell": [
+      "Hatzius: September hike 'very unlikely' — significantly more dovish than ~60% market pricing post-Warsh",
+      "Yardeni: S&P 500 can reach 10,000 — most bullish sell-side target on Wall Street by wide margin",
+      "Napier: TIPS and gold preferred over all nominal bonds for 15-20 years — far more extreme than consensus bond allocation"
+    ],
+    "buy_vs_sell_divergence": [
+      "September Fed hike: Gundlach and Slok (sell-side) say hike likely and more follow; Hatzius (sell-side) says 'very unlikely'; Ackman (buy-side) bets on cuts Q1 2027",
+      "S&P 500 outlook: Yardeni targets 10,000 and Wilson 8,300 (sell-side bullish) vs. Burry short AI infrastructure with 2005 analogy and Einhorn at intentionally low exposure (buy-side bearish)",
+      "AI deflation thesis: Yardeni argues AI drives productivity boom and Roaring 2020s; Napier explicitly rejects — de-globalization and fiscal dominance structurally larger than AI's disinflationary effect"
+    ],
+    "aligned": [
+      "AI infrastructure capex creating dangerous valuation extension — warnings across both sides: Dalio, Druckenmiller, Burry, Einhorn (buy) and Hartnett, Gundlach, Slok, Napier, Bannister (sell)",
+      "Gold as the primary macro hedge — bullish consensus: Einhorn, Tudor Jones (buy) and Hartnett, Napier, Edwards, Rosenberg (sell)",
+      "Fiscal debt trajectory unsustainable and approaching crisis — shared: Dalio, Druckenmiller (buy) and Mauldin, Edwards, Napier, Rosenberg (sell)"
+    ],
+    "buy_side_trades": [
+      "Long Bitcoin ETF (IBIT) — macro hedge against fiscal expansion and dollar debasement. [Tudor Jones]",
+      "Long Netflix, Visa, Mastercard — durable cash flow compounders; Fed cut positioning. [Ackman]",
+      "Short Nvidia, Palantir, Oracle, Caterpillar, iShares Semiconductor ETF (SOXX) — AI infrastructure bubble. [Burry]",
+      "Long gold — fiscal crisis and speculative top hedge. [Einhorn]",
+      "Long Amazon, Alphabet selectively — AI software/cloud preferred over hardware. [Druckenmiller, Tepper]"
+    ],
+    "sell_side_trades": [
+      "Long gold as 'Anything But Dollar' primary hedge; long defensives (staples, REITs, small caps, biotech). [Hartnett]",
+      "Short long-end Treasuries / avoid 30yr bonds; favor 2-7yr investment grade (BBB+). [Gundlach]",
+      "Short intermediate Treasuries (2-5yr) if September hike signals tightening cycle restart. [Slok]",
+      "Long TIPS; avoid nominal long-duration bonds for 15-20 year horizon. [Napier]",
+      "Fade hyperscaler valuations given unrealistic FCF projections vs. $1T ongoing capex. [Berezin]"
+    ],
+    "dominant_themes": [
+      "September Fed rate hike debate: Warsh hawkish Jackson Hole speech pushes market to 60% hike probability",
+      "AI infrastructure bubble warnings reach consensus extremes — comparisons to 1929, 2000, and 2005 housing",
+      "Fiscal dominance and Treasury market stress: Bessent intervention criticized, 30-yr at 19-year highs"
+    ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "month": {
-    "period_start": "2026-08-01",
-    "period_end": "2026-08-31",
-    "entries_count": 232,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "period_start": "2026-08-02",
+    "period_end": "2026-09-01",
+    "entries_count": 231,
+    "buy_side_bullets": [
+      "Debt crisis and AI bubble are converging risks — 50%+ trauma probability, comparable to 1929/2000; foreign confidence in dollar assets eroding as 'five forces' geopolitical framework escalates. [Dalio]",
+      "Treasury market intervention is fiscal procrastination: 30-yr yield suppression subsidizes deficit spending; bond market will overwhelm any artificial ceiling. [Druckenmiller]",
+      "AI infrastructure = 2005 housing analogy ('one year before the crash') — specific shorts: Nvidia, Palantir, Oracle, Caterpillar, SOXX; only long Molina Healthcare (defensive). [Burry]",
+      "Rotation from AI hardware into cloud/software/Magnificent Seven — 32% H1 returns via AI memory; now executing late-cycle reallocation. [Tepper]",
+      "SpaceX $1.75T IPO + Bitcoin 7-sigma move signal speculative top; buy-side risk reduction underway with gold and low gross exposure. [Einhorn, Tudor Jones]"
+    ],
+    "sell_side_bullets": [
+      "Bull & Bear Indicator at cycle highs (9.7); 'Anything But Dollar' framework — gold premier hedge; hyperscaler FCF going negative as AI capex surges creates the key market tripwire. [Hartnett]",
+      "September rate hike probability surged to 60% after Warsh's hawkish Jackson Hole speech — if hike materializes, sequential tightening cycle follows. [Slok shift, Gundlach]",
+      "Ice Age secular stagnation officially over: fiscal dominance replacing 30-year framework; governments structurally unable to unwind expansionary posture. [Edwards shift]",
+      "AI infrastructure buildout 'being funded by investors rather than earned from customers' — capex/revenue gap compares to dot-com era; Iran war pushes recession odds to 40% US, 50% Europe/Japan. [Slok, Berezin]",
+      "G-shaped economy: government spending and AI sectors surging while traditional economy stagnates; CBO's 1.8% real GDP optimistic; stagflation risk underpriced. [Mauldin]"
+    ],
+    "whats_new": [
+      "Slok hawkish pivot post-Jackson Hole: abandons 'long rates lower' view, warns sequential hikes follow first September move. [Slok shift]",
+      "Edwards ends Ice Age thesis: 30-year secular stagnation framework replaced by fiscal dominance/inflation paradigm. [Edwards shift]",
+      "Tudor Jones reverses year+ Bitcoin selling trend: re-enters via 18.9% IBIT stake increase. [Tudor Jones shift]",
+      "Druckenmiller publicly confronts Bessent in WSJ op-ed — unprecedented public break with former Treasury Secretary protégé. [Druckenmiller evolving]",
+      "Dalio completes full Bridgewater exit (July 2026) — transitions to macro advocacy; AI bubble comparisons intensify to 1929/2000 severity. [Dalio evolving]"
+    ],
+    "vs_market_buy": [
+      "Dalio: >50% chance of AI bubble trauma — consensus is not pricing this probability into equity valuations",
+      "Ackman: Fed cuts Q1 2027 — materially earlier than futures market pricing for rate normalization",
+      "Druckenmiller: Bessent's bond buyback will fail — market consensus assumes Treasury can durably suppress 30-yr yields"
+    ],
+    "vs_market_sell": [
+      "Hatzius: September hike 'very unlikely,' economy 'slowing beneath the surface' — more dovish than 60% market hike probability",
+      "Yardeni: S&P 500 to 10,000 in Roaring 2020s scenario — most bullish sell-side call on Wall Street",
+      "Napier: 15-20 year negative real returns on nominal bonds — far more extreme than consensus asset allocation frameworks"
+    ],
+    "buy_vs_sell_divergence": [
+      "Federal Reserve path: Gundlach/Slok (sell-side) expect September hike and tightening cycle; Hatzius (sell-side) calls hike 'very unlikely'; Ackman (buy-side) bets on Q1 2027 cuts",
+      "US equities: Yardeni (10,000) and Wilson (8,300) bullish sell-side vs. Burry (AI infrastructure shorts, 2005 analogy) and Hartnett (9.7 sell signal) bearish",
+      "AI deflation thesis: Yardeni argues AI drives productivity and Roaring 2020s; Napier explicitly rejects — fiscal dominance structurally larger than any AI deflationary force"
+    ],
+    "aligned": [
+      "AI infrastructure capex at dangerous valuation extremes — warnings from Dalio, Druckenmiller, Burry, Einhorn (buy) and Hartnett, Gundlach, Slok, Napier, Bannister (sell)",
+      "Gold as premier macro hedge — consensus across both sides: Einhorn, Tudor Jones (buy) and Hartnett, Napier, Edwards, Rosenberg (sell)",
+      "Fiscal debt on unsustainable trajectory — shared alarm: Dalio, Druckenmiller (buy) and Mauldin, Edwards, Napier, Rosenberg (sell)",
+      "Iran war / Middle East tensions add persistent oil and inflation risk — priced into rate debate by both buy and sell side"
+    ],
+    "buy_side_trades": [
+      "Long Bitcoin ETF (IBIT) as macro hedge against fiscal expansion and dollar debasement. [Tudor Jones]",
+      "Short Nvidia, Palantir, Oracle, Caterpillar, SOXX — AI infrastructure bubble thesis. [Burry]",
+      "Long Netflix, Visa, Mastercard — durable cash flow compounders; early Fed cut positioning. [Ackman]",
+      "Long gold, short HKD (Hong Kong dollar peg dissolution thesis). [Einhorn, Bass]",
+      "Long Amazon and Alphabet (cloud/AI-software); rotate from AI hardware. [Tepper, Druckenmiller]"
+    ],
+    "sell_side_trades": [
+      "Long gold as primary 'Anything But Dollar' hedge; long defensives (staples, REITs, small caps, biotech). [Hartnett]",
+      "Short long-end Treasuries; favor 2-7yr investment grade. [Gundlach, Slok]",
+      "Long TIPS; avoid 60/40 framework — bonds face 15-20 years of negative real returns. [Napier]",
+      "Fade hyperscaler valuations; buy AI-related supply chain shortages. [Berezin]",
+      "Long UK and European equities vs. US — fiscal dominance and repression creates relative value. [Edwards, Napier]"
+    ],
+    "dominant_themes": [
+      "AI infrastructure bubble nearing 2000/2005 historical analogues — capex surging beyond commercial revenue justification",
+      "Fiscal dominance replacing free-market monetary regime — Edwards Ice Age ends, Napier financial repression, Mauldin G-shaped economy all pointing to same structural shift",
+      "Federal Reserve credibility test: Warsh hawkish Jackson Hole speech + September hike probability + Bessent Treasury intervention = defining macro tension of Q3 2026"
+    ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   }
