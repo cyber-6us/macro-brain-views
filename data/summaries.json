@@ -1,201 +1,156 @@
 {
-  "generated_at": "2026-09-04",
+  "generated_at": "2026-09-05",
   "today": {
-    "date": "2026-09-04",
-    "entries_count": 16,
+    "date": "2026-09-05",
+    "entries_count": 2,
     "buy_side_bullets": [
-      "Market bubble forming with indicators near 150-year extremes — risk of 1987-style crash as S&P hits record highs; unprecedented tranquility is the red flag. [Burry, Gundlach]",
-      "Complacency fund being structured via asymmetric CDS-style derivatives — hidden bearish macro overlay running alongside publicly bullish core book signals elevated tail risk not in current pricing. [Ackman]",
-      "SpaceX IPO at $1.75T marks a speculative top and 'meme-ification' of markets — but selective value emerging in beaten-down traditional names (PayPal, Comcast). [Einhorn]",
-      "Near-term bullish on Bitcoin and Ether while liquidating AI semiconductor exposure (Applied Materials) — recession looming, China sputtering, valuations stretched in semis. [Tudor Jones]",
-      "NVIDIA puts held as hedge against AI euphoria while simultaneously building sevenfold position in alternative AI chip names — pragmatic dual-book risk management. [Soros]"
+      "Fed rate cuts would weaken the dollar and trigger sharp equity declines \u2014 yield curve steepens as long rates rise even as Fed cuts short end; non-consensus bearish read on easing. [Dalio]",
+      "US overspending by ~40% ($7T vs. $5T revenues) with cooling foreign Treasury demand accelerates debt crisis; capital wars intensifying as China/Europe reduce US bond purchases. [Dalio]",
+      "Long gold in all macro scenarios \u2014 outperforms in rate-cut (dollar weakness) and rate-hike (inflation hedge) environments alike. [Dalio]"
     ],
     "sell_side_bullets": [
-      "Bull & Bear Indicator at 9.7 — first sell signal since 2021 — with $652B annualized equity inflows and AI hyperscalers consuming 96% of cash flow on $670B capex; 'Retreat/Rotate not Reload' posture activated. [Hartnett]",
-      "Tech concentration at 37% of S&P 500, exceeding 2000 dot-com peak — AI job losses already spreading into insurance, logistics and fund management; consumer running on fumes beneath AI productivity veneer. [Edwards]",
-      "U.S. economy at 'stall speed' with July NFP -23,000 vs +83,000 expected; Goldman recession odds raised to 30%; Fed trapped weighting inflation over employment in dual-mandate environment. [Hatzius]",
-      "China Shock 2.0 headwinds compounding housing market freeze — AI capex buildout growing twice as fast as the housing boom but ROI payoff phase still absent; hawkish Fed speakers expected. [Slok]",
-      "Bond market described as 'manic' with critical yield thresholds approaching — US-Iran geopolitical tensions adding oil price pressure; White House supply narratives lack credibility. [Reid]"
+      "2026 is the year the US and China must set aside economic and military rivalries \u2014 both nations need each other too much for disputes to persist; geopolitical constraint forces normalization. [Mauldin]",
+      "Global 'Re-anchoring' underway: US and China consolidate as the only two global powers; Russia falls to regional status \u2014 15-year structural macro shift with portfolio implications. [Mauldin]",
+      "Geopolitics and economics are inseparable; Trump's Greenland tariff threats illustrate how quickly political actions translate into market impact. [Mauldin]"
     ],
-    "whats_new": [
-      "Bull & Bear Indicator triggered at 9.7 — first formal sell signal since 2021 — with $652B annualized inflows marking maximum crowd positioning; 'Retreat/Rotate not Reload' posture officially activated. [Hartnett]",
-      "Complacency fund formally in structuring talks at Pershing Square — dedicated asymmetric derivatives vehicle mirroring 2020 CDS trade, capital parked in short-term Treasuries pending deployment. [Ackman]",
-      "Goldman economy characterisation downgraded from 'doing well' to 'stall speed' following July NFP -23,000 print; recession probability raised to 30%; 'They're Not Hiking' thesis published Aug 16. [Hatzius]",
-      "Edwards declares AI macro doomsday 'here right now' — job losses spreading beyond tech into insurance, fund management and logistics ahead of his prior 2028 timeline; Ice Age thesis pivots from deflation to fiscal dominance and double-digit inflation risk. [Edwards]",
-      "SpaceX IPO at $1.75T labelled a definitive speculative top and market 'meme-ification' signal — Einhorn treating it as a valuation landmark for shorting growth/speculative names. [Einhorn]"
-    ],
-    "vs_market_buy": [
-      "Shorting broad equities and specific AI names (Nebius, Palantir) while market prices S&P at record highs with 150-year valuation extremes — direct contradiction of prevailing multiple expansion narrative. [Burry]",
-      "Structuring asymmetric downside derivatives on credit and macro narrative breaks while consensus equities inflows run at $652B annualised — Ackman's complacency fund implies severe mispricing of tail risk at current spread levels. [Ackman]",
-      "Reducing AI semiconductor exposure (exited Applied Materials) and long Bitcoin/Ether while market consensus remains overweight semis as AI capex primary beneficiary. [Tudor Jones, Soros]"
-    ],
-    "vs_market_sell": [
-      "Bull & Bear Indicator sell signal and extreme complacency flagged while $652B annualised inflows continue unabated — market crowd maximally positioned opposite the tactical signal. [Hartnett]",
-      "Tech at 37% of S&P exceeding dot-com concentration peak while passive index flows continue to mechanically bid the same names — sell-side bearish on concentration while passive flows structurally reinforce it. [Edwards, Sonders]",
-      "Goldman recession odds at 30% and NFP negative while equity multiples and credit spreads reflect a soft-landing baseline — significant gap between fundamental deterioration and asset price complacency. [Hatzius, Reid]"
-    ],
-    "buy_vs_sell_divergence": [
-      "Bessent (buy-side) argues K-shaped economy is over and manufacturing renaissance is underway — Edwards and Rosenberg (sell-side) see consumer running on fumes with structural weakness deepening; diametrically opposed consumption outlooks. [Bessent vs Edwards, Rosenberg]",
-      "Tudor Jones and Bannister both tactically bullish Bitcoin during sell-offs while Hartnett rotates into USD and defensives — crypto as risk-off alternative vs USD as risk-off alternative within the same bearish macro envelope. [Tudor Jones, Bannister vs Hartnett]",
-      "Hatzius constructive on duration (rate hikes off the table) while Rosenberg and Edwards warn long-duration Treasuries unattractive under fiscal dominance and double-digit inflation scenario — same 'no hikes' conclusion, opposite bond trade. [Hatzius vs Rosenberg, Edwards]"
-    ],
+    "whats_new": "Dalio's September 4 Reddit Q&A marks his first explicit articulation that Fed rate cuts are paradoxically bearish for equities \u2014 a new angle beyond his prior debt crisis / AI bubble warnings. Mauldin's 'Big Time Change' newsletter pivots to geopolitics, shifting from his prior 'Muddle Through' economic framing to a structural thesis about US-China forced normalization and global power reordering.",
+    "vs_market_buy": "Dalio is explicitly counter-consensus: the market assumes Fed rate cuts are bullish for equities and risk assets; Dalio says cuts will trigger dollar and equity declines while long-term rates rise \u2014 stagflation dynamics override the normal easing-is-bullish assumption.",
+    "vs_market_sell": "Mauldin's US-China normalization thesis is counter to prevailing geopolitical risk pricing \u2014 markets still price meaningful US-China tension premium; Mauldin argues structural economic necessity will force both sides to de-escalate regardless of political posturing.",
+    "buy_vs_sell_divergence": "Both Dalio and Mauldin see major structural change underway, but differ on framing: Dalio's is primarily a financial/monetary crisis (debt, dollar, stagflation) while Mauldin's is geopolitical (US-China reset, power reordering). No direct disagreement between the two today's entries.",
     "aligned": [
-      "AI capex cycle running at unsustainable pace relative to demonstrated ROI — hyperscaler concentration risk, $500-670B spending with delayed payoff flagged across buy and sell side. [Gundlach, Slok, Hartnett, Edwards, Torsten Slok]",
-      "Equity valuations at historically extreme levels with bubble characteristics — 150-year indicators, dot-com concentration breach, SpaceX IPO as speculative top marker; broad cross-camp consensus on overvaluation. [Burry, Einhorn, Edwards, Hartnett, Bannister]",
-      "US dollar under structural pressure — fiscal dominance, confidence erosion, potential Fed suppression all cited as converging bearish dollar catalysts. [Rosenberg, Gundlach, Wilson]"
+      "Both buy and sell side see structural regime changes underway that have major multi-year portfolio implications",
+      "US debt dynamics are unsustainable and will force significant policy or market adjustments"
     ],
     "buy_side_trades": [
-      "Long Bitcoin (BlackRock ETF re-entry) and Ethereum — near-term crypto bullish, accumulate on dips ahead of expected outperformance in risk-off macro environment. [Tudor Jones, Bannister]",
-      "Asymmetric downside derivatives (CDS-style) on credit and macro narrative breaks — short-term Treasuries as dry powder; structured to replicate 2020 pandemic windfall if complacency collapses. [Ackman]",
-      "Short NVIDIA via puts while building sevenfold long in alternative AI chip names — hedged barbell capturing AI upside without concentration in most crowded name. [Soros]",
-      "Long selective value in oversold traditional names (PayPal, Comcast) as speculative-top marker (SpaceX IPO) signals rotation opportunity away from growth. [Einhorn]"
+      "Long gold \u2014 outperforms in both rate-cut and rate-hike scenarios",
+      "Short U.S. dollar against hard assets (gold, non-dollar currencies)",
+      "Avoid long-term Treasuries \u2014 yields expected to rise even as Fed cuts short rates",
+      "Selective bitcoin exposure alongside gold as currency debasement hedge"
+    ],
+    "sell_side_trades": [],
+    "dominant_themes": [
+      "Fed rate cuts paradoxically bearish for equities and dollar",
+      "US debt crisis acceleration with cooling foreign demand for Treasuries",
+      "US-China geopolitical normalization as structural global reordering"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "mixed"
+  },
+  "week": {
+    "period_start": "2026-08-29",
+    "period_end": "2026-09-05",
+    "entries_count": 81,
+    "buy_side_bullets": [
+      "Market bubble forming at 150-year indicator extremes; 1987-style crash risk with S&P at record highs and tranquility historically anomalous \u2014 currently short S&P, Nebius, Palantir. [Burry evolving]",
+      "Fed rate cuts are paradoxically bearish: dollar and equity declines expected; yield curve steepens; gold outperforms in both easing and tightening scenarios. [Dalio]",
+      "AI investment boom of $500B is a 'warehouse of bananas' \u2014 Nvidia's chip financing signals market top; prefer gold over AI equities as crowding reaches extreme levels. [Gundlach]",
+      "Complacency fund being built via CDS-style derivatives \u2014 hidden bearish macro overlay reveals Ackman sees elevated tail risk despite public bullishness; SpaceX $1.75T IPO is the speculative top marker. [Ackman, Einhorn]",
+      "Bitcoin and Ether bullish near-term; recession looming ahead \u2014 rotating from AI equities (sold Applied Materials) into crypto and core long positions. [Tudor Jones]"
+    ],
+    "sell_side_bullets": [
+      "Bull & Bear Indicator at 9.7 \u2014 highest since 2021, triggering sell signal; 'Retreat/Rotate not Reload': $652B annualized equity inflows show peak complacency; rotate into staples, REITs, small caps, biotech. [Hartnett]",
+      "AI employment disruption 'here right now, not 2028' \u2014 job cuts spreading from tech into insurance, logistics, fund management; tech at 37% of S&P exceeds 2000 dot-com peak; fiscal dominance risks double-digit inflation. [Edwards evolving]",
+      "US recession odds at 40%; Europe/Japan at 50% from Iran oil shock \u2014 'Wiley E. Coyote' moment risk for AI-driven equities; rotate trade not recession trade. [Berezin]",
+      "Stagflation: US economy at 'stall speed' (July NFP -23K vs. +83K expected); China Shock 2.0 headwind; sequential Fed hikes underpriced; Europe/US macro divergence is a tradeable signal. [Hatzius, Slok]",
+      "15-20 year financial repression cycle beginning: 4-5.5% structural inflation to erode government debt; savers forced into bonds; gold signals what comes next. [Napier]"
+    ],
+    "whats_new": "Albert Edwards' shift from '2028 AI doomsday' to 'AI doomsday is here now' is the week's most significant stance evolution. Ackman's complacency fund reveal represents new hidden information about his real macro positioning vs. public comments. Dalio's Reddit Q&A provides a new explicit thesis that Fed rate cuts are paradoxically bearish. Hatzius downgraded the US economy to 'stall speed' \u2014 a notable negative shift from 'doing well.'",
+    "vs_market_buy": "Gundlach vs. AI euphoria: Wall Street's $500B AI bet is excessive 'warehouse of bananas' (market prices it as transformative). Burry vs. record high S&P: 1987-crash risk at 150-year indicator extremes (market pricing no near-term crash). Dalio vs. rate cut consensus: Fed cuts trigger equity/dollar declines (market sees cuts as universally bullish).",
+    "vs_market_sell": "Hatzius vs. market: September rate hike 'very unlikely' while market prices 53% probability of a hike. Napier vs. inflation consensus: 4-5.5% structural inflation for 15-20 years (market still prices eventual return to 2% target). Edwards vs. AI narrative: tech concentration at 37% of S&P exceeds 2000 dot-com peak levels \u2014 market unconcerned.",
+    "buy_vs_sell_divergence": "Fed hikes: Slok (sequential hikes are underpriced, bearish bonds) vs. Hatzius (hikes off the table, bonds ok) \u2014 explicit disagreement on near-term Fed path. Equity outlook: Yardeni (S&P 8,400 year-end, Roaring 2020s intact) vs. Bannister/Burry (10% crash incoming, 6,500-7,500 range) \u2014 diametrically opposed targets. AI stocks: Druckenmiller and Tepper selectively long AI names vs. Hartnett/Edwards urging rotation out of tech/AI concentration.",
+    "aligned": [
+      "Gold is an attractive hard-asset hedge across macro scenarios (buy and sell side both constructive)",
+      "AI capex boom is excessive and return-on-investment phase remains delayed or uncertain",
+      "Consumer spending resilience is weakening \u2014 K-shaped economy dynamics persist",
+      "Bond market volatility is elevated and a key risk to all risk assets",
+      "Debt/fiscal dynamics in the US are on an unsustainable path"
+    ],
+    "buy_side_trades": [
+      "Long gold (Dalio, Gundlach)",
+      "Long Bitcoin and Ethereum (Tudor Jones, Dalio selective)",
+      "Short AI equities \u2014 Nvidia puts, short Nebius/Palantir (Soros, Burry)",
+      "Long American Airlines \u2014 cyclical rebound bet (Tepper)",
+      "Long PayPal, Comcast \u2014 deep value in beaten-down sectors (Einhorn)",
+      "Asymmetric CDS-style macro derivatives for complacency collapse (Ackman)",
+      "Short U.S. dollar against hard assets (Dalio)",
+      "Reduce long-duration Treasury exposure (Dalio)"
     ],
     "sell_side_trades": [
-      "Rotate out of S&P 500 / Mag 7 into consumer staples, REITs, biotech, small caps — long USD as crowded equity positioning unwinds on sell signal. [Hartnett]",
-      "Short or underweight AI semiconductors and capex beneficiaries — reduce homebuilders and China-exposed US exporters; trim duration risk on fiscal dominance inflation scenario. [Slok, Edwards, Rosenberg]",
-      "Long gold as 25-year bull market continues — defensive value over growth as 60/40 portfolio breaks down and oil price risk clouds equity outlook. [Wilson, Gundlach]",
-      "Monitor critical bond yield thresholds as potential inflection points — crude oil as dual commodity and geopolitical risk indicator given US-Iran tensions. [Reid]"
+      "Rotate into consumer staples, REITs, small caps, biotech \u2014 sell signal activated (Hartnett)",
+      "Short or underweight long-duration Treasuries \u2014 negative real returns ahead (Napier, Rosenberg)",
+      "Short U.S. dollar \u2014 confidence loss in White House policy (Rosenberg)",
+      "Underweight equities \u2014 Wiley E. Coyote moment risk (Berezin, Edwards)",
+      "Long gold as inflation/fiscal hedge (Wilson, Hartnett, Napier)",
+      "Volatility-triggered rebalancing away from AI/tech concentration (Sonders)",
+      "Underweight US exporters exposed to China demand (Slok)",
+      "Long short-term Treasuries as safe haven dry powder (Ackman)"
     ],
     "dominant_themes": [
-      "AI capex bubble and delayed ROI — concentration risk and employment disruption accelerating",
-      "Consumer and labor market deterioration beneath AI productivity veneer",
-      "Equity valuation extremes and sentiment/flow complacency at historic levels",
-      "Fiscal dominance inflation vs recession — Fed dual-mandate paralysis",
-      "Dollar bear market and bond market fragility under geopolitical and fiscal pressure"
+      "AI bubble risks: capex excess, employment disruption, valuation concentration",
+      "Fed policy paradox: cutting is bearish; hiking is too expensive \u2014 stagflation trap",
+      "Debt and dollar credibility crisis accelerating"
     ],
     "buy_side_sentiment": "bearish",
     "sell_side_sentiment": "bearish"
   },
-  "week": {
-    "period_start": "2026-08-28",
-    "period_end": "2026-09-04",
-    "entries_count": 86,
-    "buy_side_bullets": [
-      "Equities near 1929/2000 bubble extremes with 150-year valuation records breaking — running concentrated short book on AI names while others chase momentum. [Burry, Dalio, Einhorn]",
-      "Complacency fund in active formation — asymmetric CDS-style macro bets signal hidden bearish overlay running alongside publicly bullish core equity books. [Ackman ↑ evolving]",
-      "Bitcoin re-entry after year of selling signals conviction that fiscal debasement and AI-driven abundance make digital scarcity the premier macro hedge of this cycle. [Tudor Jones ↑ shift, Visser, Dalio]",
-      "Selective AI hardware rotation underway — trimming pure-play semiconductor winners into strength, rotating profits toward quality AI-adjacent names, airlines, and domestic recovery plays. [Tepper ↑ evolving, Druckenmiller]",
-      "SpaceX IPO at $1.75T and surging margin debt flagged as textbook speculative peak markers — prioritising capital preservation over benchmark-chasing in frothy tape. [Einhorn ↑ evolving, Dalio]"
-    ],
-    "sell_side_bullets": [
-      "BofA Bull & Bear Indicator at 9.7 — highest since 2021 and comfortably above the 8.0 outright sell threshold — triggering explicit 'Retreat/Rotate not Reload' posture with $652B annualized equity inflows confirming maximum crowd positioning. [Hartnett ↑ evolving]",
-      "U.S. economy downgraded from 'doing well' to 'stall speed' after July NFP printed -23,000 vs +83,000 consensus — Goldman recession odds raised to 30% and Fed now seen weighting inflation over employment, creating a genuine dual-mandate trap. [Hatzius ↑ shift]",
-      "AI doomsday thesis arriving ahead of schedule — tech at 37% of S&P 500 exceeds dot-com peak concentration while job losses spread from tech into insurance, logistics and fund management, leaving consumer running on fumes. [Edwards ↑ evolving]",
-      "Stagflation environment locked in: 3% inflation plus slowing growth from trade frictions and immigration restrictions means sequential Fed hikes are materially underpriced by consensus after Warsh's 'We have work to do' Jackson Hole signal. [Slok ↑ evolving]",
-      "AI capex consuming 96% of hyperscaler cash flow with ROI payoff phase still absent — growing twice as fast as the 2000s housing boom and at risk of an equally abrupt unwind. [Slok, Hartnett, Reid]"
-    ],
-    "whats_new": [
-      "Pershing Square 'complacency fund' formally in talks — dedicated CDS-style vehicle to profit from narrative breaks, mirroring the 2020 pandemic trade structure, revealing a dual-book bearish macro overlay not visible in core equity positioning. [Ackman ↑ shift]",
-      "Goldman formally downgrades U.S. economy to 'stall speed' and raises recession probability to 30% following July NFP shock of -23,000 — a concrete step-change from the 'pretty well' characterisation held only days earlier. [Hatzius ↑ shift]",
-      "Edwards officially retires Ice Age secular stagnation thesis and replaces it with fiscal dominance plus potential double-digit inflation paradigm — 'Great Melt' framing signals a complete macro regime inversion from his multi-decade deflation call. [Edwards ↑ shift]",
-      "Barry Bannister introduces conditional biotech IPO bullishness as a new call alongside his 10% crash thesis — 'escape velocity' framing for biotech is absent from earlier entries and represents a genuine sector-specific new view. [Bannister ↑ shift]",
-      "Rosenberg issues explicit 2027 recession forecast for the first time — naming AI capex peak in 2026 and post-midterm fiscal gridlock as the simultaneous triggers, moving from bearish caution to a dated recessionary call. [Rosenberg ↑ shift]"
-    ],
-    "vs_market_buy": [
-      "Running profitable concentrated AI short book into record equity highs and unprecedented inflows — directly opposed to the 20x+ forward multiples the market is awarding AI infrastructure names. [Burry, Soros]",
-      "Launching asymmetric macro derivatives vehicle to bet on complacency collapse while passive equity inflows print at $652B annualised — positioning for a vol spike the market is pricing nowhere near fairly. [Ackman]",
-      "Reducing AI semiconductor exposure and rotating to airlines and domestic cyclicals while consensus still crowds into Mag 7 — implying the AI hardware premium is exhausted even as index weights keep rising. [Tepper ↑ evolving, Tudor Jones]"
-    ],
-    "vs_market_sell": [
-      "Consensus equity markets pricing benign soft-landing while recession odds sit at 30-40% and July payrolls printed negative — the gap between sentiment extremes and deteriorating labour data is historically unsustainable. [Hatzius, Berezin, Rosenberg]",
-      "30-year Treasury at 5.2% and real 30-year at 3% while credit spreads remain near cycle tights — bond markets are screaming fiscal distress that equity and credit markets have not yet absorbed. [Hartnett, Gundlach, Reid]",
-      "Tech concentration at 37% of S&P 500 — exceeding dot-com peak — while passive index inflows mechanically amplify the weight further, creating a structural fragility the market is treating as a feature rather than a risk. [Edwards, Sonders, Hartnett]"
-    ],
-    "buy_vs_sell_divergence": [
-      "Tudor Jones and Tepper remain net long U.S. equities and see continued AI runway versus Hartnett and Edwards calling an outright tactical sell at sentiment extremes — same data set, opposite action taken.",
-      "Ackman publicly bullish on equities and positioned for Fed rate cuts in Q1 2027 versus Gundlach and Slok arguing rate cuts are near-impossible to justify and sequential hikes remain underpriced — fundamental disagreement on the monetary policy path.",
-      "Dalio and Burry treating current AI valuations as 1929/2000-severity bubble requiring defensive positioning versus Yardeni framing the same rally as 'FEMO' (fundamentals-driven) with S&P target raised a third time to 8,400 — irreconcilable valuation frameworks."
-    ],
-    "aligned": [
-      "AI capex boom is overcapitalised relative to demonstrated commercial returns — productivity payoff is real but years away, creating a dangerous interim gap between spend and revenue that precedes valuation corrections. [Slok, Hartnett, Gundlach, Burry, Torsten]",
-      "Government bonds face structurally negative real returns over a multi-year horizon — fiscal dominance, sticky inflation, and unsustainable debt trajectories make the standard 60/40 framework dangerously wrong. [Napier, Mauldin, Edwards, Reid]",
-      "Gold is the highest-conviction cross-camp macro hedge — endorsed as protection against dollar weakness, fiscal excess, financial repression, and AI-driven abundance simultaneously. [Hartnett, Gundlach, Wilson, Einhorn, Dalio, Tudor Jones]"
-    ],
-    "buy_side_trades": [
-      "Short Nvidia, Palantir, SOXX, Nebius, Oracle — AI infrastructure bubble at 2005 housing analogy stage with 6 of 7 shorts currently profitable; only long is defensive healthcare. [Burry]",
-      "Long Bitcoin and Ethereum via spot ETFs — digital scarcity as the anti-thesis trade to AI-driven abundance, fiscal debasement hedge, and potential 'S&P 500 of the future.' [Tudor Jones ↑ evolving, Visser, Dalio]",
-      "Long gold as premier cross-asset macro hedge against dollar weakness, fiscal dominance, and monetary instability — outperforming all longs in Einhorn's book and validating the thesis. [Einhorn, Dalio, Tudor Jones]",
-      "Rotate AI hardware profits into quality AI-adjacent names — Amazon, TSMC, Alphabet, Meta, Uber — plus beaten-down cyclicals Boeing and American Airlines as late-cycle domestic recovery bet. [Tepper ↑ evolving]"
-    ],
-    "sell_side_trades": [
-      "Rotate from S&P 500 and Mag 7 into consumer staples, REITs, biotech, small caps, and long USD — Bull & Bear sell signal at 9.7 demands 'Retreat/Rotate not Reload' posture. [Hartnett]",
-      "Short U.S. rates versus long European rates — stagflation in U.S. drives sequential Fed hikes while Europe faces no trade frictions, allowing inflation and rates to fall there. [Slok]",
-      "Underweight long-duration government bonds globally — fiscal dominance, 4-5.5% structural inflation, and potential capital controls over a 15-20 year financial repression cycle make real returns persistently negative. [Napier, Mauldin, Edwards, Reid]",
-      "Reduce AI high-multiple equities ahead of Wiley E. Coyote moment — simultaneous AI bubble burst plus recession could produce 30% equity decline with U.S. recession odds at 30-40%. [Berezin, Hartnett, Edwards]"
-    ],
-    "dominant_themes": [
-      "AI bubble valuation vs. productivity reality gap",
-      "Fed policy error risk — hike vs. hold vs. cut trilemma",
-      "Fiscal dominance and structural inflation regime shift",
-      "Bond market fragility and long-end yield crisis",
-      "Market concentration and rotation dynamics post-Mag 7 peak"
-    ],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "bearish"
-  },
   "month": {
-    "period_start": "2026-08-05",
-    "period_end": "2026-09-04",
-    "entries_count": 263,
+    "period_start": "2026-08-06",
+    "period_end": "2026-09-05",
+    "entries_count": 250,
     "buy_side_bullets": [
-      "Market bubble indicators approaching 150-year extremes — AI infrastructure analogous to 2005 housing, one year before the crash. [Burry, Dalio, Einhorn]",
-      "Complacency fund being launched to exploit narrative breaks via CDS-style derivatives — hidden bearish macro overlay running alongside bullish public equity stance. [Ackman ↑ shift]",
-      "Dollar at historic purchasing-power peak with foreigners vastly overloaded in USD — structural unwind thesis intact, hedging via EM, copper, gold. [Druckenmiller ↑ evolving]",
-      "Bitcoin re-entered as macro hedge after a year of selling — recession looming, digital scarcity positioned as primary inflation/debasement hedge. [Tudor Jones ↑ shift, Visser]"
+      "Market bubble near 150-year extremes \u2014 Burry positioning for 1987-style crash; Druckenmiller betting soft landing with selective AI exposure; two contradictory camps pulling in opposite directions. [Burry, Druckenmiller]",
+      "Treasury bond market integrity at risk \u2014 Druckenmiller's WSJ op-ed ('Let the Bond Market Speak') accused Bessent of 'price management' after doubling buybacks to $4B; 30-year yield at 5.23% unmoved by intervention. [Druckenmiller]",
+      "AI investment in a late-stage bubble: $500B capex with 96% of hyperscaler cash flow consumed; Gundlach's 'warehouse of bananas,' Dalio's textbook bubble warning, Burry's 150-year extreme signals \u2014 bearish trio on AI equities. [Gundlach, Dalio, Burry]",
+      "Gold and bitcoin as dual hedges gaining buy-side consensus \u2014 Dalio, Gundlach, Tudor Jones, Soros (selective) all pointing to hard assets amid dollar credibility erosion and fiscal dominance fears. [Dalio, Gundlach, Tudor Jones]",
+      "Ackman's hidden bearish overlay (complacency fund via CDS) alongside Einhorn's SpaceX top marker and Druckenmiller's bond market alarm signal increasing buy-side tail risk awareness despite varying public stances. [Ackman, Einhorn, Druckenmiller]"
     ],
     "sell_side_bullets": [
-      "Bull & Bear Indicator at 9.7 — highest since 2021, first sell signal since then — 'Retreat/Rotate not Reload' posture: exit equities, rotate into defensives, long gold. [Hartnett]",
-      "US now in stagflation: slowing growth from trade frictions plus 3% sticky inflation — sequential Fed hikes severely underpriced by consensus. [Slok ↑ evolving]",
-      "Tech stocks at 37% of S&P 500 exceeding dot-com peak — AI doomsday is happening now, not 2028, with job cuts spreading into insurance, logistics, fund management. [Edwards ↑ evolving]",
-      "US economy at 'stall speed' — July NFP -23,000 vs +83,000 expected; Goldman raises recession odds to 30% while publishing 'They're Not Hiking'. [Hatzius ↑ shift]"
+      "AI doomsday accelerating ahead of schedule: Edwards moved timeline from 2028 to 'here now'; Slok flags AI capex ROI gap and China Shock 2.0; Berezin warns of AI-bubble Wiley E. Coyote moment. [Edwards evolving, Slok, Berezin]",
+      "Bond market under structural pressure from multiple fronts: Bessent's $4B buyback expansion failing to hold yields; Hartnett's 'manic' bond market warning; Napier's 15-20 year financial repression thesis; Rosenberg's dollar bear market call. [Hartnett, Napier, Rosenberg]",
+      "Fed trapped in a no-win scenario: July NFP -23K vs. +83K expected shifts Goldman to 'stall speed'; Slok frames it as stagflation (slow growth + 3% inflation); market pricing 53% September hike while Hatzius calls it 'very unlikely.' [Hatzius, Slok evolving]",
+      "Iran conflict emerged as the key geopolitical shock: pushes Europe/Japan recession risk to 50%, US to 40%; oil at elevated levels; Jim Reid tracking US-Iran escalation as the primary commodity tail risk. [Berezin, Reid]",
+      "Sell signals stacking: Hartnett's Bull & Bear at 9.7 (sell); Yardeni raised S&P target to 8,400 (only bull); Bannister calling for 10% crash; Wilson turned bearish on equities despite bullish S&P 7,800 target early in month. [Hartnett, Bannister, Wilson shift]"
     ],
-    "whats_new": [
-      "Complacency fund formally in talks at Pershing Square — dedicated CDS-style vehicle to profit from market-narrative breaks, mirroring the 2020 pandemic trade structure. [Ackman ↑ shift]",
-      "Rosenberg forecasts 'very significant' 2027 recession — AI capex peaking in 2026 plus post-midterm fiscal gridlock removes both simultaneous growth engines. [Rosenberg ↑ shift]",
-      "Hatzius publishes 'They're Not Hiking' and raises Goldman recession odds to 30% — explicit pivot from 'doing well' to 'stall speed' framing after July NFP shock. [Hatzius ↑ shift]",
-      "Slok formally frames US as stagflationary and calls US/Europe policy divergence a tradeable signal — short US rates vs long European rates. [Slok ↑ shift]",
-      "Hartnett frames Sep 16 FOMC plus Sep 18 BoJ hike as 'Mission Accomplished' moment for long yields — 30-year at 5.2%, real 30-year at 3%, yield peak thesis emerging. [Hartnett ↑ evolving]"
-    ],
-    "vs_market_buy": [
-      "Shorting Nvidia, Palantir, semis ETF while S&P 500 hits records and AI names trade at generational premiums — six of seven short bets now profitable against market consensus. [Burry]",
-      "Maintaining minimal gross equity exposure and gold-heavy defensive book while benchmarks run +21% YTD — capital preservation over performance-chasing in historically expensive market. [Einhorn]",
-      "Selling AI semiconductor exposure and launching complacency derivatives fund while publicly bullish on equities — implied tail risk far exceeds what market pricing reflects. [Ackman ↑ shift]"
-    ],
-    "vs_market_sell": [
-      "Stagflation and sequential Fed hikes severely underpriced — credit spreads near tights while macro data rolling over and oil shock compounding inflation. [Slok, Edwards, Reid]",
-      "AI capex funded by investors not customers at 2x housing-bubble build pace — market pricing AI productivity gains that are years away from materializing. [Slok, Gundlach, Rosenberg]",
-      "US recession probability at 40%, 'Wiley E. Coyote moment' approaching — equities still near highs with no pricing for simultaneous AI bubble burst plus recession scenario. [Berezin]"
-    ],
-    "buy_vs_sell_divergence": [
-      "Fed has no credible path to hike vs September hike probable with sequential hikes to follow — polar opposite readings of same labor and inflation data. [Hatzius vs Slok, Gundlach]",
-      "Quality equities at one of best entry points in years, macro heading to 'very good place' vs Bull & Bear at 9.7 sell signal, retreat from risk assets now. [Ackman vs Hartnett]",
-      "Tepper 101.8% YTD with 77% in AI-centric names as core conviction vs Burry doubling AI shorts into strength with 6 of 7 profitable — same names, opposite books. [Tepper vs Burry]"
-    ],
+    "whats_new": "Month's biggest stance shifts: Edwards moving AI doomsday from 2028 to 'here now' (most significant thesis evolution). Wilson flipping from bullish (7,800 target) to bearish with gold/defensive positioning (within the month). Hatzius downgrading to 'stall speed' from 'doing well.' Druckenmiller's public confrontation with Bessent via WSJ op-ed \u2014 unprecedented given their mentor-protege relationship. Ackman's complacency fund reveal showing hidden bearish overlay vs. public positioning. Dalio completing full Bridgewater exit, now running family office, and issuing September Reddit Q&A with new rate-cut-is-bearish thesis.",
+    "vs_market_buy": "Three major divergences from consensus: (1) Dalio/Gundlach/Burry: AI capex is a bubble the market prices as transformative growth engine; (2) Druckenmiller: Treasury bond intervention will fail, 30-year yield stays elevated, bond market will reassert discipline; (3) Soros: NVIDIA specifically overvalued via puts while broadly AI-bullish (selective skepticism vs. market's undifferentiated enthusiasm).",
+    "vs_market_sell": "Four key divergences: (1) Hatzius vs. 53% September hike pricing: Goldman calls it 'very unlikely'; (2) Napier vs. 2% inflation target belief: 4-5.5% structural inflation for 15-20 years; (3) Edwards vs. AI employment narrative: disruption 'here now' while market assumes gradual benign transition; (4) Berezin vs. soft-landing consensus: 40% US recession probability, 50% Europe/Japan.",
+    "buy_vs_sell_divergence": "Most significant month-long divergences: (1) Fed path: Slok (sequential hikes underpriced, economy in stagflation) vs. Hatzius (no hiking credible, stall speed calls for easing); (2) Equities: Yardeni alone bullish (8,400) vs. Hartnett/Bannister/Burry/Berezin warning of -10% to -30%+ corrections; (3) AI capex: Tepper (77% portfolio in AI longs, adding airline as cyclical hedge) vs. Gundlach/Edwards (AI spending a waste, bubble accelerating employment disruption); (4) Duration: Napier/Rosenberg (short long-term Treasuries, financial repression coming) vs. Hatzius (bonds attractive as Fed not hiking).",
     "aligned": [
-      "AI capex boom building at unsustainable pace relative to demonstrated commercial returns — bubble risk acknowledged across camps even where equity stance differs. [Slok, Gundlach, Dalio, Burry, Hartnett, Edwards, Berezin]",
-      "Gold as primary macro hedge — convergence on gold long regardless of whether the concern is dollar debasement, fiscal dominance, financial repression, or AI bubble burst. [Dalio, Hartnett, Einhorn, Napier, Gundlach, Tudor Jones, Wilson]",
-      "Tech concentration at historically dangerous levels — Mag 7 at 34-37% of S&P 500, parallels to Nifty 50 1972 and dot-com 2000 peak cited by multiple voices. [Hartnett, Edwards, Sonders, Bannister]"
+      "Gold is a consensus hedge across buy and sell side \u2014 virtually universal constructive view",
+      "AI capex ROI gap is real and growing \u2014 even AI bulls acknowledge payback timeline is extending",
+      "Consumer spending resilience is deteriorating with late-cycle dynamics emerging",
+      "Fiscal and debt dynamics in the US are unsustainable regardless of near-term Fed path",
+      "Bond market volatility will remain elevated \u2014 Iran tensions + fiscal uncertainty + Bessent intervention dynamics",
+      "Dollar credibility is declining \u2014 short USD vs. hard assets a widely held view across both sides"
     ],
     "buy_side_trades": [
-      "Short AI semiconductors and mega-cap tech via puts — Nvidia, Palantir, SMH ETF as concentrated bubble expression. [Burry]",
-      "Long Bitcoin and Ethereum — re-entry after year of selling as recession looms and dollar credibility erodes, digital scarcity as fiscal hedge. [Tudor Jones ↑ shift, Visser, Dalio]",
-      "Long gold and real assets — financial repression, dollar debasement, fiscal dominance converging as structural tailwinds for 15-20 year horizon. [Dalio, Einhorn, Druckenmiller]",
-      "Long domestic cyclicals and quality non-tech compounders — Netflix, Visa, Mastercard, American Airlines as late-cycle rotation away from AI hardware. [Ackman, Tepper]"
+      "Long gold as macro hedge (Dalio, Gundlach, Tudor Jones \u2014 multi-investor consensus)",
+      "Long Bitcoin and Ethereum near-term (Tudor Jones re-entry via BlackRock ETF, Visser macro thesis)",
+      "Short NVIDIA/AI equities via puts and direct shorts (Soros puts, Burry short Nebius/Palantir, Gundlach reduce AI)",
+      "Long American Airlines \u2014 cyclical rebound amid AI-heavy book (Tepper 7.5M shares)",
+      "Long PayPal, Comcast \u2014 deep value unlocks in beaten-down traditional sectors (Einhorn)",
+      "Asymmetric CDS-style macro derivatives for complacency collapse (Ackman complacency fund)",
+      "Short U.S. dollar vs. gold and non-dollar currencies (Dalio, Rosenberg)",
+      "Long EM equities selectively: Mexico, Argentina (Druckenmiller)",
+      "Long private credit \u2014 pre-2024 vintages with better loan quality (Marks)"
     ],
     "sell_side_trades": [
-      "Rotate into consumer staples, REITs, biotech, small caps — exit Mag 7 and AI hyperscalers as Bull & Bear sell signal at 9.7 maximum extreme. [Hartnett]",
-      "Short US rates vs long European rates — US stagflation with sequential hikes vs Europe seeing inflation and rates fall without trade frictions. [Slok]",
-      "Long gold as 'Anything But Dollar' hedge — dollar slump expected if Bessent fails to drag 30-year below 5%, AI hyperscalers and private credit at risk. [Hartnett, Napier, Edwards]",
-      "Underweight broad equities, overweight cash — 'Wiley E. Coyote moment' approaching with 40% US recession odds and 30% equity decline scenario if AI bubble bursts simultaneously. [Berezin, Bannister]"
+      "Rotate into consumer staples, REITs, biotech, small caps \u2014 BofA sell signal activated (Hartnett)",
+      "Short or underweight long-duration Treasuries globally \u2014 negative real returns in financial repression (Napier, Rosenberg)",
+      "Short U.S. dollar \u2014 K-shaped economy end + fiscal deterioration (Rosenberg, Slok)",
+      "Underweight equities broadly \u2014 Wiley E. Coyote risk, Edwards/Berezin/Bannister bear camp",
+      "Long gold as inflation/financial-repression hedge (Wilson, Hartnett, Napier \u2014 sell-side consensus)",
+      "Europe long rates vs. US long rates \u2014 US/Europe macro divergence trade (Slok)",
+      "Underweight US exporters, long domestic manufacturers (Slok China Shock 2.0)",
+      "Volatility-triggered rebalancing from Mag 7 / AI concentration (Sonders)",
+      "Long short-term Treasuries as safe haven and dry powder (Ackman, Hatzius constructive)"
     ],
     "dominant_themes": [
-      "AI bubble valuation and capex sustainability",
-      "Fed path uncertainty — hike vs hold vs cut",
-      "Fiscal dominance and financial repression",
-      "Dollar credibility and bond market fragility",
-      "Stagflation vs soft landing debate"
+      "AI bubble vs. genuine productivity: capex excess, employment disruption, valuation concentration at 2000 extremes",
+      "Treasury/bond market credibility at risk: Bessent intervention failing, Druckenmiller vs. Bessent, Napier's financial repression cycle",
+      "Iran geopolitical shock accelerating recession risk: oil supply disruption, 40-50% recession odds in developed economies"
     ],
-    "buy_side_sentiment": "mixed",
+    "buy_side_sentiment": "bearish",
     "sell_side_sentiment": "bearish"
   }
 }
