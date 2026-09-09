@@ -17753,6 +17753,220 @@
         "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaE1MaXJmaVEyMmx6U3JIRFdZd3JYSFdrWktWZTF5djd4enRjU01uYXNMU1hRbHlJM1htYUg5aWtLcWJkM1VsdWpIcVg0NnBWV1AyVnVDYzh4MmRwT3JXcE5mUV9KZlBkTHF0YUZzUGZPeUtzQUF0elRibnhReTJ0N0JRMnB1MTBzYW5ucEs2RFZMbzNFWm1SeVB4QjQtNmdIaW5FSVNhNXN6TEhRT0RGYlJWeXU?oc=5",
         "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUXEwaFJQN0xDblVEa3ZHcHJScDV4Y3NVWTJnX3F2bFRMRHlBRGpmeS1KQjR6endRb1YzTTRfanByY21ndExheW5fQ210Wk53NW12MG1GRThMQmdXb2FaeTlubGRJU2xEd2dzY3kxX2RHVTdNNWhrRVZ3ck50cm53MnZNb0NscllXazRYcGExbHlYZ040?oc=5"
       ]
+    },
+    {
+      "id": "2026-09-09-a3d6bf24",
+      "date": "2026-09-09",
+      "published_at": "2026-08-25T07:00:00+00:00",
+      "investor": "George Soros",
+      "side": "buy",
+      "summary": "Soros appears cautious on equities, particularly AI/semiconductor stocks like NVIDIA where he bought puts while competitors accumulated, and exited positions like Lululemon. He maintains contrarian conviction in macro trades (referencing his historic 'breaking the Bank of England' trade), though current snippets suggest he's hedging rather than aggressively long risk assets.",
+      "key_views": [
+        "Skepticism on NVIDIA and AI chip valuations — bought puts while Tepper bought more and Loeb sold all",
+        "Defensive positioning — exited consumer discretionary (LULU) suggesting caution on consumer/growth",
+        "Contrarian macro approach — still employs his signature 'break the market' mentality but applying it defensively in current environment"
+      ],
+      "trade_ideas": [
+        "Short NVIDIA via put options",
+        "Exit/reduce consumer discretionary exposure (Lululemon exit)",
+        "Long unnamed stock shared conviction with Loeb and Einhorn"
+      ],
+      "asset_classes": [
+        "equities",
+        "fx"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYzg3MkNBS1dvT0RNdklGOHJSbU1Ed1hWcXNIOUVjOGhTUHVVSk1aTVViaU90TzZ4RmQwU2J2M1M2QmlKSHJzTXpya1NPRjdjeVNURHJqRm95b3lKQ29sNXlFMGNDWWJfWXVPSjNuVGdEUUFNYnNydXVUUm10eERUSlp3NFFXdFlWRWxFRGNYSkt0Ry1IN2NWb09wZy1OQWx0YUJsOEZGbEpIYlBSR0ZicVQyOFNIdw?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZDJGb0hpa2R0dEF5TXppUlFRWGxMWDQwV2FsSWVXYWh0bzZ1dHJpVFVodVh3OWJKclJRejZZWUxERVRVRlpuMXR3aDA5bVhkdUt1RjdLSmlsd2ExbWk1V0hTTjNPNnFwNFFEMFI5el8yN2dGZVMxRWRzRUFTSmlrdmRRYnM2ZzloMVhHb04yeWRJeml5dHVPTE43Nnk?oc=5",
+        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPX0oxRFdlZEdvZGx2ZXRabFNPOU14aHp4U2NTOTZLMm56VUYtaXZGYklyNnlEdjlaS1ctSkFUWEFyS2kxTTJSbFV6RDV0T2pDUlppMHVKTDZYN3F6X1ZrN0FDd3luMWFsSkEzTVREZGdmUGpXZzBRcnBUUm1MN1VnZWRzTFJyN1RTb2tROFBoNk9wQ2tWNnpiRTVLNVQ1V1hLQmY2Qk55TnZ2WDlJZzFSc3YyQWpGUDVWd21ZLUlQVHJCNFhnOWowYUJJdjZ6V2lvajh3dTNkTHZhTGNOTTByelpB?oc=5",
+        "https://news.google.com/rss/articles/CBMiuANBVV95cUxQT01KcGNoTGNsQnlfNEwyZ2hXUVc2T3BFNUM4VkNjdEloRVZPTWNYYU56X2hsTmdPR1ZZYlU4d3dUQ0VpTHd1OVVyc2ttY2RndmtOejh6dTVNWnhESU0ySFkyczJtcUgwYmt4VV9GN2VnR2RnaFBqUTlDakxEN2UyeWo4NDZOSzdtMWpNNFZ0VjFWRkhZTlpFdTRubGNra3RWY1ZGTjFTQzF2VzEycnlqSGJRdy02TkhtbFNOeDhIVVplOWxGVHdwck1PSWRfczZoWksxY2VyeURmUV9CUkJyNldZUXotb0NRR0xCeGk1UnpjdzRtWGRua1hxbGp3TzYyb1VEaHNtZzllenRIMURDYVgyV29iZW11MjlyNUJzODVXVkhBMldkeVl0dDlNQnR6aVFaeDMyaXhsQWZSMEJpWDgtNE53VnRJbEJYZE1QT3pySVJmaW0yU0ZIbHZIUTh0aXl4TnY4RWNXLUtPX2F0V3RPblZudlh5RXJWU0dKYzJFVHRFR2taQjY3X2hicWk3a3dKMTdycksyTm9mSlcxd3pITi12TzRITXF1cVYybDlrX2NIRTNEbtIBvgNBVV95cUxPVUNmY0tFT1VHQ0xsRFFIR3NYZkp0N2FGUFZoSXRlTHl5S0ZDb0duTzFrQVFieE9zZ3VfbThpemxudUZNaFpPTlRPdzgtZFBtUnRjQXNWZ3IxUWRSOGNOZ2FnVDlHal9sYkpmZWMzLTBDOXVXWVlVYUp2aXVoT1A2ZXVHXzl3YURyLURrdFNxeE5yNzdkS2h6SWpmTjlQVU9xZVpKN3JTdmZWRV90aTdVU0JndXlxZ080dV8zTFpHNlEyWGtxOTNQSkhZc3lWMF9sMzNOVGRSUDljS1Nyek9uVV80Sl8wM0I5NWZROTZ1QWJ1QkNLQUtrWTAweTh0YWxNSERMSHd4cVVVV1otdWNNblBrTWY1Nl85ei1ZYlliSFRfQV94N2tscm9ZWGRCN2hrM0ZwOHRZTV9GT01kWVJpRjFfdGc3NkVfejBnRzVuUHZJZ0dscERCclBXNkZpNXlqeEdvVWJYenpZNm1WM2lCSFV6eDU1NVB6TGkwX25KMHAzX2xUYWNtLW0temM5VmpZSF96aElrbzRablc0aXdlVzN4VVliTGtCQTd2X3FCWFJLZUh2Tmlna1VJN25WUQ?oc=5"
+      ]
+    },
+    {
+      "id": "2026-09-09-90f51a16",
+      "date": "2026-09-09",
+      "published_at": "2026-08-26T07:00:00+00:00",
+      "investor": "Scott Bessent",
+      "side": "buy",
+      "summary": "Bessent believes the K-shaped economy is over, signaling a shift in economic divergence dynamics. He is asserting contrarian views against bond market pessimism, suggesting he knows something the market doesn't about future economic conditions, while simultaneously pursuing aggressive economic sanctions against Iran as part of his Treasury strategy.",
+      "key_views": [
+        "K-shaped economic recovery has ended",
+        "U.S. bond market is overly pessimistic and mispricing economic outlook",
+        "Economic sanctions rather than military action will be the primary Iran policy tool",
+        "Credibility and market confidence in Treasury leadership is being tested"
+      ],
+      "trade_ideas": [
+        "Long duration bonds or rates positioning if Bessent is correct that bond market underprices growth",
+        "Geopolitical risk plays around Iran sanctions impact on oil and energy markets"
+      ],
+      "asset_classes": [
+        "bonds",
+        "rates",
+        "fx",
+        "commodities"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVVlnRnlJRzZOY2ZlQTVmSGpoR0tPbmMwMi1ZRmtIa2c1Y2lVWTN2U3MxdzdsUFFMX0VHWmwxcDhTc0JRS0VvWkdGb0lkTmRYZjV2akt3aWpiai0tRC1FNDgtZlhhQXFNSzhrNWdNWkpoZ181Z085ak1lQlRfZ1c0aFhGSkdVZTNwbHJRV09JTTRLckZCSEU0NmNWNGhOMFNjaUVKMFhHeDU5WWVZcmdUY3BrX1EzVE0?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE14QXhEWnBIUDRZOTdsTnpyOHRFWFF6eW50Q0FfZTNwT1RIVkxLSXVFX2x5VE9KMzU1dWh6XzJjXzBpemVKX21rOWNtRVFkaDJjX3lLc1JsWFFYWXd5aGdGeUM1aDN0Y2ZwbDZtWkYtUlpqMTBtVFHSAXtBVV95cUxOSTNJOFJlTHhaZ0xmbDJoUWRJRFJ6WFBzMjFDaWYtN2JVOEE2N1hYN1FVZ29rV1lqMHg5anpRU0VoM1U2ZE1tM3U1WmtsSXpoS293TzZvQThtTjdjZTlNT2ZxbEJ1T0h5b2xiT1RxU0ZHLUJDcTN3THlNY2M?oc=5",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUy0yWXVJbWhTQmFCcEROTDN2clNhV2NUY2ZtNzdkRGVoblhHLUEwTXoyQzdLdjFqWGVJMXNrakpOeFZ5N0M4YVQyd253RGRBMF9NS0I4SEJDNFBqNGl0aG9jdk81OGMteF9VNzVrTzhLOU5VeU1oWEs1am4wZ0JWVGZwMmg?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYW81TVRLc0RuZnF0UFFYaGtDelQtSFVoOEJ1OGRxSC0wT1FDSGNMUjhXRlZITlA4R3EzY1NqcVlhWmVXNGM1Q2RWektGUEpORV9xSklyckFkbEVBWHFXY2lFRjR0U1JOWnE1TFJHZURzRzJjNlhEWnNYVlUza0l1dW03Vm03RFFrMjkzMV9jaVZIMlQ1QlpicmZUZDRpa25XOVpZNzdtVUxiaDNoVUpzaHNDQkN6d9IBuwFBVV95cUxNY1FJMzN3VmdEcnU3Tzg5bUdwS2hhdUh0b0JfN1F4dEE3YlpjUHZ4b295eWpsa0JYMmd6NkxXc0NaeGpoRERLWVBXQzA4b2tDTTVUUm56RTFGMTVtbzRJMTI1dDVyUUlUYnlZMXV3dk9KcHZ0RnNBcmQ4aTZBc1ZxYTlYTHRLMHlDN1dGWnNfc2ZOOTVQY1psaGE0VDMtMUpOWDlDTmFEYXcta2ZkNEVzNU4wZy1uVGwyOE8w?oc=5"
+      ]
+    },
+    {
+      "id": "2026-09-09-4500a9e4",
+      "date": "2026-09-09",
+      "published_at": "2026-09-06T00:34:51+00:00",
+      "investor": "Bill Ackman",
+      "side": "buy",
+      "summary": "Ackman is selectively bullish on high-quality payment processors (Mastercard, Visa) and technology names while expressing bearish views on California's tax policy proposals, which he warns could lead to insolvency and wage garnishment. He is rotating into beaten-down stocks across multiple sectors rather than chasing AI momentum like Nvidia.",
+      "key_views": [
+        "Payment processors (Mastercard, Visa) are attractive after lagging the market and offer long-term value",
+        "California's proposed wealth tax would cause insolvency and lifetime wage garnishment for residents",
+        "Avoiding crowded AI trades; instead buying undervalued, beaten-down equities",
+        "Willing to re-enter positions (Netflix) despite past losses if valuation and thesis improve"
+      ],
+      "trade_ideas": [
+        "Long Mastercard and Visa (payment processors)",
+        "Long 6 new undisclosed stocks across multiple sectors",
+        "Long Netflix (3 million shares despite $400M prior loss)",
+        "Long KLA (semiconductor equipment, AI-chip beneficiary)",
+        "Long 'beaten down stocks' alongside Michael Burry"
+      ],
+      "asset_classes": [
+        "equities"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeWZTeDNjdTdfclBBa3QwRThHZnMyTENoQThjLWJiSjVoNkZacThlZkJRSGUtSXozS1ZkTmluSUxpQ194LWlBR0FrSEJwdkRUTXI3cXA3WkJEYTRRQktKbnNScFJYMHZuamE4d3RMcW83NkllUmUydGxoVm1VOHVYZENBNjNrSURFRGpQNHFleE9YRHVtSWpjRzAtZTV4cDE2MVpMUmtwLUtKYUgtRlpsNDFPMVNnWmhjejdMRlNWb2JiTDFTN0VkdENqMFF2aGRVaFE?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRmN4OGNjcVo2dV8wc2JaamdrblpKRjFWdVZVOGt4cXNqZjZDcTZOdHpSdjk0SkdyWURwQjZEUlUtb2U4dS1hbGNVNGhjSkRfekZuUDBaSjBRa3M5VV95Z3BHakQtZ2RfMFc2YTh5d0lpT01HaENlQ0dBR0pLTmdBTjVVMEw2SkVfMG5V?oc=5",
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNWhDSWJzWXhsWDdqVVlDNm1KemsxcUdfa3FDM0ttQkJNcmx1eUdHSDhzZ0xtU28yUG5sa1NoMVhDSjJlY1lSbndTM0VaQk1Zbl9LQlBha2hNTjhEV3p6RWxhTGM3eHdlOXhnejVZM3ZjNkZ0T3ZCYlZyNGR3YmJ3WmZxNnNKenFDS1J0Q3RjU0dMNEFySnVWUFJ6Y193amZHLW5uRlI3c084RWwzVDdyYWRJZUk2SU5hNVZlWEVYamlmQWtHSFV4TWo3V0lic21WMVZQZllBVDBnYlRqcHFEdg?oc=5",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeEdaQ2xFdU5vbkRYWEdWU2JLTkRKejdJSTYzOGhGRTNkbGswbEZhVnpCVHQzeThmT0VGUUZqZ0tKOUpCeWtIZEtkaklNYldJSGx6Z1l6MHVzRFdQTFhQU1NkSHNhRFBueHBtSmlaOU0yNHFkMW04SlBZOHloRmk0TVo3NVJ4V2VMbjdLUmpQdW5PQXBhTTEtbThzNEVXdjlWYW5YMTdqS040SXBMWlgzSDZSV2JTT3FWUVJqbmJpQ1h5aXpVRGFv0gHMAUFVX3lxTFBLVlRhS1F0R29QQkJrOUMxbUN0a3IzQW45N2dEdk1pQVAweW9IQldza1dITm16RDFuYTFwT1UwdWtaTzZnOUZGYXlJZjV6VDRvYVlNMkRTX2U0WUdrSFY5SU9vRTdFTE83dk1uX3ZiNnhrMHF4R1dtYXBtMGVNMlhUMkxWdzFkMURselppSjhEZXQ5NnZQQWQySXdWRG9TNUtlaW9fbmp2RDcyYTI5aG1MRGV4dVVZUF9WNEFtVldsRERaOTNSRWFEVC0ycg?oc=5"
+      ]
+    },
+    {
+      "id": "2026-09-09-70915e44",
+      "date": "2026-09-09",
+      "published_at": "2026-09-01T00:14:50+00:00",
+      "investor": "David Einhorn",
+      "side": "buy",
+      "summary": "Einhorn is cautious on equities, viewing SpaceX's $1.75T IPO valuation as a 'major speculative top' marker signaling overheated sentiment. He's selectively picking stocks he sees as undervalued (PayPal, Comcast) while exiting winners (Victoria's Secret), suggesting a mixed macro view with sector-specific concerns.",
+      "key_views": [
+        "SpaceX IPO at $1.75T valuation represents a major speculative top marker",
+        "Elevated speculative sentiment in growth/tech equities",
+        "Selective value opportunities exist despite frothy market conditions"
+      ],
+      "trade_ideas": [
+        "Long PayPal (PYPL) - $61.5M position, appears undervalued",
+        "Long Comcast (CMCSA) - accumulating on pullbacks",
+        "Short/cautious on high-valuation growth (implied by SpaceX critique)"
+      ],
+      "asset_classes": [
+        "equities"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMzFhNlljV1ZuTlZUSjU5YXBfa29nNldWMHhwNmRnX0I0V0JUblNDWkswTTdIYmF4X001WjROaVM0VXFvUm80bjczZjl0NnAyUUVtYXE0ZEdzeFVKU19nWFd3aGdkNVlTVnlKaFBHSkZWS0VEeUVpZGxKUmtLRWJOLUpoTnRSSmw0bnhhZlhnV3JDSFloTFRhNFZnWE1uYlgybW1maXpR?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd0dLV2NEMzFEaE5sR2oyaEV3V0hmcndIUjBnbVpmcHh1XzJQQ0l2WURpMFd1TWNQbWVSSVB2SEdKMEtmMnJoLVVsUHhhYl9fSTI5VElLNjlNVHVrUmVfVWlXcFJrU1Z1MWZ6UHhxb2QzUC1UYUFuZ05NN25kZWlwdzFaNlFyRFpoQXB6NEczSV9xRm5Y?oc=5",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcy1acjRqSUx2NmJQdDU5dHF1ZU8yVDFRa25MU0dhdW14WU5ZOEZXR2RnQ2dsOEIwcGdBMlZJV0ZZN0dzaFNfX2lCcndJMmZHRkt1cTR0MU8taEZMR0xLbmVOdnZ5alV0YnNOcnRkWFZzZzJfa2ZKaFE2ME83MGVOUmJYT1Y?oc=5",
+        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPX0oxRFdlZEdvZGx2ZXRabFNPOU14aHp4U2NTOTZLMm56VUYtaXZGYklyNnlEdjlaS1ctSkFUWEFyS2kxTTJSbFV6RDV0T2pDUlppMHVKTDZYN3F6X1ZrN0FDd3luMWFsSkEzTVREZGdmUGpXZzBRcnBUUm1MN1VnZWRzTFJyN1RTb2tROFBoNk9wQ2tWNnpiRTVLNVQ1V1hLQmY2Qk55TnZ2WDlJZzFSc3YyQWpGUDVWd21ZLUlQVHJCNFhnOWowYUJJdjZ6V2lvajh3dTNkTHZhTGNOTTByelpB?oc=5"
+      ]
+    },
+    {
+      "id": "2026-09-09-2bc6b016",
+      "date": "2026-09-09",
+      "published_at": "2026-09-08T23:12:00+00:00",
+      "investor": "Michael Hartnett",
+      "side": "sell",
+      "summary": "Hartnett warns that Wall Street is trading with 'no fear' due to belief in a policy backstop, with investor bullishness at extremes (cash levels near historic lows) that he views as a contrarian sell signal. However, he remains constructive on commodities and gold as a hedge against policy panic and rising debt ($40 trillion), while suggesting bonds could be a contrarian play if Democrats sweep midterms.",
+      "key_views": [
+        "Markets are overly optimistic with 'no fear' driven by false confidence in policy support",
+        "Extreme bullishness and historic low cash levels represent a contrarian warning sign for equities",
+        "A Democratic midterm sweep could trigger a selloff in stocks and burst the AI bubble",
+        "U.S. debt approaching $40 trillion necessitates inflation-hedge assets",
+        "Policy panic and currency debasement support commodities and gold appreciation"
+      ],
+      "trade_ideas": [
+        "Long commodities as inflation hedge against policy uncertainty",
+        "Long gold as optimal solution to rising debt levels",
+        "Long bonds as contrarian play in Democratic sweep scenario"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "commodities",
+        "credit"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSUM4XzhrVWpOZlRoVGZKRVRVcnEzcnlwVUluNEJLN0tqeXg3ejV5b29iYjRXeThacnhabDlVR0dMSm1rMjlReUh6QlRPNDMwUFJQU3MxblZ4TFY4RGFmYXNEUXlLOW1kWG96eS1lNy1HdWZLR0JoNU91YVBlSjBQeUkxRUJobHNoQnlfdS0wVE0zaFFlRE1lZ3NOUm9VTVhHYUlmaEZxc2V5YXJpZFVfdGJZUVotMm5yYkZqTA?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxPa0FsdWYyeEg3WWJkTkRJNWlWQkZOTFNsOU9lclV3NnVoOC04QUxCcVRhWDQ5YlFtV2lXQ1ppWlByZ2dkdG1iMV9ieG9mOXpTcjVpQ1VHWXd1RGViOVFfVzVjS3BYNmRZakhQbDF4bzU2M2xkdXY1TzZfMXExVGJMbEl4M2E2a1didkkxMEpuN1l5a2h3UFpKRmYwN1U0UQ?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd2ZoTmNwWXFBWEI4QTM3TTRVRjJ2bm8zQ1RWWFowbi0xNkZTT1h6SzZtaXRKX01RV0pBU0VyOHQ1MXhVYkhmaEN5dllRRFhXNXdFcTZCdVhaaGsxbVhNQ0dYRXdmcm1XZXpxM0xDYlZDN3Y0WlJYdTV2c1RGY1gyS1BvTmIwamlPWXVnNmZyTFlvOEhwYnNmV1YtRTY1dDlPRUoyZUtIVjVERHRYQWc?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUzVHTWdtT0lvRDFITTNvVEtnemY1U1BTWmxBb08zQUFPSHhLekZ4dTFneHNFbVRmUk90dWJ1R09Vb1YyanZvdl9oa1I4Z3Qwd1BuY09BT3pQbHNKaTlSaFNXZkJjakVMX09vdDg3TndKYVFaM3FXWVlvTjEwT0ZnTFdlQWp3SldpOEgzWE1sbTc3QnBBQmVDZllLZkc3S0FvTEtKMXBGczFFZUZkT3kzdjJyMGhfSXlQM21Wa3B6bUZhdllpSTFpcg?oc=5"
+      ]
+    },
+    {
+      "id": "2026-09-09-0b05ff1e",
+      "date": "2026-09-09",
+      "published_at": "2026-08-25T22:04:15+00:00",
+      "investor": "Mike Wilson",
+      "side": "sell",
+      "summary": "Wilson sees gold in a 25-year bull market that will continue into 2025, views defensive value and large-cap quality as attractive as traditional 60/40 portfolios falter, and raises S&P 500 target to 8,300 on earnings strength while flagging higher oil as a key downside risk for equities.",
+      "key_views": [
+        "Gold has been in a bull market for 25 years and the bull market will continue into 2025",
+        "Defensive value stands out as stocks and bonds falter",
+        "Large-cap quality benefits from 'hotter but shorter' macro cycles",
+        "Macro cycles are becoming hotter but shorter in duration",
+        "Higher oil prices represent key risk to equity markets"
+      ],
+      "trade_ideas": [
+        "Overweight gold as defensive asset and bull market continuation play",
+        "Shift allocation to defensive value stocks and large-cap quality",
+        "Monitor oil prices as key equity downside risk trigger"
+      ],
+      "asset_classes": [
+        "equities",
+        "commodities",
+        "bonds"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX1Mxand3aW96cDlPcThnLTBvVW0tcURjZkVHQVVlV1RJSFZIa0V6LW9NY05HcXpMM1Y1N2NPTG5XUjllWTJWN1BRM3dYeEd0M0pVUmptV0hjMU83eFZzTVFaQzNiZUF4VHZYV2J3azZ1NDdFY3pnTWZMaGoyZFZCUWVIVlFIYkFyQkQ1dE5xQlcyOGxKSW85T1NFQzZjTDViVG9RSHVzd1BKZWpt?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX3FneWFkVUN6R2ZCaHY1QXg1UmtSdy1HTmFDWEJ1VXc5aVhQSXNLY0hhMmhaaC1na1B0SE1jcnVEUFY4cE1uaWtNTUpmc0hyZXVFc1VYWU5mRGoyMmhXSzZQZnRWUGNuYUhCMVQ2T2lZeWlTbGd1bmdYLXFfZlhyVUZNWVUzSDBjaFl1WGdSbGdrdE5lRkRVdmNXeDJRbDlzZDl5M2tHWk9PQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSmEwWGNKNUw5QkNMWVZHWEw4TUxSWm1HaS12elRMN0N1TnJmU2YyamZhMXBuRTJXc0psYTBqT205YTE0b19OTXNiNWNxTnQwS25EN0R1RWNWaHlCT2NNTHlEVm5INlVFR25lMXJ5Sk82RklXVWZzZGY5b25ERnBqeEZvRkF3d2JLTzlVQUxKa2JDd2U2aHdTdFFPa0hNM1dIOG9HZFpLTjk2MGlvdmRTSTBwQlpIdlkwNEx4X25uNGFyZEd0YmRtRFZOOHR5UQ?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcjhGTzVkOXRoNlRKMXczLWFaSUcyeE5wMWtZZ3VfenBOay1maE9FQXdGSjBKeHhKbHZUYzRMQ21FZVdtMjNqWDdabmRrdjFKNXZNbWp6d2RsX1M2OTVNM2JwaER3eWh3R0w3MHp0MnNkV3ZFZGlEQkpBZDJkUTJpcnpGcWllVkRqMkEwWFFxUlA2ZW9S?oc=5"
+      ]
+    },
+    {
+      "id": "2026-09-09-a6b77afe",
+      "date": "2026-09-09",
+      "published_at": "2026-09-07T12:35:12+00:00",
+      "investor": "Liz Ann Sonders",
+      "side": "sell",
+      "summary": "Sonders emphasizes that higher yields are significantly impacting market dynamics, with market rotation itself becoming the new momentum trade. She flags concerns about concentrated growth on Wall Street and highlights how tariffs and AI are creating inflation pressures that remain sticky despite Fed policy.",
+      "key_views": [
+        "Higher yields are a primary driver reshaping market behavior and asset allocation",
+        "Market rotation itself has become a momentum trade, not just sector-specific moves",
+        "Growth concentration in two firms poses structural risks for broad market health",
+        "Tariffs and AI are conflicting forces keeping inflation elevated and difficult to resolve"
+      ],
+      "trade_ideas": [
+        "Capitalize on market rotation as a standalone momentum strategy",
+        "Position based on yield-driven repricing across asset classes"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "rates"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSTA5VnNjTUxxaHAySXZ5dGktNjFoQzRHOGR0MTdJQkJIYWJ3Zlk2WHk3SGJ6VFJPRF9CMTZvd3JPOWdyX1JnQ0NubFBiRFI2Ry1SOUtEVXpSYWJSVW13RWxkUngzTFh6dC1oUUVZeXRqUGR1UVJQRG8yVWVRbThoeF9yeW1NbGVhZXZkaXl5S2FiMnNTWTBIV2hCSmtFa3JGVWt3RGhaeC1DdXVUSzJCQVU4Zlp4U2JZUHowMXVRY3lDZw?oc=5",
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrYUUwLVg3dk9sZjROTG5MTU1ENVAzczFEcjRGYmFodWNUTE9qaG1FMjBYdkwxX1ViY2Y3d0VVbnI4MDJOLTNxRkE2TXZfZXdOTjZ1SC1qVUZ1UlNHYmxnSWszQWtBeEQxRU1QYnJNQVJ2NFZyT2RYcg?oc=5",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxOempuNEZtQktmeWpOakhSSWJvRUZWdmpXa0g1TngxYUQtVkhFNkwyc0c2bzJtNDdJMUhYeXpqRTgwUWFaaWNiUmswTXZiUU16bjFvTEpNdGFuUEJQemoxeUhCQ18xLVlrSTU0RTBIOHprem92bHVFOTVoX1VGTVVsV2RoT19GMzR3SVZhaG5kbVZSMVlRTGc4MUJKcXRWNFh1c0dyaER0WE5JYURWQTM5SFdpZDZ2QVZkUkhlVQ?oc=5",
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQkRaVEJtQk1vWEhVVTJpOXQ2STVqazVvVWdXT0dwRUU0SEZiRTBqbm81U3VNWldFeEdkZkFWX3pGSndvU3JiUXIxUy1NT2dmNVdLMHV0Z1NJWWxYNXlSaThCUGNJbHl6Ri16UHhZdHctMzVZYnZTSTRiNm9fc1ZDTHVaZV9qSlNYakVEMTNB?oc=5"
+      ]
     }
   ]
 }
