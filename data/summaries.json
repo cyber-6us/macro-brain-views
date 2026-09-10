@@ -3,127 +3,33 @@
   "today": {
     "date": "2026-09-10",
     "entries_count": 7,
-    "buy_side_bullets": [
-      "International/EM equities favored over concentrated US market; weak USD thesis, bullish commodities. [Gundlach shift]",
-      "'Capital wars' emerging \u2014 three converging threats: policy recession, foreign confidence erosion in US assets, AI arms race. [Dalio]",
-      "Gold and bitcoin remain core hedges against rising Treasury risks and structural debt instability. [Dalio]"
-    ],
-    "sell_side_bullets": [
-      "Cash is now preferred asset class; equities downgraded to underweight as Iran war pushes US recession odds to 40%, Europe/Japan to 50%. [Berezin]",
-      "Economy at 'stall speed' \u2014 Goldman raised recession probability to 30%, third upward revision in 2026. [Hatzius shift]",
-      "'G-shaped economy': narrow AI/defense/government sectors surging while broader economy stagnates. [Mauldin, Rosenberg]",
-      "'1999 meets 1990' regime \u2014 AI boom + Middle East oil shock forcing central banks hawkish; Deutsche Bank S&P target 8,000. [Reid]",
-      "Pronounced disinflation will be 2026's big surprise \u2014 forcing more Fed cuts than markets have priced. [Rosenberg]"
-    ],
-    "whats_new": [
-      "Gundlach's Sep 8 webcast pivots to international/EM over US equities and introduces weak USD/commodities as primary themes \u2014 a meaningful shift from prior US-focused bond positioning.",
-      "Goldman (Hatzius) raising recession odds to 30% (third revision) marks a meaningful turn from the 'pretty well' characterization from Sep 8.",
-      "Berezin moves BCA to maximum defensiveness: stocks underweight, cash preferred \u2014 most bearish tactical call in months.",
-      "Reid introduces '1999 meets 1990' framing to synthesize AI boom and oil shock \u2014 new analytical framework for the dual-force environment."
-    ],
-    "vs_market_buy": [
-      "Gundlach bearish on US equities while consensus still expects US outperformance",
-      "Dalio warns capital wars and foreign confidence erosion in US assets \u2014 contrarian vs. USD safe-haven consensus"
-    ],
-    "vs_market_sell": [
-      "Berezin calling for underweight equities while S&P consensus remains constructive into year-end",
-      "Hatzius raising recession odds to 30% runs counter to still-bullish Wall Street consensus",
-      "Rosenberg sees pronounced disinflation surprising to the downside \u2014 contra still-elevated inflation expectations"
-    ],
-    "buy_vs_sell_divergence": [
-      "Gundlach (buy-side) sees weak USD as a key trade while sell-side (Reid, Deutsche Bank) is more neutral on FX",
-      "Dalio (buy-side) sees gold/bitcoin as primary hedges while sell-side prefers cash (Berezin)"
-    ],
-    "aligned": [
-      "Both sides see a two-speed economy with AI/defense/government outperforming while broader economy weakens",
-      "Consensus that September Fed rate hike is very unlikely; debate is on pace of cuts vs. holds",
-      "Iran war oil shock risk to global growth acknowledged by both sides"
-    ],
-    "buy_side_trades": [
-      "Long international/EM equities, underweight US equities [Gundlach]",
-      "Long commodities [Gundlach]",
-      "Weak USD positioning [Gundlach]",
-      "Long BBB+/BB bonds, 2-7yr maturities; avoid long-dated Treasuries [Gundlach]",
-      "Long gold and bitcoin as hedges [Dalio]"
-    ],
-    "sell_side_trades": [
-      "Hold cash as primary asset class [Berezin]",
-      "Underweight equities broadly [Berezin]",
-      "Long defense and energy self-sufficiency names (structural) [Berezin]"
-    ],
-    "dominant_themes": [
-      "Iran war risk driving recession odds and cash preference across sell-side",
-      "AI investment boom creating bifurcated economy with narrow vs. broad sector divergence",
-      "Fed rate trajectory uncertainty: no September hike likely, but cut pace unpredictable"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   },
   "week": {
     "period_start": "2026-09-03",
     "period_end": "2026-09-10",
     "entries_count": 86,
-    "buy_side_bullets": [
-      "Iran war recession risk + AI bubble conditions = maximum defensiveness; gold, bitcoin, cash preferred over equities. [Dalio, Gundlach]",
-      "US equities near bubble levels with SpaceX $1.75T IPO flagged as major speculative top \u2014 capital preservation priority. [Einhorn, Burry]",
-      "International/EM equities and commodities favored over US market concentration; weak USD central to positioning. [Gundlach shift]",
-      "Treasury bond buybacks undermine fiscal discipline \u2014 Bessent's interventions will fail; let bond market speak. [Druckenmiller]",
-      "AI-driven S&P 500 rally has further to run on FEMO dynamics despite debt risks \u2014 S&P target 8,400. [Yardeni evolving]"
-    ],
-    "sell_side_bullets": [
-      "Cash preferred asset class; equities underweight \u2014 Iran war pushes US recession odds 40%, Europe/Japan 50%. [Berezin]",
-      "Economy at 'stall speed' \u2014 Goldman raised recession probability to 30% (third revision); labor market softness broad-based. [Hatzius shift]",
-      "3 Cs: Conflict, Climate, Commerce \u2014 Hartnett's 'sleep like a baby' portfolio: 25% each stocks/bonds/cash/commodities outperforming. [Hartnett]",
-      "'1999 meets 1990' \u2014 AI boom + Middle East oil shock; Deutsche Bank S&P target 8,000, one September Fed cut. [Reid]",
-      "Ice Age is over \u2014 'Great Melt' regime: fiscal dominance driving double-digit inflation risk. [Edwards]"
-    ],
-    "whats_new": [
-      "Gundlach's Sep 8 webcast marks a pivot to international/EM, weak USD, and commodities as new primary themes.",
-      "Hatzius raised Goldman recession odds to 30% (third revision) \u2014 most bearish Goldman stance of the year.",
-      "Berezin moved BCA to underweight equities / cash preferred \u2014 most decisive bearish tactical call this month.",
-      "Hartnett introduced the '3 Cs' (Conflict, Climate, Commerce) framing as the 2026 playbook, replacing prior 'melt-up' calls.",
-      "Edwards formally declared Ice Age over, launching 'Great Melt' framework \u2014 a 25+ year thesis abandoned."
-    ],
-    "vs_market_buy": [
-      "Druckenmiller opposing Bessent's Treasury buybacks while market consensus has been supportive of yield curve management",
-      "Gundlach and Dalio favoring non-US assets and weak USD against prevailing USD and US equity exceptionalism consensus",
-      "Einhorn calling SpaceX IPO a 'major speculative top' while market consensus values it at $1.75T"
-    ],
-    "vs_market_sell": [
-      "Berezin calling underweight equities and cash preferred while street consensus remains S&P 7,500-8,000+ by year-end",
-      "Hatzius raising recession odds to 30% against still-optimistic soft landing consensus",
-      "Edwards warning of double-digit inflation risk \u2014 contra prevailing 2-3% inflation normalization narrative"
-    ],
-    "buy_vs_sell_divergence": [
-      "Buy-side (Druckenmiller) opposes Treasury buybacks; sell-side (Reid, Deutsche Bank) treats them as manageable",
-      "Buy-side Yardeni still bullish on S&P (8,400 target); sell-side Berezin calls for cash and stocks underweight",
-      "Buy-side Einhorn calls SpaceX IPO a speculative top; sell-side Wilson (Morgan Stanley) sees 113% upside in SpaceX"
-    ],
-    "aligned": [
-      "Both sides agree Iran war is a major risk that elevates recession probability and oil price uncertainty",
-      "AI investment boom is the dominant macro narrative but creates economic bifurcation between haves and have-nots",
-      "September Fed rate hike is very unlikely; debate centers on pace and timing of eventual cuts",
-      "Treasury bond market is signaling something important \u2014 both sides monitoring long-end yields carefully"
-    ],
-    "buy_side_trades": [
-      "Long gold and bitcoin as hedges against debt/monetary risks [Dalio, Tudor Jones]",
-      "Long international/EM equities, underweight US equities [Gundlach]",
-      "Long commodities [Gundlach]",
-      "Long BBB+/BB bonds, 2-7yr maturities; avoid long-dated Treasuries [Gundlach]",
-      "Short/avoid long-end US Treasuries \u2014 let bond market speak [Druckenmiller]"
-    ],
-    "sell_side_trades": [
-      "Hold cash as primary asset class [Berezin]",
-      "Underweight equities broadly [Berezin]",
-      "'Sleep like a baby' portfolio: 25% stocks/bonds/cash/commodities [Hartnett]",
-      "Long defense and energy self-sufficiency themes (structural) [Berezin]",
-      "Long Detroit (US small-caps, banks, REITs, EM), short Davos (Mag-7) [Hartnett]"
-    ],
-    "dominant_themes": [
-      "Iran war escalating macro tail risks \u2014 oil shock, recession probability, geopolitical realignment",
-      "AI investment boom creating a two-speed economy: narrow winners vs. broad stagnation",
-      "Regime shift debate: soft landing holding vs. stall speed recession risk materializing"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
@@ -131,68 +37,16 @@
     "period_start": "2026-08-11",
     "period_end": "2026-09-10",
     "entries_count": 282,
-    "buy_side_bullets": [
-      "US equity valuations at extremes \u2014 multiple investors flagging bubble conditions; SpaceX $1.75T IPO, 150-year valuation records. [Einhorn, Burry, Dalio]",
-      "Iran war + fiscal dominance = rising tail risks; gold, bitcoin, commodities preferred over US financial assets. [Dalio, Gundlach, Tudor Jones]",
-      "AI infrastructure buildout creates long-duration secular winners \u2014 TSMC, Nvidia, Amazon top holdings despite bubble concerns. [Tudor Jones, Tepper, Ackman]",
-      "Treasury bond market is the key macro signal \u2014 Druckenmiller attacking Bessent's buybacks; Gundlach avoiding long-end. [Druckenmiller, Gundlach]",
-      "International/EM equities and weak USD becoming mainstream buy-side thesis vs. prior US exceptionalism. [Gundlach shift, Dalio]"
-    ],
-    "sell_side_bullets": [
-      "Iran war is the exogenous shock reshaping 2026 macro \u2014 recession odds rising, oil shock risk to $200/barrel, defense/energy self-sufficiency as structural themes. [Berezin, Slok]",
-      "Financial repression is the 20-year structural regime \u2014 governments engineering 4-5.5% inflation above suppressed rates; gold essential. [Napier]",
-      "AI 'doomsday' is here now, not 2028 \u2014 white-collar job cuts spreading beyond tech; consumer tapped out. [Edwards]",
-      "'1999 meets 1990' dual macro environment \u2014 AI boom + oil shock forcing hawkish pivot; volatile boom-bust swings ahead. [Reid]",
-      "Roaring 2020s intact but at risk \u2014 S&P targets range 7,700-8,400 from sell-side; underlying labor softness mounting. [Yardeni, Wilson, Sonders]"
-    ],
-    "whats_new": [
-      "Gundlach pivoted from US-centric bond manager to explicitly international/EM/commodities/weak-USD portfolio \u2014 significant September shift.",
-      "Goldman (Hatzius) raised recession odds three times in 2026, reaching 30% \u2014 increasingly out of consensus vs. soft-landing camp.",
-      "Edwards formally ended his Ice Age thesis (25+ years) and launched 'Great Melt' \u2014 the biggest intellectual pivot of 2026.",
-      "Berezin reached maximum defensiveness: underweight equities, cash preferred \u2014 BCA's most bearish tactical stance in years.",
-      "Burry's August 2026 Substack analysis warns of 1987-style crash risk from record-high 150-year valuation indicator."
-    ],
-    "vs_market_buy": [
-      "Multiple buy-side managers see US equity bubble conditions while consensus still constructive on year-end targets",
-      "Dalio and Druckenmiller both flagging systemic fiscal/debt risks that market consensus is largely ignoring",
-      "Burry short AI equities (Palantir, Nvidia) while consensus remains structurally bullish on AI infrastructure"
-    ],
-    "vs_market_sell": [
-      "Napier's financial repression thesis (20-year cycle) is highly contrarian vs. consensus expectation of inflation normalization",
-      "Berezin and Rosenberg both see larger-than-expected disinflation as 2026's surprise \u2014 contra sticky inflation consensus",
-      "Edwards sees double-digit inflation risk \u2014 contra consensus 2-3% target normalization narrative"
-    ],
-    "buy_vs_sell_divergence": [
-      "Buy-side (Yardeni, Ackman) still sees constructive equities with AI-driven earnings; sell-side (Berezin) explicitly underweight equities",
-      "Buy-side (Dalio, Gundlach) trusts gold/bitcoin/commodities as hedges; sell-side (Hartnett) prefers balanced 4-asset approach including commodities",
-      "Buy-side cautious on AI bubbles but still holding positions; sell-side (Edwards) seeing AI job displacement as immediate macro threat"
-    ],
-    "aligned": [
-      "Iran war is an exogenous shock elevating global recession risk that both sides are modeling",
-      "AI investment boom is the structural driver of market performance and earnings growth",
-      "Long-end Treasury yields are a critical risk indicator \u2014 both sides monitoring and positioning around them",
-      "September Fed rate hike virtually ruled out by all; debate is scale and pace of eventual easing"
-    ],
-    "buy_side_trades": [
-      "Long gold and bitcoin as structural macro hedges [Dalio, Tudor Jones, Gundlach]",
-      "Long AI infrastructure names: TSMC, Nvidia, Amazon, Alphabet [Tudor Jones, Tepper, Ackman]",
-      "Long international/EM equities vs. US; weak USD positioning [Gundlach]",
-      "Long commodities [Gundlach]",
-      "Long BBB+/BB bonds (2-7yr); avoid long-dated Treasuries [Gundlach]",
-      "Avoid CCC bank loans; selectively long BB high yield [Gundlach]"
-    ],
-    "sell_side_trades": [
-      "Cash as primary asset class, underweight equities [Berezin]",
-      "'Sleep like a baby': 25% each stocks/bonds/cash/commodities [Hartnett]",
-      "Long Detroit (small-caps, banks, REITs, EM) vs. short Davos (Mag-7) [Hartnett]",
-      "Long defense and energy self-sufficiency themes [Berezin]",
-      "Long real assets and gold vs. nominal bonds [Napier, Edwards]"
-    ],
-    "dominant_themes": [
-      "Iran war as macro accelerant \u2014 oil shock, recession risk, defense/energy restructuring globally",
-      "AI bifurcation: narrow AI winners driving markets while broad economy weakens and job displacement accelerates",
-      "Fiscal dominance and financial repression replacing monetary orthodoxy as 20-year structural macro regime"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   }
