@@ -1,157 +1,53 @@
 {
   "generated_at": "2026-09-11",
   "today": {
+    "date": "2026-09-11",
     "entries_count": 4,
-    "buy_side_bullets": [
-      "Treasury's $6B buyback (Sep 9) backfired \u2014 yields surged rather than declined, 30-year at 5.307%, validating his warning [Stan Druckenmiller]",
-      "'Once markets believe Treasury is defending a price, every rise in yields becomes a test of official resolve' \u2014 his WSJ op-ed thesis confirmed [Stan Druckenmiller]",
-      "Equity trading gains offsetting rates and currency losses in 2026 \u2014 macro regime shift forcing playbook adaptation [Alan Howard]",
-      "Aggressively hiring rates specialists (UBS, Citadel Securities, Verition) \u2014 expecting rates volatility to intensify [Alan Howard]"
-    ],
-    "sell_side_bullets": [
-      "'Everything Bubble' in US equities and housing \u2014 both trading detached from fundamentals against rising interest rate backdrop [Albert Edwards]",
-      "AI is not driving markets; loose monetary policy is the engine \u2014 'every bubble has a compelling narrative' [Albert Edwards]",
-      "S&P 500 corridor 6,500\u20137,500 \u2014 +9% bull case vs. \u20135% recession bear case (25% probability) [Barry Bannister]",
-      "Three structural contradictions: weakening consumer resilience, fading policy efficacy, overstretched AI/tech capex [Barry Bannister]"
-    ],
-    "whats_new": [
-      "Stan Druckenmiller shifted from mixed to bearish",
-      "Barry Bannister shifted from mixed to bearish"
-    ],
-    "vs_market_buy": [
-      "Buy side more cautious on fiscal sustainability than market pricing implies [Stan Druckenmiller, Alan Howard]"
-    ],
-    "vs_market_sell": [
-      "Sell side warning of bubble risk while markets at/near highs [Albert Edwards, Barry Bannister]"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
     "buy_vs_sell_divergence": [],
-    "aligned": [
-      "Elevated Treasury yields and fiscal deficits are a structural concern \u2014 shared across both sides"
-    ],
-    "buy_side_trades": [
-      "Short long-dated Treasuries \u2014 buyback program will fail to hold yields down [Stan Druckenmiller]",
-      "AI and cloud equities remain portfolio tilt amid macro restructuring opportunity [Stan Druckenmiller]"
-    ],
-    "sell_side_trades": [
-      "Long Defensive Value stocks (healthcare, essential consumer goods) over growth/tech [Barry Bannister]"
-    ],
-    "dominant_themes": [
-      "AI/technology disruption",
-      "fiscal deficit and bond yields",
-      "equity valuations and bubble risk"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish",
-    "date": "2026-09-11"
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   },
   "week": {
-    "entries_count": 84,
-    "buy_side_bullets": [
-      "Treasury's $6B buyback (Sep 9) backfired \u2014 yields surged rather than declined, 30-year at 5.307%, validating his warning [Stan Druckenmiller]",
-      "'Once markets believe Treasury is defending a price, every rise in yields becomes a test of official resolve' \u2014 his WSJ op-ed thesis confirmed [Stan Druckenmiller]",
-      "Equity trading gains offsetting rates and currency losses in 2026 \u2014 macro regime shift forcing playbook adaptation [Alan Howard]",
-      "Aggressively hiring rates specialists (UBS, Citadel Securities, Verition) \u2014 expecting rates volatility to intensify [Alan Howard]",
-      "Growing case for international and emerging markets equities \u2014 US equity market concentration poses structural risk [Jeffrey Gundlach]"
-    ],
-    "sell_side_bullets": [
-      "'Everything Bubble' in US equities and housing \u2014 both trading detached from fundamentals against rising interest rate backdrop [Albert Edwards]",
-      "AI is not driving markets; loose monetary policy is the engine \u2014 'every bubble has a compelling narrative' [Albert Edwards]",
-      "S&P 500 corridor 6,500\u20137,500 \u2014 +9% bull case vs. \u20135% recession bear case (25% probability) [Barry Bannister]",
-      "Three structural contradictions: weakening consumer resilience, fading policy efficacy, overstretched AI/tech capex [Barry Bannister]",
-      "US economy near 'stall speed' \u2014 Goldman raised recession probability to 30%, third upward revision in 2026 [Jan Hatzius]"
-    ],
-    "whats_new": [
-      "Stan Druckenmiller shifted from mixed to bearish",
-      "Barry Bannister shifted from mixed to bearish",
-      "Jan Hatzius shifted from mixed to bearish"
-    ],
-    "vs_market_buy": [
-      "Buy side more cautious on fiscal sustainability than market pricing implies [Jeffrey Gundlach, Ray Dalio]"
-    ],
-    "vs_market_sell": [
-      "Sell side warning of bubble risk while markets at/near highs [Jan Hatzius, David Rosenberg]"
-    ],
-    "buy_vs_sell_divergence": [],
-    "aligned": [
-      "AI/technology driving structural economic change \u2014 consensus across buy and sell side",
-      "Elevated Treasury yields and fiscal deficits are a structural concern \u2014 shared across both sides"
-    ],
-    "buy_side_trades": [
-      "Short long-dated Treasuries \u2014 buyback program will fail to hold yields down [Stan Druckenmiller]",
-      "AI and cloud equities remain portfolio tilt amid macro restructuring opportunity [Stan Druckenmiller]",
-      "Long international/EM equities vs. underweight US equities [Jeffrey Gundlach]",
-      "Long commodities [Jeffrey Gundlach]"
-    ],
-    "sell_side_trades": [
-      "Long Defensive Value stocks (healthcare, essential consumer goods) over growth/tech [Barry Bannister]",
-      "Hold cash as primary positioning [Peter Berezin]",
-      "Underweight equities broadly [Peter Berezin]",
-      "Long defense and energy self-sufficiency names (structural theme) [Peter Berezin]"
-    ],
-    "dominant_themes": [
-      "AI/technology disruption",
-      "fiscal deficit and bond yields",
-      "equity valuations and bubble risk"
-    ],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "bearish",
     "period_start": "2026-09-04",
-    "period_end": "2026-09-11"
+    "period_end": "2026-09-11",
+    "entries_count": 84,
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   },
   "month": {
-    "entries_count": 281,
-    "buy_side_bullets": [
-      "Treasury's $6B buyback (Sep 9) backfired \u2014 yields surged rather than declined, 30-year at 5.307%, validating his warning [Stan Druckenmiller]",
-      "'Once markets believe Treasury is defending a price, every rise in yields becomes a test of official resolve' \u2014 his WSJ op-ed thesis confirmed [Stan Druckenmiller]",
-      "Equity trading gains offsetting rates and currency losses in 2026 \u2014 macro regime shift forcing playbook adaptation [Alan Howard]",
-      "Aggressively hiring rates specialists (UBS, Citadel Securities, Verition) \u2014 expecting rates volatility to intensify [Alan Howard]",
-      "Growing case for international and emerging markets equities \u2014 US equity market concentration poses structural risk [Jeffrey Gundlach]"
-    ],
-    "sell_side_bullets": [
-      "'Everything Bubble' in US equities and housing \u2014 both trading detached from fundamentals against rising interest rate backdrop [Albert Edwards]",
-      "AI is not driving markets; loose monetary policy is the engine \u2014 'every bubble has a compelling narrative' [Albert Edwards]",
-      "S&P 500 corridor 6,500\u20137,500 \u2014 +9% bull case vs. \u20135% recession bear case (25% probability) [Barry Bannister]",
-      "Three structural contradictions: weakening consumer resilience, fading policy efficacy, overstretched AI/tech capex [Barry Bannister]",
-      "US economy near 'stall speed' \u2014 Goldman raised recession probability to 30%, third upward revision in 2026 [Jan Hatzius]"
-    ],
-    "whats_new": [
-      "Stan Druckenmiller shifted from mixed to bearish",
-      "Barry Bannister shifted from mixed to bearish",
-      "Jan Hatzius shifted from mixed to bearish"
-    ],
-    "vs_market_buy": [
-      "Buy side more cautious on fiscal sustainability than market pricing implies [Jeffrey Gundlach, Ray Dalio]"
-    ],
-    "vs_market_sell": [
-      "Sell side warning of bubble risk while markets at/near highs [Jan Hatzius, David Rosenberg]"
-    ],
-    "buy_vs_sell_divergence": [
-      "Buy side bullish [Scott Bessent, Bill Ackman] vs sell side bearish [David Rosenberg, John Mauldin]"
-    ],
-    "aligned": [
-      "AI/technology driving structural economic change \u2014 consensus across buy and sell side",
-      "Elevated Treasury yields and fiscal deficits are a structural concern \u2014 shared across both sides"
-    ],
-    "buy_side_trades": [
-      "Short long-dated Treasuries \u2014 buyback program will fail to hold yields down [Stan Druckenmiller]",
-      "AI and cloud equities remain portfolio tilt amid macro restructuring opportunity [Stan Druckenmiller]",
-      "Long international/EM equities vs. underweight US equities [Jeffrey Gundlach]",
-      "Long commodities [Jeffrey Gundlach]"
-    ],
-    "sell_side_trades": [
-      "Long Defensive Value stocks (healthcare, essential consumer goods) over growth/tech [Barry Bannister]",
-      "Hold cash as primary positioning [Peter Berezin]",
-      "Underweight equities broadly [Peter Berezin]",
-      "Long defense and energy self-sufficiency names (structural theme) [Peter Berezin]"
-    ],
-    "dominant_themes": [
-      "AI/technology disruption",
-      "fiscal deficit and bond yields",
-      "equity valuations and bubble risk"
-    ],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "bearish",
     "period_start": "2026-08-12",
-    "period_end": "2026-09-11"
+    "period_end": "2026-09-11",
+    "entries_count": 281,
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   }
 }
