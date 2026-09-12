@@ -1,53 +1,189 @@
 {
-  "generated_at": "2026-09-11",
+  "generated_at": "2026-09-12",
   "today": {
-    "date": "2026-09-11",
-    "entries_count": 4,
+    "date": "2026-09-12",
+    "entries_count": 2,
     "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
+    "sell_side_bullets": [
+      "BofA sell signal formally triggered \u2014 'extreme bull positioning says reduce risk exposure'; rotate into defensives immediately. [Hartnett]",
+      "S&P 500 logged four consecutive declines and VIX surged to highest since early August \u2014 technical deterioration accelerating. [Wilson, Hartnett]",
+      "Correction risk elevated within 30-day window as oil prices and heavy corporate fundraising pressure equities simultaneously. [Wilson]",
+      "No buy-the-dip signal yet \u2014 waiting for capitulation before turning constructive; gold and commodities remain ABD hedges. [Hartnett]",
+      "Bull market thesis intact despite near-term correction risk \u2014 rotate not reduce, own energy as oil hedge, favor quality/FCF. [Wilson]"
+    ],
+    "whats_new": [
+      "Hartnett upgrades warning to actionable sell signal \u2014 sell signal was a potential as of Sep 9, now formally triggered",
+      "Wilson raises 30-day correction probability explicitly while maintaining longer-term bull market target of 8,300"
+    ],
     "vs_market_buy": [],
-    "vs_market_sell": [],
+    "vs_market_sell": [
+      "Hartnett: markets 'frozen bullish' with cash near historic lows despite 5% long bond yields \u2014 consensus ignoring the cost of capital",
+      "Wilson: consensus underweights oil/fundraising pressure on near-term equity returns vs. his 30-day correction call"
+    ],
     "buy_vs_sell_divergence": [],
-    "aligned": [],
+    "aligned": [
+      "Both Hartnett and Wilson acknowledge near-term equity headwinds from 5% bond yields and oil prices",
+      "Energy/commodities identified as relative outperformers in current environment"
+    ],
     "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "sell_side_trades": [
+      "Long defensives (healthcare, utilities, staples)",
+      "Long gold and commodities as ABD hedges",
+      "Long energy stocks as oil price hedge",
+      "Long quality/free-cash-flow equities",
+      "Reduce equity risk / avoid buy-the-dip"
+    ],
+    "dominant_themes": [
+      "BofA sell signal triggered \u2014 risk reduction in focus",
+      "Near-term correction risk within 30 days (oil + fundraising headwinds)",
+      "Rotate defensively: energy, gold, quality/FCF over broad equity exposure"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "bearish"
   },
   "week": {
-    "period_start": "2026-09-04",
-    "period_end": "2026-09-11",
-    "entries_count": 84,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "period_start": "2026-09-05",
+    "period_end": "2026-09-12",
+    "entries_count": 70,
+    "buy_side_bullets": [
+      "US Treasury market dysfunction: $6B buyback backfired \u2014 30-yr yield hit 5.307%, 10-yr near 4.85% (multi-decade highs), validating let-the-market-speak thesis. [Druckenmiller]",
+      "International and EM equities favored over concentrated US market; weak USD and bullish commodities as central portfolio themes. [Gundlach]",
+      "Capital wars emerging globally as trust erodes around US debt, capital flows and monetary credibility \u2014 3 interlocking threats to 2026 outlook. [Dalio]",
+      "SpaceX $1.75T IPO declared 'major speculative top' marker; US equity market most expensive since fund inception; Greenlight maintaining macro-heavy positioning. [Einhorn]",
+      "AI spending sustainability increasingly questioned: $500B AI investment compared to 'warehouse full of bananas that will not age well.' [Gundlach]",
+      "Tactical rotation underway: out of tech/AI mega-caps and AI hardware into financials, travel, industrials, energy. [Tepper]"
+    ],
+    "sell_side_bullets": [
+      "BofA sell signal triggered \u2014 extreme bull positioning, VIX spike, four straight S&P declines signal risk reduction; no buy-the-dip yet. [Hartnett shift]",
+      "S&P 500 correction risk within 30 days; oil prices and heavy corporate fundraising pressure equities; rotate not reduce, own energy as hedge. [Wilson evolving]",
+      "Goldman raised US recession probability to 30% (third upward revision in 2026) \u2014 economy at 'stall speed,' AI headwinds on employment accelerating. [Hatzius]",
+      "'Everything Bubble' declared \u2014 US equities and housing detached from reality; Edwards formally shifted from 'Ice Age' deflation to inflationary bubble framework. [Edwards]",
+      "Equities downgraded to underweight at BCA, cash the preferred asset class \u2014 Europe and Japan recession risk at 50% from Iran war, second-half broad selloff expected. [Berezin]",
+      "G-Shaped Economy: narrow AI/defense/government sectors booming while broad economy stagnates; inflation dominant macro driver overshadowing GDP prints. [Mauldin]",
+      "1999 meets 1990 \u2014 AI investment boom + Middle East war backdrop driving extreme volatility; non-government bond issuance surge (especially tech) a key September theme. [Reid]"
+    ],
+    "whats_new": [
+      "Hartnett: escalated from 'potential sell signal' (Sep 9) to triggered sell signal with actionable defensive rotation call (Sep 12)",
+      "Wilson: elevated correction call from general oil risk to specific 30-day window, added energy-as-explicit-hedge trade idea (Sep 12)",
+      "Gundlach: new September 8 webcast introduced commodities bullishness and weak USD as major new portfolio themes alongside prior bond/EM views",
+      "Dalio: reactivated 'capital wars' warning at highest volume of 2026 \u2014 3-threat framework more specific than prior debt/dollar warnings"
+    ],
+    "vs_market_buy": [
+      "Druckenmiller vs. consensus: 30-yr yield at 5.307% validates his thesis that Treasury buybacks are counterproductive; market expected intervention to work",
+      "Gundlach vs. consensus: bullish on international/EM equities and commodities while most portfolios remain US-overweight",
+      "Einhorn vs. consensus: SpaceX IPO as top signal when consensus is calling it a market-defining positive catalyst"
+    ],
+    "vs_market_sell": [
+      "Hartnett: markets 'frozen bullish' with cash near historic lows despite 5% yields \u2014 consensus pricing in policy backstop that may not materialize",
+      "Hatzius: recession probability at 30% vs. consensus recession odds significantly lower; labor market deterioration underappreciated",
+      "Berezin: equities at underweight vs. widespread sell-side constructive stance; sees 50% Europe/Japan recession risk from Iran war not widely priced",
+      "Edwards: 'Everything Bubble' thesis vs. most sell-side views that AI rally is durable productivity story"
+    ],
+    "buy_vs_sell_divergence": [
+      "AI rally: Gundlach/Einhorn/Burry skeptical of AI spending returns; Yardeni/Wilson constructive on AI as genuine productivity driver",
+      "Market direction: Ackman/Tudor Jones deploying capital ('best entry in years'); Hartnett/Edwards/Berezin reducing risk",
+      "Bond yields: Druckenmiller says yields still too low, Fed should not interfere; Hatzius says September hike extremely unlikely and cuts coming",
+      "Treasury intervention: Druckenmiller/Gundlach say buybacks are counterproductive market distortion; Bessent sees buybacks as necessary liquidity management"
+    ],
+    "aligned": [
+      "US bond market under stress \u2014 5% yields are a real headwind; both sides concerned about fiscal trajectory and $40T national debt",
+      "Gold and commodities favored as hedges \u2014 appears in both Gundlach (buy) and Hartnett (sell) portfolios",
+      "AI spending sustainability: both sides raising questions about capex returns, though magnitude of skepticism differs",
+      "Factor rotation away from US large-cap tech toward international, value, defensives \u2014 present across buy and sell side"
+    ],
+    "buy_side_trades": [
+      "Long international/EM equities vs. underweight US equities",
+      "Long commodities; weak USD/long non-USD currencies",
+      "Long BBB+/BB bonds (2-7yr maturities), avoid long-dated US Treasuries",
+      "Rotate out of AI hardware into financials, travel, industrials, energy",
+      "Long gold as de-dollarization hedge",
+      "New asymmetric 'complacency fund' structure echoing pandemic doomsday trade"
+    ],
+    "sell_side_trades": [
+      "Long defensives (healthcare, utilities, staples) \u2014 Hartnett sell signal activated",
+      "Long energy stocks as oil price hedge \u2014 Wilson",
+      "Long gold and commodities as ABD (Anything But Dollar) hedges",
+      "Cash as preferred asset class \u2014 Berezin",
+      "Underweight equities; avoid buy-the-dip \u2014 Hartnett, Berezin"
+    ],
+    "dominant_themes": [
+      "US bond market stress \u2014 30-yr yield at multi-decade highs, Treasury buybacks backfiring, rate uncertainty",
+      "BofA sell signal triggered \u2014 rotation to defensives, no buy-the-dip, near-term correction risk",
+      "AI spending sustainability and 'Everything Bubble' fears emerging across buy and sell side"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "bearish"
   },
   "month": {
-    "period_start": "2026-08-12",
-    "period_end": "2026-09-11",
-    "entries_count": 281,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "period_start": "2026-08-13",
+    "period_end": "2026-09-12",
+    "entries_count": 274,
+    "buy_side_bullets": [
+      "Persistent bearishness on US equities deepened through August-September: 150-year record valuation near break, 1987-style crash risk, SpaceX IPO as speculative top signal. [Burry, Einhorn, Marks]",
+      "International and EM equities favored structurally \u2014 USD weakness as a portfolio driver, commodities outperformance thesis gaining traction across buy-side. [Gundlach, Dalio]",
+      "US Treasury dysfunction: Treasury's $6B buyback backfired; bond market as 'only fiscal disciplinarian left'; 30-yr likely to hit 5.50%. [Druckenmiller]",
+      "Capital wars and de-dollarization themes intensifying \u2014 global trust in US assets eroding as $40T debt milestone passed, leading to gold allocations and EM pivots. [Dalio]",
+      "Tactical rotation deepening: exits from AI hardware/semiconductor (Sandisk zeroed, NVDA puts) into financials, travel, industrials, defense. [Tepper, Burry]",
+      "AI spending skepticism structural: compare $500B AI capex to 'warehouse of bananas'; structural AI displacement hitting employment ahead of productivity payoff. [Gundlach]"
+    ],
+    "sell_side_bullets": [
+      "BofA sell signal triggered after escalating from 'frozen bullish' warning (August) to actionable defensive rotation call (September) \u2014 four straight S&P declines confirm. [Hartnett shift]",
+      "Recession odds increasing across Wall Street: Goldman raised to 30% (third revision in 2026), BCA raised Europe/Japan to 50% on Iran war risk, economy at stall speed. [Hatzius, Berezin]",
+      "'Everything Bubble' declared by Edwards \u2014 US equities and housing detached from reality; Edwards shifted definitively from Ice Age to inflationary bubble framework. [Edwards shift]",
+      "S&P 500 range increasingly contested \u2014 bear cases from 6,500 (Bannister) to outright underweight (Berezin) vs. bull cases at 8,300-8,400 (Wilson, Yardeni). [Bannister, Berezin vs. Wilson, Yardeni]",
+      "Inflation regime persistence: 30-yr bond at 5.3% as 'invoice from mismanaged fiscal policy'; AI bond spreads nearly doubled; Fed can neither hike easily nor cut confidently. [Reid, Gundlach, Bannister]",
+      "G-Shaped and K-Shaped economy bifurcation deepening \u2014 narrow AI/defense/government sectors masking broad stagnation; bottom 60% of earners deteriorating. [Mauldin, Rosenberg]"
+    ],
+    "whats_new": [
+      "Hartnett (Sep 12): Sell signal triggered \u2014 escalation from warning to actionable trade over 3 weeks",
+      "Wilson (Sep 12): Explicit 30-day correction probability introduced with energy-as-hedge trade",
+      "Edwards (Sep 7-11): Formally declared 'Everything Bubble' \u2014 most definitive upgrade of his bearish framing in 2026",
+      "Gundlach (Sep 10): Added commodities bullishness and weak USD to portfolio framework \u2014 new themes beyond prior AI skepticism",
+      "Berezin (Sep 6-10): Equities downgraded to underweight \u2014 most bearish equity stance shift at BCA in 2026"
+    ],
+    "vs_market_buy": [
+      "Druckenmiller: 10-yr yield target of 5.50% vs. consensus expectation of bond market stabilization at current levels",
+      "Gundlach: Commodities/international/EM bullish vs. market still positioned overwhelmingly in US equities",
+      "Einhorn: SpaceX $1.75T as speculative top vs. market enthusiasm for AI-driven mega-cap IPO cycle"
+    ],
+    "vs_market_sell": [
+      "Berezin: Equities at underweight (vs. most sell-side constructive); 50% Europe/Japan recession probability vs. market complacency",
+      "Hartnett: 'Frozen bullish' cash at historic lows despite 5% yields \u2014 his sell signal vs. persistent consensus long positioning",
+      "Hatzius: 30% US recession probability vs. consensus soft-landing base case still dominant"
+    ],
+    "buy_vs_sell_divergence": [
+      "AI capex cycle: Gundlach/Burry warn of bubble and misallocated capital; Slok/Yardeni see AI as genuine multi-year growth tailwind",
+      "Fed path: Druckenmiller/Gundlach say yields too low and Fed boxed in; Hatzius/Jan Hatzius say September hike very unlikely with cuts coming by 2027",
+      "Equity direction: Tudor Jones/Ackman deploying capital selectively; Hartnett/Edwards/Berezin/Bannister reducing",
+      "US vs. International: Buy-side broadly pivoting to international/EM/commodities; most sell-side still US-centric in equity recommendations"
+    ],
+    "aligned": [
+      "US fiscal trajectory is a structural concern \u2014 $40T debt, 6% deficit at full employment, $1.2T annual interest expense; raised across buy and sell side",
+      "Gold and commodities as hedges \u2014 present in Gundlach, Dalio, Hartnett, Bannister portfolios",
+      "Tech sector rotation underway from AI hardware/semiconductors toward other sectors \u2014 confirmed across multiple buy and sell side voices",
+      "Inflation persistence above target likely through 2026-2027; rate uncertainty structurally elevated"
+    ],
+    "buy_side_trades": [
+      "Long international/EM equities vs. underweight US equities (Gundlach, Dalio)",
+      "Long gold as de-dollarization/fiscal hedge (Dalio, Marks, Gundlach)",
+      "Long commodities (Gundlach)",
+      "Short/puts on AI darlings (Burry: NVDA, PLTR)",
+      "Long BBB+/BB quality bonds 2-7yr (Gundlach)",
+      "Rotate to financials, travel, industrials, energy from AI hardware (Tepper)"
+    ],
+    "sell_side_trades": [
+      "Long defensives \u2014 healthcare, utilities, staples (Hartnett)",
+      "Long energy stocks as oil price hedge (Wilson)",
+      "Long gold and commodities as ABD hedges (Hartnett, Bannister)",
+      "Cash as preferred asset class (Berezin)",
+      "Underweight equities (Berezin, Bannister bearish case)"
+    ],
+    "dominant_themes": [
+      "US fiscal/bond market stress \u2014 30-yr at multi-decade highs, Treasury buybacks counterproductive, $40T debt milestone",
+      "Sell signal triggered + recession risks rising \u2014 multiple sell-side voices reducing equity exposure simultaneously",
+      "AI spending sustainability and sector rotation \u2014 capex skepticism accelerating, shift from AI hardware to other sectors"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "bearish"
   }
 }
