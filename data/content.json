@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13",
+  "last_updated": "2026-09-14",
   "entries": [
     {
       "id": "2026-09-10-5c826b4b",
@@ -19073,6 +19073,117 @@
       "sources": [
         "https://www.cnbc.com/video/2026/02/11/visser-ai-is-disrupting-both-the-macro-world-and-crypto.html",
         "https://22vresearch.com/ai-macro-nexus-research/"
+      ]
+    },
+    {
+      "id": "2026-09-14-0fcc170e",
+      "date": "2026-09-14",
+      "investor": "Torsten Slok",
+      "side": "sell",
+      "summary": "Apollo's Torsten Slok identifies three structural forces sustaining US growth reacceleration: the AI data center construction boom, an industrial renaissance driven by reshoring and capex, and fiscal impulse from the One Big Beautiful Bill\u2014which the CBO estimates adds nearly a full percentage point to 2026 GDP growth. Despite persistent inflation above target and geopolitical crosscurrents from the Iran war, Slok argues the US economy is holding up better than consensus fears, while Europe benefits from lower tariff exposure and a cleaner disinflation path.",
+      "key_views": [
+        "Three forces sustaining US growth: AI data center buildout, industrial renaissance (reshoring), and One Big Beautiful Bill fiscal impulse",
+        "CBO estimates One Big Beautiful Bill boosts GDP growth by nearly 1 full percentage point in 2026",
+        "Europe faces structurally lower inflation and rates than the US due to absence of US-style tariff pressures",
+        "US economy is reaccelerating \u2014 holding up better than bears expected despite geopolitical crosscurrents"
+      ],
+      "trade_ideas": [
+        "Long US equities / risk assets on growth reacceleration thesis",
+        "Long Europe bonds as disinflation there enables ECB easing"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "rates"
+      ],
+      "sentiment": "bullish",
+      "sources": [
+        "https://www.apollo.com/wealth/insights-news/insights/the-view-from-apollo/2026/06/2026-mid-year-outlook",
+        "https://www.apolloacademy.com/the-economy-is-likely-to-reaccelerate-in-2026/"
+      ]
+    },
+    {
+      "id": "2026-09-14-2bc6b016",
+      "date": "2026-09-14",
+      "investor": "Michael Hartnett",
+      "side": "sell",
+      "summary": "BofA's Michael Hartnett is intensifying his sell signal as the Bull & Bear indicator reaches 9.6\u20139.7, its most extreme reading since 2021. Market concentration in AI-adjacent themes has reached approximately 48% of S&P 500 value\u2014exceeding every historical bubble except the 1880s railroad mania. Hartnett warns policymakers are consciously capping long yields to sustain the bubble and recommends rotating into defensives, with his 'sleep like a baby' equal-weight 25/25/25/25 portfolio (stocks/bonds/cash/commodities) up ~26% year-to-date.",
+      "key_views": [
+        "Bull & Bear indicator at extreme 9.6\u20139.7, flagging a formal 1\u20133 month sell signal",
+        "AI market concentration at ~48% of index value surpasses every historical bubble except 1880s railroads",
+        "Policymakers consciously intervening to cap long bond yields and keep the AI capex bubble alive",
+        "Only 21 stocks (~4% of S&P 500) making new highs \u2014 breadth collapse similar to March 2000",
+        "Equal-weight portfolio (stocks/bonds/cash/commodities) outperforming: best year since 1933"
+      ],
+      "trade_ideas": [
+        "Rotate into defensives (healthcare, consumer staples)",
+        "Long US small/mid-caps, banks, REITs over Mag-7 large tech",
+        "Equal-weight 25/25/25/25: stocks/bonds/cash/commodities",
+        "Long emerging markets and international equities (short Davos, long Detroit)"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "commodities"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://www.benzinga.com/markets/equities/26/05/52874099/hartnett-bofa-post-bubble-playbook-sell-signal",
+        "https://www.investing.com/news/stock-market-news/bofas-hartnett-says-rotate-into-defensives-as-sell-signal-returns-4845556",
+        "https://kodiaktrades.substack.com/p/hartnetts-latest-message-policymakers"
+      ]
+    },
+    {
+      "id": "2026-09-14-a3249dcc",
+      "date": "2026-09-14",
+      "investor": "Peter Berezin",
+      "side": "sell",
+      "summary": "BCA Research's Peter Berezin has trimmed his 12-month US recession probability from 50% to 40% following a Supreme Court ruling that reduced near-term policy uncertainty. Even so, his framework anticipates a two-stage 2026: a first-half 'Great Rotation' from tech to non-tech as market breadth improves, followed by a broader selloff in H2 as underlying US economic weakness surfaces. European and Japanese recession risk remains elevated near 50%, reflecting the continued drag of the Iran war on energy costs.",
+      "key_views": [
+        "US recession probability trimmed from 50% to 40% following Supreme Court ruling that reduced policy uncertainty",
+        "2026 framework: H1 Great Rotation (tech to non-tech) followed by H2 broad market selloff",
+        "Europe and Japan recession risk near 50% \u2014 Iran war dragging on energy and confidence",
+        "AI will ultimately dismantle tech monopolies as competitive moats erode"
+      ],
+      "trade_ideas": [
+        "Rotate from US tech to non-tech value stocks in H1 2026",
+        "Position defensively for H2 broad market selloff",
+        "Underweight European and Japanese equities given recession risk"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://www.bcaresearch.com/reports/peter-berezins-thought-day-cutting-our-us-recession-probability-following-supreme-courts-ruling-20-02-2026/211176",
+        "https://news.bitcoin.com/iran-war-pushes-europe-and-japan-recession-risk-to-50-bca-research-says/"
+      ]
+    },
+    {
+      "id": "2026-09-14-3ab9db1a",
+      "date": "2026-09-14",
+      "investor": "John Mauldin",
+      "side": "sell",
+      "summary": "John Mauldin is framing the current period as 'The Global Restructuring'\u2014a historic reordering of economic and geopolitical relationships, not a mere cyclical correction. He identifies a 'G-Shaped Economy' where top-income households and corporate balance sheets remain robust while middle-income segments stagnate, making headline GDP figures misleading. Inflation remains the dominant US macro driver complicating the Fed path, but Mauldin sees 2026 as potentially the year when US-China rivalry begins to de-escalate.",
+      "key_views": [
+        "2026 represents 'The Global Restructuring' \u2014 a pivotal historic reordering, not a cyclical downturn",
+        "G-Shaped Economy: top earners and corporations thrive while middle-income consumers stagnate",
+        "Inflation remains the dominant US macroeconomic driver, making Fed's path especially fraught",
+        "Year-over-year GDP through March 2026 at 2.7% \u2014 solid despite headline uncertainties",
+        "2026 may mark the beginning of US-China economic rivalry de-escalation"
+      ],
+      "trade_ideas": [],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "fx",
+        "commodities"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://www.mauldineconomics.com/frontlinethoughts/the-global-restructuring",
+        "https://www.mauldineconomics.com/frontlinethoughts/the-g-shaped-economy"
       ]
     }
   ]
