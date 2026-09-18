@@ -20343,6 +20343,190 @@
         "https://www.schwabassetmanagement.com/content/schwab-market-talk-september-2026",
         "https://www.schwab.com/learn/story/what-to-expect-2026-with-liz-ann-sonders"
       ]
+    },
+    {
+      "id": "2026-09-18-33d0e4ad",
+      "date": "2026-09-18",
+      "published_at": "2026-09-16T14:24:13+00:00",
+      "investor": "Ray Dalio",
+      "side": "buy",
+      "summary": "Dalio believes a U.S. debt crisis is approaching, citing the appointment of Bessent as Treasury Secretary as a warning signal. He recommends reducing bond exposure and allocating to gold and bitcoin as hedges against rising Treasury risks and debt concerns.",
+      "key_views": [
+        "U.S. debt crisis is getting closer",
+        "Bessent's Treasury appointment signals deteriorating fiscal conditions",
+        "Bond allocations should be reduced due to Treasury risks",
+        "Gold and bitcoin should be held as small portfolio hedges against debt crisis"
+      ],
+      "trade_ideas": [
+        "Reduce long-duration bond positions",
+        "Small allocation to bitcoin as debt hedge",
+        "Increase gold allocation"
+      ],
+      "asset_classes": [
+        "bonds",
+        "commodities",
+        "credit"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXhxQU8zZmFKOUVQRTI3bktWMEF5R3dHTTctTThEc2xkb0JsXzlxV2hsTDhfSHVSS1JzODRHOFhuSjlSLTdicTRtTmxPSFBFUHJJM0VUb0pTdXk2dW9ibjVLcy02WE1qRUNvbUQ2NXM4X0pWVGRrQXNTZ1lDdU14LWc5dGNvOVE?oc=5",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUlpMVmlPbE96c3VpMVNEbGJmOGlZd1V5Z3dqOWJ4RzRfb19nZG1JMkliOEJ1Qll4YlRSUWlITlhob1BGS2RaNUJlTEM2LUdyWUxGN1F3ODBZMXN1SHE5ZTZRVnlnNm5DdVNrakUzdU4tQzZjc3VhVzJqTG9mbHpKMnlIOFdMZ9IBiwFBVV95cUxQNnpCY0Uxa0NfV2hMQjNiVVZVdDlncUpZTENQSUh2QWtpeFJNUEcxd0xUeENhdzk2MG1YcXA2RGhqOFJSMVZJa3ZmMGpmVlVLZTJiU1MyV2hsTDk3VGxFYndQa0taSDJ3VU0xS2d1RnJDVExtUFZlMzRFejA5TnFjSlVNZ2E4NGRWbS1r?oc=5",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUzI3NjFOc3BxVDZEaWZmeUV3SzhOSWhwd2tJZTA0YXRJbXliWDA4MjhFS0NzLTNTdU5CLV9MS3NKRW5seDJUOTZ0QllLRXBpQjdvMXZJMDhrakRucS0zN3JxY0JUM200ZEp2UXNhYTVyV2tubDc0Yi14U3NYUmljR29UREhKZldvOHdHblNOV2ROY01QQlhmME1HeFNwSWR2LTdYUWowQ3M3bzlSczlPWFhUS0ZuRzFqUjV4MmhoRTlhb2ZmaUJfelVKcmxQMVNRLTZpTWNOY9IB1wFBVV95cUxNNkd6c0NXalJ6TWZGTHRyWloyTWtLSmF3N0U1VFJ3YkFBMzFMYnFIbjBKMElaUFp0SW1mckFLTGdPQWsyYjctc04wclFucU1tYnY4aE9VTkNLN1YwZVJEcS1vMzlIQ1lKUWVySFBTU0lvM2JWYUVGbXg0NlhnZ25SVDFmNHd1REFMWjRhdGtXOGVCOEQwVU1qdWk2WDRQcUo4TWxlS1VSbnc2REVmQk5iYS1XYjhnUWdEcVV4NWxpUVdNb01xSG1SMzNRNHdsTzZNcEdIOFhwdw?oc=5",
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRFZkMHU4TkVaZ3Q5YVVnUHBMSlh0SlRFcDlxNzhfX3p0VEVDMkZqRVI2RDVLNWNUWlVOUEswd0VOVW1LcEduS3hRU2ZQSkNENzVPMnpXRzViOVFxV0Y0aTFqSUZfckRfSV93c2ZoSVlFbENTX09mN0VPNkFVa1lvSnpmM2R5MkVlY0xJRDFuaV9nV2NCVGFCWDlUSWw4RVpwbmFFNGtKdFV3bmVBUVdsclNpam92cVAxQmRfQXR1ZmRJUVVsc3c?oc=5"
+      ]
+    },
+    {
+      "id": "2026-09-18-a3d6bf24",
+      "date": "2026-09-18",
+      "published_at": "2026-09-10T14:56:01+00:00",
+      "investor": "George Soros",
+      "side": "buy",
+      "summary": "Recent macro commentary from Soros, Druckenmiller, and Bessent suggests growing tensions around US fiscal policy and Treasury management. Druckenmiller has criticized Treasury buybacks as a credibility mistake, while there are indications of repositioning in semiconductor/AI stocks and divergence among the '92 macro bulls cohort on current market direction.",
+      "key_views": [
+        "US Treasury buybacks represent a policy mistake that damages government credibility (Druckenmiller)",
+        "Major rotation from traditional tech (Intel, Micron) toward AI chip exposure",
+        "Disagreement among historically aligned macro investors on current market direction"
+      ],
+      "trade_ideas": [
+        "Soros executed sevenfold increase in AI chip stock position (13F filing)",
+        "Druckenmiller sold Intel and Micron positions to redeploy capital"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "rates"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYzg3MkNBS1dvT0RNdklGOHJSbU1Ed1hWcXNIOUVjOGhTUHVVSk1aTVViaU90TzZ4RmQwU2J2M1M2QmlKSHJzTXpya1NPRjdjeVNURHJqRm95b3lKQ29sNXlFMGNDWWJfWXVPSjNuVGdEUUFNYnNydXVUUm10eERUSlp3NFFXdFlWRWxFRGNYSkt0Ry1IN2NWb09wZy1OQWx0YUJsOEZGbEpIYlBSR0ZicVQyOFNIdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbTlZVFctVW5lRkxoWTUtVnkxZGdOWmpKV3BsRVo2blRJQS1oQU5feTJWV3ZidUk5UEFOemxJOGQzOVgyeVZPYm5MLWVLOG9IUVA2cDdadmh3MkpUMFIydTRESGxHNXVlc3ZJZ1RHSEFBSzBiYUc2UktZVWhMUV90Vm5qSTd3bVNqU0FPRDF0ZjRHYlVKM2UzZzNXcmY4Z1hIWkdoUV9kSGNwVXV1RGRyVDhEel9xdG9VNjB1c1cxSng?oc=5",
+        "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tQU5aVjE4ekpMSWhyc1ZQbm1jYzdYZy1OdzhwSk5XOG4wZFJ0WWRIUnk5M25nLU1aUkgybERUZFN4NFI3eVByMWticmNERUE1TVF4RFhPMzQ1SFdrWEJGYUNvZklJWENqNEpJ?oc=5",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMV9hbXVoX0FsZll0cS11aG13ZjE3ZGxRaUhRLWtGSlJDTkhlWHZSOGI5T1NGT2ZwcnFqVUJ5aHU3WGxZNmNYcGthWkpMUXp1aHEwdmhwLVIwQzN4aVVtaTVlVnlLY3Qyb2E1T09hTWdhTnE5YkwtU01vU21NUDBqRWhwWDFTZw?oc=5"
+      ]
+    },
+    {
+      "id": "2026-09-18-5c826b4b",
+      "date": "2026-09-18",
+      "published_at": "2026-09-17T21:32:50+00:00",
+      "investor": "Jeffrey Gundlach",
+      "side": "buy",
+      "summary": "Gundlach believes the Fed has been insufficiently hawkish and should have hiked rates more aggressively to combat inflation; he advocates for additional rate hikes (50 bps or 25 bps in October 2026) and warns that without them, long-term Treasuries face further selling pressure. He also expresses concern about a fiscal crisis in the next recession and maintains zero exposure to AI-driven equities, viewing the sector as overextended.",
+      "key_views": [
+        "Fed should have hiked rates more aggressively to fight inflation",
+        "Additional 50 bps rate hike needed or long-term Treasuries will face selling pressure",
+        "Another 25 bps rate hike expected as soon as October 2026",
+        "Fiscal crisis looming in next recession",
+        "AI/Nvidia valuations excessive; maintaining zero exposure to AI 'epicenter'"
+      ],
+      "trade_ideas": [
+        "Long US Treasuries positioned to benefit from future Fed rate action",
+        "Short or avoid AI-concentrated equities (specifically Nvidia)",
+        "Positioning for fiscal stress and potential recession"
+      ],
+      "asset_classes": [
+        "bonds",
+        "equities",
+        "rates"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oU2RoR29oUTJvVE9iRC1rWGlBRENidUswV0JUOWR4MmowQ1dPUU1FLWxjUHc0YUNnUXlUWGItTnliNXpEaUlFOEdoUVlVaDlrZi1VdTkteDltdzFrUWNWUDY4b0NhdVA5T19BYmhBTm9GS2fSAXhBVV95cUxNdzdoMlNuY01mNlJGZmo0T0FCMTMxNW53aGFMSVZyNmFCeVlYN3Z1NjUyMkV6SUZiS0g3eHR6ZFR1SzRoY1dFenNVT1JZRkZ2U1M1UFk4VzNMRUcteDhJUkJCSVhLZFZfcmtRWVpGUHF3S3h5d21JLVc?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdW5TeWFIYWhGcHFyb2NKbFZGamZBTlZ3SjAzWlV0ZXlMZlVRNVBOaHJBM3RrRFpQWTdtVFlUVXRRcXNGdDBydWlaZGN5WWNqeHFwU3ZvWkducWJSTlA3RnMxemV4eG83T0RuaU9hMnV3dkpyaUJ5TXZRS0JCU29tYVZCcFBYZkstbUJJM1ZfZ1pyb185SlFaMmdEZzJXNmR3NWJFUA?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb1A3azAzMEJ3YlVwTklOZ3M0T0lTeXdfNHVOeHlEV094YzQtd1Z0Wko2UW92SVJDUUxmMTdTWkY0WmhXdU9TV3lkN3NTUUI2N1ZubnJ6LVhXUkotMTBQTlJBd3l4bm5RclVuQ3JGZDlrS2dzSURzS2hfVHp0c1pPZE9LNDlZaUd4cTFmeEZ3OEowYldPeDcyMHBRdVpKUkNOaS1oZ19YTDJTSlVNeldmZ1BGcw?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLXIweTBMN3NhYVY0Z1c0YV9RUHotbHhyR3ZYZGNkSDVORExSeUx1U251SThHMXplSTJGRFJsRzNnZ1RkVmZyV1JDbjN5a1o3QU83WXBMajBXalJ2dFZOcGJ2NE9rc0p0QXNUOE1MazdrclhEOUd5U2FUTlQxMHV5amdsdjVrRENNSVdKR1BlSURsd3hod2k4?oc=5"
+      ]
+    },
+    {
+      "id": "2026-09-18-f45a8d53",
+      "date": "2026-09-18",
+      "published_at": "2026-09-16T11:26:00+00:00",
+      "investor": "Michael Burry",
+      "side": "buy",
+      "summary": "Burry is skeptical of the AI bubble, believing it will primarily enrich existing wealthy holders rather than create broad-based gains, while opportunistically buying beaten-down stocks and shorting AI favorites like Nvidia. He has recently pulled back on portfolio risk by shedding some derivative positions, suggesting caution about current market valuations.",
+      "key_views": [
+        "AI bubble would make the rich richer — implies wealth concentration and potential overvaluation in AI equities",
+        "Beaten-down stocks offer better value than AI-favored mega-cap technology",
+        "Nvidia and high-flying AI stocks are overvalued heading into earnings",
+        "Portfolio-wide risk reduction warranted — shedding puts and reducing leverage"
+      ],
+      "trade_ideas": [
+        "Short Nvidia and other AI favorites",
+        "Long beaten-down/undervalued equities",
+        "Closed or reduced December 2026 Nvidia and Palantir put positions"
+      ],
+      "asset_classes": [
+        "equities"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxOd2k1QnJZR3A4VzQzbHBvSHFBanZiMDNHak5SZlVaYkZRSEp4NXE5NzV6c2dxRW1uejRhTDNPM1BVNDl2TzlnV2ZlMTc3ekRkMnhwUk5WbnF6MTBTZHNrZVZNTTVCY3FqMDcxZTVhM29SMnhuMjJaN20xYm0xaEt5NDFERVZEMnBGMUFPRTRLYW1fNXhxYV9WUy00dnlLUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcUlvUWUtZ2pzdlJ3UTA4bVpTQjB4U0wtUy1NNlhLcXFjSU1xcjJyMmJscEZrQVBDc25aSU1XVUk4WjJObVJhRVQ3SFZtWVBVYnR5cWtBZV9QZ3VTWDd6T1R0NmJfUGJGX1BvUXNzSmdiYXUyUV9FWHVnS0RuY1FoOTV5Q0daRjJTLTNnbERtWWREMEJJZXNqZlBUWW9RTmRfbmJVbV9FZGpvcUxRUmk3NGdMUUZpMnRjbXd6TE1rSjYwM2NOa2Jj?oc=5",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNVJ1V0hDaHBnMzgxTXJabjhMYTlPdjA3YzVSUmUtVF82Ykk4bU1nWFhSYlQxbnNSUmw2bERUNWQ5SVZTYWxyai1oYXlGSnVUc3VVRU1DZkNQSUt3WkFCSmt5QkFCVV9yd25XcU9aaEtlVjMzbFZ5aHNfd0xkUWp6dklQYk5uaGFvdnZPQW0tWk1KeDg?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVjdFVlIyQzhYNTJDd2ZKX1ZUTzl6S1NCdzhBMnBHUnU1MjFSREpkZlRPNlBmN054V1Zxd2hKMTNaeG00X3B0SXBHV1NuUGhHTW8zUEYtM3hoMFg4T1BzeEJtbjRsNlVPelJ4a05QMU4zcC00Mi1Vd3doVm5uMFF0dmphZmgxZUlqSC13STRYMmh3MkYxSmJkNTJiUlY0dzF5d1RjOVdSUW0wb1JwX1hEZlktRXE3OUk1?oc=5"
+      ]
+    },
+    {
+      "id": "2026-09-18-70915e44",
+      "date": "2026-09-18",
+      "published_at": "2026-09-18T04:35:00+00:00",
+      "investor": "David Einhorn",
+      "side": "buy",
+      "summary": "Einhorn holds a cautious to bearish macro view, expressing concern about the 'meme-ification' of markets and AI-driven tech valuations. He believes gold will significantly outperform the Nasdaq over 3-5 years, suggesting he expects equity market challenges and potential depreciation in tech profits from AI commoditization.",
+      "key_views": [
+        "Gold will significantly outperform the Nasdaq over the next 3-5 years",
+        "AI depreciation could erode tech giants' profits",
+        "Markets are experiencing 'meme-ification' with excessive speculation (particularly citing SpaceX IPO concerns)",
+        "Current tech valuations are unsustainable relative to fundamentals"
+      ],
+      "trade_ideas": [
+        "Long gold as hedge against equity market downturn",
+        "Short or underweight large-cap tech stocks",
+        "Long PayPal at current valuations ($61.5M position)",
+        "Long Comcast (CMCSA) on pullback",
+        "Long bottled water sector"
+      ],
+      "asset_classes": [
+        "equities",
+        "commodities"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd0dLV2NEMzFEaE5sR2oyaEV3V0hmcndIUjBnbVpmcHh1XzJQQ0l2WURpMFd1TWNQbWVSSVB2SEdKMEtmMnJoLVVsUHhhYl9fSTI5VElLNjlNVHVrUmVfVWlXcFJrU1Z1MWZ6UHhxb2QzUC1UYUFuZ05NN25kZWlwdzFaNlFyRFpoQXB6NEczSV9xRm5Y?oc=5",
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMzFhNlljV1ZuTlZUSjU5YXBfa29nNldWMHhwNmRnX0I0V0JUblNDWkswTTdIYmF4X001WjROaVM0VXFvUm80bjczZjl0NnAyUUVtYXE0ZEdzeFVKU19nWFd3aGdkNVlTVnlKaFBHSkZWS0VEeUVpZGxKUmtLRWJOLUpoTnRSSmw0bnhhZlhnV3JDSFloTFRhNFZnWE1uYlgybW1maXpR?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSV9Ecnh0ZnY1bVZfX3I3b0tNMkZQN3hoUnRISzVTUHpIRWVBSWJRUjVKX3V2XzU5eFVxZGo3TXZqdTlUUE1xOEtwS1ZFZXFnbEtTdjZzSmpWY2JIX3ZZazQ1bjNCSk5rdTA2MXFWOTdpU3NkVlVSMThKVHY5WFJoSkNKQWxRcEwxdmNaNzl3RlBjRmRp?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTFBid3hOcDRSRXpMZ1NET04tTXlrdFNoZmVGZDdoajVmLXY4SU1ZVXgwbVFoeFdEeDlpaTNzY2Q0YmJEeVVaQWtrdl9NQmRObXcwVkFuZl9wdmpmU0FITU54bUQ3V01sRmZBZV9aaTE1MHVqMDc2c0E?oc=5"
+      ]
+    },
+    {
+      "id": "2026-09-18-db94b918",
+      "date": "2026-09-18",
+      "published_at": "2026-09-17T00:00:00+00:00",
+      "investor": "Ed Yardeni",
+      "side": "sell",
+      "summary": "Yardeni, historically Wall Street's biggest stock bull, has turned cautious and cut his S&P 500 target to 7,900 citing downturn risks and mounting economic headwinds. While he views 4-5% Treasury yields as a vote of confidence in the economy, he now sees stocks in a late-stage bubble poised for a significant correction, and has shifted focus to bond market stabilization as a key macro concern.",
+      "key_views": [
+        "S&P 500 target cut to 7,900 on downturn risks",
+        "4-5% yields on the 10-year signal confidence in the economy",
+        "Stocks are in a late-stage bubble",
+        "U.S. economy faces mounting headwinds",
+        "Bond market stabilization is critical (Scott Bessent's key job)"
+      ],
+      "trade_ideas": [
+        "Reduce equity exposure or hedge long positions ahead of expected correction",
+        "Monitor Treasury yields for signs of bond market stress or stabilization"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "rates"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QakUtQzNvVVFQV3NVbFZWQy16QzBQM2RxbnU2RnJvdE9CT1VPUDlXeEQ1Q2ltelp1b0VSSDJ2VVM5X1NuMnRxRVpBMjVtMmJzRmc5clBKRlowWTFfSnpmM3o1LTVTYm1LcDkw?oc=5",
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdDdQM2pXLXdWcFctenhMT2pHUkt0T2Z3UURKbTdWaGVfX1dLQWNSX2xfU3pEcG1Xb0U1RU13eVRqTVBhbDNuazB6cFZIZzY4ZjBYVVp6QlRHWTBaYzZmaHlPVEo5ZFBfT0FUQjNNdTlfU1pIeW55TmMwZGxVYXVYb3piU2gtcW43V3hlemd5ckxuMnVuMlR2clFNNkVoalRpOEdzSlFJOFVjN1RHdU1ERFZmQm1BNUd3VlFSdWhMSVczZmFkZWNkZGR2Ym5yeHJE?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU29aRl84bG1Nbkx1N2h0Rk9lS2ozcHB5R3hNNEFBT3JhTk8zLWEtT0ZHM3B6ZlE4YUszbXA3dE5UaTJfVTY0R2JiZnFoQ2pHaWZ1d1RhZjZnZWhKODh2LUVsbzBUdTVvVTc2OUFGa3pJWDZNbTdLeUJUM05HVW9IZXZ0NS0yUHZtVXJqN2I1eWtLY2JfM1dYV0NTckFscHN4ZFJ6WUtZWnVLeUE?oc=5",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeUd0T3pnMXVWcFpSc0VYLUVkcTNDRlBnZktobUFjdl9fYkZDTVNuOU9vdVhkbVZHTzJncXdWNTBNR2FWVDU4dnB2YnNXaWRDb1AyS0YxRF9ram51ZUhaVjAyV2RILXQwa19GOVV6QWV5UFI0WGZrV29hLTFhT1NxUGVfZEU4dw?oc=5"
+      ]
     }
   ]
 }
