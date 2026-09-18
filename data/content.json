@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17",
+  "last_updated": "2026-09-18",
   "entries": [
     {
       "id": "2026-06-22-4500a9e4",
@@ -20175,6 +20175,173 @@
         "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRThseHF2azZHNjFOMU5EN1JjYzcwYUpYRE9DcWVWQUVpanJRTzlEQ19yM0lRclljTEIwVzE3dHY1Q0JhMnJYdHhqeHA3TVhXQ253aFdyc0VoX2ZsQmtWcWJxcWNCQl9PbXpqMXhNYXRteWpTSTBTaDFHTUx2cm5NZzl1ZHVheWtpZWVkSnNQem5oZE1o?oc=5",
         "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSC1mdkhiZmgwZzJ3N2lUdG12d05XUW5pYkFkanZfTXdQZDBQcUlmQWFPRmtXalFoVGJJUTlnck9laHlzcEdKem43NUxYZlRQdXhuWDA4MHluMjRCVlVBLVBFLTJhbTJiRjM2QTlBSjB3V2dGR2tsSERXTEpydW9XcUJvVkY2V1JpcDNKN2xuQXp0WG5kaXF2LVRIc3VQUkk0Y1E?oc=5",
         "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY19sclJFRjNHNVBYSFJBV0hnbVhhYTBDdWdHbHByOEtqRl9BY2RJYU14SjNCejA1RHVxXzVoS1o2elY2WEQxTDY4cHlORkZRNlRmRVRqNDNva2JiYm9kbzFDZ2FEMzhOaXpKeGV1a0NhM3NnZHVha2pqOWRtYzJnQUhBRGltZFlEb0hldnRSYlliV3RPb2ltYzZqTDFXTU5S?oc=5"
+      ]
+    },
+    {
+      "id": "2026-09-18-2bc6b016",
+      "date": "2026-09-18",
+      "investor": "Michael Hartnett",
+      "side": "sell",
+      "summary": "BofA's Bull & Bear Indicator remains at extreme 9.6, with the formal 1-3 month sell signal still active even as bullish equity positioning stays entrenched despite 10-year yields touching 5%. Hartnett argues policymakers now explicitly understand that rising long-term yields are the single biggest threat to the AI capex boom and asset-price cycle, and are increasingly willing to intervene to suppress yields. Bonds are 'finally bringing the heat' with gold's risk-reward improving relative to equities as biotech becomes the most extended global sector.",
+      "key_views": [
+        "Bull & Bear Indicator at 9.6 extreme — 1-3 month sell signal still active despite equity market resilience near highs",
+        "Policymakers actively intervening to cap yields to preserve AI capex bubble — markets pricing in successful suppression",
+        "Bonds now competitive with equities — 5% yield levels improving fixed income risk-reward vs stretched equity multiples",
+        "Biotechnology most extended global sector at 15.7% above 200-day moving average — extreme sector crowding",
+        "Gold risk-reward cleanest in months at 3.4% below 200-day MA — preferred hedge as bond vigilante pressure intensifies"
+      ],
+      "trade_ideas": [
+        "Underweight equities — sell signal active, wait for capitulation not buy-the-dip signal",
+        "Long gold — 3.4% below 200dma offers cleaner risk-reward vs. extended sectors",
+        "Reduce AI/tech mega-caps as policymaker yield-capping fails to prevent repricing"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "rates",
+        "commodities"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://kodiaktrades.substack.com/p/hartnetts-latest-message-policymakers",
+        "https://thedarksideoftheboom.substack.com/p/michael-hartnetts-flow-show-says",
+        "https://x.com/spx1313972/status/2048147593117765655"
+      ]
+    },
+    {
+      "id": "2026-09-18-0fcc170e",
+      "date": "2026-09-18",
+      "investor": "Torsten Slok",
+      "side": "sell",
+      "summary": "Apollo's chief economist highlights that widening hyperscaler credit default swap spreads are not technical dealer-hedging flows but a genuine fundamental repricing of AI capex credit risk — rising leverage, negative free cash flow, and uncertain returns on depreciating AI assets. Slok characterizes the current US macro environment as squarely stagflationary: AI boom, industrial renaissance, and fiscal tailwinds are insufficient to offset slowing growth from trade frictions, immigration restrictions, and inflation stuck near 3%. The K-shaped economy is deepening.",
+      "key_views": [
+        "Hyperscaler CDS widening signals fundamental credit repricing — debt-financed AI capex cycle generating rising leverage and negative FCF",
+        "Uncertain payback on depreciating AI assets is market's new focal point — capex-to-revenue gap structurally widening",
+        "US is in stagflation — AI boom and One Big Beautiful Bill offset by trade frictions, immigration headwinds, and sticky 3% inflation",
+        "K-shaped economy deepening — macro aggregates mask consumer bifurcation and deteriorating lower-income fundamentals"
+      ],
+      "trade_ideas": [
+        "Caution on hyperscaler debt — CDS widening implies credit stress not yet priced into equity multiples",
+        "Defensively positioned in credit — avoid long-duration corporate exposure to AI hyperscalers"
+      ],
+      "asset_classes": [
+        "credit",
+        "equities",
+        "bonds"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://www.apollo.com/wealth/insights-news/insights/the-view-from-apollo/2026/06/2026-mid-year-outlook",
+        "https://www.apollo.com/wealth/insights-news/insights/daily-spark"
+      ]
+    },
+    {
+      "id": "2026-09-18-6e546460",
+      "date": "2026-09-18",
+      "investor": "Jan Hatzius",
+      "side": "sell",
+      "summary": "Goldman Sachs had called a September rate hike 'very unlikely' based on softer retail sales, weak employment, and cooling inflation — but the Fed delivered a 25bp hike, forcing an update. Hatzius now describes the US economy as at 'stall speed' with job growth across all major developed economies well below 2019 levels despite headline GDP. Goldman's 2026 global GDP forecast of 2.8% is intact but labor market deterioration is widening the gap between financial conditions and real economy performance.",
+      "key_views": [
+        "Fed hiked 25bps in September contrary to Goldman's base case — 'very unlikely' September hike call proven wrong by FOMC",
+        "US economy at 'stall speed' — labor growth across developed markets now well below pre-pandemic norms",
+        "Global GDP at 2.8% in 2026 but labor market underperformance contradicts headline growth picture",
+        "No credible path to further hikes remains Goldman's view — September hike treated as a one-time policy correction, not a new cycle"
+      ],
+      "trade_ideas": [
+        "Monitoring for Fed pause after September hike — Goldman base case remains for rate normalization to 3-3.25% terminal",
+        "Caution warranted given stall-speed labor market — risk of policy error elevated with GDP-labor divergence"
+      ],
+      "asset_classes": [
+        "rates",
+        "equities",
+        "bonds"
+      ],
+      "sentiment": "neutral",
+      "sources": [
+        "https://finance.yahoo.com/news/goldman-sachs-chief-economist-us-economy-is-in-stall-speed-174203126.html",
+        "https://www.benzinga.com/markets/economic-data/26/08/61427854/goldman-says-no-september-hike-can-todays-data-change-that-thesis",
+        "https://www.cnbc.com/video/2026/08/07/watch-cnbcs-full-interview-with-goldman-sachs-jan-hatzius.html"
+      ]
+    },
+    {
+      "id": "2026-09-18-0b05ff1e",
+      "date": "2026-09-18",
+      "investor": "Mike Wilson",
+      "side": "sell",
+      "summary": "Morgan Stanley's equity chief is rotating equity exposure rather than reducing it — shifting toward quality names with pricing power and free cash flow to handle elevated borrowing costs and expensive energy. Near-term headwinds include rising oil prices and heavy corporate fundraising pressuring equity markets. Wilson maintains his 7,800 S&P 500 target but warns the path won't be a straight line, flagging a possible market correction in the next 30 days.",
+      "key_views": [
+        "Rotating not reducing equity exposure — favoring quality and FCF over momentum names at elevated interest rates",
+        "Oil price pressure and heavy corporate capital raises are near-term equity headwinds not yet fully discounted",
+        "S&P 500 target 7,800 maintained — correction risk exists near-term but bull market structure intact",
+        "Elevated borrowing costs favor businesses with pricing power over leveraged growth stories"
+      ],
+      "trade_ideas": [
+        "Rotate to quality/FCF stocks and away from leveraged growth — businesses better equipped for elevated rates",
+        "Reduce AI hyperscaler exposure near-term as oil and fundraising pressure creates tactical correction risk"
+      ],
+      "asset_classes": [
+        "equities",
+        "commodities"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://www.morganstanley.com/insights/podcasts/thoughts-on-the-market/us-equity-market-outlook-2026-mike-wilson",
+        "https://www.thestreet.com/investing/stocks/morgan-stanley-stock-market-correction",
+        "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-warns-possible-stock-033300942.html"
+      ]
+    },
+    {
+      "id": "2026-09-18-a3249dcc",
+      "date": "2026-09-18",
+      "investor": "Peter Berezin",
+      "side": "sell",
+      "summary": "BCA Research's chief strategist argues that inflation — not valuation — is now the primary systemic risk to the equity bull market, a subtle but important shift from his earlier recession-first framing. Major AI companies are openly flagging that the race for AI dominance has become financially unsustainable, with capex arms races consuming cash flows with no clear payback horizon. This reinforces Berezin's bearish macro stance while adding a new AI-sector credit stress dimension.",
+      "key_views": [
+        "Inflation, not valuation, is the real near-term threat to the bull market — rate path matters more than multiple compression at this point",
+        "AI companies themselves warning of financially unsustainable capex arms races — insider signal of AI bubble stress",
+        "Recession probability remains elevated — Iran war oil shock, housing below 2008 levels, and AI capex peak converging",
+        "Bull/bear stance bearish — maintains position in BCA bull/bear debate on the bear side"
+      ],
+      "trade_ideas": [
+        "Underweight equities — inflation and AI capex sustainability risks not priced in",
+        "Long cash and defensives — preferred asset class over equities amid 40% US recession probability"
+      ],
+      "asset_classes": [
+        "equities",
+        "rates",
+        "commodities"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://www.bcaresearch.com/strategists/peter-berezin",
+        "https://www.bcaresearch.com/topic?name=Recession-Hard/Soft+Landing"
+      ]
+    },
+    {
+      "id": "2026-09-18-a6b77afe",
+      "date": "2026-09-18",
+      "investor": "Liz Ann Sonders",
+      "side": "sell",
+      "summary": "Schwab's chief investment strategist highlights that the bond market has become the primary risk transmission mechanism for equities, with Treasury yields breaching 4.75% (now 5% post-September hike) weighing on stocks. The $1.2 trillion in US interest expense in 2026 — now exceeding defense spending — represents unsustainable fiscal math. Sonders flags that equity markets are entering the 'prove it' phase for AI spending, with $700-800 billion in projected 2026 AI capex now requiring measurable revenue payback.",
+      "key_views": [
+        "Bond market is now the primary source of equity market risk — yields at 5% creating sustained valuation headwinds",
+        "US interest expense at $1.2 trillion in 2026 exceeds defense spending — fiscal trajectory unsustainable and bond-market-driven",
+        "AI capex ROI enters 'prove it' phase — $700-800B in 2026 AI spending now demands quantifiable revenue benefits",
+        "Treasury yields at 4.75%+ explain recent equity market weakness — not earnings or credit fundamentals"
+      ],
+      "trade_ideas": [
+        "Reduce equity duration — favor short-cycle, high-FCF businesses over long-duration growth as yield drag intensifies",
+        "Monitor AI hyperscaler earnings calls for ROI evidence — lack of it could trigger sector de-rating"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "rates"
+      ],
+      "sentiment": "neutral",
+      "sources": [
+        "https://www.schwabassetmanagement.com/content/schwab-market-talk-september-2026",
+        "https://www.schwab.com/learn/story/what-to-expect-2026-with-liz-ann-sonders"
       ]
     }
   ]
