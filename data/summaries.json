@@ -1,52 +1,171 @@
 {
-  "generated_at": "2026-09-25",
+  "generated_at": "2026-09-26",
   "today": {
-    "date": "2026-09-25",
-    "entries_count": 10,
+    "date": "2026-09-26",
+    "entries_count": 1,
     "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
+    "sell_side_bullets": [
+      "Autumn correction imminent \u2014 markets tracking dot-com 'Groundhog Day' breadth pattern with narrowing leadership. [Bannister]",
+      "Defensive Value recommended over large-cap AI/tech ahead of Q4 pullback. [Bannister]",
+      "Geopolitical tension (Hormuz, Middle East oil) cited as primary underestimated headwind entering Q4. [Bannister]",
+      "Inflation will not fall to low-2% without a recession \u2014 stagflationary backdrop constrains Fed easing. [Bannister]"
+    ],
+    "whats_new": [
+      "Bannister escalates from range-year (6,500-7,500) to explicit Q4 correction call \u2014 more directional than prior stance. [Bannister shift]"
+    ],
     "vs_market_buy": [],
-    "vs_market_sell": [],
+    "vs_market_sell": [
+      "Bannister vs. consensus: Market complacency is misplaced \u2014 dot-com Groundhog Day signals correction this autumn, not a soft range."
+    ],
     "buy_vs_sell_divergence": [],
     "aligned": [],
     "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "sell_side_trades": [
+      "Long Defensive Value equities; short/underweight AI/tech capex names into Q4."
+    ],
+    "dominant_themes": [
+      "Autumn equity correction risk",
+      "Dot-com analog / narrowing market breadth",
+      "Defensive rotation away from AI/tech"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "bearish"
   },
   "week": {
-    "period_start": "2026-09-18",
-    "period_end": "2026-09-25",
-    "entries_count": 87,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "period_start": "2026-09-19",
+    "period_end": "2026-09-26",
+    "entries_count": 76,
+    "buy_side_bullets": [
+      "AI earnings bubble risk rising \u2014 Duquesne AI position cut to 20% of prior size; 'build-out fever' driving CapEx without guaranteed returns. [Druckenmiller]",
+      "New shorts added on Micron, Nebius, SOXX, Palantir 2027 puts \u2014 AI hardware/semis 'fragile' at dot-com valuations. [Burry]",
+      "Next US recession will trigger a fiscal crisis: deficit could reach 12% of GDP; long Treasuries not pricing full fragility at 5.25%. [Gundlach]",
+      "US debt crisis approaching \u2014 Dalio maintains structural bearish view on US fiscal trajectory. [Dalio]",
+      "Rotating from AI memory to AI infrastructure + hyperscalers + power demand \u2014 selective AI exposure, not blanket exit. [Tepper]",
+      "Market complacency is a tradeable opportunity; asymmetric derivatives fund in development to bet on crowded longs unwinding. [Ackman]",
+      "AI asset prices now the critical question \u2014 not whether AI itself is real but whether prices appropriately discount transformational potential. [Marks]"
+    ],
+    "sell_side_bullets": [
+      "3Ps peaking simultaneously: positioning (Bull & Bear 9.5, extreme sell), profits (decelerating), policy (hawkish pivot complete) \u2014 major warning. [Hartnett]",
+      "Bond market 2007 echoes: global bond selloff threatens equity stability; JGB spike could transmit globally; 'everything bubble' in equities and housing. [Edwards]",
+      "Iran war risk pushes Europe/Japan recession probability to 50%, US at 40%; oil shock to $200/barrel in Hormuz disruption. [Berezin]",
+      "Autumn correction imminent: S&P tracking dot-com 'Groundhog Day' breadth pattern; geopolitical and AI/tech capex headwinds underestimated. [Bannister]",
+      "Higher for longer extends to 2027 \u2014 no Fed cuts in 2026 base case; sticky inflation + resilient economy = rates hold. [Slok]",
+      "AI investment boom unsustainable; Kevin Warsh's hawkish Fed posture creates market volatility risk. [Hatzius]"
+    ],
+    "whats_new": [
+      "Druckenmiller accelerating AI exit \u2014 position cut to 20% of prior size, sharper than earlier trimming. [Druckenmiller shift]",
+      "Yardeni cut his street-high S&P target to 7,900, a meaningful reversal from his prior bullish peak. [Yardeni shift]",
+      "Mauldin reframes 'Muddle Through' to 'Global Restructuring' \u2014 more structural, more bearish framing. [Mauldin evolving]",
+      "Marks shifts from technology optimism to 'Is It a Bubble?' \u2014 directly questioning AI asset price appropriateness. [Marks evolving]",
+      "Hartnett escalates: 'policymakers capping yields to keep bubble alive' \u2014 argues 'bull trap' is being engineered. [Hartnett evolving]"
+    ],
+    "vs_market_buy": [
+      "Gundlach/Dalio/Druckenmiller: Treasury market pricing doesn't reflect US fiscal fragility \u2014 long yields should be higher and will reprice.",
+      "Burry: AI hardware valuations at dot-com extremes are not reflected in current prices \u2014 short these names."
+    ],
+    "vs_market_sell": [
+      "Hartnett: Bull & Bear at 9.5 extreme sell reading contradicts market's complacent positioning \u2014 contrarian sell signal.",
+      "Edwards: Bond market dislocation severity (JGB/Treasuries) is underappreciated by equity investors.",
+      "Berezin: Iran war and oil tail risk ($200/barrel) is dramatically underpriced in current equity valuations."
+    ],
+    "buy_vs_sell_divergence": [
+      "Ackman/Tepper bullish on selective quality names vs. Hartnett/Edwards/Berezin/Bannister uniformly bearish on equities.",
+      "Bessent: K-shaped economy 'over,' fundamentals strong vs. Slok/Sonders: K-shaped ongoing, consumer stress widening.",
+      "Tudor Jones: massive IVV buying (passive long) vs. Burry/Edwards: markets fragile and overvalued at dot-com levels."
+    ],
+    "aligned": [
+      "AI/tech valuations stretched \u2014 both buy and sell sides agree the AI capex-to-earnings trajectory is risky. [Druckenmiller, Burry, Hartnett, Edwards, Bannister]",
+      "10-year Treasury at 5%+ is structural, not transitory \u2014 rates higher for longer is now consensus. [Gundlach, Slok, Reid, Napier]",
+      "Geopolitical risk (Middle East/Hormuz/oil) is a key underpriced tail. [Berezin, Bannister, Soros, Bass]"
+    ],
+    "buy_side_trades": [
+      "Short Micron, Nebius, iShares Semiconductor ETF, Palantir 2027 puts. [Burry]",
+      "Long AI infrastructure (TSMC, NVDA, ASML, Amazon, Alphabet, Meta) + power demand (Vistra, NRG). [Tepper]",
+      "Long asymmetric derivatives against market complacency / crowded longs. [Ackman]",
+      "Low-duration assets only; avoid long-term Treasuries globally. [Gundlach]"
+    ],
+    "sell_side_trades": [
+      "Long Defensive Value equities over large-cap cyclical growth / AI/tech. [Bannister]",
+      "'Sleep like a baby' portfolio: 25% each stocks/bonds/cash/commodities. [Hartnett]",
+      "Long bonds \u2014 will outperform once growth begins to slow. [Berezin]",
+      "ROSY ETF: low beta, diversified across fixed income, equities, commodities, currencies. [Rosenberg]"
+    ],
+    "dominant_themes": [
+      "AI/tech valuation bubble risk and earnings sustainability",
+      "Higher-for-longer rates / US fiscal crisis risk",
+      "Geopolitical headwinds (Iran, Hormuz, oil price shock)"
+    ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "month": {
-    "period_start": "2026-08-26",
-    "period_end": "2026-09-25",
-    "entries_count": 319,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "period_start": "2026-08-27",
+    "period_end": "2026-09-26",
+    "entries_count": 313,
+    "buy_side_bullets": [
+      "AI earnings bubble risk: Druckenmiller cut AI exposure to 20% of prior size \u2014 warns 'build-out fever' may not generate returns. [Druckenmiller]",
+      "Shorts concentrated in AI hardware/semis (Nvidia, Palantir, Micron, SOXX) \u2014 markets 'fragile' at dot-com valuations. [Burry]",
+      "Next recession will trigger a fiscal crisis: 30Y Treasury at 5.25% not yet pricing full risk; deficit could reach 12% GDP. [Gundlach]",
+      "US debt crisis is the structural macro call \u2014 Treasuries and dollar face existential repricing. [Dalio]",
+      "AI capex companies selectively favored (hyperscalers, infrastructure) while AI memory/hardware trimmed. [Tepper, Soros]",
+      "Geopolitical/AI disruption creates long-term opportunities; 'narrative bubble' is biggest near-term risk. [Druckenmiller, Marks]"
+    ],
+    "sell_side_bullets": [
+      "Extreme bullish positioning (Bull & Bear 9.5-9.7) and narrowing breadth (21 of S&P 500 stocks making highs) = major warning. [Hartnett]",
+      "Bond market regime shift underway: global selloff, JGB contagion risk, 'everything bubble' in equities and real estate. [Edwards, Napier]",
+      "Geopolitical tail risks (Iran war, Hormuz closure, oil to $200) now drive 40-50% recession probability. [Berezin]",
+      "Dot-com 'Groundhog Day' breadth pattern: autumn correction imminent. [Bannister]",
+      "Higher for longer through 2027 \u2014 sticky inflation and hawkish Fed leave no room for rate cuts. [Slok, Reid]",
+      "AI investment boom temporary; market priced beyond sustainable earnings trajectory. [Hatzius, Edwards]",
+      "Financial repression 15-20 year regime: governments force savers into bonds, structural inflation 4-5.5%. [Napier]"
+    ],
+    "whats_new": [
+      "Druckenmiller significantly accelerated AI exit vs. prior trimming stance. [Druckenmiller shift]",
+      "Yardeni cut street-high S&P target to 7,900 \u2014 meaningful pivot from prior bullish peak. [Yardeni shift]",
+      "Gundlach fiscal crisis warning is more severe than prior Treasury caution. [Gundlach evolving]",
+      "Hartnett escalated to 'policymakers engineering bull trap' \u2014 stronger than prior caution. [Hartnett evolving]",
+      "Mauldin's 'Muddle Through' replaced by 'Global Restructuring' \u2014 more structural framework. [Mauldin evolving]",
+      "Berezin's BCA 'Aging Bull' thesis evolved to include explicit 40-50% recession probability. [Berezin evolving]"
+    ],
+    "vs_market_buy": [
+      "Gundlach/Dalio/Druckenmiller: Long-end Treasuries significantly underpricing fiscal fragility \u2014 fresh selloff ahead.",
+      "Burry: AI hardware names priced for perfection at dot-com extremes \u2014 explicit shorts against consensus bullish positioning."
+    ],
+    "vs_market_sell": [
+      "Hartnett: Bull & Bear at extreme sell (9.5-9.7) while market consensus remains bullish \u2014 textbook contrarian sell signal.",
+      "Berezin: Geopolitical oil tail risks ($200/barrel scenario) dramatically underpriced in equity valuations.",
+      "Napier: Financial repression regime change is not priced \u2014 bond investors and savers facing 15-20 years of loss."
+    ],
+    "buy_vs_sell_divergence": [
+      "Ackman/Tepper/Bessent bullish (quality, AI infra, strong economy) vs. Hartnett/Edwards/Berezin/Bannister broadly bearish on equities.",
+      "Bessent: K-shaped economy over, fundamentals strong vs. Slok/Sonders/Rosenberg: K-shape ongoing, consumer and housing stress widening.",
+      "Tudor Jones: massive passive long (IVV) vs. Burry/Edwards: markets fragile at dot-com-era valuations."
+    ],
+    "aligned": [
+      "AI/tech valuations stretched: both sides agree AI capex cycle creates future return uncertainty. [Druckenmiller, Burry, Hartnett, Edwards, Bannister, Hatzius]",
+      "Rates structurally higher for longer: 10-year at 5% is new reality, not transitory. [Gundlach, Slok, Reid, Napier, Yardeni]",
+      "Geopolitical risks (Iran, Hormuz, oil) underpriced and rising. [Berezin, Bannister, Soros, Bass]",
+      "Breadth concerns: narrow market leadership is a major vulnerability regardless of index level. [Hartnett, Bannister, Druckenmiller]"
+    ],
+    "buy_side_trades": [
+      "Short Micron, Nebius, SOXX, Palantir 2027 puts. [Burry]",
+      "Long AI infrastructure (TSMC, NVDA, ASML, AMZN, GOOGL, META) + power demand. [Tepper]",
+      "Low-duration only; avoid long-term Treasuries globally. [Gundlach]",
+      "Long asymmetric derivatives against complacency; new fund in development. [Ackman]",
+      "Long gold as financial repression and currency debasement hedge. [Dalio, Einhorn]"
+    ],
+    "sell_side_trades": [
+      "Long Defensive Value over AI/tech cyclical growth. [Bannister]",
+      "'Sleep like a baby' portfolio: 25% each stocks/bonds/cash/commodities. [Hartnett]",
+      "Long bonds for eventual growth slowdown. [Berezin, Rosenberg]",
+      "ROSY ETF: diversified low-beta macro strategy. [Rosenberg]",
+      "Gold as financial repression and regime change hedge. [Napier]"
+    ],
+    "dominant_themes": [
+      "AI/tech valuation bubble and earnings sustainability risk",
+      "Higher-for-longer rates / US fiscal and debt crisis risk",
+      "Geopolitical tail risks (Iran, oil shock, Hormuz) reshaping macro landscape"
+    ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   }
