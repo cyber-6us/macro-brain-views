@@ -20,7 +20,6 @@
         "Short US dollar thesis via portfolio construction"
       ],
       "asset_classes": [
-        "equities",
         "fx",
         "commodities"
       ],
@@ -7161,12 +7160,12 @@
       "asset_classes": [
         "equities"
       ],
-      "sentiment": "mixed",
+      "sentiment": "bullish",
       "sources": [
-        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNWhDSWJzWXhsWDdqVVlDNm1KemsxcUdfa3FDM0ttQkJNcmx1eUdHSDhzZ0xtU28yUG5sa1NoMVhDSjJlY1lSbndTM0VaQk1Zbl9LQlBha2hNTjhEV3p6RWxhTGM3eHdlOXhnejVZM3ZjNkZ0T3ZCYlZyNGR3YmJ3WmZxNnNKenFDS1J0Q3RjU0dMNEFySnVWUFJ6Y193amZHLW5uRlI3c084RWwzVDdyYWRJZUk2SU5hNVZlWEVYamlmQWtHSFV4TWo3V0lic21WMVZQZllBVDBnYlRqcHFEdg?oc=5",
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRmN4OGNjcVo2dV8wc2JaamdrblpKRjFWdVZVOGt4cXNqZjZDcTZOdHpSdjk0SkdyWURwQjZEUlUtb2U4dS1hbGNVNGhjSkRfekZuUDBaSjBRa3M5VV95Z3BHakQtZ2RfMFc2YTh5d0lpT01HaENlQ0dBR0pLTmdBTjVVMEw2SkVfMG5V?oc=5",
-        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WN01rdXFyN1lxb3hJcVI2T19jWm12cWlrUUs0SGJ1YlhHUWRCS05QNURJdDNNVG1Rbm51a0M5Rk8tcThjR0Nib2FhRkFfOE1KRXYwazRxMV9jR0k?oc=5",
-        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRFpITnFvVFFRdWYxVnlkRk5WUl9GY01VQlZwcDJXYUhYbGUyUTk2WWNXT3dOWFo3VFJuUU1sVjhqaHR6QU5rUmRCN2FNZmd5Qy1iNVlrWkhsc2hDcVdwX2cyVGtxT0Q1ZmF2MkZfSVpSdjdUM1lncmVUTlRqb04zMlJRbTdYcGphMFMwSEFPSnJ0ZFJ3UUhMM3BkWHM4TTJUYk1lYU5RRkd5cWF0bDdzZFBLU1Bza1BZc3hVRDQxN3BXdjFDTVpIQ0ZUdmEwWG45WlM0?oc=5"
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMkRfQWdjVi1aTkJkcUpZRXlrS244RlhNREJNQlpJSnZFeGplejF0TjhDS3JxR3hrQXpMNER1Z2kzZmJ2VjAzaW1INlNYNVhiYVFJTld6SUtsZnNVbEZlQjl5ZG9EcklyeWpKNmNaZlpReVhlREplaGpZdnQtNVNER19sbzVXcjcwbVI0VUI1X2Z0QWQxejFhajlQaFNhWTgyQXpadmRRcG5OMFR5QklXS3ZFdEFUc2QwSy14UmFoNmRiY1g2Z0E?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNelJNU3g3VTJrTGIxNjhsUWpfenl6OEhMU2xPWlNKN0tRWTY0Sl9Cbnd5U25yYVVzcEJoaTRRUFhValM4ekhKZVZjdjRKeW5XVGpzTUs4S29YYWNwcmZMTjl6a1RTWDdiX193aGJYQ1B6ZWZpR0YxZzk5NmFwQ1J5dkR6UGlsRXI2WVFvUk5HVU1OcDU2VkhaUWRUVGplZ19RY0FuZGRueHNvOFE2TElzRkdfbE02ZTJOU2hpOHdZWmo?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUUt1My1sUVlSRGFobWhseWl1MXZXNDdFY0Z5SzMya1h5WHBGdUtHbE9yd2NYZFlJVFlqQ2EwNHd0WU9MMFNBX0I3T1VJcVhWc19lVVd2dWlfR2JXNTdQaGZzZmtmek0wQ2R5Y0ZSME53NVJid3BCYWRPTUFtS1BlY0wxdTR2T3cxM1dmM2NfRWRoeGZOQlczNzUtV3I4RGswOENPSE5RNXcyUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbVo5eDRGN2IwVUJIdzNXbmUwQW5peWNGRDFWSk5sUzI0VnFSdTctbXQ2QXM3Q3ZHYmFZSGhlRVVQY2Rta3d1Z2RfWldyTkdfNG1zSFRKckJtdDc1UzlqNmY5aWlpdmVTRmdmX0pkaFY0cThJZkthdTVBOTUwVmhnaGFueTJWWmtwR1Nub1FhRUJyYnRlTmc?oc=5"
       ]
     },
     {
@@ -7704,174 +7703,50 @@
       ]
     },
     {
-      "id": "2026-08-30-70915e44",
-      "date": "2026-08-30",
-      "published_at": "2026-08-28T17:36:54+00:00",
-      "investor": "David Einhorn",
-      "side": "buy",
-      "summary": "Einhorn views the market as exhibiting speculative excess, particularly flagging SpaceX's $1.75T IPO as a 'major speculative top' marker and 'meme-ification of the market.' He remains selective, taking opportunistic value positions in PayPal and Comcast on pullbacks while quietly reducing gold exposure despite being a historical bull.",
-      "key_views": [
-        "SpaceX IPO at $1.75T valuation signals a major speculative market peak",
-        "Current market exhibits 'meme-ification' characteristics indicating stretched valuations",
-        "PayPal represents value opportunity after recent pullback despite Stripe deal collapse",
-        "Comcast attractive on valuation weakness",
-        "Reducing gold exposure despite macro bull case (quietly selling GLD)"
-      ],
-      "trade_ideas": [
-        "Long PayPal (PYPL) - $61.5M position on valuation dislocation",
-        "Long Comcast (CMCSA) - added on pullback",
-        "Short/reduce SpaceX (conceptual bearish positioning on valuation)",
-        "Reduce/exit gold (GLD) - tactical profit-taking"
-      ],
-      "asset_classes": [
-        "equities",
-        "commodities"
-      ],
-      "sentiment": "bearish",
-      "sources": [
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT1h4bGpHXy1Iek1BMjZkaVVNMlpjRlZKRVFqZDVleHV6R1duY2M3RGl0WmxNa093RzVSNGwyMXNPR2szTGxyRVV6WDBOdGJfWW8xbFVTSTNxRHU3MzVmUHJKd3AyTlF2LTNnaVAyeEFHUE1FS0Mtd2JORkUtbTVwcjRuU3hhSjFnMGNTaFU3ZVBzMEFOQ053MkJ6VXozNVViNEh0Q1dqTWhGRkRmLXZOZm1PY2o?oc=5",
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd0dLV2NEMzFEaE5sR2oyaEV3V0hmcndIUjBnbVpmcHh1XzJQQ0l2WURpMFd1TWNQbWVSSVB2SEdKMEtmMnJoLVVsUHhhYl9fSTI5VElLNjlNVHVrUmVfVWlXcFJrU1Z1MWZ6UHhxb2QzUC1UYUFuZ05NN25kZWlwdzFaNlFyRFpoQXB6NEczSV9xRm5Y?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMzFhNlljV1ZuTlZUSjU5YXBfa29nNldWMHhwNmRnX0I0V0JUblNDWkswTTdIYmF4X001WjROaVM0VXFvUm80bjczZjl0NnAyUUVtYXE0ZEdzeFVKU19nWFd3aGdkNVlTVnlKaFBHSkZWS0VEeUVpZGxKUmtLRWJOLUpoTnRSSmw0bnhhZlhnV3JDSFloTFRhNFZnWE1uYlgybW1maXpR?oc=5",
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbUE3cnQwNFdpeVI2Sk1VXzZjUnpEcUF0SFRhMEp6Tkw4WjhGQnI3Q0VLaU85R2VPTUtsWTRyN202WTRBb2dia2pHMC1KbV9QTWk2R25nS0RtMmhxZkVBTFFUQnAyNHl5TjBJRmRYOC13QzNiUjZCbGFuclVsSGNCTjQ5NnpOY2FGd0ZoMWNuaFVRajhtNjZRNDBkUmxOa21GOGxpYmJGWEV1bHdveDJoaDJocjB0NUNZTjVJWGlwbEVsT0Y2NWdyc2cxREVWUnRNOVdOcw?oc=5"
-      ]
-    },
-    {
-      "id": "2026-08-30-8e1e0837",
-      "date": "2026-08-30",
-      "published_at": "2026-08-28T13:30:00+00:00",
-      "investor": "David Rosenberg",
-      "side": "sell",
-      "summary": "Rosenberg argues the AI boom has artificially propped up the economy and masked underlying recession signals, with existing home sales falling below 2008 crisis levels and broad momentum deteriorating. He views the AI narrative as riskier than consensus recognizes and flags a 2007-era bond market warning, while suggesting the Bank of Canada should look through tariff-driven inflation to support growth.",
-      "key_views": [
-        "AI boom has stopped a recession but is masking serious recession signals underneath",
-        "Existing home sales have fallen below early-2008 crisis levels",
-        "U.S. economy is losing momentum despite AI narrative",
-        "2007-era warning flashing in the bond market",
-        "AI boom is riskier than investors think",
-        "Bank of Canada should look through tariff-driven inflation to support growth"
-      ],
-      "trade_ideas": [
-        "Cautious on long-term Treasurys (discussed whether he would bet against them)",
-        "Positioned for economic deceleration despite AI support"
-      ],
-      "asset_classes": [
-        "equities",
-        "bonds",
-        "rates"
-      ],
-      "sentiment": "bearish",
-      "sources": [
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTjVFYTJQZ2NFbWh3TGFLSzk0ZlM4aGJFTzVqUTh5U0owSFR6YXFiZTNtOGh0Nk9ZT09FQXNYLTlTcUloOVNSX3dCSkJRV0xNUVZlVF8wa3hJQmZfU0hyVHlpZzA3cExFTUtlSmlQZURXdnhlWjAySjl0QmpIQmhtb0NrZGRYRHVYOERoLWdCNGJiWEpmeTVVV05PX3dod1Jjb21qWEtIcXlrd05lRmFwYThCZw?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOXRmLUtqdmN6bDl1X2g0ZldXdWZYWlpfRlVuR0RDSUx6WjNRZjdqZkdyalNibmlRY2ZXU08xNXpFTEVaZkRnbWZxTHEzUmg0eFptRW81REFIZjBSeEJ1Y2otOHFlTHN0OXpoWDRZeDZxd0oxeXlkaGktX0RrbmxhN1Z5UE1lbEdBelBackplNEM?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hRS1JR2dwaGxpempzTFBzTE85WkJqd21LRVhrclM2alk1M2NZS0hOWjl6MTVfZHpFZEVEMGkwZkJ4U1dkZUpHWDgybjF5YmJQQVYyVVlXTThQeVNCWlBORldMTFVQa0RXYmRoUDN6UHhYQ2M4SlE?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQckJiaHRfS1JHQ1BlNHNRRGJ2VzlaMk9KUVUxTjhFaVctMzZPblRGN04zUjBXZGRaS3R3ZUp1V0lBWk1tTERmWndGLTB0QUFsSXJYeUQzT0doQmdrSFNaWENhV25mUEV4M2NTdWVDLXVvNWZNVC1lN3F1N0U0RVNiRGJldUM1LXpl?oc=5"
-      ]
-    },
-    {
-      "id": "2026-08-30-018f4a73",
-      "date": "2026-08-30",
-      "published_at": "2026-08-26T00:55:03+00:00",
+      "id": "2026-07-05-018f4a73",
+      "date": "2026-07-05",
       "investor": "David Tepper",
       "side": "buy",
-      "summary": "Tepper is rotating from AI memory/semiconductor plays into core Magnificent Seven tech stocks, suggesting conviction in large-cap tech dominance over specialized AI hardware. His $107M bet on top AI stock combined with selling AI memory stocks and exiting 12 positions indicates a tactical reset toward mega-cap tech rather than a broad macro thesis.",
+      "summary": "Tepper is bullish on AI infrastructure and large-cap tech despite recession concerns, believing in the secular growth opportunity of AI. He is rotating from software (Microsoft) to hardware/memory plays (Micron) that benefit from AI capex cycles, while also deploying capital into large secular winners like Amazon and making a $400M country-level macro bet, suggesting confidence in specific economic outlooks.",
       "key_views": [
-        "AI memory/semiconductor stocks are less attractive than core Magnificent Seven mega-cap tech",
-        "Mega-cap tech (Amazon, core Magnificent Seven) remains the preferred concentrated exposure",
-        "Specific sector rotation away from AI hardware/memory toward established tech giants"
+        "AI infrastructure remains a compelling secular growth opportunity despite recession fears",
+        "Memory/semiconductor hardware (Micron) more attractive than software (Microsoft) in current cycle",
+        "Large-cap tech leaders (Amazon, Nvidia exposure) offer asymmetric risk-reward",
+        "Conviction in specific country-level economic opportunities worth $400M allocation"
       ],
       "trade_ideas": [
-        "Long Magnificent Seven mega-caps (16% Amazon position, $107M AI stock bet)",
-        "Short/exit AI memory semiconductor stocks",
-        "Lyft exit in favor of Uber (30% upside identified by Wall Street)"
+        "Long Micron Technology (AI memory/semiconductor play, rotated from Microsoft)",
+        "Long Amazon (large-cap tech secular winner)",
+        "Long emerging/single-country macro bet ($400M position)",
+        "Trimmed positions in Nvidia and AMD (taking some chips profits)"
       ],
       "asset_classes": [
         "equities"
       ],
-      "sentiment": "mixed",
-      "sources": [
-        "https://news.google.com/rss/articles/CBMidEFVX3lxTE14THpwQzBtU0J2YkN5YnBXRXdrdlRsaVNNRVVQakRxR1h4MDAtenZ3anVHV2V2TTVhY2J1aDZMdDZqOWlIWUo2eDhEQUVTeDloNTlxeklqTHEwbkZkdWxvVWdnYldFbW9aN0h6WFRGUTBsT1pQ?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTjN6SWxXamlVOWtsdlVSQXpUb2VRWC1kLTNaQThxdFZSWVFkVnhOU252a2JFb2tsQnFjdUx2R3dJZC1aRWFUa0hTYUtSNnlWT0NlcUhPT3JpTExtcHJtVWFJeEJ6OHZBcHliUWJOZEZ4Y0dkeTBhVGFDMnh5MVlDMlFHTFNTUDFQWkpZUXpXX1NRczV3UVFSOEhiV3RacWprWTV3cUZB?oc=5",
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTE12d2lnWmhpeFFhQ0xjaWdYbFZaRUJ0VkwwbjRDQlJoRDVQc3ZOaWl5b1NGR2hOT0NjODljeWJsLXBwejQ1SURTbGkyUHpBRmYyMVplWU5abE01Q1RRVzZqdW1wWU5kUEJKNFI4WXRtMmxNVmdHa0l0MzZYaw?oc=5",
-        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV2F4djJnaTZ4RWxETF8xd3U3aGF4TWxtVWpxNHRHc0x3QXhMckRtWWs2ZmxaVnQ4bHMtdE9GME9LVFp2TldkcXdxYmptS2ZRaTJHYVBCWWhsLWtCM0s4bi1BLVpUZlVZSTJWTENscndzVHJmbXVJeEJ6SFdUUDVOUjBnMk1pLVhldVhLZHJBakExZlZPZHJrZUpCTWl4bkpUUWVraGlLRk1hNmR4VVMyWjd4dDdobVpVTDRnS3paR1JwOFpXNy1Sa05SNjhQakFnQmpxQXBQZw?oc=5"
-      ]
-    },
-    {
-      "id": "2026-08-30-db94b918",
-      "date": "2026-08-30",
-      "published_at": "2026-08-28T20:54:21+00:00",
-      "investor": "Ed Yardeni",
-      "side": "sell",
-      "summary": "Ed Yardeni maintains a bullish stance on equities, citing strong earnings momentum and AI-driven economic stimulus as the primary drivers of the current market rally. He distinguishes the current AI-led rally from the 1999 dot-com bubble by framing it as 'FEMO' (Fundamentals-Driven Emotion) rather than 'FOMO' (Fear of Missing Out), and has raised his 2026 S&P 500 price target to 8,400. He views temporary pullbacks like the June swoon as AI fatigue rather than fundamental market weakness.",
-      "key_views": [
-        "Equity markets have fabulous earnings momentum supporting the rally",
-        "AI buildout is stimulating economic growth and providing earnings tailwinds",
-        "Current rally is 'FEMO' (fundamentals-driven), not a bubble like 1999",
-        "S&P 500 can reach 8,400 by 2026",
-        "Bond yield concerns do not warrant panic yet",
-        "Market pullbacks reflect AI fatigue, not underlying weakness"
-      ],
-      "trade_ideas": [
-        "Long equities, particularly beneficiaries of AI buildout and earnings growth",
-        "Maintain equity exposure into 2026 given upward price targets and earnings momentum"
-      ],
-      "asset_classes": [
-        "equities",
-        "bonds",
-        "rates"
-      ],
       "sentiment": "bullish",
       "sources": [
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdjBheXZteWQ2ZWhFbjJQdHVzdlhidUhaLV85RnU5OHpuN3ZzM0VOTHhZYXJRSlpGQVpGZE1qQ29NOExOZmJtNjhtU25GTkVyOTFWVGRONU1uWXBkMU1WZWs2RlRwajRiQWo2QUNMa2xqZWVRQkJCSjB3cmIwOUpySlNXLUxCWGk0aWZrYlZNZkFJaGJiRkJ1MEpqYk9RZWZ3ZUE?oc=5",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vNF9GdXFiVzg2MEtHV2NyMGtOLVZOSkQ1V3hPSzNaUnJBZHhVcXVuR2thMWJWbEJUZFpjTlRMbTdhc3h5V0QtRDZObWJ5ZU5nLUdhX2VYRmF4ZEVHa3J5ZTczd3dzVHlzUWNrbjR2SDVjSlk5NWl5STJmVjQ5UQ?oc=5",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWGxPMjg4Y296Qy02c3ZuT21hMTZHZmFwT25jbkYyR3ZmTEl2QVowV3BvczU2dXhZNFdZLVhHMFo1dFRHZXJrUTM5d1lRSFBDR0I3WWN4WXFCT1NKODFkYkhjWkZ1dVFvb185MTR6ZExVTHZzVHFrLVZtb3ltVEtFLQ?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM0JXMkIteXozMWI1dXpRMzducmlNaXYwdEdhUVhOZXhnSHlwSkZWX0pzcnA4N0t2dlFCQ3hkdmVVZ3RwZmxIeUkyck1uWGpRZ0c1eW9QQkV6aWRrOTE3QnhmLXFVbXFvRERHR0ljeWZ1cEEtVlozNi10V3RfOFMzc1BQZEVGeDdVT3hfQUZKaTUyc2xvNnVMUllUbw?oc=5"
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWnRra2NOa2ZFSVdBa194Ym9lVnp0QW4tOUpnMkZsY01zZC1Ib2h1TXd6QzRkSlBtdVFjNW12WC16WUhSeVJWbDFNTXRKQ0M4RlZlQTR5N1d5VnhVdlpVRGlqZTVPLVI5X0REcElpWkFnSE1zRkowRGkxVC1IRTFYQm84ZTUyLVhpd3FGNTZZa2tLS2ZRMmtwRTZpUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxONFoyRzNDc3QyLU5PV1ZEaWZFclRVdGtzNS1zXzluM0RrRllNcG9SSnU3aHJ5VEpDa3ZUS2MtWm9iZWlYTm40c3pJbVMya3hJQ2duQVBldDJkdmViSWtORWdNcExycWk0TVQ4bGxDOVB5bjhoT2RPSjJ4YjAyUExSOGpOY29penRDLUFQdnllSTRhc1U4REpMMQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbXg3N0xzbXNNZWtaUXoxZzFXcmxTZzZPZzR3SnF3ZDFleVBIQi1kRTdkRmtaM0YxaHVuRmJfSDlDa0x0SlE2SVdGMUt0NjR0VHdjMmdqb1dJU2twaXhLcFk0di1pYWIza3NzX0x0cnFxVmh6Vm1hbEpUWVZkaktQMkw0SS1GVC0zamZFeW1aX1JLbFdINWFGdHhzam5NUWhfREY1V0lyd0NMTTE0aDdMRk0yX0NrR0xfTWhhalZjUlhyYmxnSmNiRElzN3ZjSHV0?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR3FuQkdlQ0ptVTMwTXpscHlVRTVfQ0N0bVIzamROaG5JZjJRdXlxa3B5d25raUpHR2lTcnpYLUpPdnFyNzdVS1Q4cVVERXVta3ZKLXlUQ3dsRWVlSmxYN2RPcUc3WWNRaU9iaXVVYm5OVHlnMmlmbTZGc0s5VWt2X1NBUVJ5dEdaNmhiSjZrUzBUblVNSEZoUg?oc=5"
       ]
     },
     {
-      "id": "2026-08-30-a3d6bf24",
-      "date": "2026-08-30",
-      "published_at": "2026-08-25T20:01:00+00:00",
-      "investor": "George Soros",
-      "side": "buy",
-      "summary": "Soros appears cautious on mega-cap AI stocks (holding puts against top AI chip stocks while Tepper buys), skeptical on nuclear energy (sold out while Druckenmiller bought in), but has made sevenfold increases in other AI chip positions, suggesting selective opportunism. His positioning contrasts sharply with other macro titans, indicating divergent macro views on AI valuations and energy transition plays.",
+      "id": "2026-07-05-db94b918",
+      "date": "2026-07-05",
+      "investor": "Ed Yardeni",
+      "side": "sell",
+      "summary": "Ed Yardeni maintains a strongly bullish stance on equities, stating he 'hasn't been bullish enough' on the stock market and sees continued gains ahead. He views the 2026 market environment as resembling 1999 with potential bubble risks, but remains optimistic on the 'Roaring 2020s' narrative, attributing recent June weakness to AI fatigue rather than fundamental deterioration.",
       "key_views": [
-        "Bearish on certain mega-cap AI stocks (holding puts against top AI chip stock)",
-        "Bullish on select AI chip opportunities (sevenfold increase in AI chip stock position)",
-        "Bearish on nuclear energy stocks (sold out while peers bought in)",
-        "Concerned about US Treasury markets and debt dynamics (implied by Bessent's stabilization efforts)"
+        "Stock market has more gains ahead over the next six months despite June swoon",
+        "2026 resembles 1999 with investors 'out over their skis' and bubble-popping risks",
+        "Recent June weakness reflects AI fatigue, not underlying market weakness",
+        "The 'Roaring 2020s' bull case remains intact with rockets to Mars and beyond",
+        "He's been among the bulls but hasn't been bullish enough on equities"
       ],
       "trade_ideas": [
-        "Put spreads or outright puts on mega-cap AI stocks",
-        "Long positions in select AI chip/semiconductor names",
-        "Short or exit nuclear energy sector positions"
-      ],
-      "asset_classes": [
-        "equities",
-        "rates"
-      ],
-      "sentiment": "bearish",
-      "sources": [
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYzg3MkNBS1dvT0RNdklGOHJSbU1Ed1hWcXNIOUVjOGhTUHVVSk1aTVViaU90TzZ4RmQwU2J2M1M2QmlKSHJzTXpya1NPRjdjeVNURHJqRm95b3lKQ29sNXlFMGNDWWJfWXVPSjNuVGdEUUFNYnNydXVUUm10eERUSlp3NFFXdFlWRWxFRGNYSkt0Ry1IN2NWb09wZy1OQWx0YUJsOEZGbEpIYlBSR0ZicVQyOFNIdw?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZDJGb0hpa2R0dEF5TXppUlFRWGxMWDQwV2FsSWVXYWh0bzZ1dHJpVFVodVh3OWJKclJRejZZWUxERVRVRlpuMXR3aDA5bVhkdUt1RjdLSmlsd2ExbWk1V0hTTjNPNnFwNFFEMFI5el8yN2dGZVMxRWRzRUFTSmlrdmRRYnM2ZzloMVhHb04yeWRJeml5dHVPTE43Nnk?oc=5",
-        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV2F4djJnaTZ4RWxETF8xd3U3aGF4TWxtVWpxNHRHc0x3QXhMckRtWWs2ZmxaVnQ4bHMtdE9GME9LVFp2TldkcXdxYmptS2ZRaTJHYVBCWWhsLWtCM0s4bi1BLVpUZlVZSTJWTENscndzVHJmbXVJeEJ6SFdUUDVOUjBnMk1pLVhldVhLZHJBakExZlZPZHJrZUpCTWl4bkpUUWVraGlLRk1hNmR4VVMyWjd4dDdobVpVTDRnS3paR1JwOFpXNy1Sa05SNjhQakFnQmpxQXBQZw?oc=5",
-        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONFBpT3Nfak5GeHpkNl9aLTZwemg4NDd5cllacV96QlViZEh5Uk9idWJwdnZWUnA1Zi1DOFc2X2pzWEEzTmFkdi1FNkJWakszejRYcTFRSk1rMHVjanEtVHU4SElNWmVGUE5sQnNkWGc3Tzk4U2ZmTTF3aXNwZlk4eUM4bzhJSmQ0VjBqTHNsNExmcjRvTFVLZ1paTG56ZzRVSVFsNkYyb0dhdENxZDE0VWRFUk1hSmtuRkp1cEx5LVhDMmpUTm1HWHRMdEZ4RFdqcE5iRENZZWo0OW1XZUlWbV8xT244QWpSWnJXS3hB?oc=5"
-      ]
-    },
-    {
-      "id": "2026-08-30-5c826b4b",
-      "date": "2026-08-30",
-      "published_at": "2026-08-29T21:27:57+00:00",
-      "investor": "Jeffrey Gundlach",
-      "side": "buy",
-      "summary": "Gundlach is bearish on the AI investment cycle, comparing Wall Street's $500B AI bet to a warehouse of bananas (implying excess/waste), and specifically warning that Nvidia's $500B AI financing plan will not age well. He appears constructive on gold given macro concerns around dollar weakness and Fed pressure.",
-      "key_views": [
-        "Wall Street's $500B AI investment bet is excessive and will not generate returns (banana warehouse analogy)",
-        "Nvidia's $500B AI financing plan will not age well",
-        "Gold positioned to benefit from dollar weakness and Trump pressure on the Fed"
-      ],
-      "trade_ideas": [
-        "Short or reduce exposure to AI-related capex and Nvidia financing initiatives",
-        "Long gold as hedge against dollar weakness"
+        "Long equities (S&P 500) for continued gains beyond June swoon",
+        "Gold has a critical price level (specific level not detailed in snippets)"
       ],
       "asset_classes": [
         "equities",
@@ -7999,10 +7874,10 @@
       ],
       "sentiment": "bullish",
       "sources": [
-        "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
-        "https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html",
-        "https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html",
-        "https://www.euronews.com/business/2026/08/21/bessent-vows-bigger-buybacks-after-bond-yields-erased-the-us-treasurys-relief-rally"
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZcHJBNWxobjhFTG5FS2dHQ2x6c1NrNW1JRmFTczBkdVZuNWc0VmpWQTlhYk0tOUVwaVpHN3MzTXNVQ2hhaXNCa3ZlU1RvUDkzMzUwelRvVTJTanpPWW9nOC1RMVM1b2JLTlVJTHRMNTJZQ2M?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMHpHRFBsaldOdE9hQTJsRDFPZ2ZBc1dHQ1hleE1tRl9oWFhpT2hSZ1hWSGZ6d1hneXBVemRaTzlZWXpoMVp2UU4xckFVb0VYWmxtX2Q0OXZmdjB3UVZVS0hwdko3anA3Y3BKTGI4TE1YZXl3N0E5dUh0d0VrLUFoWVIwVDFiTlY2dWJrUDNRLWlNd0RoLUHSAZsBQVVfeXFMT2NHNW9oSDRDeVE1Y1cxb3dMU2hEb3k1eGJNcjVBcHc0X3RwNExjTHFWZHFDUzFTUzNvR0dRZVRxNy1UcGl0eXFnMEpWeEZmR2RZZ2hMck5qb2ZwTTNGTmdETkZZY3RybW4zaU56dG1UNURacmFvUnNyYy1kV2NZVXF4Zmt5SmVFNFY1XzJXalI4OV92Uk5aVE5DTmM?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZG1DNkVKQWh0MzdsZ1R5OW5lUlBPdmRTelJUdXA3ME02a3BOU1ZuWEg0dVE3a3NUb3YwVEFUSlFiOHAwU2F2cnN1MTF0M3dXdnI1cVZsb1dPeHpkNExjZmhJX0lXdGZKVU1raU43eFhlenYwN25VNXZYcTJ4ZFFIU2o5eG03RlVQYnpCQ0xDQVZtaEJoN2xJ?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeTFDTVlOLU9tckVpTGRXVDVPZV82elNENmpvN2pQSkpISk1iQmJoZXg0QzFCb0Zhb1ByNVR2eGhLSDZWU2thRVcydG9GTTZyY2tOOXZTdENHTW5ac3N0VERtVkZUdG1HbVV1aFVHcS1kdWtuLUN4S1MtSmlSQ0w3Mk5rbHl0bjJ2ZE5VeA?oc=5"
       ]
     },
     {
@@ -9500,7 +9375,8 @@
       ],
       "asset_classes": [
         "equities",
-        "commodities"
+        "commodities",
+        "credit"
       ],
       "sentiment": "mixed",
       "sources": [
@@ -9659,6 +9535,68 @@
       "asset_classes": [
         "bonds",
         "rates",
+        "fx",
+        "commodities"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWpQVjNncFNrN1pLc2VreE00RmJXdVY0Mk45SEZpRUlVdEhoTmRzVzZwUzlRemZxaHQzZFRmT3lXcTVjaE1pLURXb0NZV0tva2RTdXZwbjNXMTNsak9lMnBzVHdSYVo5ZFZtOFJkelVCN3NGbVhBN3dzUHVmei10RWIyX1dHQUVYc0t0U08zcWh1TXN0LWt4SzdWQVp0X1RwREpnMmpQUGFBWHNG?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE95YWs5ZnpVblJPRUNMc2lKNHhLVHlCZFc2UUFBeUhPdHBOTEJKa3FPcldodzU3SFc0a3FTY0dsc08wcmRhZVN1WGdiUkR6WkFDX3h4dXRYaEtfaDhGU1FiY3ZsaTZTUGhKdWd0SExkdlFaRWVOV0p2M3VoNy0?oc=5",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVnFZWjdNMFJHUDQ2ZEphbUNkalB1WE9IbzByTnZlWC1VajhsclF5T19zOEY4RTZ4ejNUOGhtWFpKYnhxVzRHYndEV1luVVVETFdVOFB5NFZlM0oxR29zV3hYUnFBT181c2s0cVZFakJIdERORXFKd1Y5OTdsV3NIeExscjF4LUtpRDluU1FQdGl4LTA?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZTRSRnJ4MGJRM1ZQaG5YUFE0dFRmdnVVN2lESHFGTFB2emx3Yy1RTXozRFhPV0RHWnNVUzl3anJDWVd5NFVwSjdsZUZqaUtGcllacVdndEdRN2FGcEhqYVktQnZFS2I4TndSUzNXeDJnX3k3V1V1Zlk0cnVEZklSakIzdWxMeDBFU0VwX3MyNWMtVTM5Y1hzSTZ1N2lKWHBOeXh2MHdsdHBNTEFJOXN4bjhBTQ?oc=5"
+      ]
+    },
+    {
+      "id": "2026-06-30-33196b91",
+      "date": "2026-06-30",
+      "investor": "Jordi Visser",
+      "side": "sell",
+      "summary": "Visser views the recent selloff in Bitcoin, gold, and silver as 'debasement capitulation' signaling potential capitulation lows, while seeing Bitcoin charts showing 'no hope' yet but still buying dips. He's constructive on AI and semiconductor plays (Micron, SK Hynix, Samsung) as memory becomes critical infrastructure, and bullish on mega-cap growth like Eli Lilly (55% growth at trillion-dollar valuation) and cautious on SpaceX's valuation narrative.",
+      "key_views": [
+        "Bitcoin/gold/silver selloff represents 'debasement capitulation' with potential capitulation lows forming",
+        "AI boom is in first or second inning; memory (AI equals memory) is the key infrastructure play through semiconductor leaders",
+        "Eli Lilly growing at 55% as trillion-dollar company shows NVIDIA-like growth numbers still available",
+        "SpaceX's $2 trillion hardware moat narrative is overstated ('basically a Knicks NFT')",
+        "Ethereum positioned as key asset for AI agent token demand",
+        "Bitcoin charts show 'no hope' yet but remains a buy-the-dip opportunity"
+      ],
+      "trade_ideas": [
+        "Buy Bitcoin dips despite negative near-term charts",
+        "Long memory semiconductor plays: Micron, SK Hynix, Samsung as AI infrastructure enablers",
+        "Long Eli Lilly and mega-cap AI/biotech beneficiaries with sustained growth",
+        "Long Ethereum for AI agent tokenization thesis"
+      ],
+      "asset_classes": [
+        "equities",
+        "commodities",
+        "credit"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTUlvZ3dwNVVHQ0F6Z0paWGM5aFZmTEtIR1lVeHFtZVVua3VueWV6cGYyc0trWmRUcWhhUUNuUDFkWUhuQjNMU1NNTjFKRDRUMDBWT3hHNFNvUWJwdVdkOEl2MTR2dUtmTVVIX3lvU3k0MWxJcW5mMUI0WTlkZHZZVDNHeWVGaktNWXZhbzBCRlVGWEM0YWZBRTBBcmxIZkk?oc=5",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU3BGQzJxSjdmbHgtaXlYYmRKaFhPMnh0ajFkTWxBdnNNMmRyeFZuTV9xT3lHZTlDeWROanRUeFdDaWpFUWotYWVOME5oUUNHRmRrcHlmUzNjenh2Z3puSWZTZmdFXy1nNVZ1aDU0NWlWTW92OU5COTh6Z0JOY0xXbWxLVHFuWHNaYWNOX3RPRjJIOVZoWVd3TEJ3dTdTNzk1c3gwUkNsYmcwdXlIU2pFV0lwZm5Cc0MzdGdyTmZFamdidUlES3VLQ2xOU01mQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaHdrTkhJOHF2NFNpVFFhelF3Z1NlU05yNXRyZ3o5cVk3TXNXWnhmeDlXVTkwRHFzYm5INXF4ODJ0eVNKMWJkUXVVR2s5eVMxNlkxeS1KdDJxN3paMHlCaVF4TExibXN4ZXhsUWYtSUVfRU1BdTcyZGRQYjc2QjRJUXFZdU5LbExwQlNtMWtkZndoR2hBRVVFdHJyOG80bmFvbTFXMTNwbXdIY2I4S05DWjl6X3RVNU9RQnIyVFZ1NnEydi1xVm5YZlN1aEd1RU1udHM5ODkycU1Obnpm?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTTAwMk9qa2ZST0ZoYWtwdlpVRnpfd2xTRzZIazQ0NENRUGtETmFaNTktdFRKYk9pekpPdjlCUEIzQzZOUk5pcVZiYUdpYU1fcDlySnBVMDVyenlZa1dJUDdMYWRxZ3hzUHdxbUZERjlLQzY0bHVDMTN2eWUydTJQZ09aWEVPamFXRkVwLQ?oc=5"
+      ]
+    },
+    {
+      "id": "2026-06-29-5f257f1c",
+      "date": "2026-06-29",
+      "investor": "Albert Edwards",
+      "side": "sell",
+      "summary": "Albert Edwards warns that American household savings rates have collapsed to a dangerously low 2.6%, indicating severely depleted financial safety nets. This signals consumer vulnerability and potential demand destruction ahead, a bearish indicator for economic resilience.",
+      "key_views": [
+        "US household savings have plummeted to 2.6%, representing a critical deterioration in consumer financial buffers",
+        "Americans are running down savings at an unsustainable pace, indicating fragile consumer balance sheets",
+        "Low savings rates suggest consumers lack cushion for economic shocks and will need to cut spending"
+      ],
+      "trade_ideas": [
+        "Short equities as consumer spending weakens from depleted savings",
+        "Long defensive/bond assets as recession risk rises from weakened consumer finances"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
         "credit"
       ],
       "sentiment": "bearish",
@@ -16840,12 +16778,15 @@
       ],
       "asset_classes": [
         "equities",
-        "commodities"
+        "commodities",
+        "credit"
       ],
       "sentiment": "mixed",
       "sources": [
-        "https://www.cnbc.com/video/2026/02/11/visser-ai-is-disrupting-both-the-macro-world-and-crypto.html",
-        "https://22vresearch.com/ai-macro-nexus-research/"
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSHpLUlI1X19TQUNwOGVHeF9zUzlMMkd2ZDNESVdNWnp6Tkpta3YxempsMU9vYldCOGdvaUVPUWM1N05HaUQ1M3R6WUZTWUp4Mnh1ckZsTjlKVGljMzNpM1o4WkFBUm82MDZlS2tFSWZzVHA3Uk5uRjdHemtzUUZPNFFSNllsZC1Gc0VieW9pRU9kMzVvUTEzYWpSR0JQaXRLMEpYSWRZN0ZBS1AxYkk0UC05WGdUYTBZWTBEcmRZZw?oc=5",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU3BGQzJxSjdmbHgtaXlYYmRKaFhPMnh0ajFkTWxBdnNNMmRyeFZuTV9xT3lHZTlDeWROanRUeFdDaWpFUWotYWVOME5oUUNHRmRrcHlmUzNjenh2Z3puSWZTZmdFXy1nNVZ1aDU0NWlWTW92OU5COTh6Z0JOY0xXbWxLVHFuWHNaYWNOX3RPRjJIOVZoWVd3TEJ3dTdTNzk1c3gwUkNsYmcwdXlIU2pFV0lwZm5Cc0MzdGdyTmZFamdidUlES3VLQ2xOU01mQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTUlvZ3dwNVVHQ0F6Z0paWGM5aFZmTEtIR1lVeHFtZVVua3VueWV6cGYyc0trWmRUcWhhUUNuUDFkWUhuQjNMU1NNTjFKRDRUMDBWT3hHNFNvUWJwdVdkOEl2MTR2dUtmTVVIX3lvU3k0MWxJcW5mMUI0WTlkZHZZVDNHeWVGaktNWXZhbzBCRlVGWEM0YWZBRTBBcmxIZkk?oc=5",
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaHdrTkhJOHF2NFNpVFFhelF3Z1NlU05yNXRyZ3o5cVk3TXNXWnhmeDlXVTkwRHFzYm5INXF4ODJ0eVNKMWJkUXVVR2s5eVMxNlkxeS1KdDJxN3paMHlCaVF4TExibXN4ZXhsUWYtSUVfRU1BdTcyZGRQYjc2QjRJUXFZdU5LbExwQlNtMWtkZndoR2hBRVVFdHJyOG80bmFvbTFXMTNwbXdIY2I4S05DWjl6X3RVNU9RQnIyVFZ1NnEydi1xVm5YZlN1aEd1RU1udHM5ODkycU1Obnpm?oc=5"
       ]
     },
     {
@@ -16867,9 +16808,9 @@
       ],
       "asset_classes": [
         "equities",
-        "bonds"
+        "commodities"
       ],
-      "sentiment": "neutral",
+      "sentiment": "mixed",
       "sources": [
         "https://www.schwab.com/learn/story/what-to-expect-2026-with-liz-ann-sonders",
         "https://www.schwab.com/learn/story/2026-market-outlook-us-economy-equities-fixed-income"
@@ -17029,7 +16970,7 @@
         "equities",
         "bonds",
         "fx",
-        "commodities"
+        "credit"
       ],
       "sentiment": "bearish",
       "sources": [
@@ -17682,9 +17623,38 @@
       ],
       "asset_classes": [
         "equities",
+        "commodities",
+        "credit"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUVlrR0JCODNsTWQ5WTU2VC1FWl9aUWpYd1N3X2pWSUZya0l5OVBRZnZqNmNjS3JLdUQwMEpaTDB4dEhaRGtIbEhsbEp2TVlZLXhnZ2VPQVJOdFMxcndMTnJTY2ZiWFFEcTZWNlRrNWxFOXhSRkJsS1pWeGRIZkU3UU9qbzNEOTA5Sl9mcWJocEd0THl3ampzS1g0WHV0RUxSN3dOcThfekpGYXpvOTA1YmxDVnRkallJTVpBamNrVWpTUGJDZmVrcGFLTi03bDJzN2NjOUF5aUFRWEdieFZOVzRNT04?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV1ROWUFwQWNDQmFBd3V2ajZRWEZJQ1BNUFg0cFp4RWRFaGV3ZVhOUlBTQ2U5a05NcnpYUTNfSTcyNVQwSmR3VEVscjBONHhubE44aExObEVUSi1kdlRfUldkemlPWkdMdzYtZnZHUU1ncm1ZS2NZd2VZSGwzMTg0a0pKbHVLT3dZY3hfZHI2QjVFbVh3cEFSZDdQX2REYkNvUXNyZU5pNVZtVVNOa1YxQWp5U2NpT3RsTkE?oc=5",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaXVEaFVPeUxhLXpBdWZ5c004dlB1VFhsYVQwenZNRGxsUXZscVAtVVgzM3VFWW5Tc0ZHWjZMYjVyUXdJek94dkRjcUlad29mODFBZmx1Z1JBN18xM1JWTDc5OGw2MGNwVDNYYW1vVVg0aFNNX3FBV091a3NvM2V2SE1SbTZTV0lqN2hxdnJxZUZkdTRoM1o5M1FnNHphNE9qVWQxSktmRnBZLVczSEJaOHZZTkZWNUstdHVWb0ln?oc=5",
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQTU1OVdnbU9BQmVYa3h2THpKRXRjVHZ6RkVoa2JMbGhxLVVRZGF0emZtU3d5eERBOWRJYlVaM3ZfbG52cDNzNy02a2tFSnVlWWdyTTJOdG44ZVlrYkFGdlZSZ0Z3Ry1XZTBUYnB0X0ExVGtsSmhValFBTnVTcnZvcnhvT0xvRmR1eUE?oc=5"
+      ]
+    },
+    {
+      "id": "2026-06-29-a3249dcc",
+      "date": "2026-06-29",
+      "investor": "Peter Berezin",
+      "side": "sell",
+      "summary": "BCA Research is issuing cautionary signals on equities, with an 'Emergency Sell' indicator flashing while warning that Federal Reserve policy is fueling an AI-driven stock bubble. Their Q3 outlook provides guidance across multiple asset classes including stocks, bonds, gold, and oil, suggesting a mixed macro environment with significant downside risks to equities.",
+      "key_views": [
+        "Emergency Sell signal triggered on equities",
+        "Federal Reserve policy is creating an AI-fueled stock bubble",
+        "Stocks face significant downside risks in Q3"
+      ],
+      "trade_ideas": [
+        "Reduce equity exposure or establish short positions",
+        "Reassess allocation to bonds, gold, and oil per Q3 outlook"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
         "commodities"
       ],
-      "sentiment": "mixed",
+      "sentiment": "bearish",
       "sources": [
         "https://www.cnbc.com/2026/05/07/paul-tudor-jones-says-ai-bull-market-has-another-year-or-two-to-run.html",
         "https://blog.valuesense.io/paul-tudor-jones-tudor-investment-corp-portfolio-holdings/"
@@ -18369,8 +18339,7 @@
       "trade_ideas": [],
       "asset_classes": [
         "rates",
-        "fx",
-        "equities"
+        "fx"
       ],
       "sentiment": "mixed",
       "sources": [
@@ -18399,7 +18368,7 @@
         "bonds",
         "rates"
       ],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "sources": [
         "https://www.bloomberg.com/news/articles/2026-05-15/why-socgen-s-albert-edwards-sees-double-digit-inflation-coming-back"
       ]
