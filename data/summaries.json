@@ -3,195 +3,50 @@
   "today": {
     "date": "2026-09-27",
     "entries_count": 12,
-    "buy_side_bullets": [
-      "US fiscal deterioration threatens Treasury credibility \u2014 Treasury buyback program insufficient to address structural deficit without spending cuts. [Druckenmiller, Marks, Einhorn]",
-      "Fed September rate hike called a policy mistake \u2014 AI economy breaks traditional monetary transmission; AI capex rate-insensitive. [Ackman]",
-      "Gold to sharply outperform Nasdaq over 3-5 years as US fiscal deficit trajectory deteriorates beyond repair. [Einhorn]",
-      "'Capital wars' risk escalating as foreign confidence in US assets erodes \u2014 1-2% GDP drag possible. [Dalio]",
-      "Don't dump stocks despite fiscal risk \u2014 hold equities, but reassess dollar confidence over longer horizon. [Marks shift]"
-    ],
-    "sell_side_bullets": [
-      "Economy approaching stall speed \u2014 underlying job growth only ~39K/month despite 119K headline; Fed cuts coming H1 2027. [Hatzius]",
-      "Diesel price surge is underappreciated inflation risk \u2014 inelastic demand means full pass-through to core CPI via shipping supply chains. [Slok]",
-      "S&P 500 target cut to 7,900 from 8,400 \u2014 6% 10Y yield is the danger zone; two more Fed hikes possible in 2026. [Yardeni evolving]",
-      "Bond market is now a source of risk to equities \u2014 $700-800B AI capex not yet translating to economy-wide productivity. [Sonders]",
-      "30-day stock market correction risk flagged \u2014 bull market intact but path won't be smooth toward 7,800 target. [Wilson]"
-    ],
-    "whats_new": [
-      "Druckenmiller publicly breaks with Bessent in WSJ op-ed \u2014 first direct attack on Treasury policy despite long friendship",
-      "Ackman flips to criticizing Fed rate hike as a mistake \u2014 previously more hawkish; AI economy argument is new",
-      "Einhorn's gold macro bet up 6% in September \u2014 structural fiscal deterioration thesis gaining market confirmation"
-    ],
-    "vs_market_buy": [
-      "Dalio's 'capital wars' framing far more severe than consensus view of manageable geopolitical friction",
-      "Marks explicitly holds equities while warning of fiscal crisis \u2014 contrarian to growing 'sell everything' fiscal doom narrative"
-    ],
-    "vs_market_sell": [
-      "Hatzius's 39K underlying jobs trend is far more bearish than consensus \u2014 headline 119K masks structural labor weakness",
-      "Slok's diesel inflation warning pushes against market's assumption that inflation is trending sustainably lower"
-    ],
-    "buy_vs_sell_divergence": [
-      "Ackman (buy) says Fed rate hike was a mistake; Slok (sell) argues higher-for-longer is correct and more tightening may be needed",
-      "Yardeni (sell) maintains Roaring 2020s thesis despite target cut; Druckenmiller (buy) warns earnings bubble and fiscal credibility loss"
-    ],
-    "aligned": [
-      "Bond market risk to equities is real and elevated \u2014 consensus across both sides that yield levels matter",
-      "US fiscal trajectory is unsustainable \u2014 Marks and Einhorn (buy) and Yardeni (sell) all acknowledge this structural problem",
-      "AI capex boom is structural but near-term productivity gains remain unproven economy-wide"
-    ],
-    "buy_side_trades": [
-      "Long gold vs. underweight Nasdaq over 3-5 year horizon [Einhorn]",
-      "Avoid long-duration Treasuries \u2014 Treasury buyback insufficient to overcome structural selling [Druckenmiller, Gundlach]",
-      "Long quality stocks \u2014 best opportunity in years for high-quality business exposure [Ackman]"
-    ],
-    "sell_side_trades": [
-      "Cut S&P 500 target \u2014 watch 6% 10Y yield as trigger to reduce risk significantly [Yardeni]",
-      "Favor short-duration, high-quality credit (BBB+/BB rated) over long bonds [Gundlach]",
-      "Long rates \u2014 Fed rate cuts coming in H1 2027 as economy approaches stall speed [Hatzius]",
-      "Monitor diesel prices as leading inflation indicator for core CPI trajectory [Slok]"
-    ],
-    "dominant_themes": [
-      "US fiscal deterioration threatening Treasury and dollar credibility",
-      "Fed rate policy questioned \u2014 AI economy may break traditional monetary transmission",
-      "Bond yield risk to equities; stall speed labor market signals coming easing"
-    ],
-    "buy_side_sentiment": "bearish",
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "week": {
     "period_start": "2026-09-20",
     "period_end": "2026-09-27",
     "entries_count": 76,
-    "buy_side_bullets": [
-      "US fiscal credibility at inflection point \u2014 Treasury buybacks insufficient; rates too low vs. asset prices. [Druckenmiller, Marks, Einhorn]",
-      "AI earnings bubble risk growing \u2014 Druckenmiller cut AI position to 20% of prior size; 'narrative-driven bubble' warning. [Druckenmiller]",
-      "Gold to sharply outperform Nasdaq over 3-5 years \u2014 fiscal deterioration is secular, not cyclical. [Einhorn]",
-      "'Capital wars' escalating \u2014 foreign confidence in US assets eroding; Dalio family office flagging geopolitical breakdown. [Dalio]",
-      "AI infrastructure bet broadens from semis/memory to hyperscalers and power demand; Mag7 rotation away from AI hardware. [Tepper]",
-      "Fed rate hike was a policy mistake \u2014 AI breaks monetary transmission, capex will be rate-insensitive. [Ackman]"
-    ],
-    "sell_side_bullets": [
-      "Higher-for-longer confirmed \u2014 Fed September hike; diesel inflation underappreciated by market and potentially by Fed. [Slok]",
-      "US economy approaching stall speed \u2014 39K underlying jobs trend vs. 119K headline; Fed cuts in H1 2027. [Hatzius]",
-      "S&P 500 targets cut across sell-side \u2014 Yardeni to 7,900, watching 6% yield as danger threshold. [Yardeni]",
-      "BofA Bull & Bear indicator at 9.5 \u2014 contrarian sell territory as $63.8B flows into US equities. [Hartnett]",
-      "Bond market now the primary risk to equities \u2014 $700-800B AI capex not translating to broad productivity gains. [Sonders]",
-      "Iran conflict and Strait of Hormuz closure add supply shock risk to sticky inflation backdrop. [Mauldin]"
-    ],
-    "whats_new": [
-      "Druckenmiller publicly breaks with Bessent on Treasury policy \u2014 WSJ op-ed marks first direct rupture",
-      "Ackman reverses to anti-hike stance \u2014 argues AI economy invalidates Fed's inflation playbook",
-      "Einhorn's gold vs. Nasdaq call gaining momentum \u2014 gold up 6% in September, structural thesis confirmed",
-      "Hatzius 'stall speed' framing is new from Goldman \u2014 more bearish on labor than their prior view"
-    ],
-    "vs_market_buy": [
-      "Dalio 'capital wars' framing far more severe than consensus geopolitical risk pricing",
-      "Druckenmiller's Bessent op-ed goes against Wall Street's view of Treasury as stabilizing force",
-      "Marks holds equities despite fiscal alarm \u2014 contrarian to fiscal doom narrative driving risk-off positioning"
-    ],
-    "vs_market_sell": [
-      "Hatzius 39K underlying jobs trend far more bearish than consensus labor market narrative",
-      "Slok diesel inflation warning against market belief that inflation is sustainably trending lower",
-      "Hartnett's 9.5 Bull & Bear indicator (contrarian sell) vs. market's bullish positioning \u2014 a setup for disappointment"
-    ],
-    "buy_vs_sell_divergence": [
-      "Buy side (Ackman): Fed should stop hiking \u2014 AI economy makes tightening counterproductive. Sell side (Slok, Gundlach): more tightening needed, 50bps was the right call",
-      "Buy side (Druckenmiller, Marks): fiscal risk is real but don't exit equities. Sell side (Hartnett): Bull & Bear at 9.5 = contrarian sell",
-      "Buy side (Tepper): concentrated Mag7 AI hyperscaler longs. Sell side (Hatzius): economy stalling, cyclicals at risk"
-    ],
-    "aligned": [
-      "Bond yields are elevated and rising \u2014 risk to both equity valuations and economic growth",
-      "US fiscal trajectory is unsustainable \u2014 acknowledged on both buy and sell sides",
-      "AI capex boom is real and structural but productivity gains not yet economy-wide",
-      "Iran/Hormuz supply disruption is a material inflation upside risk"
-    ],
-    "buy_side_trades": [
-      "Long gold, underweight Nasdaq 3-5 year horizon [Einhorn]",
-      "Long Mag7 hyperscalers (AMZN, GOOGL, META, AAPL) and AI power infrastructure (Vistra, NRG) [Tepper]",
-      "Avoid long-duration Treasuries \u2014 buyback insufficient; credibility risk [Druckenmiller, Gundlach]",
-      "Long biotech, Latin American EM, commodity cyclicals [Druckenmiller prior rotation]"
-    ],
-    "sell_side_trades": [
-      "Cut S&P 500 allocation; watch 6% 10Y yield trigger [Yardeni]",
-      "Long rates \u2014 Fed cuts coming H1 2027 as stall speed confirmed [Hatzius]",
-      "Short-duration, high-quality credit; avoid CCC bank loans [Gundlach]",
-      "Inflation hedge positioning given diesel/Hormuz supply shock risk [Slok, Mauldin]"
-    ],
-    "dominant_themes": [
-      "US fiscal credibility and Treasury market stress",
-      "Fed policy error debate \u2014 AI economy breaks monetary transmission",
-      "Labor market weakness hidden by headline numbers; stall speed risk"
-    ],
-    "buy_side_sentiment": "bearish",
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "month": {
     "period_start": "2026-08-28",
     "period_end": "2026-09-27",
     "entries_count": 314,
-    "buy_side_bullets": [
-      "AI earnings bubble risk is the dominant buy-side theme \u2014 Druckenmiller cut AI position 80%, warns 'narrative-driven bubbles' historically precede severe economic outcomes. [Druckenmiller]",
-      "Global macro rotation underway \u2014 away from broad US market into biotech, EM Latin America, commodity cyclicals, and AI infrastructure power demand. [Druckenmiller, Tepper]",
-      "Gold to sharply outperform Nasdaq over 3-5 years \u2014 fiscal deterioration is secular; CBO projects deficit 5.8% GDP FY2026. [Einhorn]",
-      "Dollar bearish \u2014 at top of historic purchasing power range, foreigners overloaded; dollar hegemony must be actively maintained via stablecoins. [Druckenmiller, Bessent]",
-      "AI valuation must be weighed against asset price appropriateness \u2014 transformational technology doesn't exempt investors from valuation discipline. [Marks]",
-      "Direct lending commoditized \u2014 alpha in private credit has disappeared; mispricings arise from complexity and investor misunderstanding. [Marks]"
-    ],
-    "sell_side_bullets": [
-      "Higher-for-longer is the regime \u2014 Fed September hike places funds rate at 3.75-4%; diesel price surge and sticky core PCE support further tightening. [Slok, Gundlach]",
-      "Fiscal crisis risk in next recession \u2014 30Y Treasury MTM losses over 50%; fiscal trajectory incompatible with orderly debt management. [Gundlach]",
-      "BofA Bull & Bear at 9.5 \u2014 contrarian sell territory despite elevated bond yields; $63.8B into equities while bonds sell off. [Hartnett]",
-      "US economy near stall speed \u2014 39K underlying jobs/month; Goldman sees Fed cuts in H1 2027; Rosenberg warns 'every bubble pops.' [Hatzius, Rosenberg]",
-      "S&P 500 targets revised lower \u2014 Yardeni cuts to 7,900; 6% 10Y yield identified as danger threshold across sell side. [Yardeni]",
-      "Iran conflict and Strait of Hormuz closure add supply-side inflation shock \u2014 diesel prices embedded in core CPI via inelastic shipping demand. [Mauldin, Slok]"
-    ],
-    "whats_new": [
-      "Druckenmiller's WSJ op-ed attack on Bessent \u2014 marks a new phase of buy-side vs. Treasury confrontation on policy",
-      "Goldman Sachs 'stall speed' framing \u2014 more bearish than their earlier 2026 growth-acceleration view",
-      "Einhorn's gold outperformance call \u2014 structural fiscal thesis gaining market confirmation (gold +6% Sept)",
-      "Ackman's Fed critique \u2014 new stance arguing AI breaks monetary transmission, distinct from prior hawkish positioning"
-    ],
-    "vs_market_buy": [
-      "Dalio 'capital wars' far more severe than consensus geopolitical risk pricing",
-      "Druckenmiller and Marks resist fiscal panic selling \u2014 equities defensible even with fiscal risk",
-      "Tepper's Mag7 rotation (exit AI memory, enter hyperscalers) goes against narrative of uniform AI trade"
-    ],
-    "vs_market_sell": [
-      "Hatzius underlying jobs at 39K vs. 119K headline \u2014 more bearish on labor than consensus",
-      "Gundlach 50bps preference vs. market expectation of 25bps or pause",
-      "Hartnett contrarian sell at 9.5 Bull & Bear vs. crowded long equity positioning"
-    ],
-    "buy_vs_sell_divergence": [
-      "AI valuation: Buy side split \u2014 Druckenmiller cautious (80% AI position cut), Ackman bullish (AI capex rate-insensitive). Sell side (Hartnett) warns bull market overcrowded",
-      "Rate policy: Ackman (buy) says hike was a mistake. Gundlach (buy/sell hybrid) and Slok (sell) say 50bps was needed",
-      "Fiscal risk outcome: Marks (buy) holds equities. Einhorn (buy) prefers gold. Hatzius (sell) sees stall speed"
-    ],
-    "aligned": [
-      "US fiscal trajectory is unsustainable \u2014 consensus across buy and sell sides; disagreement is on timing/impact",
-      "Bond yields elevated and rising \u2014 structural, not cyclical; a risk to both equity valuations and growth",
-      "AI capex boom real but economy-wide productivity unproven \u2014 uncertainty about AI's macro impact",
-      "Dollar's reserve currency status provides buffer \u2014 but not unlimited; foreign confidence is the key variable",
-      "Iran/Hormuz conflict is a material upside risk to inflation; commodities elevated across the board"
-    ],
-    "buy_side_trades": [
-      "Long gold, underweight Nasdaq on 3-5 year horizon [Einhorn]",
-      "Long Mag7 hyperscalers, AI power infrastructure (Vistra, NRG) [Tepper]",
-      "Long biotech, EM Latin America, commodity cyclicals [Druckenmiller]",
-      "Short US dollar \u2014 at top of historic range, foreigners overloaded [Druckenmiller]",
-      "Avoid long-duration Treasuries \u2014 credibility risk from buyback program [Druckenmiller, Gundlach]"
-    ],
-    "sell_side_trades": [
-      "Cut S&P 500 allocation near-term; 6% 10Y yield is the risk-off trigger [Yardeni]",
-      "Long rates (duration) \u2014 Fed cuts coming H1 2027, stall speed confirmed [Hatzius]",
-      "Short-duration, high-quality credit (BBB+/BB); avoid CCC bank loans [Gundlach]",
-      "Long regional banks over alternative managers [Wilson]",
-      "Inflation hedge positioning given diesel/Hormuz supply shocks [Slok, Mauldin]"
-    ],
-    "dominant_themes": [
-      "US fiscal credibility and Treasury market structural stress",
-      "AI economy breaks traditional macro relationships (monetary policy, productivity, valuations)",
-      "Labor market stall speed and recession risk building into 2027"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   }
