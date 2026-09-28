@@ -3,202 +3,51 @@
   "today": {
     "date": "2026-09-28",
     "entries_count": 10,
-    "buy_side_bullets": [
-      "Bond yields stay elevated until fiscal fundamentals addressed \u2014 interventions cannot sustainably cap long-duration rates. [Marks, Gundlach]",
-      "Next recession triggers full fiscal crisis \u2014 30-year Treasury MTM losses exceed 50%; debt load cannot survive contraction without crisis response. [Gundlach]",
-      "AI infrastructure buildout dominates positioning \u2014 memory chips are primary beneficiary; new CoreWeave stake signals AI cloud conviction. [Tepper]",
-      "Bond buybacks suppress yields \u2014 Treasury purchased mispriced long-dated bonds; yields would be higher without intervention. [Bessent]",
-      "AI is not a fad but asset prices must be weighed against transformation timeline. [Marks]"
-    ],
-    "sell_side_bullets": [
-      "3Ps (positioning, profits, policy) all peaking simultaneously \u2014 most bearish concurrent signal in years; 'run it hot' era over; rotate to defensives. [Hartnett]",
-      "Double-digit inflation is the structural destination \u2014 fiscal dominance replaced secular stagnation; tech at 37% of S&P exceeding dot-com concentration. [Edwards]",
-      "Higher for longer through 2027 \u2014 inflation sticky; AI buildout counter-cyclical; brief stagflation ahead then productivity recovery. [Slok]",
-      "'1999 meets 1990' \u2014 AI boom and oil shock coexist; global inflation 3.8%; euro area cut to 0.5% growth; Fed on indefinite hold. [Jim Reid]",
-      "US recession probability 40%; 'Aging Bull' H2 selloff risk; Europe and Japan recession odds at 50% from Iran oil shock. [Berezin]"
-    ],
-    "whats_new": [
-      "Gundlach explicitly frames next recession as triggering a 'fiscal crisis' \u2014 an escalation beyond prior rate views",
-      "Hartnett's 3Ps peaking simultaneously is the most concentrated bearish concurrent signal in over a year",
-      "Edwards declares Ice Age thesis permanently replaced by fiscal dominance \u2014 a major paradigm shift in his framework",
-      "Tepper's new CoreWeave (CRWV) position signals conviction beyond hyperscalers in AI cloud infrastructure"
-    ],
-    "vs_market_buy": [
-      "Gundlach more bearish on long duration than consensus \u2014 views 30Y at 5.25% as still too low given fiscal crisis risk",
-      "Marks skeptical of AI asset valuations while market prices in transformational gains"
-    ],
-    "vs_market_sell": [
-      "Hartnett more bearish than consensus sell-side \u2014 '3Ps peaking' is a stronger signal than most are publishing",
-      "Edwards more inflationary than consensus \u2014 double-digit inflation vs. market pricing of 3-4% long-run"
-    ],
-    "buy_vs_sell_divergence": [
-      "Bessent (buy-side/policy): bond buybacks are yield-suppressive and beneficial vs. Gundlach (buy-side): buybacks cannot solve the structural fiscal problem; yields heading higher regardless",
-      "Tepper (buy-side): bullish on AI infrastructure stocks vs. Edwards (sell-side): tech at dot-com peak concentration, consumer weakness undermines AI valuations"
-    ],
-    "aligned": [
-      "Bond yields elevated and risks skewed higher \u2014 both sides agree ad-hoc interventions are insufficient (Marks, Gundlach, Reid)",
-      "US fiscal deficit is the dominant long-term macro risk \u2014 consensus across buy and sell side",
-      "AI investment as counter-cyclical force delaying hard landing \u2014 agreed across Tepper (buy) and Slok (sell)"
-    ],
-    "buy_side_trades": [
-      "Long memory chips: Micron, Samsung, SK Hynix \u2014 Tepper",
-      "Long CoreWeave (CRWV) \u2014 new AI cloud infrastructure bet \u2014 Tepper",
-      "Low duration bonds, avoid long Treasuries \u2014 Gundlach",
-      "30% non-US stocks, 20% real assets, 30% HQ bonds, 20% cash \u2014 Gundlach framework"
-    ],
-    "sell_side_trades": [
-      "Rotate into defensives, quality, value, yield from growth/tech \u2014 Hartnett",
-      "Short long-duration bonds \u2014 Edwards",
-      "Short US tech on dot-com-peak concentration \u2014 Edwards",
-      "Reduce US equities into H2 weakness \u2014 Berezin",
-      "Rotate from tech to non-tech; reduce risk into H2 \u2014 Berezin"
-    ],
-    "dominant_themes": [
-      "Fiscal sustainability and long-duration bond risk",
-      "AI infrastructure dominance vs. AI valuation risk",
-      "3Ps peaking / defensive rotation signals"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "bearish"
+    "sell_side_sentiment": "mixed"
   },
   "week": {
     "period_start": "2026-09-21",
     "period_end": "2026-09-28",
     "entries_count": 77,
-    "buy_side_bullets": [
-      "Bond yields are a systemic risk \u2014 next recession triggers fiscal crisis; 30Y MTM losses >50%; ad-hoc interventions cannot sustainably cap rates. [Marks, Gundlach, Druckenmiller]",
-      "AI earnings bubble risk rising \u2014 'build-out fever will end'; Druckenmiller cut AI position to 20% of prior size; narrative-driven bubbles historically precede economic downturns. [Druckenmiller]",
-      "Gold to sharply outperform Nasdaq over 3-5 years \u2014 US fiscal deterioration makes hard assets essential vs. richly-valued equities. [Einhorn]",
-      "Capital wars risk is rising \u2014 global political/financial tensions reaching new structural paradigm; 1-2% GDP drag from policy escalation. [Dalio]",
-      "Market complacency is a tradeable opportunity \u2014 new asymmetric derivatives fund targeting prevailing narrative bets. [Ackman]"
-    ],
-    "sell_side_bullets": [
-      "3Ps (positioning, profits, policy) all peaking simultaneously; 'run it hot' era is definitively over; rotate to quality, value, yield. [Hartnett]",
-      "Double-digit inflation structurally ahead \u2014 fiscal dominance replaced Ice Age; tech at 37% of US market exceeding dot-com peak; consumer tapped out. [Edwards]",
-      "US recession probability at 40% \u2014 Iran war oil shock reversed prior progress; Europe/Japan at 50% recession risk; H2 broad selloff risk. [Berezin]",
-      "Higher for longer through 2027 \u2014 AI buildout prevents hard landing but above-target inflation constrains rate cuts. [Slok]",
-      "Economy approaching 'stall speed' \u2014 underlying job growth only 39K/month; Fed to pause Jan 2027 then cut in March. [Hatzius]"
-    ],
-    "whats_new": [
-      "Druckenmiller publicly broke with Bessent over bond buybacks \u2014 first public policy split between former allies; calls program 'spending the credibility of the Treasury market'",
-      "Gundlach explicitly frames next recession as triggering a 'fiscal crisis' \u2014 escalation beyond prior rate views",
-      "Hartnett's '3Ps peaking' is the most concentrated concurrent bearish signal in over a year",
-      "Einhorn's gold > Nasdaq over 3-5 years is his highest-conviction macro call, replacing prior equity-focused views",
-      "Edwards declares Ice Age permanently replaced by fiscal dominance \u2014 a major paradigm shift"
-    ],
-    "vs_market_buy": [
-      "Druckenmiller bearish on AI while market priced for continued buildout \u2014 cut position to 20% of prior size",
-      "Gundlach sees 30Y approaching 5.25% as insufficient given fiscal crisis potential",
-      "Einhorn's gold vs. Nasdaq call contrarian to consensus long-tech positioning",
-      "Dalio's 'capital wars' framing suggests geopolitical risk is more structural than market prices imply"
-    ],
-    "vs_market_sell": [
-      "Hartnett more bearish than consensus \u2014 3Ps peaking concurrently is historically rare and market has not priced the rotation",
-      "Edwards double-digit inflation call vs. market pricing ~3-4% long run",
-      "Berezin's 40% US recession odds higher than consensus (~25%) given Iran shock",
-      "Hatzius 'stall speed' framing more cautious than Goldman's own prior outlook"
-    ],
-    "buy_vs_sell_divergence": [
-      "Bessent (pro-intervention): bond buybacks suppress yields and support economy vs. Druckenmiller, Gundlach (anti-intervention): buybacks destroy Treasury credibility and delay inevitable fiscal reckoning",
-      "Tepper bullish on AI infrastructure stocks vs. Druckenmiller and Edwards warning AI is in an earnings/valuation bubble",
-      "Ackman: AI breaks traditional inflation transmission, making rate hikes counterproductive vs. Slok/Reid: inflation is structural and rate hikes are necessary and correct"
-    ],
-    "aligned": [
-      "Bond yields elevated and skewed higher \u2014 unanimous consensus that rate risk is asymmetric to upside (Marks, Gundlach, Druckenmiller, Reid, Edwards, Sonders)",
-      "US fiscal deficit is the dominant long-term macro risk \u2014 buy and sell side consensus",
-      "AI investment is delaying economic slowdown even as it creates valuation risk \u2014 both sides agree on the counter-cyclical AI capex dynamic",
-      "Geopolitical oil shock (Iran) is a genuine macro headwind \u2014 buy and sell side consensus on stagflation risk"
-    ],
-    "buy_side_trades": [
-      "Long memory chips (Micron, Samsung, SK Hynix) \u2014 Tepper",
-      "Long gold vs. short Nasdaq \u2014 Einhorn highest conviction",
-      "Short US dollar \u2014 Druckenmiller",
-      "Long biotech, EM Latin America, commodity cyclicals \u2014 Druckenmiller",
-      "Long CoreWeave (CRWV), AMZN, TSM, GOOGL \u2014 Tepper"
-    ],
-    "sell_side_trades": [
-      "Rotate into defensives, quality, value, yield from growth/tech \u2014 Hartnett",
-      "Short US tech, short long-duration bonds \u2014 Edwards",
-      "Reduce US equities into H2 weakness; rotate tech to non-tech \u2014 Berezin",
-      "Cut S&P 500 year-end target to 7,900 from 8,400 \u2014 Yardeni",
-      "Short euro area assets; selective long oil/commodities \u2014 Jim Reid"
-    ],
-    "dominant_themes": [
-      "Fiscal sustainability and long-duration bond risk",
-      "AI infrastructure boom vs. AI valuation bubble risk",
-      "Iran war oil shock driving stagflation and recession probability"
-    ],
-    "buy_side_sentiment": "bearish",
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "month": {
     "period_start": "2026-08-29",
     "period_end": "2026-09-28",
     "entries_count": 317,
-    "buy_side_bullets": [
-      "US fiscal trajectory is the dominant macro risk \u2014 bond yields will stay elevated; next recession triggers fiscal crisis; credibility of Treasury market is being spent. [Marks, Gundlach, Druckenmiller, Einhorn]",
-      "AI infrastructure dominates portfolio positioning \u2014 memory chips, AI cloud, data center energy as primary multi-year themes. [Tepper, Ackman]",
-      "Gold to outperform Nasdaq 3-5 years; capital wars escalating; hard assets essential in fiscal dominance environment. [Einhorn, Dalio]",
-      "AI earnings bubble risk \u2014 'build-out fever will end'; narrative-driven bubbles historically precede severe economic outcomes; cutting AI exposure. [Druckenmiller]",
-      "Capital wars rising \u2014 geopolitical/financial tensions reaching structural paradigm; policy-induced recession risk with 1-2% GDP drag. [Dalio shift]"
-    ],
-    "sell_side_bullets": [
-      "Inflation is structural and persistent \u2014 fiscal dominance, oil shock, sticky core CPI all converge; higher for longer through 2027. [Edwards, Slok, Reid, Hartnett]",
-      "3Ps (positioning, profits, policy) all peaking simultaneously \u2014 most bearish concurrent signal in years; defensive rotation underway. [Hartnett]",
-      "US recession probability at 40%; 'Aging Bull' vulnerable to H2 broad selloff; Iran oil shock pushed Europe/Japan to 50% recession risk. [Berezin]",
-      "Economy approaching stall speed \u2014 underlying job growth 39K/month; Fed to cut in 2027 after January pause. [Hatzius]",
-      "Tech at dot-com concentration levels (37% of S&P) while underlying consumer is tapped out \u2014 mismatch between sentiment and economic reality. [Edwards]"
-    ],
-    "whats_new": [
-      "Druckenmiller-Bessent public split on bond buybacks \u2014 former allies now openly opposed on fiscal management",
-      "Hartnett's 3Ps peaking concurrently \u2014 first time since early 2025",
-      "Edwards declaring Ice Age permanently over, replaced by fiscal dominance \u2014 decades-long thesis revised",
-      "Gundlach 'fiscal crisis in next recession' \u2014 escalation from prior rate hawkishness",
-      "Hatzius 'stall speed' \u2014 more cautious than Goldman's prior outlook; 39K underlying job growth metric"
-    ],
-    "vs_market_buy": [
-      "Druckenmiller cut AI position to 20% of prior size \u2014 contrarian to market consensus long-AI",
-      "Einhorn gold > Nasdaq contrarian to consensus long-tech positioning",
-      "Gundlach more hawkish than consensus \u2014 fiscal crisis framing implies no rate cuts even in downturn",
-      "Dalio's capital wars structural framing contrarian to market's episodic geopolitical risk pricing"
-    ],
-    "vs_market_sell": [
-      "Hartnett rotating defensively while market consensus remains constructive on equities",
-      "Edwards double-digit inflation call 3-4x above market long-run pricing",
-      "Berezin 40% recession odds vs. sell-side consensus ~25%",
-      "Slok higher-for-longer-to-2027 above consensus which prices cuts starting 2026"
-    ],
-    "buy_vs_sell_divergence": [
-      "Bessent bullish economy (3% GDP target, K-shape ending) vs. Hatzius/Berezin bearish (stall speed, 40% recession odds)",
-      "Tepper/Ackman bullish AI infrastructure stocks vs. Hartnett/Edwards warning of peak positioning and dot-com concentration",
-      "Ackman: AI breaks inflation transmission, rate hikes counterproductive vs. Slok/Reid: inflation structural, hikes necessary"
-    ],
-    "aligned": [
-      "Bond yields elevated and rising \u2014 unanimous that long-duration risk is asymmetric to upside across buy and sell side",
-      "Fiscal deficit is existential long-term macro risk \u2014 deepest consensus across all participants",
-      "AI investment is delaying hard landing via counter-cyclical capex \u2014 both sides agree on the dynamic even if valuation views differ",
-      "Geopolitical oil shock (Iran/Hormuz) is genuine macro headwind driving stagflation risk \u2014 buy and sell side consensus"
-    ],
-    "buy_side_trades": [
-      "Long gold vs. short Nasdaq \u2014 Einhorn highest conviction call",
-      "Long memory chips (Micron, Samsung, SK Hynix), CoreWeave \u2014 Tepper",
-      "Short US dollar \u2014 Druckenmiller",
-      "Long biotech, EM Latin America, commodity cyclicals \u2014 Druckenmiller",
-      "Asymmetric derivatives fund targeting market complacency \u2014 Ackman"
-    ],
-    "sell_side_trades": [
-      "Rotate into defensives, quality, value, yield from growth/tech \u2014 Hartnett",
-      "Short US tech, short long-duration bonds \u2014 Edwards",
-      "Reduce US equities into H2; rotate tech to non-tech \u2014 Berezin",
-      "Short euro area assets; long selective oil/commodities \u2014 Reid",
-      "S&P 500 target at 7,900 \u2014 Yardeni (cut from 8,400)"
-    ],
-    "dominant_themes": [
-      "Fiscal sustainability and long-duration bond yield risk",
-      "AI infrastructure boom vs. AI valuation and earnings bubble risk",
-      "Iran war oil shock driving inflation, stagflation, and recession probability"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   }
 }
