@@ -4,176 +4,50 @@
     "date": "2026-09-29",
     "entries_count": 2,
     "buy_side_bullets": [],
-    "sell_side_bullets": [
-      "10-year Treasury yield rise 'justified by fundamentals' \u2014 orderly repricing driven by resilient economy and Fed tightening expectations, not term-premium panic. [Sonders shift]",
-      "'Every bubble pops' \u2014 AI-driven market is an explicit bubble driven by investor behavior; strip out AI capex and the broader economy is already in serious deterioration. [Rosenberg shift]",
-      "Labor market loosening has strong AI-related element \u2014 threatens consumer spending powering 70%+ of GDP. [Rosenberg]"
-    ],
-    "whats_new": [
-      "Sonders pivots from 'bond market is a source of risk to equities' to 'yield rise justified by fundamentals' \u2014 more constructive yield normalization framing. [Sonders shift]",
-      "Rosenberg upgrades language from 'bubble risk' to explicitly calling the market a bubble \u2014 new conviction language. [Rosenberg shift]"
-    ],
+    "sell_side_bullets": [],
+    "whats_new": [],
     "vs_market_buy": [],
-    "vs_market_sell": [
-      "Sonders' 'orderly, justified' yield characterization more constructive than bond-bear consensus narrative. [Sonders]",
-      "Rosenberg's AI bubble call puts him against consensus AI-bull case; sees economy already deteriorating beneath AI headline. [Rosenberg]"
-    ],
+    "vs_market_sell": [],
     "buy_vs_sell_divergence": [],
-    "aligned": [
-      "10-year Treasury at structurally elevated levels \u2014 yield rise is significant and consequential for risk assets"
-    ],
+    "aligned": [],
     "buy_side_trades": [],
-    "sell_side_trades": [
-      "Favor quality/defensive equities as rate headwinds from elevated Treasury yields persist. [Sonders]",
-      "Avoid concentrated AI/tech exposure; long bonds on eventual recession/disinflation outcome via ROSY-style positioning. [Rosenberg]"
-    ],
-    "dominant_themes": [
-      "AI bubble \u2014 investor behavior vs. technology reality",
-      "Treasury yield normalization vs. systemic risk",
-      "Labor market deterioration threatening consumer-led GDP"
-    ],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "bearish"
+    "sell_side_sentiment": "mixed"
   },
   "week": {
     "period_start": "2026-09-22",
     "period_end": "2026-09-29",
     "entries_count": 70,
-    "buy_side_bullets": [
-      "AI earnings bubble risk rising \u2014 AI positions cut to 20% of prior size; narrative-driven bubbles identified as greatest market tail risk. [Druckenmiller]",
-      "Treasury market credibility at stake \u2014 Treasury buybacks risk 'the one asset that took two centuries to build'; US monetary conditions not genuinely restrictive. [Druckenmiller]",
-      "Gold set to substantially outperform Nasdaq over next 12 months \u2014 most expensive equity market in history; SpaceX $1.75T IPO a potential major speculative top. [Einhorn]",
-      "Three converging threats: policy-induced recession, eroding foreign confidence in US assets, AI arms race creating imbalances. [Dalio]",
-      "AI has broken monetary policy transmission \u2014 AI capex race toward 'super intelligence' won't respond to rate hikes. [Ackman evolving]"
-    ],
-    "sell_side_bullets": [
-      "All 3Ps (positioning, profits, policy) simultaneously peaking \u2014 most concentrated negative market signal in over a year; Fed 'run it hot' era definitively over. [Hartnett]",
-      "Diesel up 83% YTD to $6.50/gallon \u2014 unlike gasoline, it flows into core CPI as intermediate good; Fed likely underestimating inflation persistence from supply chains. [Slok evolving]",
-      "Next US recession will trigger a fiscal crisis \u2014 deficit could hit 12% of GDP with $3T/yr interest expense; Treasuries may lose safe-haven status. [Gundlach]",
-      "US recession probability at 40%; Iran oil shock reversed prior improvement; Europe/Japan at 50% recession risk from energy shock. [Berezin]",
-      "'Every bubble pops' \u2014 AI market is an explicit bubble driven by investor behavior; broader economy already deteriorating when AI capex excluded. [Rosenberg shift]"
-    ],
-    "whats_new": [
-      "Druckenmiller publishes WSJ op-ed attacking Bessent's Treasury buyback program \u2014 first public advocacy attack on Treasury management. [Druckenmiller shift]",
-      "Einhorn makes explicit 'bold prediction' that gold will outperform Nasdaq next 12 months. [Einhorn shift]",
-      "Gundlach escalates fiscal crisis warning to 'next recession ends Treasuries as safe haven' \u2014 upgraded from warning to conviction. [Gundlach evolving]",
-      "Rosenberg explicitly calls current market a bubble \u2014 prior language was more hedged around bubble risks. [Rosenberg shift]",
-      "Sonders pivots from 'bonds are a risk to equities' to 'yield rise is justified by fundamentals' \u2014 more constructive tone on rate normalization. [Sonders shift]"
-    ],
-    "vs_market_buy": [
-      "Treasury buybacks are damaging credibility, not supporting it \u2014 directly contradicts Bessent's bullish defense. [Druckenmiller]",
-      "Gold > Nasdaq next 12 months \u2014 against consensus technology/growth outperformance narrative. [Einhorn]",
-      "AI earnings bubble will pop \u2014 against AI-driven consensus bull case. [Druckenmiller, Burry]"
-    ],
-    "vs_market_sell": [
-      "AI 'near infinite ROI' justifies continued capex and higher equity valuations \u2014 Fed hike is the policy error. [Ackman]",
-      "Treasury yield rise is orderly and fundamentals-driven, not a crisis signal. [Sonders]",
-      "No recession through 2030 \u2014 AI productivity boom sustains growth well beyond consensus. [Yardeni]"
-    ],
-    "buy_vs_sell_divergence": [
-      "AI capex sustainability: Buy side increasingly bearish [Druckenmiller, Einhorn, Burry cutting AI] vs. sell side split [Slok, Ackman argue AI capex is inelastic and necessary]",
-      "Recession risk: Sell side more alarmed [Berezin 40%, Rosenberg bubble, Hatzius stall speed] vs. buy side Tepper/Bessent constructive on economy",
-      "Treasury market: Druckenmiller warns credibility eroding vs. Bessent defends interventions and Sonders calls yield rise fundamental"
-    ],
-    "aligned": [
-      "10-year Treasury yields at structurally elevated levels \u2014 all sides acknowledge yield rise is significant and consequential",
-      "Iran war oil shock is a material macro headwind \u2014 acknowledged across buy and sell side",
-      "AI spending is the dominant investment theme \u2014 near-universal acknowledgment even amid disagreement on sustainability",
-      "Fed September hike was broadly expected; debate is whether it was sufficient or excessive"
-    ],
-    "buy_side_trades": [
-      "Cut AI/tech; long biotech, EM Latin America, select commodity cyclicals. [Druckenmiller]",
-      "Long gold vs. Nasdaq; long value over growth. [Einhorn]",
-      "Long AI infrastructure (memory, cloud, semiconductor) while reducing software/consumer tech. [Tepper]",
-      "Short AI bubble names (Nvidia, Palantir, iShares Semiconductor ETF via puts). [Burry]"
-    ],
-    "sell_side_trades": [
-      "Rotate from growth/tech into quality, value, yield-oriented sectors \u2014 defensives over growth as 3Ps peak. [Hartnett]",
-      "Long short-duration; avoid long-duration bonds given fiscal crisis tail risk. [Gundlach]",
-      "Long oil/commodities on Iran supply disruption; avoid euro area assets on 0.5% growth. [Jim Reid]",
-      "Cut S&P 500 year-end target to 7,900 from 8,400; 6% yield threshold is key watch level. [Yardeni]",
-      "Defensive multi-asset positioning (ROSY-style, low beta) given bubble risk. [Rosenberg]"
-    ],
-    "dominant_themes": [
-      "AI bubble risk vs. AI productivity bull case",
-      "Inflation persistence from energy shock and fiscal dominance",
-      "Treasury/fiscal credibility deterioration and yield level risk"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   },
   "month": {
     "period_start": "2026-08-30",
     "period_end": "2026-09-29",
     "entries_count": 305,
-    "buy_side_bullets": [
-      "AI earnings bubble risk: positions being cut across buy side, narrative-driven bubbles identified as greatest tail risk \u2014 'I have never seen a really bad economic outcome without an asset bubble.' [Druckenmiller, Einhorn, Burry]",
-      "Fiscal and Treasury credibility crisis emerging: WSJ op-ed attack on Bessent's buybacks; next recession = fiscal crisis; dollar's reserve currency status at risk. [Druckenmiller, Gundlach, Marks]",
-      "Gold as primary macro hedge: outperform Nasdaq thesis, hedge against fiscal dominance, dollar debasement, and AI bubble unwind. [Einhorn, Dalio]",
-      "Three interlocking threats converging: policy-induced recession, eroding foreign confidence in US assets, AI arms race creating structural imbalances. [Dalio]",
-      "Capital preservation priority: highest equity valuations ever seen; closing Greenlight to new investors; broad-based defensive repositioning. [Einhorn, Marks]"
-    ],
-    "sell_side_bullets": [
-      "Positioning, profits, and policy all peaking simultaneously \u2014 most bearish concurrent signal in over a year; contrarian sell zone for BofA's Bull & Bear Indicator. [Hartnett]",
-      "Inflation structurally sticky with multiple drivers: diesel pass-through to core CPI, AI buildout energy demand, Middle East oil shock, fiscal dominance. [Slok, Edwards, Jim Reid, Napier]",
-      "Fiscal reckoning ahead: next recession triggers US debt crisis; budget deficit to 12% of GDP; Treasuries may lose safe-haven status; 15-20 year financial repression cycle beginning. [Gundlach, Napier]",
-      "US recession probability at 40%; Iran oil shock extending; Europe/Japan at 50% recession risk; 'Aging Bull' broad selloff risk in H2. [Berezin]",
-      "AI bubble: investor behavior (not technology) is the dangerous excess; broader economy already deteriorating when AI capex excluded; tech at 37% of US market exceeds dot-com peak. [Rosenberg, Edwards]"
-    ],
-    "whats_new": [
-      "Druckenmiller publishes WSJ op-ed attacking Bessent's Treasury buybacks \u2014 first public advocacy attack on fiscal management. [Druckenmiller shift]",
-      "Einhorn declares gold will substantially outperform Nasdaq \u2014 first explicit gold-over-stocks positioning statement in 2026. [Einhorn shift]",
-      "Gundlach warns next recession could end Treasuries' safe-haven status \u2014 upgraded from warning to conviction at NY event. [Gundlach evolving]",
-      "Howard Marks declares US fiscal problem is 'too big to fail' in scope \u2014 explicit shift from cautious to alarmed on fiscal trajectory. [Marks evolving]",
-      "Rosenberg explicitly calls current market a bubble \u2014 definitive upgrade in language. [Rosenberg shift]",
-      "Slok adds diesel price channel as new inflation argument \u2014 specific intermediate-goods transmission mechanism beyond previous 'sticky services' thesis. [Slok evolving]"
-    ],
-    "vs_market_buy": [
-      "Treasury buybacks eroding credibility \u2014 directly contradicts official narrative of intervention stabilizing markets. [Druckenmiller]",
-      "Gold > Nasdaq next 12 months \u2014 against consensus technology outperformance. [Einhorn]",
-      "AI earnings bubble will pop \u2014 against consensus AI-driven multiple expansion. [Druckenmiller, Burry, Einhorn]",
-      "Dollar at historic purchasing power peak \u2014 bearish on consensus dollar strength. [Druckenmiller, Dalio]"
-    ],
-    "vs_market_sell": [
-      "AI 'near infinite ROI' breaks monetary policy transmission \u2014 Fed hike is a policy error in AI-driven economy. [Ackman]",
-      "Treasury yield rise is orderly and fundamentals-driven, not signaling a crisis. [Sonders]",
-      "No recession through 2030 \u2014 AI productivity boom sustains growth cycle beyond consensus. [Yardeni]",
-      "Economy blockbuster strong \u2014 manufacturing investments and job growth justify optimism. [Bessent]"
-    ],
-    "buy_vs_sell_divergence": [
-      "AI capex sustainability: Buy side cutting [Druckenmiller, Einhorn, Burry] vs. sell side divided [Slok/Ackman argue inelastic demand; Hartnett/Edwards warn about bubble]",
-      "Recession timing: Sell side more alarmed near-term [Berezin 40%, Hatzius stall speed, Rosenberg bubble] vs. buy side Tepper/Bessent constructive through cycle",
-      "Treasury market health: Druckenmiller/Marks warn credibility erosion vs. Bessent defends interventions and Sonders calls yield rise orderly",
-      "Inflation trajectory: Edwards/Slok/Napier see structural inflation floor at 4-5% vs. Rosenberg/Hatzius see disinflation return toward target"
-    ],
-    "aligned": [
-      "Geopolitical oil shock (Iran war) is a material, sustained macro headwind \u2014 acknowledged by virtually all participants",
-      "AI spending is the dominant investment theme regardless of whether bull or bear on sustainability",
-      "10-year Treasury yields at structurally higher level for longer \u2014 not a transient move",
-      "Fiscal deficits are unsustainably large at cycle peak \u2014 disagreement is on timing of consequences, not the diagnosis",
-      "Fed September hike was broadly supported as appropriate given inflation persistence"
-    ],
-    "buy_side_trades": [
-      "Cut AI/tech; long biotech, EM Latin America, commodity cyclicals; short dollar. [Druckenmiller]",
-      "Long gold vs. Nasdaq; explicit gold > stocks positioning; short SpaceX and tech overvaluation. [Einhorn]",
-      "Long AI infrastructure hardware (memory, cloud, semiconductors); maintain 40% cash for macro optionality. [Tepper]",
-      "New puts on Micron, Nebius, iShares Semiconductor ETF, Palantir \u2014 'meaningful size' shorts. [Burry]",
-      "Long private credit in higher-rate environment; AI infrastructure exposure. [Slok as Apollo investor]"
-    ],
-    "sell_side_trades": [
-      "Rotate from growth/tech into quality, value, yield \u2014 defensives over growth as all 3Ps peak. [Hartnett]",
-      "Long short-duration; avoid long-duration bonds on fiscal crisis tail; avoid 30-year Treasury. [Gundlach]",
-      "Long oil/commodities on Iran supply disruption; short euro area assets on growth downgrade. [Jim Reid, Berezin]",
-      "Cut S&P 500 target to 7,900; watch 6% yield as key caution threshold. [Yardeni]",
-      "Long financial repression assets (real assets, TIPS, non-dollar denominated bonds). [Napier, Edwards]",
-      "Defensive multi-asset positioning: low beta, high Sharpe diversification via ROSY-style portfolio. [Rosenberg]"
-    ],
-    "dominant_themes": [
-      "AI bubble risk vs. AI productivity bull case \u2014 the defining market debate of 2026",
-      "Structural inflation and fiscal dominance \u2014 inflation floor raised for a generation",
-      "Geopolitical oil shock (Iran) accelerating macro deterioration globally"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   }
 }
