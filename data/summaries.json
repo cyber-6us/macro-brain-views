@@ -1,53 +1,174 @@
 {
-  "generated_at": "2026-09-29",
+  "generated_at": "2026-09-30",
   "today": {
-    "date": "2026-09-29",
-    "entries_count": 2,
+    "date": "2026-09-30",
+    "entries_count": 1,
     "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
+    "sell_side_bullets": [
+      "Labor market fragility and consumer spending (68% of GDP) identified as 2026 recession triggers; 25% recession probability, S&P 500 to 6,500 with further 20% downside risk. [Bannister]"
+    ],
+    "whats_new": [
+      "Bannister shifts focus to labor-market and consumer-spending fragility as recession triggers \u2014 adds specificity beyond the dot-com Groundhog Day timing call. [Bannister shift]"
+    ],
     "vs_market_buy": [],
-    "vs_market_sell": [],
+    "vs_market_sell": [
+      "Market pricing implicitly assumes AI capex offsets consumer weakness; Bannister explicitly rejects this \u2014 consumer is 'too large to be offset by AI capex.' [Bannister]"
+    ],
     "buy_vs_sell_divergence": [],
     "aligned": [],
     "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "sell_side_trades": [
+      "Long Defensive Value vs. short Cyclical Growth / Mag7",
+      "Underweight AI capex plays given consumer spending fragility"
+    ],
+    "dominant_themes": [
+      "Labor market fragility",
+      "Consumer spending risk",
+      "Valuation compression"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "bearish"
   },
   "week": {
-    "period_start": "2026-09-22",
-    "period_end": "2026-09-29",
-    "entries_count": 70,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
+    "period_start": "2026-09-23",
+    "period_end": "2026-09-30",
+    "entries_count": 64,
+    "buy_side_bullets": [
+      "Fed's September rate hike to 4.0% called a mistake \u2014 AI rewrites inflation dynamics and tightening now risks demand destruction. [Ackman, Gundlach]",
+      "AI earnings bubble risk mounting; cut AI exposure 80%, rotate into biotech/EM/commodity cyclicals, short USD. [Druckenmiller]",
+      "US fiscal trajectory a 'perfect storm' \u2014 debt crisis, eroding foreign confidence, AI arms race converging. [Dalio, Marks, Gundlach]",
+      "Gold will substantially outperform Nasdaq over 3\u20135 years; SpaceX IPO marks speculative market top. [Einhorn]",
+      "AI infrastructure bull intact: Appaloosa 32% H1, long memory/hyperscalers/power-demand; economy still expanding. [Tepper]"
+    ],
+    "sell_side_bullets": [
+      "Positioning, profits, and policy all 'becoming less supportive simultaneously' \u2014 post-peak risk asset environment. [Hartnett]",
+      "US economy at 'stall speed': job growth trending 39K/month vs. 180K in 2019; labor market deterioration accelerating. [Hatzius]",
+      "Double-digit inflation structural reality; AI doomsday 'already here now, not 2028'; fiscal dominance regime entrenched. [Edwards]",
+      "S&P 500 target cut to 7,900; bond yield surge reshaping risk/reward even as Roaring 2020s base case holds. [Yardeni shift]",
+      "US recession probability 40%; oil shock from Iran conflict reverted prior progress; second-half 2026 broad-based selloff risk. [Berezin]",
+      "Labor tenuous, consumer (68% of GDP) too large to be offset by AI capex; S&P 500 faces 6,500 in recession with 20% further downside. [Bannister]"
+    ],
+    "whats_new": [
+      "Druckenmiller breaks from recent caution to directly attack Treasury Secretary Bessent in a WSJ op-ed \u2014 unusual public confrontation. [Druckenmiller shift]",
+      "Hatzius coins 'stall speed' language for US labor market \u2014 significant tonal downgrade from prior 'sturdy growth' framework. [Hatzius shift]",
+      "Yardeni reduces S&P 500 target to 7,900 from 8,400 \u2014 first meaningful concession to bond yield headwinds. [Yardeni shift]",
+      "Ackman publicly opposes Fed rate hike via social media \u2014 argues AI fundamentally rewrites the central bank's inflation playbook. [Ackman]",
+      "Bannister adds labor-market fragility and consumer-spending vulnerability as explicit recession triggers. [Bannister shift]"
+    ],
+    "vs_market_buy": [
+      "Buy-side broadly bearish on US fiscal trajectory despite market still pricing Treasury function as intact. [Druckenmiller, Dalio, Marks, Gundlach]",
+      "Einhorn's gold-over-Nasdaq call runs counter to equity-overweight consensus; SpaceX IPO framed as speculative top. [Einhorn]"
+    ],
+    "vs_market_sell": [
+      "Edwards argues AI doomsday is happening now, not in 2028 \u2014 markets pricing 2-year delay to structural breakdown. [Edwards]",
+      "Hartnett's 3Ps framework says all three market supports have peaked simultaneously \u2014 market has not priced this convergence. [Hartnett]",
+      "Berezin's two-stage 2026 view (H1 rotation \u2192 H2 selloff) suggests post-tariff rally is a bear trap. [Berezin]"
+    ],
+    "buy_vs_sell_divergence": [
+      "Tepper/Bessent (bullish on AI infrastructure, economy expanding) vs. Druckenmiller/Dalio/Einhorn/Gundlach (structural bears on AI bubble, fiscal crisis)",
+      "Ackman (Fed hike a mistake, AI rewrites inflation) vs. Gundlach/Edwards (Fed should have hiked MORE; structural inflation far from over)",
+      "Yardeni (Roaring 2020s intact despite target cut) vs. Hartnett/Berezin (post-peak risk, second-half selloff)"
+    ],
+    "aligned": [
+      "Bond yields elevated and pose material risk to equity valuations \u2014 near-universal agreement. [Marks, Gundlach, Sonders, Hatzius, Yardeni, Bannister, Hartnett]",
+      "AI asset prices are stretched relative to earnings delivery; bubble risk acknowledged even by AI bulls. [Druckenmiller, Einhorn, Edwards, Bannister, Rosenberg]",
+      "US fiscal trajectory is unsustainable and represents a tail risk for fixed income and the dollar. [Dalio, Marks, Gundlach, Reid, Edwards]"
+    ],
+    "buy_side_trades": [
+      "Avoid long-duration Treasuries \u2014 yield ceiling is not credible without fiscal reform",
+      "Cautious on richly-valued AI equities relative to transformation timeline",
+      "Long low-duration bonds; avoid long-duration Treasuries",
+      "30% non-US equities, 20% real assets, 30% high-quality bonds, 20% cash framework",
+      "Long memory chips: Micron, Samsung, SK Hynix",
+      "Long AMZN, TSM, GOOGL, UBER, CoreWeave"
+    ],
+    "sell_side_trades": [
+      "Long Defensive Value vs. short Cyclical Growth / Mag7",
+      "Underweight AI capex plays given consumer spending fragility",
+      "Favor quality/defensive equities as rate headwinds persist",
+      "Watch 10-year yield for inflection \u2014 current level not alarming, but trajectory matters",
+      "Defensive positioning via ROSY ETF structure (low beta, diversified across asset classes)",
+      "Avoid concentrated AI/tech exposure \u2014 bubble unwind risk when AI capex cycle turns"
+    ],
+    "dominant_themes": [
+      "Fed policy error risk \u2014 September rate hike contested",
+      "AI bubble vs. AI infrastructure divergence",
+      "Fiscal/debt crisis and bond yield trajectory"
+    ],
+    "buy_side_sentiment": "bearish",
     "sell_side_sentiment": "mixed"
   },
   "month": {
-    "period_start": "2026-08-30",
-    "period_end": "2026-09-29",
-    "entries_count": 305,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "period_start": "2026-08-31",
+    "period_end": "2026-09-30",
+    "entries_count": 301,
+    "buy_side_bullets": [
+      "AI earnings bubble risk: Druckenmiller cut AI position 80%, rotates into biotech/EM/commodities; warns 'narrative-driven bubbles' historically precede severe economic outcomes. [Druckenmiller]",
+      "US fiscal crisis is the dominant tail risk: 10-year at 5%, debt/GDP unsustainable; foreign confidence in US assets eroding \u2014 gold as hedge. [Dalio, Gundlach, Einhorn, Marks]",
+      "AI infrastructure investment cycle real and self-reinforcing: long hyperscalers (AMZN, GOOGL, META), power demand (Vistra, NRG), memory (MU, TSM). [Tepper]",
+      "Dollar bearish consensus building on buy-side: at top of historic purchasing power range, foreigners overloaded. [Druckenmiller, Bass]",
+      "Bond market warning signs: Gundlach recommends avoiding long-dated bonds globally; fiscal crisis in next recession. [Gundlach]"
+    ],
+    "sell_side_bullets": [
+      "Labor market deterioration underway: US job growth collapsing toward 'stall speed' (39K/month); deceleration is masked by supply-side effects. [Hatzius, Bannister, Sonders]",
+      "Post-peak risk environment: positioning, profits, and policy all 'becoming less supportive simultaneously'. [Hartnett, Berezin]",
+      "Inflation structural: double-digit inflation coming per Edwards; stagflation (3% inflation + slowing growth) per Slok; higher-for-longer extends through 2027. [Edwards, Slok, Gundlach]",
+      "S&P 500 target cuts: Yardeni to 7,900 (from 8,400); Bannister range 6,500-7,500; Berezin sees second-half 2026 broad-based selloff. [Yardeni evolving, Bannister, Berezin]",
+      "AI doomsday 'already unfolding' per Edwards; Rosenberg calls it an AI bubble; Hartnett flags dot-com-era breadth narrowing. [Edwards, Rosenberg, Hartnett]"
+    ],
+    "whats_new": [
+      "Fed September rate hike to 4.0% \u2014 multiple investors publicly calling it a policy error in real-time. [Ackman, Gundlach, Druckenmiller]",
+      "Druckenmiller attacks Bessent publicly in WSJ op-ed \u2014 extraordinary confrontation between legendary macro investor and sitting Treasury Secretary. [Druckenmiller shift]",
+      "Hatzius 'stall speed' call \u2014 Goldman's chief economist formally downgrades labor market outlook. [Hatzius shift]",
+      "Einhorn's gold-over-Nasdaq call and SpaceX IPO speculative top warning \u2014 most contrarian long-term call from a major manager in months. [Einhorn]",
+      "Gundlach warns next recession triggers full fiscal crisis \u2014 explicit escalation of his deficit concern into a systemic scenario. [Gundlach evolving]"
+    ],
+    "vs_market_buy": [
+      "Buy-side broadly contra market on USD: dollar consensus long while buy-side builds short via portfolio construction. [Druckenmiller, Bass, Dalio]",
+      "Long-dated Treasury bearishness cuts across buy and sell side despite market still holding Treasury as safe haven. [Gundlach, Marks, Dalio, Edwards]"
+    ],
+    "vs_market_sell": [
+      "Edwards' 'AI doomsday already here' vs. market pricing multi-year AI investment cycle still in early innings. [Edwards]",
+      "Berezin's second-half 2026 broad selloff vs. consensus expecting soft landing / range-bound equities. [Berezin]",
+      "Hartnett's '3Ps all peaked' framework vs. market breadth appearing to recover post-tariff. [Hartnett]"
+    ],
+    "buy_vs_sell_divergence": [
+      "Tepper/Bessent (AI infrastructure cycle intact, economy expanding) vs. Druckenmiller/Einhorn/Dalio (bubble forming, structural fragility, fiscal crisis risk)",
+      "Ackman/Bessent (optimistic on deregulation and rate-cut prospects) vs. Gundlach/Edwards/Slok (structural inflation, higher for longer, fiscal dominance)",
+      "Oaktree/Marks (credit mispricings create selective opportunity) vs. Berezin (second-half broad selloff, defensive positioning warranted)"
+    ],
+    "aligned": [
+      "Long-dated government bonds to be avoided \u2014 consensus across buy and sell side that duration is a value trap. [Gundlach, Marks, Dalio, Reid, Edwards, Hatzius]",
+      "AI asset prices are stretched; valuation risk acknowledged even by structural AI bulls. [Druckenmiller, Einhorn, Edwards, Hartnett, Bannister, Rosenberg]",
+      "US fiscal trajectory requires eventual resolution \u2014 deficit sustainability concerns unify otherwise opposing camps. [Dalio, Marks, Gundlach, Druckenmiller, Edwards, Hatzius, Mauldin]",
+      "Dollar headwinds building on a 3-5 year view; reserve currency status provides buffer but does not negate structural trend. [Druckenmiller, Dalio, Bass, Marks]"
+    ],
+    "buy_side_trades": [
+      "Avoid long-duration Treasuries \u2014 yield ceiling is not credible without fiscal reform",
+      "Cautious on richly-valued AI equities relative to transformation timeline",
+      "Long low-duration bonds; avoid long-duration Treasuries",
+      "30% non-US equities, 20% real assets, 30% high-quality bonds, 20% cash framework",
+      "Long memory chips: Micron, Samsung, SK Hynix",
+      "Long AMZN, TSM, GOOGL, UBER, CoreWeave",
+      "Exited MSFT, PDD, KWEB",
+      "Implicitly short US fiscal credibility via positioning \u2014 avoid long-duration Treasuries"
+    ],
+    "sell_side_trades": [
+      "Long Defensive Value vs. short Cyclical Growth / Mag7",
+      "Underweight AI capex plays given consumer spending fragility",
+      "Favor quality/defensive equities as rate headwinds persist",
+      "Watch 10-year yield for inflection \u2014 current level not alarming, but trajectory matters",
+      "Defensive positioning via ROSY ETF structure (low beta, diversified across asset classes)",
+      "Avoid concentrated AI/tech exposure \u2014 bubble unwind risk when AI capex cycle turns",
+      "Long bonds on eventual recession/disinflation outcome",
+      "Short euro area assets on growth downgrade"
+    ],
+    "dominant_themes": [
+      "AI bubble vs. AI infrastructure divergence \u2014 the defining debate of 2026",
+      "US fiscal and debt crisis risk \u2014 bond yields and dollar trajectory",
+      "Labor market deterioration and consumer fragility as recession triggers"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "bearish"
   }
 }
