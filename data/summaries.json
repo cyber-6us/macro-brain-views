@@ -1,52 +1,209 @@
 {
-  "generated_at": "2026-09-30",
+  "generated_at": "2026-10-01",
   "today": {
-    "date": "2026-09-30",
-    "entries_count": 1,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "date": "2026-10-01",
+    "entries_count": 9,
+    "buy_side_bullets": [
+      "Hard landing 'inevitable' \u2014 indicators amber, more economic shoes to drop. [Druckenmiller]",
+      "Market feels 'exactly like October 1999' \u2014 blow-off top setup in place, plan your exit. [Tudor Jones]",
+      "Confirmed short on Nvidia via regulatory filings \u2014 AI bubble thesis now centered on NVDA. [Burry]",
+      "Fed will abandon 2% inflation target, shift to 2.5-3%; 5.5% fair value for 30Y Treasury. [Ackman]",
+      "Long gold (biggest move yet ahead), long Treasuries, long copper; short yen. [Druckenmiller]"
+    ],
+    "sell_side_bullets": [
+      "Bull & Bear at 9.7 \u2014 17th sell signal; biggest tech outflow since June; bullish positioning entrenched. [Hartnett]",
+      "S&P 500 target trimmed to 7,700; 'Roaring 2020s' intact but Bond Vigilantes threatening Japan/UK. [Yardeni]",
+      "S&P 500 12-month target 7,800; software > semis, small > large caps, financials/industrials top picks. [Wilson]",
+      "2.6% US GDP growth, top of Wall Street; Fed cuts 50bp to 3.0-3.25%; K-shaped labor market persists. [Hatzius]",
+      "'Bear Market Within a Bull Market' \u2014 AI-driven firms rate-insensitive; traditional sectors in stealth bear. [Visser]"
+    ],
+    "whats_new": [
+      "Burry adds Nvidia short \u2014 new centerpiece beyond existing Micron/Semi ETF/Palantir positions. [Burry]",
+      "Tudor Jones '1999 analogy' \u2014 first explicit blow-off top framing this cycle. [Tudor Jones]",
+      "Hartnett Bull & Bear reaches 9.7 with 17th sell signal \u2014 new cycle extreme. [Hartnett]",
+      "Ackman initiates Microsoft long alongside maintained short-bond position. [Ackman]",
+      "Yardeni trims S&P target to 7,700 from 7,900 despite intact Roaring 2020s thesis. [Yardeni]"
+    ],
+    "vs_market_buy": [
+      "Druckenmiller: 'hard landing inevitable' contradicts consensus soft landing narrative",
+      "Tudor Jones: 'no chance' of Fed rate cuts vs. market pricing for easing",
+      "Burry: broad AI short complex vs. market still pricing AI infrastructure boom"
+    ],
+    "vs_market_sell": [
+      "Hartnett: 17th sell signal while market at extreme bullish positioning \u2014 contrarian vs. consensus",
+      "Visser: stealth bear in rate-sensitive sectors masked by AI headline index performance"
+    ],
+    "buy_vs_sell_divergence": [
+      "Druckenmiller (hard landing bearish) vs. Hatzius (2.6% US GDP bullish) \u2014 opposing macro outlooks",
+      "Ackman/Jones (blow-off then crash) vs. Yardeni/Wilson (constructive multi-year bull)",
+      "Burry (short AI ecosystem) vs. Wilson (long AI monetization rotation to software)"
+    ],
+    "aligned": [
+      "AI monetization rotating from infrastructure to software application layer. [Visser, Wilson]",
+      "Bond yields structurally elevated, pressuring equity multiples. [Ackman, Yardeni, Hartnett]",
+      "K-shaped economy: AI capex benefits large firms disproportionately. [Hatzius, Visser, Wilson]"
+    ],
+    "buy_side_trades": [
+      "Long gold \u2014 de-dollarization + central bank demand. [Druckenmiller]",
+      "Long US Treasuries \u2014 hard landing play. [Druckenmiller]",
+      "Long copper. [Druckenmiller]",
+      "Short yen. [Druckenmiller]",
+      "Tactical long equities, exit plan ready (1999 blow-off). [Tudor Jones]",
+      "Short Nvidia, Micron, iShares Semi ETF, Palantir 2027 puts. [Burry]",
+      "Short long-duration Treasuries; Long Microsoft. [Ackman]"
+    ],
+    "sell_side_trades": [
+      "Long commodities over stocks (multi-year). [Hartnett]",
+      "Long international equities over US mega-caps. [Hartnett]",
+      "Long debasement hedges (gold, real assets). [Hartnett]",
+      "Overweight financials, industrials, healthcare; software > semis; small > large caps. [Wilson]",
+      "Long AI-driven debt-free companies; underweight rate-sensitive traditional sectors. [Visser]"
+    ],
+    "dominant_themes": [
+      "AI bubble tension: bull market leadership vs. mounting short interest",
+      "Rate environment: higher-for-longer vs. Fed cuts driving sector rotation",
+      "Hard landing vs. soft landing: opposing macro outlooks splitting buy/sell side"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "bullish"
   },
   "week": {
-    "period_start": "2026-09-23",
-    "period_end": "2026-09-30",
-    "entries_count": 64,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "period_start": "2026-09-24",
+    "period_end": "2026-10-01",
+    "entries_count": 60,
+    "buy_side_bullets": [
+      "Hard landing 'inevitable,' market indicators amber \u2014 long gold, Treasuries, copper; short yen. [Druckenmiller]",
+      "Market is '1999' \u2014 blow-off top coming then 'really, really bad end'; no Fed cuts possible. [Tudor Jones]",
+      "Nvidia added to growing AI short complex; markets 'fragile' at dot-com valuations. [Burry]",
+      "Fed to abandon 2% target, rates stay high; 30Y at 5.5% fair value; long Microsoft. [Ackman]",
+      "WSJ op-ed attacks Treasury buybacks as spending two centuries of Fed credibility. [Druckenmiller]",
+      "Capital wars escalating; domestic policy regimes driving fiscal dominance globally. [Dalio]"
+    ],
+    "sell_side_bullets": [
+      "3Ps (positioning, profits, policy) all peaking simultaneously \u2014 most bearish concurrent signal in years. [Hartnett]",
+      "Bull & Bear hits 17th sell signal at 9.7; next 5 years belong to commodities, not stocks. [Hartnett]",
+      "S&P targets 7,700-7,900 range; Roaring 2020s intact but Bond Vigilantes are the key risk. [Yardeni]",
+      "Recession probability 40% from Iran war oil shock; aging bull, broad equity selloff risk. [Berezin]",
+      "Inflation structurally sticky post-September hike; higher for longer through 2027. [Slok]",
+      "2.6% US GDP growth, 50bp Fed cuts; K-shaped labor market; China 4.8% growth. [Hatzius]"
+    ],
+    "whats_new": [
+      "Burry adds Nvidia short \u2014 new centerpiece of AI short complex [Burry]",
+      "Tudor Jones '1999 analogy' \u2014 first explicit blow-off framing [Tudor Jones]",
+      "Hartnett Bull & Bear hits cycle extreme 9.7, 17th sell signal [Hartnett shift]",
+      "Yardeni trims S&P target 7,900\u21927,700 on yield headwinds [Yardeni evolving]",
+      "Berezin raises US recession probability to 40% on Iran war oil shock [Berezin shift]",
+      "Hatzius pivots from 'stall speed' concern to 2.6% growth projection [Hatzius shift]"
+    ],
+    "vs_market_buy": [
+      "Druckenmiller: hard landing inevitable vs. consensus soft landing",
+      "Tudor Jones: no Fed cuts vs. market pricing for rate reduction",
+      "Burry: short Nvidia when consensus is long AI infrastructure"
+    ],
+    "vs_market_sell": [
+      "Hartnett: 17th sell signal at extremes vs. entrenched bullish consensus",
+      "Berezin: 40% recession probability vs. Wall Street base case of growth",
+      "Slok: higher for longer through 2027 vs. market pricing 50bp of cuts"
+    ],
+    "buy_vs_sell_divergence": [
+      "Macro outlook: Druckenmiller/Burry (hard landing/AI bubble) vs. Hatzius/Yardeni (2.6% GDP/Roaring 2020s)",
+      "Fed path: Ackman/Jones (no cuts, abandon 2% target) vs. Hatzius (50bp of cuts to 3-3.25%)",
+      "AI: Burry (short ecosystem) vs. Wilson/Visser (monetization rotation to software)"
+    ],
+    "aligned": [
+      "Bond yields structurally elevated and compressing equity multiples. [Ackman, Yardeni, Gundlach, Hartnett]",
+      "AI capex investment is real but valuations are stretched. [Druckenmiller, Marks, Hartnett]",
+      "K-shaped recovery: AI benefits large firms, traditional economy under pressure. [Hatzius, Slok, Visser]",
+      "Fiscal deficits are a long-run market risk regardless of near-term outlook. [Gundlach, Dalio, Ackman]"
+    ],
+    "buy_side_trades": [
+      "Long gold, Treasuries, copper; short yen. [Druckenmiller]",
+      "Tactical long equities \u2014 1999 blow-off setup. [Tudor Jones]",
+      "Short Nvidia, Micron, iShares Semi ETF, Palantir puts. [Burry]",
+      "Short long-duration bonds; long Microsoft. [Ackman]"
+    ],
+    "sell_side_trades": [
+      "Long commodities over equities (multi-year). [Hartnett]",
+      "Long international over US mega-caps; long debasement hedges. [Hartnett]",
+      "Overweight financials, industrials, healthcare; software > semis. [Wilson]",
+      "Long AI-driven, debt-free companies; underweight rate-sensitive. [Visser]"
+    ],
+    "dominant_themes": [
+      "AI bubble debate: record shorts vs. still-bullish consensus positioning",
+      "Rate regime: higher-for-longer inflation/yields compressing multiples and splitting macro camps",
+      "Geopolitical risk premium: Iran war oil shock elevating recession probability and commodity prices"
+    ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "month": {
-    "period_start": "2026-08-31",
-    "period_end": "2026-09-30",
-    "entries_count": 301,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "period_start": "2026-09-01",
+    "period_end": "2026-10-01",
+    "entries_count": 300,
+    "buy_side_bullets": [
+      "Hard landing increasingly probable; indicators amber; de-dollarization driving gold cycle's 'biggest move yet.' [Druckenmiller]",
+      "AI bubble at dot-com-era valuations; expanding short complex: Nvidia, Micron, Semis, Palantir. [Burry]",
+      "No Fed cuts possible; 1999 blow-off top analog \u2014 explosive rally then catastrophic crash. [Tudor Jones]",
+      "Fed must abandon 2% target; 5.5% is fair 30Y yield; short duration, long Microsoft. [Ackman]",
+      "Equity market is an AI bubble, 'comfortable calling it a bubble'; every bubble pops. [Rosenberg]",
+      "Capital wars escalating; domestic fiscal regimes replacing globalized monetary coordination. [Dalio]"
+    ],
+    "sell_side_bullets": [
+      "3Ps peaking simultaneously; Bull & Bear at 17th sell signal \u2014 most concentrated bearish BofA signal in years. [Hartnett]",
+      "US recession probability 40%; Iran oil shock reversed prior progress; aging bull thesis. [Berezin]",
+      "Higher for longer into 2027; inflation structurally sticky post-September hike. [Slok]",
+      "S&P targets 7,700-7,900; Roaring 2020s intact but Bond Vigilantes are key risk. [Yardeni]",
+      "Double-digit inflation coming structurally \u2014 fiscal dominance has permanently replaced Ice Age. [Edwards]",
+      "Next recession triggers full fiscal crisis at current debt levels; 30Y at ~5.25%. [Gundlach]"
+    ],
+    "whats_new": [
+      "Burry expands AI shorts to include Nvidia \u2014 full ecosystem short (Sept-Oct). [Burry]",
+      "Tudor Jones '1999 blow-off' \u2014 most explicit near-term crash warning of the month. [Tudor Jones]",
+      "Hartnett hits 17th sell signal \u2014 escalating cycle extreme. [Hartnett evolving]",
+      "Bessent pushed back publicly against Druckenmiller on Treasury buyback program. [Bessent]",
+      "Berezin raised recession probability to 40% on Iran war oil shock \u2014 material shift. [Berezin shift]",
+      "Hatzius pivoted from stall speed/39K jobs trend to 2.6% GDP bullish call. [Hatzius shift]"
+    ],
+    "vs_market_buy": [
+      "Druckenmiller/Jones/Rosenberg: hard landing/bubble narrative vs. consensus soft landing",
+      "Burry: comprehensive AI complex shorts vs. still-bullish AI infrastructure consensus",
+      "Ackman: no Fed cuts + 5.5% fair 30Y yield vs. market pricing for easing"
+    ],
+    "vs_market_sell": [
+      "Hartnett: 17 sell signals through cycle vs. extreme bullish consensus positioning",
+      "Berezin: 40% recession probability vs. Wall Street base case of continued expansion",
+      "Edwards: double-digit inflation is structurally inevitable vs. consensus for disinflation"
+    ],
+    "buy_vs_sell_divergence": [
+      "Core macro: Druckenmiller/Rosenberg (hard landing, bubble) vs. Hatzius/Yardeni (Roaring 2020s, 2.6% growth)",
+      "Inflation: Ackman/Edwards (permanently elevated, target abandonment) vs. Hatzius/Yardeni (disinflation, Fed cuts)",
+      "AI narrative: Burry/Einhorn (bubble, systemic short) vs. Tepper/Wilson (monetization boom)"
+    ],
+    "aligned": [
+      "Fiscal deficits are a structural market risk \u2014 no easy path to stabilization. [Gundlach, Dalio, Ackman, Druckenmiller]",
+      "Bond yields will remain structurally elevated. [Ackman, Gundlach, Yardeni, Hartnett]",
+      "AI capex is real but question is valuation appropriateness. [Marks, Druckenmiller, Hartnett, Burry]",
+      "K-shaped economy: AI benefits large firms, traditional economy under pressure. [Hatzius, Slok, Visser, Berezin]"
+    ],
+    "buy_side_trades": [
+      "Long gold, Treasuries, copper; short yen. [Druckenmiller]",
+      "Short Nvidia, Micron, iShares Semi ETF, Palantir puts. [Burry]",
+      "Short long-duration bonds; long Microsoft. [Ackman]",
+      "Tactical long equities \u2014 1999 blow-off. [Tudor Jones]",
+      "Long gold, silver, uranium, Japanese yen. [Rosenberg]",
+      "Long gold (Q1 biggest winner, +19%). [Einhorn]"
+    ],
+    "sell_side_trades": [
+      "Long commodities over equities (multi-year). [Hartnett]",
+      "Long international over US mega-caps; long debasement hedges. [Hartnett]",
+      "Overweight financials, industrials, healthcare; software > semis. [Wilson]",
+      "Long AI-driven, debt-free companies; underweight rate-sensitive. [Visser]"
+    ],
+    "dominant_themes": [
+      "AI bubble debate: expanding short complex vs. still-bullish consensus \u2014 the defining investment debate of 2026",
+      "Rate regime: structural higher-for-longer vs. Fed easing cycle \u2014 determines whether 2026 ends in recession or boom",
+      "Geopolitical + fiscal risk premium: Iran war, Bond Vigilantes, sovereign debt crises converging"
+    ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   }
