@@ -1,52 +1,164 @@
 {
-  "generated_at": "2026-10-01",
+  "generated_at": "2026-10-02",
   "today": {
-    "date": "2026-10-01",
-    "entries_count": 9,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
+    "date": "2026-10-02",
+    "entries_count": 2,
+    "buy_side_bullets": [
+      "Q3 portfolio de-risked to $5.7B from $8.7B while concentrating in AI infrastructure; Oracle exited entirely. [Tepper]"
+    ],
+    "sell_side_bullets": [
+      "Recession probability slashed to 10% \u2014 well below market's 30% consensus pricing; US growth reaccelerating not decelerating. [Slok shift]"
+    ],
+    "whats_new": [
+      "Slok cuts recession risk to 10% from prior mixed/stagflation framing \u2014 most bullish macro call in recent weeks [Slok shift]",
+      "Tepper Q3 13F reveals Oracle exited, AI sector concentrated further, but overall portfolio size fell $3B \u2014 de-risking within bull thesis [Tepper]"
+    ],
+    "vs_market_buy": [
+      "Tepper reducing equity book to $5.7B despite bullish AI stance \u2014 diverges from peers maintaining full exposure"
+    ],
+    "vs_market_sell": [
+      "Slok far more sanguine on recession than market: 10% probability vs 30% market consensus pricing"
+    ],
     "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "aligned": [
+      "AI infrastructure capex boom as dominant investment theme for H2 2026 [Tepper, Slok]"
+    ],
+    "buy_side_trades": [
+      "Long AI hyperscalers: AMZN, MU, TSM, GOOG as core Appaloosa positions [Tepper]",
+      "Oracle and legacy enterprise software underweight [Tepper]"
+    ],
+    "sell_side_trades": [
+      "Risk-on over defensives; AI capex plays [Slok]",
+      "Private credit in K-shaped consumer bifurcation [Slok]"
+    ],
+    "dominant_themes": [
+      "AI infrastructure concentration and portfolio de-risking tension",
+      "Recession risk repricing \u2014 market vs practitioner divergence",
+      "Fiscal stimulus (One Big Beautiful Bill) as H2 2026 growth catalyst"
+    ],
+    "buy_side_sentiment": "bullish",
+    "sell_side_sentiment": "bullish"
   },
   "week": {
-    "period_start": "2026-09-24",
-    "period_end": "2026-10-01",
-    "entries_count": 60,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "period_start": "2026-09-25",
+    "period_end": "2026-10-02",
+    "entries_count": 47,
+    "buy_side_bullets": [
+      "Hard landing 'inevitable' despite apparent resilience; historical indicators amber not red, 'more shoes to drop' economically. [Druckenmiller]",
+      "AI assets at dot-com valuations; Nvidia short confirmed \u2014 AI complex is the bubble centerpiece. [Burry]",
+      "Fiscal crisis on next recession \u2014 30-year Treasury at 5.25%+ with mark-to-market losses exceeding 50%. [Gundlach]",
+      "Capital wars risk rising as political and financial tensions escalate to new structural paradigm. [Dalio]",
+      "Gold to 'sharply outperform' Nasdaq 3-5 years; SpaceX $1.75T IPO as major speculative top signal. [Einhorn]"
+    ],
+    "sell_side_bullets": [
+      "Bull & Bear Indicator at 9.7 \u2014 17th contrarian sell signal of cycle despite 5% bond yields; biggest tech fund outflow since June. [Hartnett]",
+      "Recession probability slashed to 10%; US running hot on AI + fiscal + tariff certainty \u2014 well below market's 30% pricing. [Slok shift]",
+      "S&P 500 7,800 target; software over semis, small caps over large; early-cycle broadening has begun. [Wilson]",
+      "2.6% US GDP growth (top of Wall Street consensus) \u2014 fading tariff drag plus $100B in fiscal tax rebates as key tailwinds. [Hatzius]",
+      "'Every bubble pops' \u2014 comfortable calling AI market a bubble; strip out AI capex and economy already in serious deterioration. [Rosenberg]"
+    ],
+    "whats_new": [
+      "Slok cuts recession risk to 10% \u2014 shift from prior stagflation/bearish framing is the week's most significant stance change [Slok shift]",
+      "Ackman declares 2% inflation target will be formally abandoned \u2014 first explicit call for 2.5-3% Fed target range [Ackman]",
+      "Burry confirms Nvidia short via regulatory filing \u2014 concrete positioning behind long-standing AI bubble rhetoric [Burry]",
+      "Bessent defends bond buybacks as yield-suppressive \u2014 pushes back against Druckenmiller's inflationary critique [Bessent]"
+    ],
+    "vs_market_buy": [
+      "Druckenmiller and Burry see hard landing/AI bubble while markets price near-record SPX \u2014 explicit divergence from consensus",
+      "Gundlach keeps DoubleLine concentrated in short and intermediate bonds while market still holds long-duration exposure"
+    ],
+    "vs_market_sell": [
+      "Berezin's S&P 4,450 year-end target implies ~35% downside from current levels \u2014 extreme bear case vs consensus",
+      "Hartnett's 17th sell signal while market makes new highs \u2014 maximum positioning divergence from his flow data"
+    ],
+    "buy_vs_sell_divergence": [
+      "Druckenmiller (hard landing inevitable) vs Hatzius/Wilson (2.6% GDP, S&P 7,800) \u2014 hardest recession debate of the week",
+      "Berezin (75% recession risk, S&P 4,450) vs Yardeni (Roaring 2020s, S&P 8,250) \u2014 extreme polarity on outcome distribution",
+      "Buy side mostly bearish on AI valuations (Burry, Dalio, Einhorn) vs sell side divided between Rosenberg bear and Wilson/Hatzius bulls"
+    ],
+    "aligned": [
+      "Fiscal sustainability is the primary long-run macro risk; bond yields elevated until structural deficit addressed [Marks, Gundlach, Ackman, Dalio]",
+      "AI capex wave is real but the question is whether asset prices already discount the transformation [Marks, Rosenberg, Wilson]"
+    ],
+    "buy_side_trades": [
+      "Short Nvidia and AI complex via options/puts [Burry]",
+      "Long gold vs Nasdaq as highest-conviction multi-year trade [Einhorn, Dalio]",
+      "Concentrated AI hyperscalers: AMZN, MU, TSM, GOOG [Tepper]",
+      "Short 30-year Treasuries; avoid long-duration [Gundlach, Ackman]"
+    ],
+    "sell_side_trades": [
+      "Defensive Value over Cyclical Growth/Mag7; gold as hedge [Bannister]",
+      "Software over semiconductors; small caps over large caps [Wilson]",
+      "Short/intermediate bond maturities over long-duration [Sonders]",
+      "Risk-on positioning; AI capex plays; private credit in K-shaped bifurcation [Slok]"
+    ],
+    "dominant_themes": [
+      "AI bubble debate \u2014 dot-com analog (Burry, Rosenberg) vs productivity revolution (Yardeni, Hatzius, Wilson)",
+      "Fiscal sustainability and long-duration Treasury yield trajectory",
+      "Hard landing probability spectrum \u2014 extreme polarity from 10% (Slok) to 75% (Berezin)"
+    ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "month": {
-    "period_start": "2026-09-01",
-    "period_end": "2026-10-01",
-    "entries_count": 300,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "period_start": "2026-09-02",
+    "period_end": "2026-10-02",
+    "entries_count": 292,
+    "buy_side_bullets": [
+      "Hard landing conviction deepening \u2014 Druckenmiller, Burry, and Dalio all escalated recession warnings through September; indicators moving from 'amber' toward 'red.' [Druckenmiller, Burry, Dalio]",
+      "AI bubble thesis gaining traction among buy side \u2014 Burry confirmed Nvidia short, Einhorn positioned gold vs Nasdaq, Rosenberg calls it outright bubble. [Burry, Einhorn]",
+      "Fiscal crisis framing now dominant \u2014 Gundlach, Marks, and Ackman all issued major warnings on US debt sustainability and long-duration Treasury risk. [Gundlach, Marks, Ackman]",
+      "Gold as preferred macro hedge \u2014 Dalio, Einhorn, and Howard Marks all updated their gold theses across the month. [Dalio, Einhorn, Marks]",
+      "Tepper and Bessent represent the month's bullish buy-side minority \u2014 AI infrastructure and policy optimism as their shared thesis. [Tepper, Bessent]"
+    ],
+    "sell_side_bullets": [
+      "Hartnett cumulative sell signals reached 17 over the month \u2014 persistent flow data warning despite market resilience. [Hartnett]",
+      "Goldman-Morgan Stanley bull axis holds: Hatzius at 2.6% GDP, Wilson at S&P 7,800 with broadening earnings recovery \u2014 most constructive on Wall Street. [Hatzius, Wilson]",
+      "Rosenberg's September AI bubble conviction call was the month's most significant sell-side stance evolution \u2014 from hedged warning to outright declaration. [Rosenberg evolving]",
+      "Berezin maintained 75% recession probability and S&P 4,450 target throughout the month \u2014 most bearish sell-side forecast. [Berezin]",
+      "Edwards updated Ice Age thesis: moved from deflation/secular stagnation toward fiscal dominance and double-digit inflation risk. [Edwards evolving]"
+    ],
+    "whats_new": [
+      "Rosenberg escalated from 'bubble risk' language to outright 'comfortable calling this a bubble' \u2014 major conviction shift [Rosenberg evolving]",
+      "Slok reversed from stagflation concern to 10% recession risk \u2014 most dramatic stance shift of the month [Slok shift]",
+      "Ackman declared 2% Fed target as 'fiction' \u2014 new explicit call for 2.5-3% target range [Ackman]",
+      "Edwards updated Ice Age thesis toward inflation/fiscal dominance \u2014 structural framework shift after decades of deflation thesis [Edwards evolving]"
+    ],
+    "vs_market_buy": [
+      "Buy-side majority (Druckenmiller, Burry, Gundlach, Dalio, Einhorn) positioned for hard landing while SPX traded near record highs all month",
+      "Gundlach and Ackman short long-duration Treasuries while market continues to hold significant duration exposure"
+    ],
+    "vs_market_sell": [
+      "Berezin's S&P 4,450 target represents ~35% downside from market levels \u2014 month-long divergence",
+      "Hartnett's 17 sell signals over the cycle have been consistently contrarian to market trend but not yet vindicated"
+    ],
+    "buy_vs_sell_divergence": [
+      "Buy side overwhelmingly bearish on AI bubble risk; sell side divided with Goldman/Morgan Stanley bullish and BofA/BCA/Rosenberg bearish",
+      "Recession debate: Druckenmiller/Berezin see hard landing as base case; Hatzius/Yardeni/Slok see continued expansion"
+    ],
+    "aligned": [
+      "Fiscal sustainability is the dominant long-term macro risk \u2014 consensus across buy and sell side [Marks, Gundlach, Ackman, Dalio, Reid]",
+      "AI capex investment wave is real; disagreement is on asset price appropriateness, not technology validity [Marks, Wilson, Rosenberg]",
+      "Bond yields to remain elevated; short/intermediate maturities preferred over long-duration across most strategists [Gundlach, Sonders, Ackman]"
+    ],
+    "buy_side_trades": [
+      "Short Nvidia and AI complex [Burry]",
+      "Long gold vs Nasdaq, multi-year horizon [Einhorn, Dalio]",
+      "Concentrated AI hyperscalers: AMZN, MU, TSM, GOOG [Tepper]",
+      "Short 30-year Treasuries [Gundlach, Ackman]"
+    ],
+    "sell_side_trades": [
+      "Defensive Value over Cyclical Growth; gold hedge [Bannister]",
+      "Software over semiconductors; small caps over large caps [Wilson]",
+      "Short-intermediate bond duration [Sonders, Reid]",
+      "Risk-on AI capex plays; private credit K-shaped [Slok]",
+      "S&P 4,450 target implies max underweight equities [Berezin]"
+    ],
+    "dominant_themes": [
+      "AI bubble vs productivity miracle \u2014 fundamental disagreement on whether AI asset prices are justified",
+      "US fiscal sustainability \u2014 consensus structural concern despite tactical differences",
+      "Recession probability distribution \u2014 widest polarity in years (10% Slok to 75% Berezin)"
+    ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   }
