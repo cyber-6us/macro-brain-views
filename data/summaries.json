@@ -1,53 +1,202 @@
 {
-  "generated_at": "2026-10-03",
+  "generated_at": "2026-10-04",
   "today": {
-    "date": "2026-10-03",
-    "entries_count": 3,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "date": "2026-10-04",
+    "entries_count": 4,
+    "buy_side_bullets": [
+      "Long-term Treasury bond declared 'not a legitimate flight-to-quality asset' \u2014 regime shift thesis: next recession brings rising rates AND falling dollar, opposite of consensus expectations. [Gundlach]",
+      "'Very, very optimistic on 2026' \u2014 strong noninflationary growth, no recession; three arrows (energy, TCJA renewal, targeted tariffs) underpin growth reacceleration. [Bessent]"
+    ],
+    "sell_side_bullets": [
+      "13% near-term pullback warning; Bitcoin/S&P decoupling and gold/S&P divergence signal fragile P/E-dependent market \u2014 immediate defensive value rotation advised. [Bannister]",
+      "Disinflationary surprise in 2026 is the most underappreciated macro risk; AI/stock overreliance creates single-pillar growth fragility; gold, silver, uranium, yen defensive positioning. [Rosenberg]"
+    ],
+    "whats_new": [
+      "Gundlach formally breaks with long-Treasury-as-safe-haven convention \u2014 new structural claim about recession behavior of rates + dollar",
+      "Rosenberg pivots from AI bubble call to disinflationary surprise as the primary 2026 risk, adding specific multi-asset defensive portfolio (gold/silver/uranium/yen) [Rosenberg shift]",
+      "Bessent's most upbeat public framing yet \u2014 'very very optimistic' TV interview stance vs. prior congressional testimony on bond market intervention"
+    ],
+    "vs_market_buy": [
+      "Consensus expects long Treasuries to rally in the next recession; Gundlach explicitly disputes this \u2014 rising rates + falling dollar is his base case",
+      "Market pricing 30%+ recession risk; Bessent explicitly rules out recession with growth reacceleration framework"
+    ],
+    "vs_market_sell": [
+      "Market positioned for sticky inflation; Rosenberg argues disinflationary surprise is the underprice risk for 2026",
+      "Equities near highs with AI capex underpinning sentiment; Bannister's 13% pullback call and P/E compression warning diverges sharply"
+    ],
+    "buy_vs_sell_divergence": [
+      "Bessent (no recession, bullish growth) vs. Bannister and Rosenberg (13% pullback risk, defensive positioning)",
+      "Gundlach (buy-side) is structurally bearish on bonds \u2014 aligned with sell-side bears on rates, not with Bessent's growth optimism"
+    ],
+    "aligned": [
+      "All four investors express skepticism on long-duration Treasuries at current yields (Gundlach explicit; Bannister/Rosenberg via defensive equities preference)",
+      "Defensive asset positioning recommended \u2014 gold/silver/real assets (Rosenberg) + defensive equity sectors (Bannister)"
+    ],
+    "buy_side_trades": [
+      "Avoid long-dated government bonds globally [Gundlach]",
+      "Selective high-yield / short-duration credit in rate-cutting cycle [Gundlach]",
+      "Long US equities / cyclicals on growth reacceleration thesis [Bessent]",
+      "Long domestic energy sector \u2014 direct beneficiary of production expansion policy [Bessent]"
+    ],
+    "sell_side_trades": [
+      "Long defensive value sectors (utilities, healthcare, staples) vs. short cyclical growth / Mag7 [Bannister]",
+      "Long gold, silver, uranium as real-asset hedges [Rosenberg]",
+      "Long Japanese yen as safe-haven FX in disinflation scenario [Rosenberg]",
+      "Reduce equity beta into Q4; S&P 500 range 6,500\u20137,500 caps upside [Bannister]"
+    ],
+    "dominant_themes": [
+      "Bond market regime shift \u2014 long Treasuries lose flight-to-quality status",
+      "2026 growth divergence \u2014 Bessent's optimism vs. sell-side defensive caution",
+      "Disinflation vs. inflation: Rosenberg flags disinflationary surprise, Gundlach warns inflation in next downturn"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "bearish"
   },
   "week": {
-    "period_start": "2026-09-26",
-    "period_end": "2026-10-03",
-    "entries_count": 40,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
+    "period_start": "2026-09-27",
+    "period_end": "2026-10-04",
+    "entries_count": 43,
+    "buy_side_bullets": [
+      "Hard landing inevitable with 'more shoes to drop' \u2014 historical indicators amber not red, markets expected to struggle; AI position cut from 80% to 20% of prior weight. [Druckenmiller]",
+      "Short Nvidia confirmed via regulatory filing \u2014 AI stocks at dot-com valuations; record S&P 500 is 'warning sign not celebration'; capital wars escalating, 1-2% GDP policy drag. [Burry, Dalio]",
+      "Long-term Treasury no longer flight-to-quality \u2014 next recession: rising rates + falling dollar; gold to sharply outperform Nasdaq over 3-5 years; US is 'most expensive in history.' [Gundlach, Einhorn, Napier]",
+      "'Very optimistic on 2026' \u2014 AI infrastructure concentration deepening; no recession; three arrows framework driving noninflationary growth; Oracle exited, AI hyperscalers concentrated. [Bessent, Tepper]",
+      "Market feels like October 1999 \u2014 blow-off top setup intact; no chance Fed's Warsh cuts rates; Fed abandons 2% target, 5.5% is appropriate 30yr yield. [Paul Tudor Jones, Ackman]"
+    ],
+    "sell_side_bullets": [
+      "Bull & Bear Indicator at 9.7 \u2014 17th contrarian sell signal of cycle; extreme bullish positioning at 5% bond yields with biggest tech fund outflow since June. [Hartnett]",
+      "AI is an earnings bubble \u2014 hyperscalers face ~$400B annual depreciation cliff by 2030; AI spending embedded in forward earnings not in multiples; 75% recession probability. [Berezin]",
+      "Disinflationary surprise is underappreciated 2026 risk; 13% pullback warning; defensive value over cyclical growth; double-digit inflation structural via fiscal dominance. [Rosenberg, Bannister, Edwards]",
+      "S&P 500 at 7,700\u20137,800 by year-end \u2014 earnings broadening beyond Mag7; software over semis; 2.6% US GDP growth; Roaring 2020s intact; recession risk only 10%. [Wilson, Yardeni, Hatzius, Slok shift]",
+      "Iran/Hormuz supply shock ongoing \u2014 global inflation reaccelerating to 3.8%; 'bear market within a bull market' in traditional sectors; tech/credit divergence widening. [Mauldin, Reid, Visser, Sonders]"
+    ],
+    "whats_new": [
+      "Gundlach formally declares long Treasuries 'not a legitimate flight-to-quality asset' \u2014 new structural break with 40-year convention",
+      "Slok slashed recession probability from 30%+ to 10% \u2014 major stance shift over the week [Torsten Slok shift]",
+      "Rosenberg pivoted from AI bubble thesis to disinflationary surprise as primary 2026 risk [Rosenberg shift]",
+      "Berezin updated AI bubble thesis from multiple-based to earnings-embedded \u2014 hyperscaler depreciation cliff of $400B by 2030",
+      "Bessent's 'very very optimistic' TV framing vs. prior congressional testimony on bond market intervention"
+    ],
+    "vs_market_buy": [
+      "Druckenmiller/Burry: consensus pricing soft landing; they see hard landing inevitable with AI bubble component",
+      "Gundlach: consensus expects Treasuries to rally in recession; Gundlach says rising rates + falling dollar instead",
+      "Ackman: market still expects return to 2% inflation; Ackman says Fed will formally abandon 2% target"
+    ],
+    "vs_market_sell": [
+      "Hartnett: Bull&Bear at 9.7 signals extreme crowding vs. market's complacency at 5% bond yields",
+      "Berezin: market pricing AI capex boom into earnings; Berezin flags $400B annual depreciation as unmodeled risk",
+      "Edwards: market pricing sticky-inflation as primary risk; Edwards says fiscal dominance makes double-digit inflation structural"
+    ],
+    "buy_vs_sell_divergence": [
+      "Growth outlook: Bessent, Tepper (bullish growth, AI continuation) vs. Bannister, Rosenberg, Hartnett, Berezin (pullback, defensive rotation)",
+      "AI thesis: Tepper concentrating in AI infrastructure vs. Burry short Nvidia vs. Berezin flagging $400B depreciation cliff",
+      "Fed path: Ackman/Paul Tudor Jones (no cuts, rates structurally higher) vs. Slok/Hatzius/Wilson (cuts arriving, growth reaccelerating)"
+    ],
+    "aligned": [
+      "Gold as macro hedge: both buy and sell sides aligned on gold outperformance. [Dalio, Einhorn, Napier, Rosenberg, Mauldin]",
+      "Long-duration government bonds are poor risk/reward at current yields. [Gundlach, Hartnett, Bannister, Marks]",
+      "K-shaped economy stress persists regardless of macro view (Slok bullish overall, Rosenberg bearish, both acknowledge bifurcation)"
+    ],
+    "buy_side_trades": [
+      "Short Nvidia [Burry]",
+      "Long US Treasuries on falling-yield thesis [Druckenmiller]",
+      "Long gold vs. Nasdaq over 3-5 years [Einhorn]",
+      "Long AI infrastructure: AMZN, MU, TSM, GOOG as concentrated core [Tepper]",
+      "Avoid long-dated government bonds globally [Gundlach]",
+      "Tactical long equities then exit on 1999 blow-off top [Paul Tudor Jones]",
+      "Long gold / hard-money assets as trust in bonds erodes [Napier]"
+    ],
+    "sell_side_trades": [
+      "Long defensive value vs. short cyclical growth / Mag7 [Bannister]",
+      "Long gold, silver, uranium, Japanese yen [Rosenberg]",
+      "Long commodities multi-year theme [Hartnett]",
+      "Overweight financials, industrials, healthcare; software over semis [Wilson]",
+      "Risk-on equities on growth reacceleration [Slok]",
+      "Short US tech vs. long real assets in fiscal dominance regime [Edwards]",
+      "Inflation hedge positioning on Iran/Hormuz supply disruption [Mauldin]"
+    ],
+    "dominant_themes": [
+      "AI bubble vs. boom \u2014 markets forced to pick a lane between AI capex sustaining earnings or bubble popping",
+      "Bond market regime shift \u2014 long Treasuries lose flight-to-quality status as fiscal dominance takes hold",
+      "1999 analogy \u2014 blow-off top setup forming, Fed frozen at higher rates, extreme positioning signals flashing"
+    ],
+    "buy_side_sentiment": "bearish",
     "sell_side_sentiment": "mixed"
   },
   "month": {
-    "period_start": "2026-09-03",
-    "period_end": "2026-10-03",
-    "entries_count": 283,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
+    "period_start": "2026-09-04",
+    "period_end": "2026-10-04",
+    "entries_count": 281,
+    "buy_side_bullets": [
+      "AI bubble framework solidifying across buy-side bears \u2014 Druckenmiller cut AI position 80%, Burry short Nvidia, PTJ warns of '1999 blow-off' imminent; hard landing inevitable with commercial real estate and credit crunch risks. [Druckenmiller, Burry, Paul Tudor Jones]",
+      "Long-term bond regime shift thesis gaining traction \u2014 Gundlach: 'long-term Treasury not flight-to-quality'; Ackman: Fed abandons 2% target, 5.5% is appropriate 30yr yield; next recession = rising rates + falling dollar. [Gundlach, Ackman]",
+      "Capital wars and fiscal deterioration driving gold/real-asset positioning \u2014 China credit bubble resembles US pre-2008; US interest payments hit $1T annually; gold to sharply outperform Nasdaq. [Dalio, Einhorn, Napier]",
+      "AI infrastructure concentrated bets persist in bullish camp \u2014 AMZN, MU, TSM, GOOG core positioning; Brevan Howard navigating 2026 via equity gains offsetting rates losses; Very optimistic growth framework. [Tepper, Bessent, Alan Howard]",
+      "Fiscal credibility debate: Druckenmiller attacked Bessent's bond buyback program as spending two centuries of Treasury credibility; Russell Napier sees 15-20 year financial repression cycle beginning. [Druckenmiller, Napier]"
+    ],
+    "sell_side_bullets": [
+      "Hartnett's Bull&Bear indicator hit 9.7 \u2014 17th sell signal of the cycle; extreme bullish positioning at 5% bond yields; biggest tech outflow since June; sell signal coinciding with October seasonality risk. [Hartnett]",
+      "AI earnings bubble thesis \u2014 Berezin: $400B annual hyperscaler depreciation cliff by 2030; Edwards: double-digit inflation structural via fiscal dominance; Rosenberg: disinflationary surprise is underappreciated risk. [Berezin, Edwards, Rosenberg]",
+      "Constructive 2026 growth camp strengthened with Slok's recession cut to 10%, Hatzius 2.6% US GDP, Wilson 7,800 S&P, Yardeni 7,700 S&P \u2014 earnings broadening beyond Mag7 driven by AI monetization shift to applications layer. [Slok, Hatzius, Wilson, Yardeni]",
+      "Iran/Hormuz supply shock (3.5 months old) creating global inflation reacceleration to 3.8% \u2014 'bear market within bull market' in traditional sectors; tech/credit divergence widening as AI equities rally while spreads widen. [Mauldin, Reid, Visser, Sonders]",
+      "Consumer/labor fragility warnings intensifying \u2014 Bannister: labor 'tenuous,' consumer (68% GDP) too large to offset by AI capex; Rosenberg: K-shaped, AI high-end consumer masking labor deterioration. [Bannister, Rosenberg]"
+    ],
+    "whats_new": [
+      "Gundlach's structural break claim: long Treasuries officially 'not a legitimate flight-to-quality asset' \u2014 explicit new framing",
+      "Slok pivot: recession probability slashed from 30%+ to 10% \u2014 major stance reversal in the month [Torsten Slok shift]",
+      "Berezin updated AI bubble framework from multiple-based to earnings-embedded depreciation cliff risk",
+      "Druckenmiller vs. Bessent: WSJ op-ed attacking Treasury buyback program was new structural escalation",
+      "Rosenberg pivoted from AI bubble call to disinflationary surprise as primary risk [Rosenberg shift]",
+      "Einhorn announced Greenlight closed to new investors effective July 1, 2026 \u2014 fund reached capacity",
+      "Napier introduced 'Bits deflate, Atoms inflate, Trust appreciates' \u2014 new framework for AI/commodity bifurcation"
+    ],
+    "vs_market_buy": [
+      "Druckenmiller/Burry: market prices soft landing; they see hard landing inevitable with AI bubble component overdue for correction",
+      "Gundlach/Ackman: market still prices eventual return to 2% inflation and Treasury rally in recession; both explicitly dispute this",
+      "Dalio: market underprices 'capital wars' structural paradigm shift \u2014 geopolitical capital flows not modeled in consensus"
+    ],
+    "vs_market_sell": [
+      "Hartnett: Bull&Bear at 9.7 signals extreme crowding vs. market's complacent positioning at 5% bond yields",
+      "Berezin/Rosenberg: market embeds AI capex boom in forward earnings; both flag unmodeled depreciation/disinflation risks",
+      "Edwards: market prices sticky inflation as primary risk; Edwards says double-digit inflation from fiscal dominance is structurally coming"
+    ],
+    "buy_vs_sell_divergence": [
+      "AI future: Tepper/Bessent concentrating in AI infrastructure vs. Burry short Nvidia vs. Berezin $400B depreciation cliff \u2014 sharpest disagreement of the month",
+      "Growth 2026: Bessent/Tepper/Ackman (bullish) vs. Druckenmiller/Dalio/Einhorn/Marks (bearish) on buy-side; Slok/Wilson/Hatzius/Yardeni (bullish) vs. Berezin/Edwards/Hartnett/Bannister/Rosenberg (bearish) on sell-side",
+      "Fed path: Ackman/PTJ (no cuts, rates structurally higher) vs. Slok/Hatzius (cuts arriving, growth reaccelerating) \u2014 key unresolved debate for H2 2026"
+    ],
+    "aligned": [
+      "Gold as primary macro hedge: nearly universal buy-side buy + sell-side alignment. [Dalio, Einhorn, Napier, Druckenmiller, Rosenberg, Mauldin, Marks indirectly]",
+      "Long-duration government bonds are a poor risk/reward at current yields \u2014 cross-side consensus. [Gundlach, Ackman, Hartnett, Bannister, Edwards, Marks]",
+      "K-shaped economy/consumer bifurcation acknowledged by bulls and bears alike. [Slok, Rosenberg, Sonders, Bannister]",
+      "AI capex boom is real but creates valuation/earnings risk \u2014 degree of risk the central disagreement"
+    ],
+    "buy_side_trades": [
+      "Short Nvidia \u2014 AI bubble thesis [Burry]",
+      "Long US Treasuries on falling yields [Druckenmiller]",
+      "Long gold vs. Nasdaq 3-5yr [Einhorn]",
+      "Long AI infrastructure: AMZN, MU, TSM, GOOG [Tepper]",
+      "Avoid long-dated global government bonds [Gundlach]",
+      "Tactical long equities then exit on 1999 blow-off top [Paul Tudor Jones]",
+      "Long gold / hard-money assets [Napier]",
+      "Long domestic energy; long USD [Bessent]"
+    ],
+    "sell_side_trades": [
+      "Long defensive value vs. short cyclical growth / Mag7 [Bannister]",
+      "Long gold, silver, uranium, Japanese yen [Rosenberg]",
+      "Long commodities multi-year theme [Hartnett]",
+      "Overweight financials, industrials, healthcare; software over semis [Wilson]",
+      "Risk-on equities on growth reacceleration [Slok]",
+      "Short US tech; long real assets [Edwards]",
+      "Inflation hedge on Iran/Hormuz supply disruption [Mauldin]",
+      "Avoid or underweight mega-cap AI hyperscalers [Berezin]"
+    ],
+    "dominant_themes": [
+      "AI bubble vs. boom \u2014 the defining macro debate of the month: AI capex sustaining or destroying the earnings outlook",
+      "Bond market regime shift \u2014 long Treasuries lose flight-to-quality status; fiscal dominance thesis gains traction across both sides",
+      "Iran/Middle East supply shock \u2014 Hormuz closure driving inflation reacceleration and geopolitical risk premium repricing"
+    ],
+    "buy_side_sentiment": "bearish",
     "sell_side_sentiment": "mixed"
   }
 }
