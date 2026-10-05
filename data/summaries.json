@@ -3,59 +3,16 @@
   "today": {
     "date": "2026-10-05",
     "entries_count": 9,
-    "buy_side_bullets": [
-      "Dollar bearish: near top of historic purchasing power range, foreigners overloaded \u2014 EM macro back in focus. [Druckenmiller]",
-      "Tariffs cascading into higher consumer prices, supply-chain snarls, squeezed margins; $1T US interest payments in FY2026 unsustainable. [Dalio]",
-      "Fed rate hike to 4.0% was a mistake: AI capex inelastic to rates, creating vicious inflation cycle. [Ackman]",
-      "SpaceX $1.75T IPO a 'major speculative top' marker; capital preservation over performance. [Einhorn]"
-    ],
-    "sell_side_bullets": [
-      "Tech at 37% of US equity market \u2014 exceeds dot-com peak; Japan bond crisis as overlooked systemic risk. [Edwards]",
-      "US economy at 'stall speed'; Fed pause in October, cuts begin March 2026 at 3-3.25% terminal. [Hatzius]",
-      "October Flow Show: $21.1bn US equity outflow (biggest since March); 'buy humiliation' in bond rout. [Hartnett]",
-      "S&P 7,800 target intact; high-teens EPS 'crystal clear' but market breadth narrowing dangerously in Q4. [Wilson]",
-      "'Bipolar Economy': competing narratives of labor weakness vs. Big Beautiful Bill tax-driven growth. [Mauldin]"
-    ],
-    "whats_new": [
-      "Druckenmiller pivots to explicit EM long (Brazil/Argentina) \u2014 new structural macro theme shift",
-      "Ackman reverses from Fed-too-easy to Fed-just-hiked-too-far \u2014 direct response to September FOMC",
-      "Hatzius downgrades near-term US to 'stall speed' (vs. earlier 2.6% constructive) \u2014 October 2 CNBC",
-      "Hartnett's $21.1bn US equity outflow signal \u2014 biggest single-week outflow since March 2026",
-      "Edwards adds Japan bond crisis as co-equal systemic risk alongside AI bubble thesis"
-    ],
-    "vs_market_buy": [
-      "Dalio: $1T US interest payments and capital wars severity underpriced by markets",
-      "Druckenmiller: dollar at historic highs when consensus still views dollar resilience positively"
-    ],
-    "vs_market_sell": [
-      "Hartnett: investor positioning 'frozen bullish' despite 5% bond yields \u2014 contrarian sell signal",
-      "Hatzius: October rate hike 'unlikely' while bond market was pricing ~40% odds of hike"
-    ],
-    "buy_vs_sell_divergence": [
-      "Ackman (buy): Fed hiked too much \u2014 AI capex is inelastic, rate hikes make inflation worse. Wilson (sell): earnings 'crystal clear' \u2014 no near-term concern about rate effects on earnings.",
-      "Dalio (buy): US assets to be avoided (capital wars, fiscal risk). Hatzius (sell): US GDP to accelerate to 2.6% medium-term \u2014 constructive on deferred tailwinds."
-    ],
-    "aligned": [
-      "AI capex cycle is structural and not responsive to higher interest rates (Ackman buy / Edwards sell, different conclusions)",
-      "Bond yields at punishing levels create asymmetric opportunity for bond bulls (Hartnett sell / Gundlach buy \u2014 both bullish on specific rate trades)"
-    ],
-    "buy_side_trades": [
-      "Short US dollar; Long Brazil/Argentina EM assets [Druckenmiller]",
-      "Long gold (15% allocation thesis); reduce US asset exposure [Dalio]",
-      "Long AI infrastructure (inelastic capex beneficiaries) [Ackman]",
-      "Long gold; short speculative AI/tech (SpaceX as top signal) [Einhorn]"
-    ],
-    "sell_side_trades": [
-      "'Buy humiliation': long US long-dated Treasuries at century-low return levels [Hartnett]",
-      "Long consumer stocks (Big Beautiful Bill); long software over semis; long small caps [Wilson]",
-      "Long bonds 2-5yr ahead of Fed cuts [Hatzius]",
-      "Short/underweight US tech (37% concentration risk); monitor Japan bonds [Edwards]"
-    ],
-    "dominant_themes": [
-      "Dollar credibility and EM rotation (Druckenmiller, Dalio)",
-      "AI breaks traditional monetary policy transmission (Ackman, Edwards, Wilson)",
-      "Speculative cycle peak signals \u2014 tech concentration, SpaceX IPO, equity outflows (Einhorn, Hartnett, Edwards)"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
@@ -63,66 +20,16 @@
     "period_start": "2026-09-28",
     "period_end": "2026-10-05",
     "entries_count": 40,
-    "buy_side_bullets": [
-      "Dollar bearish structural thesis; EM (Brazil/Argentina) as primary macro theme. [Druckenmiller]",
-      "Tariffs cascading into prices; $1T US interest payments unsustainable; capital wars intensifying. [Dalio]",
-      "Fed rate hike to 4.0% a mistake; AI capex inelastic to rates \u2014 breaks inflation playbook. [Ackman]",
-      "SpaceX $1.75T IPO = 'major speculative top'; capital preservation over alpha. [Einhorn]",
-      "Double-digit inflation scenario structural, not cyclical; Treasury bond no longer a flight-to-quality asset. [Gundlach]"
-    ],
-    "sell_side_bullets": [
-      "Tech concentration at 37% of US equity \u2014 exceeds dot-com peak; Japan bond crisis as systemic wildcard. [Edwards]",
-      "US economy 'stall speed'; Fed pause October, cut March-June; terminal 3-3.25%. [Hatzius]",
-      "$21.1bn US equity outflow (biggest since March); 'buy humiliation' in bond rout. [Hartnett]",
-      "S&P 7,800 target; high-teens EPS 'crystal clear' but market breadth narrowing. [Wilson]",
-      "'Bipolar Economy' \u2014 labor weakness vs. fiscal stimulus; 'relatively optimistic' on balance. [Mauldin]",
-      "Jim Reid's '1999 meets 1990' framework: AI fervor + Middle East oil disruption forcing hawkish central banks. [Jim Reid]"
-    ],
-    "whats_new": [
-      "Ackman pivot: was 'Fed needs to hike more' (Oct 1) \u2192 now 'Fed just made a mistake' (Sept 30, post-September FOMC)",
-      "Hatzius downgrade: 'constructive 2.6% growth' \u2192 'stall speed' in Oct 2 interview \u2014 significant tone shift",
-      "Hartnett $21.1bn equity outflow (Oct Flow Show) \u2014 biggest since March, confirms positioning peak",
-      "Druckenmiller EM long thesis (Brazil/Argentina) represents new structural macro allocation",
-      "Edwards Japan bond crisis warning as co-equal risk to AI bubble thesis"
-    ],
-    "vs_market_buy": [
-      "Dalio: capital wars severity and $1T interest cost trajectory underpriced by investors",
-      "Druckenmiller: dollar at multi-decade high purchasing power \u2014 foreign overallocation to USD underappreciated"
-    ],
-    "vs_market_sell": [
-      "Hartnett: investors 'frozen bullish' at 9.4 Bull & Bear despite 5% long bonds \u2014 contrarian sell signal",
-      "Hatzius: October hike 'unlikely' while some market participants priced ~40% odds",
-      "Edwards: Japan bond crisis underappreciated as systemic risk"
-    ],
-    "buy_vs_sell_divergence": [
-      "Ackman (buy): Fed rate hike was a mistake. Hartnett/Wilson (sell): earnings/fundamental backdrop still intact and constructive.",
-      "Gundlach (buy): long-term Treasuries no longer flight-to-quality, avoid them. Hatzius (sell): buy bonds 2-5yr ahead of Fed cuts.",
-      "Dalio (buy): US fiscal trajectory unsustainable, diversify away. Wilson (sell): 7,800 S&P target, deregulation and fiscal tailwinds constructive."
-    ],
-    "aligned": [
-      "AI capex is structural and rate-inelastic \u2014 capex cycle will continue regardless of Fed policy (Ackman, Edwards, Wilson, Hartnett)",
-      "Market breadth narrowing is a concern heading into Q4 (Hartnett, Wilson, Edwards)",
-      "Bond yields at elevated levels create asymmetric opportunity \u2014 though buy vs. sell-side disagree on duration (Gundlach vs. Hatzius)"
-    ],
-    "buy_side_trades": [
-      "Short US dollar; long EM (Brazil, Argentina) [Druckenmiller]",
-      "Long gold 15% allocation; reduce US assets [Dalio]",
-      "Long AI infrastructure despite rates [Ackman]",
-      "Long gold; short speculative AI/tech [Einhorn]",
-      "Avoid long-duration sovereigns; long gold [Gundlach]"
-    ],
-    "sell_side_trades": [
-      "'Buy humiliation': long US long-dated Treasuries [Hartnett]",
-      "Long 2-5yr bonds ahead of Fed cuts [Hatzius]",
-      "Long consumer stocks, software over semis, small caps [Wilson]",
-      "Short tech (37% concentration); monitor Japan bonds [Edwards]",
-      "Long defensive value if labor weakness materializes [Mauldin]"
-    ],
-    "dominant_themes": [
-      "Dollar credibility / EM macro rotation (Druckenmiller, Dalio, Gundlach)",
-      "AI cycle creates non-standard monetary policy environment \u2014 breaks traditional transmission (Ackman, Edwards, Hartnett)",
-      "Market structure risk \u2014 breadth, concentration, speculative top signals (Einhorn, Hartnett, Edwards, Wilson)"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
@@ -130,74 +37,16 @@
     "period_start": "2026-09-05",
     "period_end": "2026-10-05",
     "entries_count": 274,
-    "buy_side_bullets": [
-      "Dollar at historic purchasing power peak; EM (Brazil/Argentina) the new macro focus as credibility erodes. [Druckenmiller]",
-      "Capital wars intensifying: $1T US interest payments, tariff cascades, foreign confidence eroding \u2014 gold at 15% allocation thesis. [Dalio]",
-      "AI capex inelastic to rate hikes \u2014 Fed's inflation playbook broken; September hike was a mistake. [Ackman]",
-      "Speculative top signals accumulating: SpaceX IPO $1.75T, Mag7 divergence from breadth; capital preservation priority. [Einhorn]",
-      "Long-term Treasury bond is no longer a legitimate flight-to-quality asset \u2014 structural regime shift, fiscal crisis in next recession. [Gundlach]",
-      "Hard landing 'inevitable' despite positive GDP; more economic shoes to drop. [Druckenmiller evolving]"
-    ],
-    "sell_side_bullets": [
-      "Tech at 37% of US market \u2014 dot-com peak concentration; Japan bond crisis as overlooked global trigger. [Edwards]",
-      "US economy 'stall speed' near term; Fed cuts starting March 2026 (terminal 3-3.25%); global growth 'sturdy' 2.8%. [Hatzius]",
-      "$21.1bn US equity outflow; Bull & Bear sell signal active; 'buy humiliation' on bond rout. [Hartnett]",
-      "S&P 7,800; high-teens EPS 'crystal clear' but breadth narrowing to 21 stocks \u2014 late-cycle parallel to dot-com. [Wilson]",
-      "'Bipolar Economy' \u2014 labor weakness vs. Big Beautiful Bill fiscal stimulus; optimistic bias on balance. [Mauldin]",
-      "Disinflationary surprise in 2026 the underappreciated risk; K-shaped economy masks deteriorating labor market. [Rosenberg]",
-      "13% pullback warning; dot-com 'Groundhog Day' P/E compression risk; Bitcoin/S&P decoupling as leading indicator. [Bannister]",
-      "US economy 'stall speed'; stagflation risk from trade frictions + sticky inflation; AI and industrial renaissance as growth holds. [Torsten Slok]"
-    ],
-    "whats_new": [
-      "Ackman pivot in late September: from 'Fed needs to accept higher inflation' to 'Fed just made a mistake hiking' \u2014 direct response to September FOMC",
-      "Hatzius Oct 2 downgrade to 'stall speed' from '2.6% constructive' \u2014 material tone shift in one week",
-      "Druckenmiller adds structural EM long (Brazil/Argentina) as dominant macro theme",
-      "Hartnett October Flow Show: $21.1bn US equity outflow confirms institutional positioning reversal",
-      "Edwards Japan bond crisis elevated to co-equal systemic risk alongside AI bubble thesis (Sept)",
-      "Dalio increases public capital wars warnings at Davos \u2014 amplifying September thesis"
-    ],
-    "vs_market_buy": [
-      "Dalio: capital wars and $1T US interest cost trajectory significantly underpriced",
-      "Gundlach: long-term Treasuries not safe havens in recession \u2014 opposite of consensus flight-to-quality expectation",
-      "Druckenmiller: dollar at multi-decade purchasing power high \u2014 foreign overallocation underappreciated"
-    ],
-    "vs_market_sell": [
-      "Hartnett: 'frozen bullish' investor positioning at 9.4 Bull & Bear despite 5% bonds \u2014 contrarian sell signal",
-      "Bannister: 13% correction call vs. consensus complacency",
-      "Rosenberg: disinflationary surprise as underappreciated risk \u2014 market overweights sticky inflation scenario"
-    ],
-    "buy_vs_sell_divergence": [
-      "Ackman (buy): Fed made a mistake hiking. Hartnett/Bannister (sell): market at risk but from excess bullishness, not policy error.",
-      "Gundlach (buy): long-term Treasuries to be avoided structurally. Hatzius/Hartnett (sell): buy bonds now, duration tailwind ahead.",
-      "Wilson (sell): constructive 7,800 S&P, high-teens EPS. Einhorn/Bannister (sell): speculative top signals, capital preservation priority.",
-      "Torsten Slok (sell): AI and industrial renaissance keeping growth alive. Rosenberg (sell): K-shaped economy masking deterioration."
-    ],
-    "aligned": [
-      "AI capex cycle is structural and inelastic to rate hikes \u2014 both buy and sell side agree (Ackman, Edwards, Wilson, Hartnett, Slok)",
-      "Market breadth deteriorating: fewer stocks driving gains, late-cycle warning signs (Hartnett, Wilson, Bannister, Edwards)",
-      "US fiscal trajectory unsustainable medium term (Dalio, Gundlach, Reid, Rosenberg, Edwards)",
-      "Gold as primary macro hedge \u2014 buy and sell side converge (Dalio, Einhorn, Gundlach, Hartnett)"
-    ],
-    "buy_side_trades": [
-      "Short US dollar; long Brazil/Argentina EM [Druckenmiller]",
-      "Long gold 15% allocation; reduce US assets [Dalio]",
-      "Long AI infrastructure; avoid rate-sensitive sectors [Ackman]",
-      "Long gold; short speculative AI/tech (SpaceX as top signal) [Einhorn]",
-      "Avoid long-duration sovereigns; long gold; short dollar in recession [Gundlach]"
-    ],
-    "sell_side_trades": [
-      "'Buy humiliation': long US long-dated Treasuries [Hartnett]",
-      "Long 2-5yr bonds ahead of Fed cuts [Hatzius]",
-      "Long consumer stocks, software over semis, small caps [Wilson]",
-      "Long defensive value; shift from cyclical growth/Mag7 [Bannister]",
-      "Long gold, silver, uranium, Japanese yen; underweight high-multiple tech [Rosenberg]",
-      "Short tech (37% concentration); monitor Japan bonds [Edwards]"
-    ],
-    "dominant_themes": [
-      "Dollar credibility and EM rotation as fiscal/monetary regime shifts (Druckenmiller, Dalio, Gundlach)",
-      "AI cycle breaks traditional monetary policy transmission \u2014 inelastic capex, non-standard inflation dynamics (Ackman, Edwards, Wilson, Hartnett)",
-      "Speculative cycle peak accumulating \u2014 breadth, concentration, SpaceX IPO, equity outflows (Einhorn, Hartnett, Edwards, Bannister)"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   }
