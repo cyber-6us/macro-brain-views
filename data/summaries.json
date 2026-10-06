@@ -1,52 +1,225 @@
 {
-  "generated_at": "2026-10-05",
+  "generated_at": "2026-10-06",
   "today": {
-    "date": "2026-10-05",
-    "entries_count": 9,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "date": "2026-10-06",
+    "entries_count": 13,
+    "buy_side_bullets": [
+      "Structural fiscal/dollar risk driving portfolio defensiveness \u2014 gold, EM, puts as hedges. [Stan Druckenmiller, Ray Dalio]",
+      "AI bull market seen as intact with 'another year or two to run' \u2014 adding AI infrastructure and Mag7. [Paul Tudor Jones, David Tepper]",
+      "Fed September rate hike to 4.0% called a mistake \u2014 AI capex inelastic to rates creates vicious inflation cycle. [Stan Druckenmiller, Ray Dalio, George Soros]",
+      "Dollar structurally bearish; largest macro theme: long Brazil and Argentina as developed-market credibility hedge. [Druckenmiller]",
+      "Follow the $50B precision weapons defense bill \u2014 geopolitical escalation creates defense capex opportunity. [Bass]"
+    ],
+    "sell_side_bullets": [
+      "'1999 meets 1990': AI boom + oil supply shock forcing central banks back to rate hikes \u2014 AI productivity gains years away, inflationary now. [Reid]",
+      "US in brief stagflation: slowing growth + 3% inflation \u2014 K-shaped economy widening, AI buildout the eventual escape. [Slok]",
+      "BRAIN Revolution keeping 'Roaring 2020s' intact \u2014 S&P 500 to 7,700 (EPS $310), gold to $6,000, no recession. [Yardeni]",
+      "AI Stage 2 adoption wave arriving: digital and robotic employees reshaping macro \u2014 Stage 2 beneficiaries are the new alpha. [Visser]"
+    ],
+    "whats_new": [
+      "Crispin Odey: Firm dormant since Jan 2026, FCA lifetime ban upheld Sep 2026 \u2014 permanently exited macro markets.",
+      "Dalio escalating to 'pre-1945 times' Big Cycle warning \u2014 2026-2028 flagged as 'particularly risky period'.",
+      "Marks: Direct lending alpha gone \u2014 shifting to asset-backed finance and distressed credit for excess returns.",
+      "Tepper cutting AI memory (Micron -41%) while opening new AI infrastructure position in CoreWeave \u2014 rotation within AI.",
+      "Reid framing 2026 as '1999 meets 1990' \u2014 first time applying this historical parallel to current macro regime."
+    ],
+    "vs_market_buy": [
+      "Dalio: Foreign demand for US Treasuries structurally declining \u2014 market not fully pricing this erosion. [Dalio]",
+      "Druckenmiller: Narrative bubble is greatest 2026 risk \u2014 market complacent on AI/tech story risk. [Druckenmiller]",
+      "Einhorn: SpaceX $1.75T IPO marks speculative top \u2014 market pricing AGI certainty. [Einhorn]"
+    ],
+    "vs_market_sell": [
+      "Reid: AI productivity gains are years away \u2014 market pricing AI productivity too soon. [Reid]",
+      "Bannister: Big Tech remains cyclical and expensive despite AI narrative \u2014 market mispricing cycle risk. [Bannister]",
+      "Slok: K-shaped economy widening \u2014 market treating economy as uniform despite bifurcation. [Slok]"
+    ],
+    "buy_vs_sell_divergence": [
+      "AI bull market duration: Tudor Jones/Yardeni see 'another year or two', Einhorn/Edwards see speculative top already forming.",
+      "S&P 500 outlook: Wilson (7,800 target) and Yardeni (7,700) are bullish; Bannister sees correction to 6,500 mid-year.",
+      "Fed rate hike impact: Ackman says hike was a mistake (AI makes rates ineffective); Reid says central banks will have to hike more. [Ackman vs Reid]",
+      "Economy: Bessent forecasts 3.5%+ GDP growth; Slok describes stagflation; Rosenberg says zero recession is priced in. [Bessent vs Slok vs Rosenberg]"
+    ],
+    "aligned": [
+      "Fiscal trajectory unsustainable \u2014 US debt interest costs at $1T+ creating structural vulnerability. [Dalio, Reid, Gundlach, Mauldin]",
+      "Gold as macro hedge \u2014 structural case for hard-money allocation amid dollar credibility erosion. [Dalio, Rosenberg, Gundlach]",
+      "AI is the dominant macro driver of 2026 \u2014 reshaping capex, productivity, and monetary transmission. [Slok, Reid, Visser, Wilson, Yardeni]",
+      "Long-end bond yields set for higher \u2014 Fed not in a position to cut, risk of 5%+ on 10yr. [Gundlach, Ackman, Reid]"
+    ],
+    "buy_side_trades": [
+      "Allow bond market to set clearing rate \u2014 positioning for higher long-end yields [Stan Druckenmiller]",
+      "Short narrative-driven AI bubble names where story exceeds fundamentals [Stan Druckenmiller]",
+      "Long gold \u2014 up to 15% allocation as hard-money anchor [Ray Dalio]",
+      "Reduce US dollar and US Treasury exposure [Ray Dalio]",
+      "Diversify into non-correlated assets across geographies [Ray Dalio]",
+      "Long SpaceX (pre-IPO) \u2014 $199M Q2 2026 position [Paul Tudor Jones]",
+      "Long Oracle \u2014 new position in AI infrastructure beneficiary [Paul Tudor Jones]",
+      "Long iShares S&P 500 ETF for broad market diversification [Paul Tudor Jones]"
+    ],
+    "sell_side_trades": [
+      "Long Germany (fiscal rebound play) [Jim Reid]",
+      "Position for higher-for-longer global rates \u2014 central banks forced back to tightening [Jim Reid]",
+      "Long energy \u2014 oil supply shock driven by Middle East conflict [Jim Reid]",
+      "Long private credit (improving credit metrics in recovery phase) [Torsten Slok]",
+      "Selective AI infrastructure beneficiaries for recovery phase [Torsten Slok]",
+      "Cautious on rate-sensitive consumer names during stagflation phase [Torsten Slok]",
+      "Long equities \u2014 7700 S&P target (further upside from current levels) [Ed Yardeni]",
+      "Long gold \u2014 $6,000 target [Ed Yardeni]"
+    ],
+    "dominant_themes": [
+      "AI bull market / AI productivity",
+      "Higher-for-longer rates / Fed hawkishness",
+      "Fiscal risk / dollar credibility"
+    ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "week": {
-    "period_start": "2026-09-28",
-    "period_end": "2026-10-05",
-    "entries_count": 40,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "period_start": "2026-09-29",
+    "period_end": "2026-10-06",
+    "entries_count": 43,
+    "buy_side_bullets": [
+      "Structural fiscal/dollar risk driving portfolio defensiveness \u2014 gold, EM, puts as hedges. [Stan Druckenmiller, Ray Dalio, Ray Dalio, David Einhorn]",
+      "AI bull market seen as intact with 'another year or two to run' \u2014 adding AI infrastructure and Mag7. [Paul Tudor Jones, David Tepper, Scott Bessent, David Tepper]",
+      "Fed September rate hike to 4.0% called a mistake \u2014 AI capex inelastic to rates creates vicious inflation cycle. [Stan Druckenmiller, Ray Dalio, George Soros]",
+      "Dollar structurally bearish; largest macro theme: long Brazil and Argentina as developed-market credibility hedge. [Druckenmiller]",
+      "Follow the $50B precision weapons defense bill \u2014 geopolitical escalation creates defense capex opportunity. [Bass]"
+    ],
+    "sell_side_bullets": [
+      "'1999 meets 1990': AI boom + oil supply shock forcing central banks back to rate hikes \u2014 AI productivity gains years away, inflationary now. [Reid]",
+      "US in brief stagflation: slowing growth + 3% inflation \u2014 K-shaped economy widening, AI buildout the eventual escape. [Slok]",
+      "BRAIN Revolution keeping 'Roaring 2020s' intact \u2014 S&P 500 to 7,700 (EPS $310), gold to $6,000, no recession. [Yardeni]",
+      "Bull & Bear Indicator at extreme 9.7; record $1.2T equity inflows \u2014 rotate 'long Detroit, short Davos', from Mag7 to value/EM. [Hartnett]",
+      "US equity bull market continues \u2014 S&P 500 target 7,800, new economic cycle beginning, broadening beyond Big Tech. [Wilson]"
+    ],
+    "whats_new": [
+      "Crispin Odey: Firm dormant since Jan 2026, FCA lifetime ban upheld Sep 2026 \u2014 permanently exited macro markets.",
+      "Dalio escalating to 'pre-1945 times' Big Cycle warning \u2014 2026-2028 flagged as 'particularly risky period'.",
+      "Marks: Direct lending alpha gone \u2014 shifting to asset-backed finance and distressed credit for excess returns.",
+      "Tepper cutting AI memory (Micron -41%) while opening new AI infrastructure position in CoreWeave \u2014 rotation within AI.",
+      "Reid framing 2026 as '1999 meets 1990' \u2014 first time applying this historical parallel to current macro regime."
+    ],
+    "vs_market_buy": [
+      "Dalio: Foreign demand for US Treasuries structurally declining \u2014 market not fully pricing this erosion. [Dalio]",
+      "Druckenmiller: Narrative bubble is greatest 2026 risk \u2014 market complacent on AI/tech story risk. [Druckenmiller]",
+      "Einhorn: SpaceX $1.75T IPO marks speculative top \u2014 market pricing AGI certainty. [Einhorn]"
+    ],
+    "vs_market_sell": [
+      "Reid: AI productivity gains are years away \u2014 market pricing AI productivity too soon. [Reid]",
+      "Bannister: Big Tech remains cyclical and expensive despite AI narrative \u2014 market mispricing cycle risk. [Bannister]",
+      "Slok: K-shaped economy widening \u2014 market treating economy as uniform despite bifurcation. [Slok]"
+    ],
+    "buy_vs_sell_divergence": [
+      "AI bull market duration: Tudor Jones/Yardeni see 'another year or two', Einhorn/Edwards see speculative top already forming.",
+      "S&P 500 outlook: Wilson (7,800 target) and Yardeni (7,700) are bullish; Bannister sees correction to 6,500 mid-year.",
+      "Fed rate hike impact: Ackman says hike was a mistake (AI makes rates ineffective); Reid says central banks will have to hike more. [Ackman vs Reid]",
+      "Economy: Bessent forecasts 3.5%+ GDP growth; Slok describes stagflation; Rosenberg says zero recession is priced in. [Bessent vs Slok vs Rosenberg]"
+    ],
+    "aligned": [
+      "Fiscal trajectory unsustainable \u2014 US debt interest costs at $1T+ creating structural vulnerability. [Dalio, Reid, Gundlach, Mauldin]",
+      "Gold as macro hedge \u2014 structural case for hard-money allocation amid dollar credibility erosion. [Dalio, Rosenberg, Gundlach]",
+      "AI is the dominant macro driver of 2026 \u2014 reshaping capex, productivity, and monetary transmission. [Slok, Reid, Visser, Wilson, Yardeni]",
+      "Long-end bond yields set for higher \u2014 Fed not in a position to cut, risk of 5%+ on 10yr. [Gundlach, Ackman, Reid]"
+    ],
+    "buy_side_trades": [
+      "Allow bond market to set clearing rate \u2014 positioning for higher long-end yields [Stan Druckenmiller]",
+      "Short narrative-driven AI bubble names where story exceeds fundamentals [Stan Druckenmiller]",
+      "Long gold \u2014 up to 15% allocation as hard-money anchor [Ray Dalio]",
+      "Reduce US dollar and US Treasury exposure [Ray Dalio]",
+      "Diversify into non-correlated assets across geographies [Ray Dalio]",
+      "Long SpaceX (pre-IPO) \u2014 $199M Q2 2026 position [Paul Tudor Jones]",
+      "Long Oracle \u2014 new position in AI infrastructure beneficiary [Paul Tudor Jones]",
+      "Long iShares S&P 500 ETF for broad market diversification [Paul Tudor Jones]"
+    ],
+    "sell_side_trades": [
+      "Long Germany (fiscal rebound play) [Jim Reid]",
+      "Position for higher-for-longer global rates \u2014 central banks forced back to tightening [Jim Reid]",
+      "Long energy \u2014 oil supply shock driven by Middle East conflict [Jim Reid]",
+      "Long private credit (improving credit metrics in recovery phase) [Torsten Slok]",
+      "Selective AI infrastructure beneficiaries for recovery phase [Torsten Slok]",
+      "Cautious on rate-sensitive consumer names during stagflation phase [Torsten Slok]",
+      "Long equities \u2014 7700 S&P target (further upside from current levels) [Ed Yardeni]",
+      "Long gold \u2014 $6,000 target [Ed Yardeni]"
+    ],
+    "dominant_themes": [
+      "AI bull market / AI productivity",
+      "Higher-for-longer rates / Fed hawkishness",
+      "Fiscal risk / dollar credibility"
+    ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "month": {
-    "period_start": "2026-09-05",
-    "period_end": "2026-10-05",
-    "entries_count": 274,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "period_start": "2026-09-06",
+    "period_end": "2026-10-06",
+    "entries_count": 279,
+    "buy_side_bullets": [
+      "Structural fiscal/dollar risk driving portfolio defensiveness \u2014 gold, EM, puts as hedges. [Stan Druckenmiller, Ray Dalio, Ray Dalio, David Einhorn]",
+      "AI bull market seen as intact with 'another year or two to run' \u2014 adding AI infrastructure and Mag7. [Paul Tudor Jones, David Tepper, Scott Bessent, David Tepper]",
+      "Fed September rate hike to 4.0% called a mistake \u2014 AI capex inelastic to rates creates vicious inflation cycle. [Stan Druckenmiller, Ray Dalio, George Soros]",
+      "Dollar structurally bearish; largest macro theme: long Brazil and Argentina as developed-market credibility hedge. [Druckenmiller]",
+      "Follow the $50B precision weapons defense bill \u2014 geopolitical escalation creates defense capex opportunity. [Bass]"
+    ],
+    "sell_side_bullets": [
+      "'1999 meets 1990': AI boom + oil supply shock forcing central banks back to rate hikes \u2014 AI productivity gains years away, inflationary now. [Reid]",
+      "US in brief stagflation: slowing growth + 3% inflation \u2014 K-shaped economy widening, AI buildout the eventual escape. [Slok]",
+      "BRAIN Revolution keeping 'Roaring 2020s' intact \u2014 S&P 500 to 7,700 (EPS $310), gold to $6,000, no recession. [Yardeni]",
+      "Bull & Bear Indicator at extreme 9.7; record $1.2T equity inflows \u2014 rotate 'long Detroit, short Davos', from Mag7 to value/EM. [Hartnett]",
+      "US equity bull market continues \u2014 S&P 500 target 7,800, new economic cycle beginning, broadening beyond Big Tech. [Wilson]"
+    ],
+    "whats_new": [
+      "Crispin Odey: Firm dormant since Jan 2026, FCA lifetime ban upheld Sep 2026 \u2014 permanently exited macro markets.",
+      "Dalio escalating to 'pre-1945 times' Big Cycle warning \u2014 2026-2028 flagged as 'particularly risky period'.",
+      "Marks: Direct lending alpha gone \u2014 shifting to asset-backed finance and distressed credit for excess returns.",
+      "Tepper cutting AI memory (Micron -41%) while opening new AI infrastructure position in CoreWeave \u2014 rotation within AI.",
+      "Reid framing 2026 as '1999 meets 1990' \u2014 first time applying this historical parallel to current macro regime."
+    ],
+    "vs_market_buy": [
+      "Dalio: Foreign demand for US Treasuries structurally declining \u2014 market not fully pricing this erosion. [Dalio]",
+      "Druckenmiller: Narrative bubble is greatest 2026 risk \u2014 market complacent on AI/tech story risk. [Druckenmiller]",
+      "Einhorn: SpaceX $1.75T IPO marks speculative top \u2014 market pricing AGI certainty. [Einhorn]"
+    ],
+    "vs_market_sell": [
+      "Reid: AI productivity gains are years away \u2014 market pricing AI productivity too soon. [Reid]",
+      "Bannister: Big Tech remains cyclical and expensive despite AI narrative \u2014 market mispricing cycle risk. [Bannister]",
+      "Slok: K-shaped economy widening \u2014 market treating economy as uniform despite bifurcation. [Slok]"
+    ],
+    "buy_vs_sell_divergence": [
+      "AI bull market duration: Tudor Jones/Yardeni see 'another year or two', Einhorn/Edwards see speculative top already forming.",
+      "S&P 500 outlook: Wilson (7,800 target) and Yardeni (7,700) are bullish; Bannister sees correction to 6,500 mid-year.",
+      "Fed rate hike impact: Ackman says hike was a mistake (AI makes rates ineffective); Reid says central banks will have to hike more. [Ackman vs Reid]",
+      "Economy: Bessent forecasts 3.5%+ GDP growth; Slok describes stagflation; Rosenberg says zero recession is priced in. [Bessent vs Slok vs Rosenberg]"
+    ],
+    "aligned": [
+      "Fiscal trajectory unsustainable \u2014 US debt interest costs at $1T+ creating structural vulnerability. [Dalio, Reid, Gundlach, Mauldin]",
+      "Gold as macro hedge \u2014 structural case for hard-money allocation amid dollar credibility erosion. [Dalio, Rosenberg, Gundlach]",
+      "AI is the dominant macro driver of 2026 \u2014 reshaping capex, productivity, and monetary transmission. [Slok, Reid, Visser, Wilson, Yardeni]",
+      "Long-end bond yields set for higher \u2014 Fed not in a position to cut, risk of 5%+ on 10yr. [Gundlach, Ackman, Reid]"
+    ],
+    "buy_side_trades": [
+      "Allow bond market to set clearing rate \u2014 positioning for higher long-end yields [Stan Druckenmiller]",
+      "Short narrative-driven AI bubble names where story exceeds fundamentals [Stan Druckenmiller]",
+      "Long gold \u2014 up to 15% allocation as hard-money anchor [Ray Dalio]",
+      "Reduce US dollar and US Treasury exposure [Ray Dalio]",
+      "Diversify into non-correlated assets across geographies [Ray Dalio]",
+      "Long SpaceX (pre-IPO) \u2014 $199M Q2 2026 position [Paul Tudor Jones]",
+      "Long Oracle \u2014 new position in AI infrastructure beneficiary [Paul Tudor Jones]",
+      "Long iShares S&P 500 ETF for broad market diversification [Paul Tudor Jones]"
+    ],
+    "sell_side_trades": [
+      "Long Germany (fiscal rebound play) [Jim Reid]",
+      "Position for higher-for-longer global rates \u2014 central banks forced back to tightening [Jim Reid]",
+      "Long energy \u2014 oil supply shock driven by Middle East conflict [Jim Reid]",
+      "Long private credit (improving credit metrics in recovery phase) [Torsten Slok]",
+      "Selective AI infrastructure beneficiaries for recovery phase [Torsten Slok]",
+      "Cautious on rate-sensitive consumer names during stagflation phase [Torsten Slok]",
+      "Long equities \u2014 7700 S&P target (further upside from current levels) [Ed Yardeni]",
+      "Long gold \u2014 $6,000 target [Ed Yardeni]"
+    ],
+    "dominant_themes": [
+      "AI bull market / AI productivity",
+      "Higher-for-longer rates / Fed hawkishness",
+      "Fiscal risk / dollar credibility"
+    ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   }
