@@ -1,8 +1,12 @@
 {
-  "generated_at": "2026-10-07",
+  "generated_at": "2026-10-08",
   "today": {
-    "date": "2026-10-07",
-    "entries_count": 17,
+    "date": "2026-10-08",
+    "entries_count": 0,
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed",
+    "buy_side_trades": [],
+    "sell_side_trades": [],
     "buy_side_bullets": [],
     "sell_side_bullets": [],
     "whats_new": [],
@@ -10,44 +14,146 @@
     "vs_market_sell": [],
     "buy_vs_sell_divergence": [],
     "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "dominant_themes": []
   },
   "week": {
-    "period_start": "2026-09-30",
-    "period_end": "2026-10-07",
-    "entries_count": 58,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "period_start": "2026-10-01",
+    "period_end": "2026-10-08",
+    "entries_count": 57,
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "mixed",
+    "buy_side_trades": [
+      "Short Nvidia, Palantir via put options",
+      "Short SMH (iShares Semiconductor ETF)",
+      "Long MercadoLibre (MELI) \u2014 new Q1 2026 position",
+      "Long Adobe, Autodesk, Veeva Systems \u2014 beaten-down SaaS",
+      "Long high-quality FCF compounders at dislocated prices",
+      "Monitor for AI capex inflation feedback loop developing"
+    ],
+    "sell_side_trades": [
+      "Short 30-year US Treasuries \u2014 outright short position still active",
+      "Long 2-7 year BBB+ rated bonds \u2014 quality-focused positioning",
+      "Long US small/mid-caps, regional banks, REITs",
+      "Long international and emerging market equities",
+      "Short Magnificent 7 / Big Tech relative value",
+      "Equal-weight 25% stocks / 25% bonds / 25% cash / 25% commodities"
+    ],
+    "buy_side_bullets": [
+      "Markets on 'collision course' with higher rates \u2014 long-term Treasuries no longer legitimate flight-to-quality; 6%+ yields possible. [Gundlach, Druckenmiller]",
+      "AI bubble warnings intensifying \u2014 Nvidia shorts via puts, SpaceX $1.75T IPO would mark 'speculative top' for cycle; 1999 dot-com parallels proliferating. [Burry, Einhorn]",
+      "Dollar structurally bearish near historic highs; US interest payments crossing $1T in FY2026 \u2014 Big Cycle Stage 5 underway; diversify into gold, Brazil, Argentina. [Dalio, Druckenmiller shift]",
+      "Fed's September hike to 4.0% was a 'mistake' \u2014 AI capex is rate-insensitive at $650B+, breaking traditional monetary transmission mechanism. [Ackman]",
+      "AI bull has 'another year or two to run' but positioning feels exactly like October 1999 blow-off top \u2014 hard landing 'inevitable' despite apparent resilience. [Tudor Jones evolving, Druckenmiller]"
+    ],
+    "sell_side_bullets": [
+      "Bull & Bear indicator at 9.6-9.7 \u2014 17th formal sell signal triggered; $21.1B US equity outflow (biggest since March 2026); global inflows tracking record $1.2T. [Hartnett]",
+      "S&P 500 target divergence extreme: bulls at 7,800-8,250 on 'crystal clear' earnings; bears warn 6,500 possible as 3 risks converge \u2014 wide regime uncertainty. [Wilson, Yardeni vs. Bannister, Berezin]",
+      "Ice Age deflation thesis officially retired \u2014 double-digit inflation return is the new regime; tech now at 37% of US equity market, exceeding dot-com peak. [Edwards shift]",
+      "Recession probability dramatically reversed \u2014 slashed to 10% vs. market's 30% pricing; One Big Beautiful Bill adds ~1% GDP, stagflation avoided. [Slok shift]",
+      "US economy at 'stall speed'; October Fed hike unlikely but December rate path uncertain; PCE running 4-4.6% annualized complicates easing. [Hatzius, Rosenberg, Mauldin]"
+    ],
+    "whats_new": [
+      "Gundlach explicitly declares long-term Treasuries no longer legitimate flight-to-quality \u2014 40-year structural regime break",
+      "Edwards formally retires Ice Age thesis; now forecasting return of double-digit inflation driven by fiscal dominance",
+      "Slok reverses dramatically from stagflation concern to only 10% recession odds [shift]",
+      "Rosenberg launches ROSY ETF (TSX) institutionalizing bearish macro framework",
+      "Hartnett's October Flow Show shows $21.1B US equity outflow \u2014 largest since March 2026"
+    ],
+    "vs_market_buy": [
+      "Gundlach, Druckenmiller, Napier: long-term Treasuries are bearish vs. market assuming bond flight-to-quality bid",
+      "Dalio, Druckenmiller: dollar structurally bearish vs. consensus dollar stability",
+      "Burry, Einhorn: large AI/tech short positions vs. record equity inflows into these sectors"
+    ],
+    "vs_market_sell": [
+      "Slok: only 10% recession odds vs. market pricing 30%+ \u2014 market too pessimistic on recession",
+      "Hartnett: contrarian sell signal on equities vs. record equity inflows and bullish consensus",
+      "Bannister, Berezin: S&P 500 to 6,500 possible vs. consensus bullish year-end targets"
+    ],
+    "buy_vs_sell_divergence": [
+      "Interest rates: Gundlach (buy) says rates still going higher past 6%; Yardeni/Wilson (sell) expect stabilization enabling earnings growth",
+      "Economic regime: Bessent (buy) projects blockbuster 3.5% GDP year; Rosenberg/Bannister (sell) say stall speed and possible 6,500 S&P",
+      "AI narrative: Burry/Einhorn (buy) warning on major top with active shorts; Wilson/Visser (sell) say new economic/earnings cycle just beginning"
+    ],
+    "aligned": [
+      "Long-term Treasuries are structurally challenged and no longer reliable safe haven \u2014 consensus across Gundlach, Napier (buy) and Rosenberg, Edwards (sell)",
+      "US equity market concentration in tech at historically elevated levels exceeding dot-com peaks \u2014 both sides acknowledge the risk",
+      "AI is fundamentally reshaping capex, inflation, and productivity dynamics \u2014 consensus on mechanism, sharp disagreement on investment implications"
+    ],
+    "dominant_themes": [
+      "AI capex bubble risk vs. Stage 2 economic transformation",
+      "US Treasury structural bear market and flight-to-quality breakdown",
+      "Record equity crowding with formal contrarian sell signals triggered"
+    ]
   },
   "month": {
-    "period_start": "2026-09-07",
-    "period_end": "2026-10-07",
-    "entries_count": 287,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "period_start": "2026-09-08",
+    "period_end": "2026-10-08",
+    "entries_count": 267,
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "mixed",
+    "buy_side_trades": [
+      "Short Nvidia, Palantir via put options",
+      "Short SMH (iShares Semiconductor ETF)",
+      "Long MercadoLibre (MELI) \u2014 new Q1 2026 position",
+      "Long Adobe, Autodesk, Veeva Systems \u2014 beaten-down SaaS",
+      "Long high-quality FCF compounders at dislocated prices",
+      "Monitor for AI capex inflation feedback loop developing"
+    ],
+    "sell_side_trades": [
+      "Short 30-year US Treasuries \u2014 outright short position still active",
+      "Long 2-7 year BBB+ rated bonds \u2014 quality-focused positioning",
+      "Long US small/mid-caps, regional banks, REITs",
+      "Long international and emerging market equities",
+      "Short Magnificent 7 / Big Tech relative value",
+      "Equal-weight 25% stocks / 25% bonds / 25% cash / 25% commodities"
+    ],
+    "buy_side_bullets": [
+      "Big Cycle Stage 5 accelerating \u2014 world resembles 'pre-1945 times'; US debt interest crossing $1T; 2026-2028 is 'particularly risky period' for capital; financial repression for 15-20 years. [Dalio, Napier]",
+      "AI-driven market at major inflection \u2014 parallels to 1999 dot-com, 1987 crash; Nvidia and AI index put options as core hedges; SpaceX $1.75T IPO as speculative top marker. [Burry, Einhorn]",
+      "Dollar structurally bearish, hard landing 'inevitable' despite apparent resilience \u2014 'more shoes to drop' economically; narrative bubbles are the greatest tail risk. [Druckenmiller]",
+      "Long-term Treasuries are no longer legitimate flight-to-quality assets; next recession will feature rising rates + falling dollar \u2014 opposite of historical precedent. [Gundlach]",
+      "Defense stocks and precision weapons allocation represent the biggest macro opportunity given Middle East escalation; geopolitical risk structurally higher. [Bass]"
+    ],
+    "sell_side_bullets": [
+      "Extreme equity crowding triggering formal contrarian sell signals \u2014 Bull & Bear indicator in 9.6-9.7 range; global equity inflows tracking record $1.2T in 2026; massive US equity outflows in early October. [Hartnett]",
+      "S&P 500 consensus deeply divided: Yardeni targets 8,250 on 23% earnings growth; Bannister warns to 6,500; Berezin flags AI earnings bubble as unique valuation form with structural earnings cliff by 2030. [Edwards, Berezin, Bannister vs. Yardeni, Wilson]",
+      "Structural inflation regime change \u2014 Ice Age deflation over; governments cannot unwind fiscal expansion; financial repression 4-6% inflation engineered for 15+ years; PCE at 4-4.6%. [Edwards, Napier, Mauldin]",
+      "AI Stage 2 adoption wave arriving in 2026 \u2014 transition from infrastructure buildout to digital/robotic employees reshaping economy; S&P 500 at 7,800 on broadening recovery. [Visser, Wilson]",
+      "Recession probability range: 10-50% \u2014 wide disagreement; Slok reversed from 75% to 10% as stagflation thesis failed; Berezin at 40-50%; US economy at 'stall speed' with PCE complicating Fed path. [Slok shift, Berezin, Hatzius, Rosenberg]"
+    ],
+    "whats_new": [
+      "Edwards formally retired Ice Age deflation thesis \u2014 replaced with double-digit inflation regime forecast",
+      "Slok reversed from stagflation/75% recession odds to only 10% recession probability \u2014 largest stance reversal of the period [shift]",
+      "Gundlach declared structural break: long-term Treasuries are no longer legitimate flight-to-quality",
+      "Hartnett's 'China in a Bull Shop' October edition showed $21.1B US equity outflow \u2014 largest since March 2026",
+      "Rosenberg launched ROSY ETF institutionalizing defensive macro positioning",
+      "Dalio completed full exit from Bridgewater \u2014 now running personal capital exclusively on Big Cycle framework"
+    ],
+    "vs_market_buy": [
+      "Dalio, Druckenmiller, Gundlach: structurally bearish on Treasuries and dollar vs. consensus expecting these as safe havens",
+      "Burry, Einhorn: actively short AI/tech via puts vs. market record equity inflows to these sectors",
+      "Bass: concentrated in defense sector vs. market still focused on tech/AI plays"
+    ],
+    "vs_market_sell": [
+      "Slok: 10% recession odds vs. market's 30%+ pricing \u2014 bullish divergence from consensus",
+      "Hartnett: formal sell signal with record equity inflows \u2014 bearish divergence from market positioning",
+      "Berezin, Rosenberg: recession 40-50% probability vs. official optimism from Treasury"
+    ],
+    "buy_vs_sell_divergence": [
+      "Bond market direction: Gundlach (buy) and Napier (buy) say 15-20 year bear market; Yardeni/Wilson (sell) say yields stabilize enabling earnings",
+      "AI timeline: Burry/Einhorn (buy) warning imminent bubble burst; Visser/Wilson (sell) say AI Stage 2 adoption is just beginning",
+      "Economic growth: Bessent (buy) projects 3.5%+ GDP blockbuster year; Rosenberg/Bannister (sell) warn stall speed and possible market decline to 6,500"
+    ],
+    "aligned": [
+      "Long-term Treasuries structurally challenged \u2014 broad consensus across buy and sell side that the 40-year bond bull is over",
+      "US equity concentration in tech at historically extreme levels \u2014 both sides acknowledge concentration risk",
+      "AI is reshaping the global economy in ways that break traditional macro models \u2014 consensus on disruption, disagreement on investment implications",
+      "Geopolitical risk structurally elevated \u2014 Middle East, US-China tensions; defense spending a multi-year theme"
+    ],
+    "dominant_themes": [
+      "AI bubble vs. transformation: short-sellers building positions while bulls see Stage 2 adoption wave",
+      "Structural inflation regime change with financial repression replacing Ice Age deflation",
+      "US fiscal sustainability crisis: $1T+ interest payments, Big Cycle Stage 5, Treasury bear market"
+    ]
   }
 }
