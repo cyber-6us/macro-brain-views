@@ -3,124 +3,33 @@
   "today": {
     "date": "2026-10-09",
     "entries_count": 4,
-    "buy_side_bullets": [
-      "Brazil election shock vindicated contrarian EM bet — EWZ +13% day, +37% YTD [Stan Druckenmiller]",
-      "US debt crisis possible within ~3 years — $7.5T spending vs $5.5T revenue = near-$2T deficit [Ray Dalio]"
-    ],
-    "sell_side_bullets": [
-      "Warsh's 'money matters' mantra confirms shift to bank-driven credit and financial repression regime [Russell Napier]",
-      "Mid-term election seasonality: S&P 500 rallied 21 of 23 years (median +7%), but both exceptions had rate fears [Jim Reid]"
-    ],
-    "whats_new": [
-      "Druckenmiller Brazil bet vindicated — Bolsonaro shock election result drives EWZ +13%",
-      "Dalio hardens debt crisis timeline — 'within ~3 years' is more specific than prior Big Cycle framing",
-      "Napier formalizes buy-gold-wait-for-dips playbook — most actionable advice yet in financial repression thesis",
-      "Reid explicitly flags mid-term seasonality pattern breaking on rate fears — statistical historical framing"
-    ],
-    "vs_market_buy": [
-      "Druckenmiller bullish Brazil — market was pricing Lula win, he was contrarian",
-      "Dalio debt crisis timeline more urgent than market pricing — 3 years vs. 'long-term problem'"
-    ],
-    "vs_market_sell": [
-      "Napier says regulatory bond trapping is by design — market prices bonds as cyclically cheap, not permanently suppressed",
-      "Reid says rate fears will override seasonal equity tailwind — consensus favors seasonal strength"
-    ],
-    "buy_vs_sell_divergence": [
-      "Buy-side sees specific catalysts (Brazil, EM) creating tactical opportunities; sell-side focuses on structural rate/election risks",
-      "Dalio bearish on US overall; Reid cautiously bearish on equities through rate fears lens"
-    ],
-    "aligned": [
-      "Rate environment remains the dominant market risk — both buy and sell side cite elevated yields",
-      "US fiscal trajectory is unsustainable — shared concern across Dalio and Reid",
-      "Hard assets (gold) as hedges against monetary/fiscal policy errors"
-    ],
-    "buy_side_trades": [
-      "Short 30-year US Treasuries — outright short still active [Stan Druckenmiller]"
-    ],
-    "sell_side_trades": [
-      "Long gold — primary wealth preservation asset [Russell Napier]",
-      "Hold cash/liquidity — for deploying at equity dips [Russell Napier]",
-      "Short long-dated government bonds — negative real returns by design [Russell Napier]"
-    ],
-    "dominant_themes": [
-      "US debt sustainability — deficit trajectory unsustainable within 3 years",
-      "Financial repression regime onset — Warsh 'money matters' signals regime change",
-      "Midterm election seasonality vs. rate fear exception — historical pattern at risk"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "bearish"
+    "sell_side_sentiment": "mixed"
   },
   "week": {
     "period_start": "2026-10-02",
     "period_end": "2026-10-09",
     "entries_count": 52,
-    "buy_side_bullets": [
-      "US debt crisis likely within ~3 years — $7.5T spending, $5.5T revenue, $1T interest/yr. [Dalio]",
-      "10-year yield heading to 5.50% — bond market must clear freely, suppression is false comfort. [Druckenmiller]",
-      "Markets on 'collision course' with higher rates — 30-year Treasuries facing fresh selloff. [Gundlach]",
-      "Markets in denial — AI valuations in bubble phase analogous to 1999-2000; six of seven AI shorts profitable. [Burry]",
-      "Fed hike a 'mistake' — AI capex of $650B insensitive to rate rises, risks vicious inflation cycle. [Ackman]"
-    ],
-    "sell_side_bullets": [
-      "Risk-off mood to persist until dollar peaks — buy bonds on humiliation, not equities. [Hartnett]",
-      "Mid-term seasonality bullish but rate fears override — 2 of 23 exceptions both centered on rate fears. [J. Reid]",
-      "Nvidia masking breadth weakness — broad market showing 'whole lot of pain' under headline strength. [Rosenberg]",
-      "S&P 400 MidCap EPS up 19% in 2026 — but only 20% of stocks above 50-day MA, breadth deteriorating. [Yardeni]",
-      "Financial repression regime underway — hold gold, preserve liquidity, wait for equity dips. [Napier]"
-    ],
-    "whats_new": [
-      "Dalio sharpens timeline: 'within 3 years' is far more specific than previous Big Cycle framing [Dalio shift]",
-      "Napier moves from thesis to trade: 'hold gold, preserve liquidity for equity dips' is new actionable call [Napier evolving]",
-      "Gundlach flags AI bond widening separately from broader credit — tech credit stress a new risk vector [Gundlach]",
-      "Ackman flips from Fed-supportive to calling September hike a 'mistake' — rare Fed criticism from him [Ackman shift]",
-      "Reid explicitly quantifies mid-term seasonal risk with statistical framing — new level of specificity [Reid]"
-    ],
-    "vs_market_buy": [
-      "Druckenmiller/Gundlach: 10-year at 5.50% is equilibrium — market pricing peak much lower",
-      "Dalio: debt crisis in 3 years — market pricing this as manageable long-term structural issue",
-      "Burry: AI short thesis — market paying record multiples for AI beneficiaries Burry is shorting"
-    ],
-    "vs_market_sell": [
-      "Napier: financial repression means bonds are permanently, not cyclically, cheap — bond bulls are wrong structurally",
-      "Hartnett: BofA Bull & Bear at 9.5 (contrarian Sell) — market positioning is extremely bullish despite risks",
-      "Rosenberg: Nvidia strength masking a weakening market — headline index misleading vs. breadth reality"
-    ],
-    "buy_vs_sell_divergence": [
-      "Buy-side still sees selective EM and hard-asset opportunities (Druckenmiller Brazil); sell-side uniformly risk-off",
-      "Ackman calls Fed hike a mistake (dovish lean); Gundlach says should have hiked more (hawkish lean) — diverge on Fed",
-      "Burry sees imminent crash risk; Dalio sees 3-year runway — buy-side differs on timing of US crisis"
-    ],
-    "aligned": [
-      "Long-term US Treasuries unattractive — shared across Druckenmiller, Gundlach, Napier, Reid",
-      "AI capex boom is inflationary in short/medium term — Ackman and Reid both cite this mechanism",
-      "Gold as hedge against monetary/fiscal credibility erosion — Napier, Dalio both hold",
-      "Market breadth deterioration — Hartnett, Rosenberg, Yardeni all flag narrow leadership as warning"
-    ],
-    "buy_side_trades": [
-      "Short Nvidia, Palantir via put options [Michael Burry]",
-      "Long high-quality FCF compounders at dislocated prices [Bill Ackman]",
-      "Capital preservation positioning — underweight equities vs. benchmark [David Einhorn]",
-      "Allow bond market to set clearing rate — positioning for higher long-end yields [Stan Druckenmiller]",
-      "Long gold — up to 15% allocation as hard-money anchor [Ray Dalio]",
-      "Long SpaceX (pre-IPO) — $199M Q2 2026 position [Paul Tudor Jones]",
-      "Selective AI exposure — moderate position sized for risk-adjusted participation [Howard Marks]",
-      "Index put options as portfolio hedge (20% defensive overlay) [George Soros]"
-    ],
-    "sell_side_trades": [
-      "Short 30-year US Treasuries — outright short position still active [Jeffrey Gundlach]",
-      "Long 2-7 year BBB+ rated bonds — quality-focused positioning [Jeffrey Gundlach]",
-      "Long US small/mid-caps, regional banks, REITs [Michael Hartnett]",
-      "Long international and emerging market equities [Michael Hartnett]",
-      "Short Magnificent 7 / Big Tech relative value [Michael Hartnett]",
-      "Equal-weight 25% stocks / 25% bonds / 25% cash / 25% commodities [Michael Hartnett]",
-      "Long risk-managed macro strategies via ROSY ETF [David Rosenberg]",
-      "Underweight momentum equities; overweight valuation discipline and defensive quality [David Rosenberg]"
-    ],
-    "dominant_themes": [
-      "US fiscal sustainability crisis — $2T deficit, $1T interest, debt clock accelerating",
-      "Rate-fear regime overriding seasonal/technical tailwinds — 10-year at 5.31%, 30-year at 5.67%",
-      "Narrow AI-driven rally masking broad market deterioration and credit stress"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
@@ -128,73 +37,16 @@
     "period_start": "2026-09-09",
     "period_end": "2026-10-09",
     "entries_count": 258,
-    "buy_side_bullets": [
-      "Financial repression regime is the defining 15-20 year macro backdrop — own gold, avoid bonds. [Napier]",
-      "US debt crisis within 3 years — deficit trajectory, interest costs crowding out everything else. [Dalio]",
-      "Markets on 'collision course' with higher rates — long-dated yields past 6% possible. [Gundlach]",
-      "AI productivity gains are years away; capex boom is inflationary NOW — don't buy the narrative yet. [Ackman, J.Reid]",
-      "Buy quality stocks — dislocation creating best opportunities in years amid macro noise. [Ackman]"
-    ],
-    "sell_side_bullets": [
-      "1999 meets 1990 — AI boom + oil shock = hawkish central banks; global CPI revised to 3.8%. [J. Reid]",
-      "Risk-off until dollar peaks — frozen bullish positioning despite 5% bonds; BofA B&B at sell zone. [Hartnett]",
-      "US expansion intact but breadth deteriorating — Nvidia masks broad market pain. [Rosenberg, Yardeni]",
-      "Federal Reserve near end of hikes — December is now the base case, not October. [Hatzius]",
-      "Financial repression regime: hold gold, preserve cash for equity dips. [Napier]"
-    ],
-    "whats_new": [
-      "Bessent dismisses bond market backlash on yields — Treasury jawboning yields down while issuing record debt [Bessent]",
-      "Goldman revises October hike off the table — December now base case, further softening possible [Hatzius evolving]",
-      "BCA calls US expansion intact after weak September jobs — walks back near-term recession call [Berezin shift]",
-      "Burry maintains AI shorts — six of seven profitable, views current rally as 2000-style denial phase [Burry]",
-      "Druckenmiller vindicated on Brazil contrarian — adds to his credibility on yield calls [Druckenmiller]"
-    ],
-    "vs_market_buy": [
-      "Druckenmiller/Gundlach/Napier: 5.31% 10-year is not the peak — market pricing much lower equilibrium",
-      "Dalio: debt crisis timeline 3 years — market pricing this as a very long-term, manageable problem",
-      "Napier: financial repression means negative real bond returns are intentional and durable — not priced"
-    ],
-    "vs_market_sell": [
-      "Hartnett: BofA Bull & Bear at contrarian Sell extreme — market positioning far too bullish vs. reality",
-      "Rosenberg: headline S&P misleading due to Nvidia concentration — breadth signals deterioration ahead",
-      "Napier: regulations will trap bond investors — market doesn't price in forced allocation dynamics"
-    ],
-    "buy_vs_sell_divergence": [
-      "Buy-side (Dalio/Druckenmiller) sees dollar collapse as key risk; sell-side (Reid/Hartnett) still risk-off on equities first",
-      "Ackman bullish on quality stocks at current prices; Hartnett says BofA contrarian sell signal active",
-      "Buy-side split: Gundlach hawkish (rates need to go higher); Ackman dovish (latest hike was a mistake)"
-    ],
-    "aligned": [
-      "Long-duration US Treasuries are unattractive — near-universal across buy and sell side",
-      "AI capex cycle is real but inflationary before it is productive — both sides acknowledge this tension",
-      "Fiscal trajectory unsustainable — policy response undefined but necessary",
-      "Gold as macro hedge in an uncertain policy environment — Napier, Dalio, Druckenmiller all hold"
-    ],
-    "buy_side_trades": [
-      "Short Nvidia, Palantir via put options [Michael Burry]",
-      "Long high-quality FCF compounders at dislocated prices [Bill Ackman]",
-      "Capital preservation positioning — underweight equities vs. benchmark [David Einhorn]",
-      "Allow bond market to set clearing rate — positioning for higher long-end yields [Stan Druckenmiller]",
-      "Long gold — up to 15% allocation as hard-money anchor [Ray Dalio]",
-      "Long SpaceX (pre-IPO) — $199M Q2 2026 position [Paul Tudor Jones]",
-      "Selective AI exposure — moderate position sized for risk-adjusted participation [Howard Marks]",
-      "Index put options as portfolio hedge (20% defensive overlay) [George Soros]"
-    ],
-    "sell_side_trades": [
-      "Short 30-year US Treasuries — outright short position still active [Jeffrey Gundlach]",
-      "Long 2-7 year BBB+ rated bonds — quality-focused positioning [Jeffrey Gundlach]",
-      "Long US small/mid-caps, regional banks, REITs [Michael Hartnett]",
-      "Long international and emerging market equities [Michael Hartnett]",
-      "Short Magnificent 7 / Big Tech relative value [Michael Hartnett]",
-      "Equal-weight 25% stocks / 25% bonds / 25% cash / 25% commodities [Michael Hartnett]",
-      "Long risk-managed macro strategies via ROSY ETF [David Rosenberg]",
-      "Underweight momentum equities; overweight valuation discipline and defensive quality [David Rosenberg]"
-    ],
-    "dominant_themes": [
-      "Financial repression and debt sustainability — 15-20 year regime change underway",
-      "AI investment boom: inflationary now, productivity gains deferred — market mis-pricing the timeline",
-      "Central bank policy error risk — Fed hiking into AI capex cycle that doesn't respond to rates"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   }
