@@ -3,114 +3,33 @@
   "today": {
     "date": "2026-10-10",
     "entries_count": 3,
-    "buy_side_bullets": [
-      "US equities likely to retest recent lows \u2014 trade uncertainty and restrictive rates will force a sharp correction before either eases. [Tudor Jones shift]",
-      "Q3 2026 GDP tracking above 4% per Atlanta Fed \u2014 core inflation 'very quiescent,' dollar at 89.2% of global FX transactions. [Bessent]",
-      "Iran economic isolation campaign 'working' \u2014 zero crude tankers loaded in September, rial at record low. [Bessent]"
-    ],
-    "sell_side_bullets": [
-      "Bank lending and M2 surge building unrecognized inflation risk \u2014 Fed underestimating money supply expansion, challenging Powell's 2021 'M2 doesn't matter' view. [Edwards]",
-      "Treasury bill reliance creating future refinancing landmine \u2014 short-term funding strategy lowers current costs but escalates rollover risk. [Edwards]",
-      "SocGen model: bonds preferred over equities as inflation risk compounds on multiple fronts. [Edwards]"
-    ],
-    "whats_new": [
-      "Tudor Jones pivots from May 2026 bullish ('AI bull another year or two') to expecting equity retest of lows \u2014 significant reversal. [Tudor Jones]",
-      "Edwards adds bank lending/M2 surge as new specific inflation catalyst \u2014 beyond fiscal dominance thesis from May 2026. [Edwards]",
-      "Bessent cites Q3 GDP >4% tracking \u2014 upgrades beyond earlier 3.5% full-year target. [Bessent]"
-    ],
-    "vs_market_buy": [
-      "Tudor Jones bearish on near-term equities \u2014 markets still pricing in soft landing; he sees forced correction first. [Tudor Jones]",
-      "Bessent sees Q3 GDP >4% \u2014 significantly above consensus growth expectations. [Bessent]"
-    ],
-    "vs_market_sell": [
-      "Edwards warns Fed is underestimating bank lending surge \u2014 consensus still sees inflation under control. [Edwards]"
-    ],
-    "buy_vs_sell_divergence": [
-      "Bessent (buy) sees strong economy, quiescent inflation; Edwards (sell) sees bank lending surge as new inflation risk \u2014 opposing macro reads.",
-      "Tudor Jones (buy) turns cautious on equities; no buy-side bull to offset today."
-    ],
-    "aligned": [
-      "Rates unlikely to fall soon \u2014 both Edwards and Tudor Jones see no near-term relief from restrictive conditions.",
-      "Economy faces cross-currents \u2014 strong GDP but credit and rate risks building."
-    ],
-    "buy_side_trades": [
-      "Long SpaceX, Oracle, S&P 500 ETF \u2014 diversification as near-term caution rises. [Tudor Jones]"
-    ],
-    "sell_side_trades": [
-      "Long bonds over equities \u2014 SocGen model amid building inflation risk. [Edwards]"
-    ],
-    "dominant_themes": [
-      "Equity retest risk vs strong GDP \u2014 two incompatible signals",
-      "Bank lending/M2 surge as unpriced inflation risk",
-      "Iran economic isolation escalating \u2014 macro implications for oil and EM"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "bearish"
+    "sell_side_sentiment": "mixed"
   },
   "week": {
     "period_start": "2026-10-03",
     "period_end": "2026-10-10",
     "entries_count": 53,
-    "buy_side_bullets": [
-      "Debt crisis within 3 years \u2014 $7.5T spending vs $5.5T revenue, $1T interest cost crowding out all priorities. [Dalio]",
-      "US equity markets to retest lows \u2014 trade policy uncertainty and restrictive monetary conditions are the key headwinds, neither eases without forced correction. [Tudor Jones shift]",
-      "AI market caps built on capex accounting that will 'blow up' in 2026-2028 \u2014 putting options on Nvidia, Palantir, Micron, SMH as depreciation math reverses. [Burry]",
-      "SpaceX $1.75T IPO marks 'major speculative top' for current cycle \u2014 echoes dot-com terminal valuation signal. [Einhorn]",
-      "Financial repression regime confirmed \u2014 Warsh's 'money matters' signals bank-directed credit and engineered inflation above rates for 15-20 years. [Napier]"
-    ],
-    "sell_side_bullets": [
-      "BofA Bull & Bear indicator at 9.6 \u2014 formal sell signal triggered; largest US equity outflow ($21.1bn) since April; extreme bullishness reading. [Hartnett]",
-      "Markets on 'collision course' with 6%+ yields \u2014 30-year Treasuries in outright short position; 'next recession brings rising long-term rates, not falling.' [Gundlach]",
-      "Ice Age over, double-digit inflation coming \u2014 fiscal dominance replacing secular stagnation; bank lending/M2 surge now adding new inflation risk layer. [Edwards shift]",
-      "S&P 500 to 8,250 on BRAIN revolution productivity \u2014 EPS estimates rising fastest Yardeni has seen; 'wasn't bullish enough.' [Yardeni]",
-      "Mid-term election seasonality bullish (21/23 years), but rate fears are the exact 2 exception \u2014 10-year at 5.31% matches both prior exceptions. [Reid]"
-    ],
-    "whats_new": [
-      "Tudor Jones pivots bearish \u2014 May bullish stance fully reversed to 'retest lows' call. [Tudor Jones shift]",
-      "Edwards adds bank lending/M2 surge as new inflation catalyst \u2014 beyond prior fiscal dominance thesis. [Edwards evolving]",
-      "Bessent upgrades GDP: Q3 tracking >4%, up from 3.5% full-year target. [Bessent evolving]",
-      "Druckenmiller adds Brazil election position vindicated (+37% YTD EWZ), reiterates dollar bearish structural thesis. [Druckenmiller]",
-      "Torsten Slok reversed from stagflation to 10% recession probability \u2014 largest stance shift in recent weeks. [Slok shift]"
-    ],
-    "vs_market_buy": [
-      "Dalio and Druckenmiller see debt crisis/dollar decline as far more imminent than markets price. [Dalio, Druckenmiller]",
-      "Burry short AI/semiconductor names \u2014 markets still pricing in AI growth euphoria. [Burry]",
-      "Napier sees financial repression as multi-decade regime \u2014 markets still treating high rates as cyclical. [Napier]"
-    ],
-    "vs_market_sell": [
-      "Hartnett's sell signal triggered at extreme sentiment \u2014 market consensus still buying the dip. [Hartnett]",
-      "Gundlach's 6% yield target \u2014 consensus positioning in long bonds as 'flight to quality.' [Gundlach]",
-      "Edwards and Rosenberg bearish; Yardeni and Wilson remain structurally bullish \u2014 sell-side sharply split vs consensus pricing. [Edwards, Rosenberg vs Yardeni, Wilson]"
-    ],
-    "buy_vs_sell_divergence": [
-      "Bessent (buy) sees strong non-inflationary growth; Edwards (sell) sees bank lending surge as new inflation risk \u2014 directly opposing reads on the same data.",
-      "Tepper up 32% H1, Slok slashes recession odds (sell) \u2014 bullish cluster disagrees with Dalio/Burry/Druckenmiller on systemic risk.",
-      "Napier (buy) and Napier (sell) \u2014 same analyst appearing in both sides this week, with buy-side note on atoms vs bits and sell-side note on financial repression mechanics."
-    ],
-    "aligned": [
-      "Interest rates will remain elevated \u2014 virtually no one expects near-term cuts; Fed hike in September widely seen as a policy error. [Ackman, Hatzius, Gundlach]",
-      "AI is transformative but valuations are stretched \u2014 even bulls like Yardeni and Wilson acknowledge bubble risk in AI-adjacent names. [Yardeni, Wilson, Burry]",
-      "US debt trajectory is unsustainable \u2014 near-universal agreement on deficit dynamics; split only on timing and severity. [Dalio, Gundlach, Edwards, Napier, Mauldin]"
-    ],
-    "buy_side_trades": [
-      "Short Nvidia, Palantir, Micron, SMH via put options \u2014 AI capex accounting reversal thesis. [Burry]",
-      "Long gold \u2014 primary wealth preservation in financial repression. [Napier]",
-      "Long defense/precision weapons names \u2014 following $50B defense allocation. [Bass]",
-      "Long SpaceX pre-IPO, Oracle, S&P 500 ETF \u2014 diversifying near-term AI exposure. [Tudor Jones]",
-      "Short 30-year Treasuries \u2014 structural short via Gundlach's DoubleLine. [Gundlach]"
-    ],
-    "sell_side_trades": [
-      "Short 30-year Treasuries outright \u2014 DoubleLine active short position; 2-7yr BBB+ quality bonds instead. [Gundlach]",
-      "Long bonds over equities \u2014 SocGen model on rising bank lending/inflation risk. [Edwards]",
-      "Hold cash/liquidity for equity dips \u2014 do not buy at elevated current prices. [Napier]",
-      "Short long-dated government bonds \u2014 designed to deliver negative real returns. [Napier]",
-      "Defensive posture \u2014 Hartnett sell signal recommends caution on equity allocation. [Hartnett]"
-    ],
-    "dominant_themes": [
-      "Rates as the binary: 5%+ 10-year is either the new normal (bulls) or the breaking point (bears)",
-      "AI bubble mechanics \u2014 capex accounting reversal, depreciation math, concentration risk",
-      "Debt/fiscal crisis countdown \u2014 timeline debate: 3 years (Dalio) vs 15-20 year repression (Napier)"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
@@ -118,68 +37,16 @@
     "period_start": "2026-09-10",
     "period_end": "2026-10-10",
     "entries_count": 254,
-    "buy_side_bullets": [
-      "Debt/fiscal crisis accelerating \u2014 US interest payments at $1T/yr crowding out all spending; 3-year countdown to systemic stress. [Dalio, Druckenmiller]",
-      "AI bubble comparable to 1999 dot-com peak \u2014 multiple buy-siders now short or hedging AI/semi names; capex accounting reversal the specific trigger. [Burry, Einhorn, Druckenmiller]",
-      "Financial repression locked in for 15-20 years \u2014 gold as primary wealth preserver; cash for equity dips; avoid long-duration bonds. [Napier]",
-      "US equity bull intact near-term but correction is the entry \u2014 AI bull has '1-2 years left' before blow-off top; forced correction precedes policy pivot. [Tudor Jones, Ackman]",
-      "Dollar structurally bearish at top of historic range \u2014 EM and hard assets will benefit over multi-year horizon. [Druckenmiller]"
-    ],
-    "sell_side_bullets": [
-      "Extreme bullishness has triggered multiple sell signals \u2014 BofA indicator at 9.6, largest equity outflows since April, sentiment/positioning stretched. [Hartnett]",
-      "30-year Treasury yield collision course with 6% \u2014 deficit dynamics, AI capex-driven demand for capital, and absent foreign buyers creating structural yield pressure. [Gundlach, Reid]",
-      "Double-digit inflation regime replacing secular stagnation \u2014 fiscal dominance, bank lending surge, Treasury bill refinancing risk. [Edwards evolving]",
-      "BRAIN revolution driving sustained productivity and equity outperformance \u2014 S&P 500 to 8,250, EPS trajectory rising faster than at any prior cycle. [Yardeni]",
-      "Recession probability range now 10-50% across sell-side \u2014 Slok at 10%, Berezin at 40-50%, Rosenberg structurally bearish but disinflation surprise possible. [Slok, Berezin, Rosenberg]"
-    ],
-    "whats_new": [
-      "Torsten Slok complete reversal: stagflation call abandoned, recession odds slashed to 10%. [Slok shift]",
-      "Albert Edwards ice age thesis formally declared over \u2014 replaced by fiscal dominance and double-digit inflation framework. [Edwards shift]",
-      "Tudor Jones pivots: May bullish on AI bull market \u2192 July/October retest-of-lows call. [Tudor Jones shift]",
-      "Michael Hartnett escalates to formal sell signal \u2014 BofA Bull & Bear indicator at 9.6 is a rare reading. [Hartnett evolving]",
-      "Dalio hardens debt crisis timeline: from 'next few years' to 'within 3 years' \u2014 $7.5T vs $5.5T revenue explicit framing. [Dalio evolving]"
-    ],
-    "vs_market_buy": [
-      "Dalio and Druckenmiller see dollar decline and debt crisis as consensus-defying structural themes \u2014 FX markets still price dollar resilience. [Dalio, Druckenmiller]",
-      "Burry short AI/semis at a time when consensus is long \u2014 idiosyncratic capex accounting thesis against market. [Burry]",
-      "Napier's 15-20 year financial repression \u2014 markets treating rate environment as cyclical, not structural regime change. [Napier]"
-    ],
-    "vs_market_sell": [
-      "Hartnett, Bannister, Berezin warn of meaningful equity correction \u2014 consensus still pricing soft landing and continued AI bull. [Hartnett, Bannister, Berezin]",
-      "Edwards and Rosenberg structurally bearish vs Yardeni and Wilson structurally bullish \u2014 irreconcilable sell-side split. [Edwards, Rosenberg vs Yardeni, Wilson]",
-      "Gundlach's 6% 30-year yield target vs consensus flight-to-quality positioning in long bonds. [Gundlach]"
-    ],
-    "buy_vs_sell_divergence": [
-      "Bessent/Tepper (buy) vs Gundlach/Hartnett/Bannister (sell): US economy is strong vs markets are peaking. The GDP bulls and the sentiment bears are both right in their lane.",
-      "Napier (buy/sell crossover): financial repression as buy-side macro thesis + sell-side trade positioning \u2014 unique in straddling both frameworks.",
-      "Dalio/Druckenmiller (bearish buy) vs Yardeni/Wilson/Slok (bullish sell) \u2014 the deepest divergence is across the buy/sell divide, not within either camp."
-    ],
-    "aligned": [
-      "Rates structurally higher for longer \u2014 universal agreement that the Fed cutting cycle is not imminent; September hike seen as policy error by most. [Ackman, Gundlach, Hatzius, Edwards]",
-      "AI is transformative but current valuations embed excessive optimism \u2014 even structural bulls like Yardeni acknowledge the concentration risk. [Burry, Einhorn, Edwards, Hartnett, Yardeni]",
-      "US fiscal trajectory is unsustainable \u2014 near-consensus view across buy and sell side; split on mechanism and timeline. [Dalio, Gundlach, Edwards, Napier, Mauldin, Bass]",
-      "Gold remains the cross-consensus hedge \u2014 held by bears as protection and by bulls as inflation asset. [Napier, Dalio, Hartnett, Druckenmiller]"
-    ],
-    "buy_side_trades": [
-      "Short Nvidia, Palantir, Micron, SMH via put options \u2014 depreciation math reversal. [Burry]",
-      "Long gold \u2014 primary reserve asset in financial repression. [Napier, Dalio]",
-      "Short 30-year Treasuries \u2014 structural short via DoubleLine. [Gundlach]",
-      "Long defense/precision weapons names \u2014 $50B precision weapons allocation. [Bass]",
-      "Long MercadoLibre, Adobe, Autodesk, Veeva \u2014 non-AI-bubble long book. [Burry]",
-      "Long copper \u2014 hard asset in dollar decline thesis. [Druckenmiller]"
-    ],
-    "sell_side_trades": [
-      "Short 30-year Treasuries; long 2-7yr BBB+ bonds \u2014 DoubleLine active positioning. [Gundlach]",
-      "Long bonds over equities \u2014 SocGen model. [Edwards]",
-      "Cash/liquidity for equity dips; short long-dated sovereign bonds. [Napier]",
-      "Defensive value over cyclical growth \u2014 13% pullback scenario positioning. [Bannister]",
-      "Long gold \u2014 inflation hedge across multiple frameworks. [Hartnett, Edwards, Napier]"
-    ],
-    "dominant_themes": [
-      "AI bubble endgame \u2014 capex accounting, concentration, and depreciation reversal as the specific mechanism",
-      "Interest rate regime shift \u2014 5-6% as structural floor vs temporary cyclical peak",
-      "Debt/fiscal sustainability countdown \u2014 timeline split from 3 years (Dalio) to 15-20 year slow grind (Napier)"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   }
