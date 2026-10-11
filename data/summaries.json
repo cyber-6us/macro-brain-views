@@ -3,195 +3,51 @@
   "today": {
     "date": "2026-10-11",
     "entries_count": 5,
-    "buy_side_bullets": [
-      "30-year Treasury at 5.5% is fiscal invoice \u2014 rising yields reflect sticky inflation, peacetime deficit, AI capex crowding; defensive pivot from equities to bonds warranted. [Marks]"
-    ],
-    "sell_side_bullets": [
-      "$166.4B cash inflows in one week \u2014 most since April 2020 pandemic \u2014 regime is 'No rate cuts, no cash cuts'; risk-off until dollar peaks. [Hartnett]",
-      "Explicitly advocates October 27-28 Fed rate hike; short 30Y Treasury 'working quite well'; stock market weakening beneath surface at 24-year yield highs. [Gundlach]",
-      "Europe structurally financing US AI buildout \u2014 novel capital flow; AI productivity not yet in data; higher-for-longer rates intact through Q4. [Slok]",
-      "Labor market texture nuanced ahead of FOMC; Europe valuations widening vs. US as AI capex drains hyperscaler FCF; Warsh-era Fed less balance-sheet activist. [Sonders]"
-    ],
-    "whats_new": [
-      "Marks explicitly frames 30Y at 5.5% as third in a fiscal-reality memo series \u2014 more prescriptive shift to bonds than prior AI-focused memos [Marks shift]",
-      "Hartnett upgrades cash-inflow signal to pandemic-severity level; 'No rate cuts, no cash cuts' slogan new [Hartnett evolving]",
-      "Gundlach moves from 'collision course with rates' warning to explicit October hike advocacy \u2014 actionable call [Gundlach shift]",
-      "Slok introduces European capital-flow thesis as new structural dynamic supporting dollar and US asset demand [Slok]"
-    ],
-    "vs_market_buy": [
-      "Market pricing one more hike in December; Marks says yields at 5.5% are equilibrium, not a crisis \u2014 market still treating them as distress"
-    ],
-    "vs_market_sell": [
-      "Fed funds futures pricing ~36% chance of October hike; Gundlach explicitly calls for one \u2014 diverges from consensus hold",
-      "Consensus sees AI productivity payoff as imminent; Slok says it's not yet in the data \u2014 diverges from embedded growth optimism"
-    ],
-    "buy_vs_sell_divergence": [
-      "Buy (Marks): bonds are the defensive asset at current yields. Sell (Hartnett): cash is the preferred safe haven \u2014 'no rate cuts, no cash cuts' \u2014 implying bonds also risky if rates go higher",
-      "Buy side has 1 entry today (Marks, bearish on equities). Sell side mixed (Gundlach/Hartnett bearish, Slok mixed, Sonders neutral)"
-    ],
-    "aligned": [
-      "Bond yields set to stay elevated or go higher \u2014 both Marks and Gundlach agree rates reflect real fundamentals",
-      "Risk-off environment; investors de-risking ahead of Oct 27-28 FOMC"
-    ],
-    "buy_side_trades": [
-      "Shift portfolio defensively from equities toward bonds at current 5.5% 30Y yield level [Marks]"
-    ],
-    "sell_side_trades": [
-      "Short 30-year Treasury bonds [Gundlach]",
-      "Focus on 2-7 year curve vs. long end [Gundlach]",
-      "Overweight cash until Fed delivers credible rate-cut cycle [Hartnett]",
-      "Consider diversifying into European equities as valuation gap vs. US widens [Sonders]",
-      "Long USD vs. European currencies given European capital outflows into US AI assets [Slok]"
-    ],
-    "dominant_themes": [
-      "Fed rate path: October vs. December hike debate \u2014 FOMC Oct 27-28 as defining event",
-      "Bond market reckoning: yields at 24-year highs forcing portfolio defense across buy and sell side",
-      "AI capital flows and productivity: Europe financing US buildout but productivity payoff deferred"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   },
   "week": {
     "period_start": "2026-10-04",
     "period_end": "2026-10-11",
     "entries_count": 55,
-    "buy_side_bullets": [
-      "US debt crisis possible within ~3 years \u2014 $7.5T spending vs $5.5T revenue, $1T interest crowding out all other spending; bond market suppression creates false comfort. [Dalio]",
-      "Equities face further declines before relief \u2014 neither trade nor rate headwinds ease without market-forced correction first. [Tudor Jones]",
-      "Brazil contrarian EM bet vindicated +37% YTD; 10Y Treasury heading to 5.50%; structurally bearish dollar; long copper and gold. [Druckenmiller]",
-      "30-year Treasury at 5.5% is fiscal invoice \u2014 defensive portfolio shift from equities to bonds warranted; elevated US equity valuations no longer justified. [Marks]",
-      "Fed's September hike to 4.0% was a 'mistake' \u2014 AI-driven capex changes inflation transmission; rate hikes do not suppress AI-driven price pressures. [Ackman]"
-    ],
-    "sell_side_bullets": [
-      "$166.4B cash inflow in one week \u2014 pandemic-level severity; 'No rate cuts, no cash cuts' \u2014 risk-off regime until Fed delivers meaningful easing. [Hartnett]",
-      "Short 30Y Treasury position working; advocates October FOMC hike; stocks weakening beneath surface \u2014 breadth deteriorating at 24-year yield highs. [Gundlach]",
-      "Midterm election seasonality bullish (21/23 years, +7% median) but both exceptions had rate fears at center \u2014 current environment matches both exceptions. [Reid]",
-      "Financial repression regime confirmed by Warsh's 'money matters' \u2014 hold gold, preserve cash for equity dips; France heading toward capital controls. [Napier]",
-      "Nvidia breadth masks 'a whole lot of pain' \u2014 AI revenue doubt the likeliest trigger; savings rate at 4-year low signals stretched consumer. [Rosenberg]"
-    ],
-    "whats_new": [
-      "Dalio hardens debt crisis timeline to 'within ~3 years' \u2014 more specific than prior Big Cycle framing [Dalio evolving]",
-      "Druckenmiller's Brazil bet outcome confirmed: +37% YTD, EWZ +13% single-session on election shock [Druckenmiller]",
-      "Marks pivots from AI-focused memos to explicit fiscal-reality/bond-defense series [Marks shift]",
-      "Hartnett escalates cash-flow signal to pandemic-severity level; coins 'No rate cuts, no cash cuts' [Hartnett evolving]",
-      "Gundlach moves from rate-path warning to explicit October hike call [Gundlach shift]",
-      "Napier introduces France capital controls risk as new geographic repression signal [Napier evolving]"
-    ],
-    "vs_market_buy": [
-      "Market pricing one more hike and then pause; Dalio says rates can rise further before brakes are applied \u2014 more hawkish than consensus",
-      "Market still pricing soft landing; Tudor Jones says correction is necessary precondition for any relief \u2014 challenges consensus",
-      "Consensus bullish on dollar; Druckenmiller structurally bearish dollar \u2014 diverges sharply from consensus FX pricing"
-    ],
-    "vs_market_sell": [
-      "Fed funds futures pricing ~36% October hike probability; Gundlach explicitly calls for it \u2014 vs. consensus hold",
-      "Market narrative: AI productivity imminent; Slok says 'not yet in the data' \u2014 deferred payoff vs. embedded growth premium",
-      "Consensus buy-the-dip in equities; Hartnett/Rosenberg: cash inflows and breadth data say the dip isn't over",
-      "Napier vs. consensus: financial repression spreading to France (largest peacetime sovereign de facto default) \u2014 most investors not pricing this"
-    ],
-    "buy_vs_sell_divergence": [
-      "Buy (Ackman): October Fed hike was a mistake, worsens inflation. Sell (Gundlach): October hike necessary, advocates it explicitly",
-      "Buy (Tudor Jones): patient, waiting for correction before re-entry. Sell (Wilson/Yardeni): constructive, S&P 500 at 7,800-8,300",
-      "Buy (Dalio): rates can rise further, bond bear market persists. Sell (Hatzius): October hike unlikely, December more likely \u2014 slightly more dovish",
-      "Buy (Bessent): GDP tracking above 4%, economy solid, dollar dominant. Sell (Rosenberg): breadth weak, savings low, consumer stretched"
-    ],
-    "aligned": [
-      "Bond yields will remain elevated or rise further near-term \u2014 consensus across buy and sell side",
-      "October 27-28 FOMC meeting is the pivotal near-term macro event",
-      "AI investment cycle is the dominant structural force, but sustainability and payoff timing is debated by all",
-      "Gold is the preferred hard-asset hedge across both sides (Druckenmiller, Napier)"
-    ],
-    "buy_side_trades": [
-      "Long copper and gold; short US Treasuries [Druckenmiller]",
-      "Long Brazil EWZ (already vindicated +37% YTD) [Druckenmiller]",
-      "Defensive portfolio shift from equities to bonds at 30Y 5.5% yield [Marks]",
-      "Long defense sector / defense capex plays [Bass]"
-    ],
-    "sell_side_trades": [
-      "Short 30-year Treasury bonds; focus on 2-7 year curve [Gundlach]",
-      "Overweight cash until meaningful Fed rate cuts arrive [Hartnett]",
-      "Hold gold as primary financial-repression hedge [Napier]",
-      "Long European equities vs. US on valuation gap [Sonders]",
-      "Long USD vs. European currencies on AI capital flow dynamic [Slok]"
-    ],
-    "dominant_themes": [
-      "Bond yield trajectory and Fed path: 24-year yield highs, October vs. December hike debate",
-      "AI cycle inflection: boom or bubble? Europe financing US AI buildout; productivity payoff deferred",
-      "Debt and fiscal dominance: US deficit trajectory, financial repression spreading to Europe"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   },
   "month": {
     "period_start": "2026-09-11",
     "period_end": "2026-10-11",
     "entries_count": 252,
-    "buy_side_bullets": [
-      "Structural dollar bear thesis \u2014 US fiscal trajectory, de-dollarization risk, gold/copper/EM assets preferred over USD paper. [Druckenmiller]",
-      "US debt crisis within ~3 years: $2T deficit, $1T annual interest crowding out discretionary spending; Big Cycle stage 5 \u2014 resembles pre-1945. [Dalio]",
-      "AI bull market intact but 'narrative bubble' risk emerging \u2014 broad valuation excess not yet confirmed but warrants caution. [Ackman, Burry, Einhorn]",
-      "EM contrarian trades (Brazil) vindicated; hard assets (gold, copper) outperforming; short bonds, short dollar working across buy-side. [Druckenmiller]",
-      "Equities require a correction before sustained advance; trade and rate headwinds won't ease without market-forced Fed/Treasury capitulation. [Tudor Jones]"
-    ],
-    "sell_side_bullets": [
-      "2026 macro framed as '1999 meets 1990' \u2014 AI boom converging with oil-shock tightening cycle; global CPI revised up to 3.8%, euro area cut to 0.5% growth. [Reid]",
-      "Financial repression regime confirmed \u2014 governments targeting nominal GDP above debt growth via bank credit; gold + cash for dips; France the first visible casualty. [Napier]",
-      "Cash at pandemic-level inflows: $166.4B in one week; 'No rate cuts, no cash cuts' \u2014 equities frozen until Fed pivots meaningfully. [Hartnett]",
-      "S&P 500 breadth weakening \u2014 Nvidia masking pain; AI revenue risk is the eventual trigger; consumer savings at 4-year low constrains cushion. [Rosenberg, Edwards]",
-      "September Fed hike 'collision course' with rates; 30Y short working; October FOMC hike advocated; tail risk 6%+ yields forces Treasury intervention. [Gundlach]"
-    ],
-    "whats_new": [
-      "Druckenmiller Brazil trade outcome: +37% YTD, $13% single-session \u2014 first major confirmation of EM contrarianism in 2026 [Druckenmiller]",
-      "Dalio hardens debt crisis to '~3 year' timeline \u2014 now more imminent than Big Cycle framing suggested [Dalio evolving]",
-      "Hartnett raises cash-inflow signal to pandemic severity level; introduces 'No rate cuts, no cash cuts' framing [Hartnett evolving]",
-      "Napier adds France capital-controls risk as new geographic node in financial repression thesis [Napier evolving]",
-      "Gundlach escalates from rate-trajectory warning to explicit October hike advocacy [Gundlach shift]",
-      "Marks launches three-part fiscal-reality memo series \u2014 departure from AI-focused writing [Marks shift]",
-      "Slok introduces European capital-flow thesis: Europe financing US AI buildout [Slok]",
-      "Edwards pivots: Ice Age thesis officially abandoned for fiscal-dominance / double-digit inflation regime [Edwards shift]"
-    ],
-    "vs_market_buy": [
-      "Market: soft landing, one more hike then cut cycle. Buy-side (Dalio, Tudor Jones, Druckenmiller): harsher landing ahead, dollar structurally weaker, rates higher for longer than market prices",
-      "Market: AI premium justified by imminent productivity. Buy-side (Burry, Einhorn): AI valuations disconnected from revenue reality \u2014 SpaceX at $1.75T a bubble signal"
-    ],
-    "vs_market_sell": [
-      "Consensus: October hike unlikely (~36% probability). Gundlach: explicitly advocates it",
-      "Consensus: AI productivity arrives 2-3 years out. Slok: not yet in the data at all",
-      "Consensus: bond yields peak near current levels. Napier/Gundlach: financial repression means sustained yields above inflation \u2014 real returns negative by design",
-      "Consensus: US fiscal trajectory manageable. Reid: 'oil shock meets AI boom' = central banks boxed in; euro area near-recession"
-    ],
-    "buy_vs_sell_divergence": [
-      "Buy (Ackman, Burry): October Fed hike was a mistake, worsens inflation dynamics. Sell (Gundlach): hike was necessary and more are needed",
-      "Buy (Bessent/Druckenmiller): US economy tracking above 4% GDP, resilient. Sell (Rosenberg/Edwards): breadth weak, consumer stretched, buy-side economic optimism misplaced",
-      "Buy (Tudor Jones): AI bull market intact, 'another year or two'. Sell (Edwards/Rosenberg): AI investment bubble risk, revenue won't justify spending",
-      "Buy (Druckenmiller): dollar structurally weaker long-term. Sell (Bessent/Slok): dollar at 89% of FX transactions, structural dominance intact"
-    ],
-    "aligned": [
-      "Bond yields to remain elevated or rise further \u2014 unanimous across both sides",
-      "October 27-28 FOMC meeting is the pivotal near-term macro event",
-      "AI investment is the dominant structural force of 2026 \u2014 agreed; sustainability is the divide",
-      "Gold is a consensus hedge in a financial-repression/fiscal-dominance regime [Druckenmiller, Napier, Dalio]",
-      "Debt and deficit trajectory is the macro risk that supersedes cycle \u2014 unanimous concern about duration"
-    ],
-    "buy_side_trades": [
-      "Long gold and copper; short US Treasuries; bearish US dollar [Druckenmiller]",
-      "Long Brazil EWZ, EM exposure [Druckenmiller]",
-      "Long defense sector [Bass]",
-      "Shift portfolio from equities to bonds at 5.5% 30Y yield [Marks]"
-    ],
-    "sell_side_trades": [
-      "Short 30-year Treasury bonds; focus on 2-7 year curve [Gundlach]",
-      "Overweight cash until sustained Fed rate cuts [Hartnett]",
-      "Hold gold as primary financial repression hedge [Napier]",
-      "Long European equities vs. US on valuation gap [Sonders]",
-      "Long USD vs. European currencies on AI capital flow [Slok]",
-      "Underweight equities in 'Calculus of Value' framework [Marks]"
-    ],
-    "dominant_themes": [
-      "Debt and fiscal dominance: US deficit trajectory, financial repression, bond market as pressure relief valve",
-      "AI investment cycle: boom or bubble \u2014 capital flows, productivity payoff, valuation excess",
-      "Fed and rate path: October vs. December hike, 24-year yield highs, dollar trajectory"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   }
 }
