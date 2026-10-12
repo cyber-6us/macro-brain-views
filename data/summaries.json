@@ -1,53 +1,168 @@
 {
-  "generated_at": "2026-10-11",
+  "generated_at": "2026-10-12",
   "today": {
-    "date": "2026-10-11",
-    "entries_count": 5,
+    "date": "2026-10-12",
+    "entries_count": 3,
     "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
+    "sell_side_bullets": [
+      "Bull market confirmed; S&P 8,000 year-end target \u2014 semiconductors to correct, hyperscalers stabilize as AI trade rotates from chips to platforms. [Wilson evolving]",
+      "S&P target raised again despite 'massive melt rally' \u2014 structural 'mania' paralleling 1929/2000/2021 acknowledged but near-term momentum too strong to fight. [Bannister shift]",
+      "2027 recession building: fiscal stimulus and AI spending both running out \u2014 post-midterm gridlock is the catalyst, tax-refund lifeline gives 2-3 months. [Rosenberg shift]"
+    ],
+    "whats_new": [
+      "Rosenberg pivots to explicit 2027 recession timeline \u2014 first time the call extends beyond 2026 surface weakness, adding post-midterm fiscal cliff thesis",
+      "Bannister raises S&P target despite prior 6,500 mid-year bearish call \u2014 melt-up forces tactical upgrade while structural mania thesis remains",
+      "Wilson confirms S&P 8,000 year-end (up from 7,800), flags semiconductor correction as next rotation move"
+    ],
     "vs_market_buy": [],
-    "vs_market_sell": [],
+    "vs_market_sell": [
+      "Rosenberg sees post-midterm fiscal cliff causing 2027 recession \u2014 markets not pricing this runway-to-recession timeline [Rosenberg]",
+      "Bannister's structural overvaluation thesis (rivaling 1929/2000/2021) diverges from consensus melt-up narrative [Bannister]"
+    ],
     "buy_vs_sell_divergence": [],
-    "aligned": [],
+    "aligned": [
+      "AI investment driving near-term market momentum while simultaneously creating longer-term valuation and earnings sustainability risk"
+    ],
     "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "sell_side_trades": [
+      "Long gold, silver, uranium, JPY [Rosenberg]",
+      "Reduce semiconductor exposure; add hyperscaler/cloud platform exposure [Wilson]",
+      "Defensive equities and gold as hedges against structural overvaluation [Bannister]"
+    ],
+    "dominant_themes": [
+      "2027 recession risk catalysts \u2014 fiscal cliff and AI spending exhaustion",
+      "S&P melt-up vs. structural overvaluation \u2014 tactical vs. strategic disconnect",
+      "AI trade rotation: semiconductors to platforms as infrastructure cycle matures"
+    ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "week": {
-    "period_start": "2026-10-04",
-    "period_end": "2026-10-11",
-    "entries_count": 55,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
+    "period_start": "2026-10-05",
+    "period_end": "2026-10-12",
+    "entries_count": 54,
+    "buy_side_bullets": [
+      "World in Big Cycle stage 5 \u2014 'pre-1945 parallels'; foreign UST holders reducing exposure, 2026-2028 the 'particularly risky period' as electoral pressures widen deficits. [Dalio]",
+      "AI valuation bubble approaching 1987-type fall or 1999-2000 blow-up \u2014 large put book building against Nvidia, Micron, Palantir, Tesla. [Burry]",
+      "SpaceX $1.75T IPO signals speculative cycle top; US equities most expensive in recorded history \u2014 fully defensive positioning, underperforming deliberately. [Einhorn]",
+      "AI bull market 'another year or two to run' \u2014 not yet at the exit; Q2 13F confirms conviction in tech giants. [Tudor Jones]",
+      "'Narrative bubble' the greatest 2026 tail risk \u2014 compelling stories detaching asset prices from fundamentals; bond market must speak freely. [Druckenmiller]"
+    ],
+    "sell_side_bullets": [
+      "Bull & Bear indicator at 9.6 \u2014 formal sell signal triggered; global equity inflows tracking record $1.2T. 'Long Detroit, short Davos': rotate to small-mid caps, banks, REITs, EM vs. Magnificent 7. [Hartnett]",
+      "Ice Age deflation thesis officially over \u2014 fiscal dominance ushers in double-digit inflation regime; consumer savings depleted, corporate margin compression ahead. [Edwards]",
+      "Recession probability slashed to 10% vs. 30%+ market pricing \u2014 'One Big Beautiful Bill' adds nearly 1% GDP, AI buildout and weaker dollar are additional tailwinds. [Slok shift]",
+      "S&P 8,250 target \u2014 'wasn't bullish enough'; 23% consensus earnings growth, BRAIN Revolution driving Roaring 2020s extension into record territory. [Yardeni evolving]",
+      "Financial repression regime: 15-20 years of 4-6% engineered inflation with rates suppressed; bonds will not be a free market price for at least 15 years. [Napier]"
+    ],
+    "whats_new": [
+      "Ackman calls Fed's September 2026 hike to 4.0% a 'mistake' \u2014 AI capex is rate-insensitive, creating a vicious cycle where hikes fuel the very AI boom driving inflation",
+      "Rosenberg pivots to 2027 recession timeline \u2014 post-midterm gridlock ends fiscal support, adds forward-looking trigger beyond prior 2026 weakness framing [today]",
+      "Bannister raises S&P target despite prior 6,500 bearish call \u2014 melt-up forces tactical upgrade while mania thesis remains [today]",
+      "Edwards formally declares Ice Age deflation thesis over \u2014 transitions to fiscal dominance and double-digit inflation framework"
+    ],
+    "vs_market_buy": [
+      "Bessent forecasts 3.5%+ GDP/no 2026 recession vs. consensus slowing growth narrative [Bessent]",
+      "Tudor Jones maintains AI equity longs while broader market debates peak valuations [Tudor Jones]",
+      "Dalio warns foreign capital retreat from USTs structurally underpriced by market [Dalio]"
+    ],
+    "vs_market_sell": [
+      "Gundlach sees long-end yields surpassing 6% \u2014 far above market's rate-cut trajectory pricing [Gundlach]",
+      "Napier argues 15-20 year bond undervaluation regime not yet in market prices [Napier]",
+      "Slok's 10% recession probability dramatically below 30%+ market-implied odds [Slok]"
+    ],
+    "buy_vs_sell_divergence": [
+      "AI equity positioning: Burry/Einhorn (short/defensive \u2014 bubble thesis) vs. Slok/Yardeni (bullish \u2014 AI-driven earnings justify prices)",
+      "Growth outlook: Bessent/Slok (3.5-4% GDP, no recession) vs. Dalio/Burry/Napier/Rosenberg (structural or cyclical bear)",
+      "Fed policy: Ackman (September hike was mistake, rate-insensitive AI capex) vs. Gundlach (should have hiked more, 6%+ yields needed)"
+    ],
+    "aligned": [
+      "AI capital spending ($650-800B in 2026) is the defining macro force \u2014 both sides acknowledge its scale, debate only its sustainability and valuation impact",
+      "Elevated US fiscal deficits and debt trajectory represent long-term structural risk \u2014 near-universal concern across buy and sell side"
+    ],
+    "buy_side_trades": [
+      "Long gold and hard assets as debasement hedge [Dalio, Druckenmiller, Einhorn]",
+      "Long put options on AI/tech mega-caps: Nvidia, Micron, Palantir, Tesla [Burry]",
+      "Long energy, commodities, EM as alternatives to expensive US AI tech [Bass, Soros]"
+    ],
+    "sell_side_trades": [
+      "Rotate from US large-cap tech to banks, REITs, EM, small/mid-caps \u2014 'Long Detroit, short Davos' [Hartnett]",
+      "Long gold, silver, uranium, JPY as fiscal and inflation hedges [Rosenberg, Napier]",
+      "Stay long US equities on earnings momentum; S&P 8,000-8,250 into year-end [Wilson, Yardeni]",
+      "Short long-dated bonds; prefer short-duration fixed income [Gundlach, Napier]"
+    ],
+    "dominant_themes": [
+      "AI valuation reckoning vs. earnings-driven secular bull \u2014 the defining buy/sell split",
+      "Fed policy error risk after September 2026 hike to 4.0% \u2014 Ackman vs. Gundlach debate",
+      "Fiscal dominance and debt sustainability \u2014 structural inflation regime shift replacing Ice Age"
+    ],
+    "buy_side_sentiment": "bearish",
     "sell_side_sentiment": "mixed"
   },
   "month": {
-    "period_start": "2026-09-11",
-    "period_end": "2026-10-11",
-    "entries_count": 252,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
+    "period_start": "2026-09-12",
+    "period_end": "2026-10-12",
+    "entries_count": 251,
+    "buy_side_bullets": [
+      "World entering Big Cycle peak/danger zone \u2014 structural debt, geopolitical fracture, and accelerating foreign capital retreat from US assets; 2026-2028 is 'particularly risky period.' [Dalio]",
+      "AI markets at 1999-style blow-off top \u2014 depreciation reversal thesis, put book building; warning of 1987-type fall across Nvidia, Micron, Palantir, Tesla. [Burry]",
+      "US equities most expensive in history; SpaceX $1.75T IPO as speculative cycle marker \u2014 fully defensive, underperforming deliberately to preserve capital. [Einhorn]",
+      "AI bull run has more runway, but 'narrative bubbles' increasingly disconnect prices from reality \u2014 greatest tail risk is narrative unwind, not fundamental deterioration. [Tudor Jones, Druckenmiller]",
+      "Treasury managing bond markets actively; official 3.5%+ GDP/no-recession forecast vs. structural deficit trajectory concern \u2014 inside-outside divergence. [Bessent]"
+    ],
+    "sell_side_bullets": [
+      "Double-digit inflation regime replacing the deflation era \u2014 fiscal dominance structurally alters expectations; governments cannot politically unwind fiscal expansion; consumer and corporates under pressure. [Edwards]",
+      "Record equity inflows ($1.2T tracking 2026), extreme bullishness, formal sell signal \u2014 rotate from Magnificent 7 to domestic cyclicals, banks, REITs, EM. [Hartnett]",
+      "Financial repression regime cementing: bonds not a free market price for 15-20 years; governments directing credit allocation; gold preferred over bonds. [Napier]",
+      "Recession probability divergence widening: 10% (fiscal optimism) to 40-50% (expansion intact but fragile) to 2027 structural cliff (fiscal/AI exhaustion). [Slok, Berezin, Rosenberg]",
+      "S&P targets raised repeatedly to 8,000-8,250 on earnings momentum \u2014 structural bear theses on valuation mania persist underneath near-term upgrades. [Wilson, Yardeni, Bannister shift]"
+    ],
+    "whats_new": [
+      "Rosenberg extends recession call to 2027 with post-midterm fiscal cliff thesis \u2014 most specific recession trigger call of the month",
+      "Edwards formally declares Ice Age deflation thesis over \u2014 paradigm shift to fiscal dominance and double-digit inflation, ending a 30-year framework",
+      "Bannister tactically raises S&P target despite structural mania thesis \u2014 acknowledges melt-up momentum outpacing bearish fundamentals",
+      "Slok dramatically revises recession probability from 30%+ to 10% \u2014 One Big Beautiful Bill fiscal tailwind larger than anticipated",
+      "Fed September 2026 hike to 4.0% became the central debate: Ackman (mistake, AI capex loop) vs. Gundlach (should have gone further)"
+    ],
+    "vs_market_buy": [
+      "Bessent forecasts 3.5%+ GDP growth and no 2026 recession vs. consensus slowdown fears [Bessent]",
+      "Tudor Jones still building AI equity positions while market debates peak valuations [Tudor Jones]",
+      "Dalio warns accelerating foreign capital retreat from USTs structurally underpriced by fixed-income markets [Dalio]"
+    ],
+    "vs_market_sell": [
+      "Gundlach sees long-end bond yields surpassing 6% \u2014 far above market's rate-cut trajectory [Gundlach]",
+      "Napier argues a 15-20 year bond undervaluation era is not yet reflected in positioning or prices [Napier]",
+      "Slok's 10% recession probability far below the 30%+ market-implied recession odds [Slok]",
+      "Hartnett: record $1.2T equity inflows signal crowding risk markets dismiss as 'liquidity support' [Hartnett]"
+    ],
+    "buy_vs_sell_divergence": [
+      "AI equities: Burry/Einhorn (1999-bubble thesis, short/defensive) vs. Yardeni/Wilson/Slok (earnings justify rally, targets rising)",
+      "Growth: Bessent/Slok (3.5-4% GDP, no recession, fiscal tailwinds) vs. Dalio/Napier/Rosenberg/Edwards (structural or cyclical bear, debt ceiling approaches)",
+      "Rate trajectory: Ackman (September hike was mistake, AI capex rate-insensitive) vs. Gundlach (more tightening needed, 6%+ yields required)"
+    ],
+    "aligned": [
+      "AI capital spending ($650-800B in 2026) is the defining macro force \u2014 universal acknowledgment of its scale and transformative impact",
+      "Elevated US fiscal deficits and long-term debt sustainability represent structural risk \u2014 consensus concern across all camps",
+      "US equities at historically elevated valuations by most measures \u2014 debate centers on whether AI earnings justify the premium"
+    ],
+    "buy_side_trades": [
+      "Long gold and hard assets as inflation/debasement hedge [Dalio, Druckenmiller, Einhorn, Bass]",
+      "Long put options on AI/tech mega-caps: Nvidia, Micron, Palantir, Tesla, SMH ETF [Burry]",
+      "Long energy, commodities, and EM as alternatives to expensive US AI tech [Bass, Soros]"
+    ],
+    "sell_side_trades": [
+      "Rotate from US large-cap tech to banks, REITs, EM, small/mid-caps \u2014 'Long Detroit, short Davos' [Hartnett]",
+      "Long gold, silver, uranium, JPY as fiscal and inflation hedges [Rosenberg, Napier]",
+      "Stay long US equities on earnings momentum; S&P 8,000-8,250 into year-end [Wilson, Yardeni]",
+      "Short long-dated Treasuries; prefer short-duration fixed income [Gundlach, Napier]",
+      "Long ROSY ETF (Rosenberg Global Macro) as institutionalized bearish macro expression [Rosenberg]"
+    ],
+    "dominant_themes": [
+      "AI valuation reckoning vs. earnings-driven secular bull \u2014 the defining buy/sell split of 2026",
+      "Fiscal dominance and debt sustainability \u2014 structural inflation regime shift replacing the Ice Age deflation era",
+      "Fed policy error risk after September 2026 hike \u2014 rate trajectory divergence widening across the analyst community"
+    ],
+    "buy_side_sentiment": "bearish",
     "sell_side_sentiment": "mixed"
   }
 }
