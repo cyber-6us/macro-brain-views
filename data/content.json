@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12",
+  "last_updated": "2026-10-13",
   "entries": [
     {
       "id": "2026-10-07-5c826b4b",
@@ -19970,6 +19970,97 @@
       "sources": [
         "https://www.thewealthadvisor.com/article/despite-massive-melt-rally-stifel-lifts-sp-500-price-target-again",
         "https://www.bloomberg.com/news/articles/2024-06-20/s-p-poised-to-reach-6-000-this-year-before-big-drop-stifel-says"
+      ]
+    },
+    {
+      "id": "2026-10-13-90f51a16",
+      "date": "2026-10-13",
+      "investor": "Scott Bessent",
+      "side": "buy",
+      "summary": "Bessent pledged a detailed debt-reduction plan 'right after midterms' at the Newsmax Policy Summit on October 9, but markets are skeptical: the 30-year Treasury climbed to ~5.27%, its highest since 2002, and a brief bond-buyback effort proved short-lived. CBO analysis challenges Bessent's 3% growth anchor, suggesting 5-6% growth would be needed to stabilize the ~$41T debt load given current ~$1.2-1.3T annual debt-service costs — far above Q2's 2.2% real GDP print. Complicating factors include rising Iran-war risk and continued Fed tightening that are pushing against any near-term deficit improvement.",
+      "key_views": [
+        "Debt-reduction plan promised 'right after midterms' — no details yet, markets skeptical [shift]",
+        "30Y Treasury at ~5.27% (highest since 2002) — bond buyback attempt failed to cap yields",
+        "CBO challenges 3% growth path: 5-6% growth needed to stabilize $41T debt at current ~$1.2-1.3T/yr service cost",
+        "Iran war risk + continued Fed tightening complicating deficit reduction timeline"
+      ],
+      "trade_ideas": [
+        "Short long-duration Treasuries — 30Y yield breakout suggests bond vigilantes unconvinced by fiscal promises",
+        "Dollar strength hedge given geopolitical risk premium and yield differential"
+      ],
+      "asset_classes": [
+        "bonds",
+        "rates",
+        "fx"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://bloomberg.com/newsletters/2026-10-06",
+        "https://yahoo.com/news/politics/bessent-newsmax",
+        "https://fortune.com/2026/10/10/us-debt-gdp-growth-cbo",
+        "https://newsmax.com/politics/scott-bessent/2026/10/09"
+      ]
+    },
+    {
+      "id": "2026-10-13-db94b918",
+      "date": "2026-10-13",
+      "investor": "Ed Yardeni",
+      "side": "sell",
+      "summary": "Yardeni made his first major target downgrade of 2026 on September 16, slashing his S&P 500 year-end target from 8,250 to 7,900 and urging investors to 'proceed with caution' amid elevated energy prices and rising yields. He sees risks of a downturn over the next three to six months as bond vigilantes circle, with 6% on the 10-year representing a threshold for 'real cracks' in the financial system. Long-term, his Roaring 2020s thesis and a 10,000 S&P 500 target by 2029 remain intact — this is tactical caution, not a structural reversal.",
+      "key_views": [
+        "S&P 500 year-end target cut from 8,250 to 7,900 on Sept 16 — first major downgrade of 2026 [shift]",
+        "Risks of downturn elevated over next 3-6 months — elevated energy prices and rising yields cited",
+        "10Y at 6% = 'real cracks' threshold; bond vigilantes 'not yet' at panic stage",
+        "Roaring 2020s thesis intact; 10,000 by 2029 still base case — tactical caution only",
+        "Bessent could use short-term bill issuance 'bazooka' to relieve yield pressure"
+      ],
+      "trade_ideas": [
+        "Reduce equity exposure tactically until yield/energy headwinds resolve",
+        "Favor defensive sectors over growth until 10Y stabilizes below 6%"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "rates",
+        "commodities"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://cnbc.com/2026/09/16/yardeni-trims-sp-500-target",
+        "https://benzinga.com/markets/equities/26/09/61834904",
+        "https://excessreturnspod.substack.com/p/ed-yardeni-still-sees-s-and-p-10000",
+        "https://nz.finance.yahoo.com/news/yardeni-warns-bond-vigilantes"
+      ]
+    },
+    {
+      "id": "2026-10-13-2bc6b016",
+      "date": "2026-10-13",
+      "investor": "Michael Hartnett",
+      "side": "sell",
+      "summary": "Hartnett's October follow-up to his October 2 Flow Show sharpens his bearish view: the 'most bullish thing the Fed can do now is hike,' because a rate increase would paradoxically cap the yield panic that is driving risk-off sentiment, potentially enabling a year-end recovery. He has identified two precise deleveraging triggers — S&P EPS at $260 combined with 30-year yields above 5.5% — and notes the dollar's +3% gain from its September low is keeping risk-off locked in until the dollar peaks. BofA EPFR data for the week of September 30 showed $18.8B into bonds versus $15.8B into equities, confirming the defensive rotation is accelerating.",
+      "key_views": [
+        "Fed hike = 'most bullish thing' paradoxically — caps yield panic, enables year-end risk recovery [evolving]",
+        "Two deleveraging triggers: S&P EPS at $260 + 30Y yields above 5.5% — neither yet triggered",
+        "Dollar +3% from September low locking in risk-off until dollar peaks",
+        "10Y at 5.36%, 30Y at highest since 2002 — bond market in uncharted territory",
+        "$18.8B into bonds vs $15.8B into equities (BofA EPFR, week of Sept 30) — defensive rotation accelerating"
+      ],
+      "trade_ideas": [
+        "Buy bonds over equities until dollar peaks and yield panic resolves",
+        "Avoid leveraged positions — deleveraging triggers approaching but not yet pulled"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "rates",
+        "fx"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://bloomberg.com/news/articles/2026-10-02/bofa-s-hartnett-sees-risk-off-mood-lasting-until-dollar-peaks",
+        "https://thewealthadvisor.com/article/bofas-michael-hartnett-says-risk-wont-end-until-dollar-peaks",
+        "https://thedarksideoftheboom.substack.com/p/bofas-michael-hartnett-unveils-the",
+        "https://zerohedge.com/markets/hartnett-most-bullish-thing-fed-can-do-now-hike"
       ]
     }
   ]
