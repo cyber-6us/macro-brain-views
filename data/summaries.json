@@ -3,217 +3,51 @@
   "today": {
     "date": "2026-10-13",
     "entries_count": 3,
-    "buy_side_bullets": [
-      "Bessent pledges debt-reduction plan 'right after midterms' but markets skeptical — 30Y climbed to ~5.27% (highest since 2002) as bond buyback attempt failed [Bessent]"
-    ],
-    "sell_side_bullets": [
-      "Yardeni made first major 2026 target cut on Sept 16, slashing S&P year-end target from 8,250 to 7,900 — 'risks of a downturn have increased over the next 3-6 months' [Yardeni, shift]",
-      "Hartnett: 'Most bullish thing Fed can do now is hike' — paradoxical hike caps yield panic; two deleveraging triggers (S&P EPS $260 + 30Y >5.5%) not yet pulled; dollar +3% from Sept low keeping risk-off locked in [Hartnett, evolving]"
-    ],
-    "whats_new": [
-      "Yardeni's first major downgrade of 2026: S&P target cut 350 points to 7,900 — signals tactical caution onset even for bulls",
-      "Hartnett frames Fed hike as paradoxically bullish — novel framing suggesting yields, not rates, are now the dominant risk variable",
-      "Bessent midterm fiscal promise falls flat with bond market — 30Y at 5.27% signals vigilantes want specifics, not timelines"
-    ],
-    "vs_market_buy": [
-      "Bessent remains constructive on growth path but is being challenged by CBO analysis — needs 5-6% growth to stabilize debt, not his 3% anchor"
-    ],
-    "vs_market_sell": [
-      "Yardeni more cautious than consensus — cuts while many sell-side peers still hold higher targets; long-term Roaring 2020s intact",
-      "Hartnett more bearish than Street average — identifies specific yield/EPS deleveraging triggers others haven't quantified"
-    ],
-    "buy_vs_sell_divergence": [
-      "Buy side (Bessent) focused on fiscal policy timeline; sell side (Yardeni, Hartnett) focused on bond market vigilante risk — both sides agree yields are the dominant variable but diverge on resolution path",
-      "Bessent sees fiscal promise as catalyst for yield relief; Yardeni/Hartnett see yields as requiring either a Fed move or fiscal specifics before relief arrives"
-    ],
-    "aligned": [
-      "All three entries agree: 30Y yields at ~5.27% and 10Y approaching 5.36% are the primary market risk",
-      "Universal acknowledgment that bond vigilantes have reasserted themselves in 2026"
-    ],
-    "buy_side_trades": [
-      "Short long-duration Treasuries — 30Y yield breakout signals bond vigilantes unconvinced [Bessent]",
-      "Dollar strength hedge given Iran war risk premium and yield differential [Bessent]"
-    ],
-    "sell_side_trades": [
-      "Reduce equity exposure tactically until yield/energy headwinds resolve [Yardeni]",
-      "Buy bonds over equities until dollar peaks and yield panic resolves [Hartnett]",
-      "Favor defensive sectors until 10Y stabilizes below 6% [Yardeni]"
-    ],
-    "dominant_themes": [
-      "Bond vigilante reassertion: 30Y at 5.27%, 10Y approaching 5.36%",
-      "Fiscal credibility gap: Bessent's midterm promise fails to move markets",
-      "Fed policy paradox: Hartnett argues hike now = bullish outcome",
-      "First major 2026 S&P target downgrade: Yardeni cuts 350 points"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "bearish"
+    "sell_side_sentiment": "mixed"
   },
   "week": {
     "period_start": "2026-10-06",
     "period_end": "2026-10-13",
     "entries_count": 48,
-    "buy_side_bullets": [
-      "Bessent's 30Y bond buyback attempt failed — yields climbed to 5.27% despite Treasury intervention; debt plan deferred to post-midterms [Bessent, shift]",
-      "Dalio issued rare debt crisis warning: US fiscal trajectory now resembles pre-crisis patterns, urges gold and hard asset allocation [Dalio]",
-      "Tudor Jones shifted to bearish stance for near-term — long gold and Bitcoin as inflation hedges, sees 30Y Treasury break above 5.5% as 'financial accident' threshold [Tudor Jones, shift]",
-      "Druckenmiller vindicated on Brazil call: emerging market thesis playing out; argues dollar peak imminent after +3% run [Druckenmiller]",
-      "Bessent: Q3 GDP tracking above 4% but bond market unimpressed — fiscal credibility gap widening [Bessent, Oct 10]"
-    ],
-    "sell_side_bullets": [
-      "Hartnett: $166.4B into money market funds in 3 weeks — largest peacetime MMF inflow surge; 'most bullish thing Fed can do now is hike' [Hartnett, evolving]",
-      "Wilson raised S&P target to 8,000 but warns it's ceiling not floor — valuation multiples stretched at 22x forward, needs EPS delivery [Wilson, shift]",
-      "Yardeni slashed 2026 year-end target from 8,250 to 7,900 on Sept 16 — first major cut; bond vigilantes and energy prices cited [Yardeni, shift]",
-      "Gundlach calling for October FOMC hike — 10Y at 5.36% signals inflation expectations unanchored; sees 30Y at 6% if Fed stays put [Gundlach]",
-      "Edwards: bank lending surge (fastest since 2021) will amplify yield spike — credit creation into rising rates historically precedes financial stress [Edwards]",
-      "Slok: European capital accelerating into US assets as ECB diverges from Fed — net positive for dollar, creates cross-Atlantic equity divergence [Slok]",
-      "Marks: 30-year Treasury now 'invoice' for government fiscal profligacy — no price below 5.5% justified given structural deficit path [Marks]",
-      "Sonders: labor market 'cracks appearing' — job openings falling, temp employment declining, wage growth decelerating [Sonders]",
-      "Rosenberg: 2027 recession probability now above 50% — inverted yield curve + credit conditions tightening = classic precursor [Rosenberg]",
-      "Bannister raised S&P target again despite 'massive melt rally' warning — forced tactical upgrade while calling valuations '1929/2000/2021 mania' [Bannister, shift]",
-      "Jim Reid: midterm elections historically bullish for equities — post-election clarity catalyst regardless of outcome [Reid]",
-      "Napier: Warsh Fed-chair signals onset of financial repression cycle — real rates to be suppressed to manage debt burden [Napier]"
-    ],
-    "whats_new": [
-      "Yield panic escalation: 10Y touched 5.36%, 30Y at highest since 2002 — multiple investors updated frameworks mid-week",
-      "MMF surge: $166.4B in 3 weeks (Hartnett) — largest peacetime flight to safety in data history",
-      "Two major target shifts: Wilson up to 8,000 [shift], Yardeni down to 7,900 [shift] — consensus fracturing",
-      "Gundlach joins Hartnett in calling for October FOMC hike — rare intra-year Fed call gaining traction",
-      "Fiscal credibility crisis: Bessent bond buyback failed, 30Y holding above 5.25% despite Treasury action",
-      "Dalio and Tudor Jones both flagged systemic risk levels not seen since 2020"
-    ],
-    "vs_market_buy": [
-      "Bessent more optimistic on fiscal timeline than bond market pricing — 30Y yield spread vs his projections is widest in 2026",
-      "Dalio more bearish on debt sustainability than official consensus — fiscal trajectory comparison to pre-crisis periods is a minority view among buy-side"
-    ],
-    "vs_market_sell": [
-      "Gundlach and Hartnett ahead of Street on October hike call — Fed futures still pricing hold",
-      "Rosenberg more bearish than consensus on recession probability — above-50% 2027 call is outlier",
-      "Marks more extreme on 30Y Treasury floor than peers — 5.5% as minimum justified yield is above most sell-side estimates"
-    ],
-    "buy_vs_sell_divergence": [
-      "Buy side split: Bessent (fiscal optimism) vs Dalio/Tudor Jones (systemic risk warning) — unusual internal divergence",
-      "Sell side broadly bearish on bonds: Gundlach, Hartnett, Marks, Edwards all see further yield upside",
-      "Target divergence: Wilson at 8,000 vs Yardeni at 7,900 vs Rosenberg (recession call) — widest spread since early 2026",
-      "Buy side (Druckenmiller) sees dollar peak soon; sell side (Hartnett) says risk-off locked until dollar actually peaks — agree on catalyst, disagree on timing"
-    ],
-    "aligned": [
-      "Universal agreement: bond market is the dominant risk factor for all asset classes in October 2026",
-      "Near-consensus: 30Y yield above 5.5% triggers forced deleveraging across institutional portfolios",
-      "Broad agreement: midterm elections will be a market catalyst (bullish or stabilizing post-clarity)",
-      "Multiple investors (Hartnett, Gundlach, Marks) converging on October FOMC as pivotal decision point"
-    ],
-    "buy_side_trades": [
-      "Gold and Bitcoin as inflation/fiscal crisis hedges [Tudor Jones]",
-      "Short long-duration Treasuries — 30Y breakout uncontained [Bessent]",
-      "Dollar strength hedge given geopolitical risk and yield differential [Bessent]",
-      "Hard assets / gold allocation for debt crisis insurance [Dalio]",
-      "Emerging markets (Brazil) on dollar peak thesis [Druckenmiller]"
-    ],
-    "sell_side_trades": [
-      "Buy bonds over equities until dollar peaks [Hartnett]",
-      "Reduce equity exposure until yield/energy headwinds resolve [Yardeni]",
-      "Avoid leveraged positions near deleveraging triggers [Hartnett]",
-      "Defensive equity tilt until labor market stabilizes [Sonders]",
-      "Short European equities vs US on capital flow divergence [Slok]",
-      "Favor post-midterm equity clarity trade [Reid]"
-    ],
-    "dominant_themes": [
-      "Bond market vigilante reassertion: 10Y at 5.36%, 30Y at highest since 2002",
-      "MMF surge ($166.4B/3 weeks) — largest peacetime defensive rotation on record",
-      "October FOMC hike debate: Gundlach and Hartnett vs market consensus of hold",
-      "Fiscal credibility crisis: Bessent buyback failure, 30Y unresponsive to Treasury action",
-      "Target consensus fracturing: Wilson +8,000 vs Yardeni 7,900 vs Rosenberg recession call",
-      "Midterm elections as near-term catalyst — historical bull pattern (Reid)",
-      "Dollar +3% from Sept low locking in risk-off across asset classes"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "bearish"
+    "sell_side_sentiment": "mixed"
   },
   "month": {
     "period_start": "2026-09-13",
     "period_end": "2026-10-13",
     "entries_count": 242,
-    "buy_side_bullets": [
-      "Bessent's fiscal pivot: debt-reduction plan promised post-midterms but bond market unconvinced — 30Y at 5.27%, buyback attempt failed [Bessent, shift]",
-      "Dalio: US fiscal trajectory now resembles pre-crisis patterns — accumulate gold, diversify away from dollar-denominated assets [Dalio]",
-      "Tudor Jones: shifted to bearish near-term stance — long gold and Bitcoin, sees 30Y above 5.5% as 'financial accident' threshold [Tudor Jones, shift]",
-      "Druckenmiller: Brazil emerging market thesis vindicated; dollar peak imminent — positioning for EM rotation [Druckenmiller]",
-      "Gundlach (buy-side view): sees investment opportunity in short-duration bonds — but calls for FOMC hike to restore credibility [Gundlach]"
-    ],
-    "sell_side_bullets": [
-      "Hartnett (BofA): $166.4B MMF inflows in 3 weeks; 10Y at 5.36%, 30Y highest since 2002; 'Fed hike = most bullish outcome' — consistent bear thesis deepening [Hartnett, evolving]",
-      "Yardeni: first major 2026 target cut Sept 16 — 8,250 to 7,900; 'risks of downturn increased over 3-6 months'; long-term Roaring 2020s intact [Yardeni, shift]",
-      "Wilson (Morgan Stanley): raised to 8,000 as 'ceiling not floor'; valuation at 22x forward; needs EPS delivery [Wilson, shift]",
-      "Gundlach: 10Y at 5.36% signals unanchored inflation expectations; calling for Oct FOMC hike; sees 6% if Fed holds [Gundlach]",
-      "Rosenberg: 2027 recession probability above 50% — yield curve + credit tightening = classic precursor; most bearish call on Wall Street [Rosenberg]",
-      "Marks: 30Y is 'invoice' for fiscal profligacy — no price below 5.5% justified; credit cycle turning [Marks]",
-      "Edwards: bank lending surge (fastest since 2021) will amplify yield spike; credit creation into rising rates = financial stress precursor [Edwards]",
-      "Sonders: labor market cracks — job openings falling, temp employment declining, wage deceleration [Sonders]",
-      "Slok: European capital accelerating into US — ECB/Fed divergence creating transatlantic equity split [Slok]",
-      "Napier: Warsh signals financial repression onset — real rates to be capped to manage debt burden [Napier]",
-      "Bannister: raised target despite 'mania' valuation warning — forced tactical upgrade while calling for structural correction [Bannister, shift]",
-      "Jim Reid: midterm historically bullish; post-election clarity = near-term catalyst [Reid]"
-    ],
-    "whats_new": [
-      "September 16 marked the inflection point: Yardeni's cut signaled bull consensus beginning to crack after months of upgrades",
-      "October yield surge (10Y: 5.36%, 30Y: highest since 2002) — unprecedented in post-2020 cycle, forcing framework updates across all 28 tracked investors",
-      "MMF accumulation ($166.4B/3 weeks) — institutional risk-off signal not seen in peacetime history",
-      "October FOMC hike debate emerging as dominant near-term macro narrative",
-      "Fiscal credibility gap: Treasury buyback failure and midterm deferral of debt plan created lasting bond market skepticism",
-      "Three target shifts in one month (Bannister up, Yardeni down, Wilson up) — unprecedented signal fragmentation in tracked universe"
-    ],
-    "vs_market_buy": [
-      "Dalio and Tudor Jones significantly more bearish on systemic risk than buy-side consensus — most buy-siders still constructive on fundamentals",
-      "Bessent's growth assumptions (3% path) challenged by CBO and bond market — official vs. market divergence widest of 2026",
-      "Druckenmiller's dollar-peak/EM rotation thesis is minority view — most buy-side still sees dollar strength persisting"
-    ],
-    "vs_market_sell": [
-      "Rosenberg is the most bearish tracked investor — 50%+ 2027 recession probability is outlier vs peer consensus",
-      "Gundlach's October hike call is outside Fed futures consensus — high-conviction contrarian position",
-      "Napier's financial repression framework (Warsh signals) is earliest in the tracked universe to adopt this thesis",
-      "Hartnett's 'Fed hike = bullish' framing is contrarian to conventional market logic but gaining traction"
-    ],
-    "buy_vs_sell_divergence": [
-      "Core divergence: buy side (ex-Dalio/Tudor) still sees fundamentals supporting equities; sell side broadly sees yield/credit conditions as structural headwind",
-      "Target fracture: Wilson (8,000) vs Yardeni (7,900) vs Rosenberg (recession) — 30-day range from peak buy-side optimism to recession call is unprecedented in tracked history",
-      "Fed policy: buy side split (Bessent wants hold, Dalio/Tudor agnostic); sell side converging on October hike (Gundlach, Hartnett)",
-      "Dollar: buy side sees strength continuing (Bessent, deficit spending); sell side sees dollar peak as catalyst (Druckenmiller, Hartnett)",
-      "Labor market: buy side (Bessent) cites above-4% GDP; sell side (Sonders, Rosenberg) sees cracks in employment data"
-    ],
-    "aligned": [
-      "Universal: bond market is the dominant 2026 risk variable — no tracked investor dismisses yield levels",
-      "Near-consensus: 30Y above 5.5% = forced institutional deleveraging threshold",
-      "Broad agreement: midterm elections are near-term catalyst (bullish or stabilizing)",
-      "Convergence: dollar trajectory is the key cross-asset switch for risk appetite",
-      "All tracked investors updated frameworks in October due to yield surge — rare synchronized reassessment"
-    ],
-    "buy_side_trades": [
-      "Gold and Bitcoin inflation/fiscal crisis hedges [Tudor Jones, Dalio]",
-      "Short long-duration Treasuries [Bessent, Tudor Jones]",
-      "Brazil and EM on dollar peak thesis [Druckenmiller]",
-      "Hard assets diversification away from dollar [Dalio]",
-      "Dollar strength FX hedge near-term [Bessent]"
-    ],
-    "sell_side_trades": [
-      "Buy bonds over equities until dollar peaks [Hartnett]",
-      "Reduce equity exposure tactically until yield/energy headwinds resolve [Yardeni]",
-      "Avoid leveraged positions near deleveraging triggers [Hartnett]",
-      "Defensive equity tilt — labor market cracks signal late-cycle [Sonders]",
-      "Short European equities vs US on capital flow divergence [Slok]",
-      "Post-midterm equity clarity trade [Reid]",
-      "Short 30Y Treasuries — no fundamental support below 5.5% [Marks]"
-    ],
-    "dominant_themes": [
-      "Bond vigilante reassertion: 10Y at 5.36%, 30Y at highest since 2002 — the defining macro event of October 2026",
-      "MMF surge ($166.4B/3 weeks) — largest peacetime defensive rotation in modern data history",
-      "Fiscal credibility crisis: Treasury buyback failure, Bessent midterm deferral, CBO growth challenge",
-      "October FOMC hike debate (Gundlach + Hartnett vs consensus hold) — most impactful near-term policy question",
-      "S&P target fragmentation: Wilson 8,000 vs Yardeni 7,900 vs Rosenberg recession — 30-day range widest since 2022",
-      "Midterms as equity catalyst: historical bull pattern (Reid) + fiscal clarity (Bessent) = near-term positive",
-      "Dollar peak watch: Hartnett/Druckenmiller timing the turn as primary cross-asset catalyst",
-      "Financial repression cycle onset: Napier framework gaining adherents as fiscal math deteriorates"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "bearish"
+    "sell_side_sentiment": "mixed"
   }
 }
