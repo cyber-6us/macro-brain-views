@@ -1,53 +1,181 @@
 {
-  "generated_at": "2026-10-13",
+  "generated_at": "2026-10-14",
   "today": {
-    "date": "2026-10-13",
+    "date": "2026-10-14",
     "entries_count": 3,
-    "buy_side_bullets": [],
+    "buy_side_bullets": [
+      "AI infrastructure rotation in full swing \u2014 rotating from memory chips to megacap tech and power generation utilities. [Tepper]",
+      "Market at most expensive levels in Greenlight's history \u2014 closing fund to new investors signals no adequate risk/reward. [Einhorn]",
+      "Short USD remains only high-conviction macro trade \u2014 de-dollarization and central bank gold buying sustain the theme. [Druckenmiller]",
+      "Gold as structural macro anchor \u2014 both Einhorn and Druckenmiller hold gold as primary hedge. [Einhorn, Druckenmiller]",
+      "Asset bubbles represent the biggest threat to economic stability \u2014 AI stocks held tactically but not a conviction macro call. [Druckenmiller]"
+    ],
     "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
+    "whats_new": [
+      "Tepper Q2 2026 13F confirms AI power infrastructure is now a portfolio theme \u2014 new Vistra and NRG Energy positions alongside Amazon, TSMC, Alphabet",
+      "Einhorn's Greenlight formally closed to new investors July 1, 2026 \u2014 explicit signal of insufficient margin-of-safety in current market",
+      "Druckenmiller's sole high-conviction trade is USD short \u2014 geopolitical and de-dollarization thesis has displaced previous bond-bear view"
+    ],
+    "vs_market_buy": [
+      "Druckenmiller short USD runs against USD index near cycle highs",
+      "Einhorn bearish at record equity levels when consensus is still pro-risk into year-end"
+    ],
     "vs_market_sell": [],
     "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
+    "aligned": [
+      "Gold is a consensus long across today's buy-side \u2014 both Einhorn and Druckenmiller hold it as a core position"
+    ],
+    "buy_side_trades": [
+      "Long Vistra (VST) and NRG Energy \u2014 AI data center power demand proxy. [Tepper]",
+      "Long Amazon \u2014 top portfolio position at ~16%. [Tepper]",
+      "Short US dollar \u2014 sole high-conviction macro trade. [Druckenmiller]",
+      "Long gold \u2014 structural central-bank-bid thesis. [Druckenmiller, Einhorn]",
+      "Long EUR and JPY vs USD \u2014 dollar weakness hedge. [Einhorn]"
+    ],
     "sell_side_trades": [],
-    "dominant_themes": [],
+    "dominant_themes": [
+      "equities",
+      "commodities",
+      "fx"
+    ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "week": {
-    "period_start": "2026-10-06",
-    "period_end": "2026-10-13",
-    "entries_count": 48,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "period_start": "2026-10-07",
+    "period_end": "2026-10-14",
+    "entries_count": 38,
+    "buy_side_bullets": [
+      "US debt near crisis point \u2014 $7.5T spending vs $5.5T revenue creates near-$2T annual deficit, tipping point within 3 years. [Dalio]",
+      "Equity markets likely to retest recent lows \u2014 no trade deal or rate relief without a meaningful US market selloff first. [Tudor Jones]",
+      "Market at most expensive levels seen \u2014 Greenlight closing to new investors signals cycle peak in speculative excess. [Einhorn]",
+      "AI infrastructure rotation accelerating \u2014 from memory chips to megacap AI, cloud, and power infrastructure. [Tepper]",
+      "Short USD is the highest-conviction macro trade \u2014 de-dollarization and central bank gold buying structurally weaken dollar. [Druckenmiller]"
+    ],
+    "sell_side_bullets": [
+      "Record $166.4B into money-market funds in one week (Oct 7) \u2014 largest MMF inflow since April 2020 pandemic panic; formal sell signal triggered. [Hartnett]",
+      "Fed should hike at October 27-28 FOMC \u2014 funds rate 50bps too low; long-dated yields could surpass 6%. [Gundlach]",
+      "Ice Age deflation thesis is officially over \u2014 fiscal dominance era begins; double-digit inflation returning. [Edwards]",
+      "2027 recession risk rising sharply \u2014 fiscal stimulus and AI spending both running out of fuel simultaneously. [Rosenberg]",
+      "Financial repression regime underway \u2014 15-20 year era of 4-6% engineered inflation with rates structurally below inflation. [Napier]"
+    ],
+    "whats_new": [
+      "Gundlach escalated from cautious-bearish to explicitly calling for October 27 Fed hike \u2014 most hawkish stance of 2026 [Gundlach shift]",
+      "Edwards declared his 30-year 'Ice Age' deflation thesis dead \u2014 replaced by fiscal dominance and double-digit inflation call [Edwards shift]",
+      "Barry Bannister upgraded S&P 500 target tactically despite 'valuation mania' warnings \u2014 first bullish tactical signal from Stifel [Bannister shift]",
+      "Bessent pledged specific debt-reduction plan post-midterms \u2014 first concrete fiscal commitment but markets skeptical [Bessent shift]",
+      "Yardeni cut S&P target to 7,900 \u2014 first major 2026 downgrade after being wrong-footed by rate hike [Yardeni evolving]"
+    ],
+    "vs_market_buy": [
+      "Dalio's 3-year debt crisis timeline is significantly more urgent than consensus market pricing",
+      "Einhorn and Burry bearish at levels where consensus remains pro-risk",
+      "Druckenmiller short USD against USD resilience in high-rate environment"
+    ],
+    "vs_market_sell": [
+      "Gundlach calls for October hike while market prices no further action at 4.0% funds rate",
+      "Hartnett formal sell signal despite consensus year-end rally narrative",
+      "Edwards double-digit inflation call well above consensus 3-4% core CPI expectations"
+    ],
+    "buy_vs_sell_divergence": [
+      "AI capex sustainability: Burry/Einhorn bearish (bubble), Tepper bullish (still deploying into AI infrastructure)",
+      "USD direction: Druckenmiller structurally short vs. Gundlach view that high rates support dollar",
+      "Year-end equity rally: Tudor Jones/Dalio expect retests lower vs. Wilson/Bannister raising S&P targets"
+    ],
+    "aligned": [
+      "Fed policy error risk: both Ackman (buy-side) and Gundlach (sell-side) flag rate trajectory as a critical macro risk",
+      "Long gold: Druckenmiller, Einhorn, and multiple sell-side strategists align on gold as inflation/debt hedge",
+      "Fiscal deterioration: Dalio, Marks, Rosenberg, Napier all flag US deficit trajectory as structurally unsustainable"
+    ],
+    "buy_side_trades": [
+      "Short US dollar \u2014 de-dollarization thesis. [Druckenmiller]",
+      "Long gold \u2014 central bank bid and fiscal hedge. [Druckenmiller, Einhorn]",
+      "Long Vistra and NRG Energy \u2014 AI power demand infrastructure. [Tepper]",
+      "Avoid long-duration Treasuries \u2014 30-year at 5.5%+ structurally. [Marks]",
+      "Long EUR and JPY vs USD. [Einhorn]"
+    ],
+    "sell_side_trades": [
+      "Avoid long-term government bonds in developed markets. [Gundlach]",
+      "Long gold \u2014 inflation regime hedge. [Hartnett, Napier]",
+      "Underweight equities, overweight cash (MMF flows signal). [Hartnett]",
+      "Long TIPS and EM bonds vs nominal developed market bonds. [Gundlach]",
+      "Defensive value equities over growth \u2014 sector rotation. [Sonders]"
+    ],
+    "dominant_themes": [
+      "equities",
+      "bonds",
+      "rates"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "bearish"
   },
   "month": {
-    "period_start": "2026-09-13",
-    "period_end": "2026-10-13",
-    "entries_count": 242,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "period_start": "2026-09-14",
+    "period_end": "2026-10-14",
+    "entries_count": 229,
+    "buy_side_bullets": [
+      "US debt approaching tipping point \u2014 $2T annual deficit with no political will to cut; gold and short-USD are structural hedges. [Dalio]",
+      "AI-infrastructure is the dominant equity theme \u2014 rotation from memory chips to megacap AI, cloud, and power utilities underway. [Tepper]",
+      "Markets at historically expensive valuations \u2014 Greenlight at most expensive in history; SpaceX IPO is a 'speculative cycle top.' [Einhorn]",
+      "Long-duration Treasuries are structurally dangerous \u2014 30-year at 5.5% reflects fiscal reality not temporary dislocation. [Marks]",
+      "Sovereign debt bubble and equity over-equitization \u2014 current setup comparable to October 1999 with further 40% upside before the bust. [Tudor Jones]"
+    ],
+    "sell_side_bullets": [
+      "BofA formal sell signal triggered \u2014 Bull & Bear indicator at 9.6 with record MMF inflows; extreme bullishness historically precedes 10%+ corrections. [Hartnett]",
+      "Double-digit inflation returning \u2014 Ice Age deflation thesis dead; fiscal dominance era underway with governments unable to unwind spending. [Edwards]",
+      "2027 recession risk rising \u2014 fiscal stimulus and AI capex both running out of fuel; financial repression regime a 15-20 year constraint. [Rosenberg, Napier]",
+      "Fed funds rate 50bps too low \u2014 rate hike at October FOMC meeting needed; long yields could breach 6%. [Gundlach]",
+      "Earnings growth at 50%+ pace unsustainable \u2014 S&P 500 upside capped by valuation; first major target cuts beginning. [Yardeni, Bannister]"
+    ],
+    "whats_new": [
+      "Edwards ended 30-year Ice Age deflation thesis in May 2026 \u2014 now forecasts double-digit inflation return [Edwards shift]",
+      "Gundlach moved from cautious to explicitly advocating October 2026 Fed hike \u2014 most hawkish call in years [Gundlach shift]",
+      "Bannister made tactical upgrade despite structural 'valuation mania' warnings \u2014 first bullish signal from Stifel bear [Bannister shift]",
+      "Torsten Slok reversed stagflation call \u2014 slashed recession odds from 30%+ to 10% on AI and fiscal resilience [Slok shift]",
+      "Yardeni made first 2026 downgrade (to 7,900) \u2014 after being 'not bullish enough' earlier in year [Yardeni evolving]",
+      "Bessent pledged debt-reduction plan post-midterms \u2014 first specific fiscal commitment as Treasury Secretary [Bessent evolving]"
+    ],
+    "vs_market_buy": [
+      "Dalio sees debt crisis within 3 years while markets price manageable deficit trajectory",
+      "Einhorn/Burry bearish on AI valuations while consensus remains constructive on AI capex cycle",
+      "Druckenmiller short USD against consensus view that high US rates attract capital"
+    ],
+    "vs_market_sell": [
+      "Gundlach/Edwards see rate hike risk while market prices Fed on hold at 4.0%",
+      "Hartnett formal sell signal runs against consensus year-end bullish seasonality narrative",
+      "Napier financial repression thesis is a decade-long view against consensus of eventual normalization"
+    ],
+    "buy_vs_sell_divergence": [
+      "AI cycle duration: Tepper bullish (still rotating into AI infrastructure), Burry/Einhorn bearish (AI capex bubble about to burst)",
+      "US equity direction: Tudor Jones/Dalio/Einhorn expect further declines vs. Wilson/Bannister/Yardeni still pointing to year-end targets of 7,900-8,000",
+      "Inflation path: Edwards/Gundlach see inflation accelerating vs. Hatzius/Sonders expect it falling toward 2% by end-2026",
+      "Fed trajectory: Gundlach explicitly calls for hike vs. Ackman says September hike was already a 'mistake'"
+    ],
+    "aligned": [
+      "Long gold: buy-side (Druckenmiller, Einhorn, Dalio, Marks) and sell-side (Hartnett, Napier, Gundlach) aligned as debt/inflation hedge",
+      "US fiscal trajectory unsustainable: universal concern across buy and sell side, regardless of near-term market direction call",
+      "Long-duration Treasuries avoided: Marks, Gundlach, Napier, Druckenmiller all warn against long-dated government bonds",
+      "AI narrative is real but priced in: nuanced consensus that AI productivity is genuine but market multiples have overshot"
+    ],
+    "buy_side_trades": [
+      "Short US dollar \u2014 only high-conviction Druckenmiller macro trade. [Druckenmiller]",
+      "Long gold \u2014 consensus across buy-side as debt and inflation hedge. [Druckenmiller, Einhorn, Dalio, Marks]",
+      "Long Vistra and NRG Energy \u2014 AI data center power demand. [Tepper]",
+      "Long EUR and JPY vs USD. [Einhorn]",
+      "Avoid long-duration Treasuries. [Marks, Druckenmiller]"
+    ],
+    "sell_side_trades": [
+      "Long gold \u2014 inflation and repression hedge. [Hartnett, Napier, Gundlach]",
+      "Avoid long-term government bonds. [Gundlach, Napier]",
+      "Underweight equities / overweight cash \u2014 sell signal from BofA flows. [Hartnett]",
+      "Long TIPS and EM bonds. [Gundlach]",
+      "Defensive value and dividend-payers over growth. [Sonders, Bannister]"
+    ],
+    "dominant_themes": [
+      "equities",
+      "bonds",
+      "rates"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "bearish"
   }
 }
