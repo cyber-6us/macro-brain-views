@@ -4,144 +4,50 @@
     "date": "2026-10-17",
     "entries_count": 1,
     "buy_side_bullets": [],
-    "sell_side_bullets": [
-      "US recession probability at 40% \u2014 Iran/Middle East conflict adds a new geopolitical trigger on top of existing macro headwinds [Peter Berezin]",
-      "Europe and Japan recession risk higher at 50% \u2014 energy import exposure amplifies downside in an oil shock [Peter Berezin]",
-      "Oil to $200/barrel if Middle East supply shock is sustained \u2014 tail risk with fat probability [Peter Berezin]",
-      "Equities still expensive at ~20x forward earnings despite YTD drawdown \u2014 not yet a buying opportunity [Peter Berezin]",
-      "Worst is yet to come \u2014 tariff-shock recovery rally does not erase structural overvaluation and growth deceleration [Peter Berezin]"
-    ],
-    "whats_new": [
-      "Peter Berezin: Berezin warns that escalating Middle East conflict (Iran scenario) has pushed his US recession proba..."
-    ],
+    "sell_side_bullets": [],
+    "whats_new": [],
     "vs_market_buy": [],
-    "vs_market_sell": [
-      "Sell-side flagging recession risk at 40%+ vs current equity pricing at ~20x fwd earnings [Berezin]"
-    ],
+    "vs_market_sell": [],
     "buy_vs_sell_divergence": [],
     "aligned": [],
     "buy_side_trades": [],
-    "sell_side_trades": [
-      "Underweight global equities (20x forward earnings = overvalued even post-drawdown)",
-      "Energy commodity exposure as a hedge against Middle East supply shock",
-      "Overweight defensive assets / bonds in recession-probability-rising environment"
-    ],
-    "dominant_themes": [
-      "Recession/Growth",
-      "Geopolitics",
-      "Credit"
-    ],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "bearish"
+    "sell_side_sentiment": "mixed"
   },
   "week": {
     "period_start": "2026-10-10",
     "period_end": "2026-10-17",
     "entries_count": 19,
-    "buy_side_bullets": [
-      "US equity markets likely to retest recent lows \u2014 neither trade nor rate relief will come without a market-forced correction [Paul Tudor Jones]",
-      "Trade policy uncertainty and restrictive monetary conditions are substantial near-term pressures on valuations [Paul Tudor Jones]",
-      "Conditions won't ease until markets force the issue \u2014 a sharp correction precedes policy capitulation [Paul Tudor Jones]",
-      "1999 analog still intact \u2014 AI bull market feels like pre-bubble peak even as near-term caution rises [Paul Tudor Jones]",
-      "Q2 2026 portfolio shift: diversifying via broad S&P 500 ETF alongside SpaceX and Oracle longs [Paul Tudor Jones]"
-    ],
-    "sell_side_bullets": [
-      "M2 and bank lending surge now matters for inflation \u2014 challenges Powell's 2021 'M2 is irrelevant' view [Albert Edwards]",
-      "Expanding bank lending will eventually fuel inflation and asset-price excesses if sustained [Albert Edwards]",
-      "Fed materially underestimating inflationary potential of current bank lending acceleration [Albert Edwards]",
-      "Treasury bill reliance lowers current borrowing costs but creates severe future refinancing risk [Albert Edwards]",
-      "SocGen model favors bonds over equities \u2014 cautious on risk assets as inflation risks compound [Albert Edwards]"
-    ],
-    "whats_new": [
-      "Peter Berezin: Berezin warns that escalating Middle East conflict (Iran scenario) has pushed his US recession proba..."
-    ],
-    "vs_market_buy": [
-      "Buy-side cautious despite recent market highs \u2014 AI/tech concentration risk cited [Paul Tudor Jones, Scott Bessent, Howard Marks]"
-    ],
-    "vs_market_sell": [
-      "Sell-side flagging recession risk at 40%+ vs current equity pricing at ~20x fwd earnings [Berezin]"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
     "buy_vs_sell_divergence": [],
-    "aligned": [
-      "Both buy and sell side share bearish sentiment on markets"
-    ],
-    "buy_side_trades": [
-      "Long broad S&P 500 ETF \u2014 diversification hedge against concentrated AI exposure",
-      "Long SpaceX pre-IPO ($199M Q2 2026 position) \u2014 structural AI/space infrastructure play",
-      "Long Oracle \u2014 new Q2 2026 position in AI infrastructure beneficiary",
-      "Shift portfolio defensively from equities toward bonds at current yield levels",
-      "Treat 30-year Treasury at 5.5% as reasonable entry for fixed income versus stretched equity multiples",
-      "Short long-duration Treasuries \u2014 30Y yield breakout suggests bond vigilantes unconvinced by fiscal promises"
-    ],
-    "sell_side_trades": [
-      "Long bonds over equities \u2014 SocGen model positioning amid building inflation risk",
-      "Overweight cash until Fed delivers credible rate-cut cycle",
-      "Risk assets underweight until dollar peaks and yields ease from 24-year highs",
-      "Long US dollar vs. European currencies given European capital outflows into US AI assets",
-      "Favor short-duration bonds over long-end given higher-for-longer rate outlook",
-      "Short 30-year Treasury bonds"
-    ],
-    "dominant_themes": [
-      "AI/Tech",
-      "Rates/Bonds",
-      "Equities/Valuations"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   },
   "month": {
     "period_start": "2026-09-17",
     "period_end": "2026-10-17",
     "entries_count": 200,
-    "buy_side_bullets": [
-      "AI market caps built on capex and accounting choices that will reverse \u2014 'blow up' in 2026-2028 [Michael Burry]",
-      "Markets 'fragile' and at 'a major top' \u2014 comparing to 1999-2000 dot-com bubble [Michael Burry]",
-      "Short Nvidia, Palantir, Micron, Tesla, Caterpillar, Applied Materials, SMH \u2014 depreciation reversal thesis [Michael Burry]",
-      "Long beaten-down SaaS (Adobe, Autodesk, Veeva) and LatAm e-commerce (MercadoLibre) as non-AI-bubble plays [Michael Burry]",
-      "Hyperscaler depreciation math reversal will shock earnings consensus in 2026-2028 [Michael Burry]"
-    ],
-    "sell_side_bullets": [
-      "Markets on 'collision course' with higher rates \u2014 long-dated yields could surpass 6% [Jeffrey Gundlach]",
-      "Fed should have hiked more aggressively; rate cuts 'just not possible' given current inflation [Jeffrey Gundlach]",
-      "Deficit-based economy is 'the weapon' driving market dynamics in 2026 [Jeffrey Gundlach]",
-      "Next recession will bring rising long-term rates and falling dollar \u2014 opposite of consensus [Jeffrey Gundlach]",
-      "Avoids long-end duration; focused on 2-7 year high-quality bonds [Jeffrey Gundlach]"
-    ],
-    "whats_new": [
-      "Peter Berezin: Berezin warns that escalating Middle East conflict (Iran scenario) has pushed his US recession proba..."
-    ],
-    "vs_market_buy": [
-      "Buy-side cautious despite recent market highs \u2014 AI/tech concentration risk cited [Michael Burry, Scott Bessent, Bill Ackman]"
-    ],
-    "vs_market_sell": [
-      "Sell-side flagging recession risk at 40%+ vs current equity pricing at ~20x fwd earnings [Berezin]"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
     "buy_vs_sell_divergence": [],
-    "aligned": [
-      "Both buy and sell side share bearish sentiment on markets"
-    ],
-    "buy_side_trades": [
-      "Short Nvidia, Palantir via put options",
-      "Short SMH (iShares Semiconductor ETF)",
-      "Long MercadoLibre (MELI) \u2014 new Q1 2026 position",
-      "Long Adobe, Autodesk, Veeva Systems \u2014 beaten-down SaaS",
-      "Long high-quality FCF compounders at dislocated prices",
-      "Monitor for AI capex inflation feedback loop developing"
-    ],
-    "sell_side_trades": [
-      "Short 30-year US Treasuries \u2014 outright short position still active",
-      "Long 2-7 year BBB+ rated bonds \u2014 quality-focused positioning",
-      "Long US small/mid-caps, regional banks, REITs",
-      "Long international and emerging market equities",
-      "Short Magnificent 7 / Big Tech relative value",
-      "Equal-weight 25% stocks / 25% bonds / 25% cash / 25% commodities"
-    ],
-    "dominant_themes": [
-      "AI/Tech",
-      "Rates/Bonds",
-      "Credit"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   }
 }
