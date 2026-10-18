@@ -3,152 +3,51 @@
   "today": {
     "date": "2026-10-18",
     "entries_count": 1,
-    "buy_side_bullets": [
-      "2027 equity headwinds emerging \u2014 accelerating share sales create supply-side risk alongside restricted monetary conditions. [Tudor Jones]"
-    ],
+    "buy_side_bullets": [],
     "sell_side_bullets": [],
-    "whats_new": [
-      "First explicit 2027-horizon equity supply overhang thesis \u2014 extending near-term caution into a structural cross-year call with new mechanism. [Tudor Jones]"
-    ],
-    "vs_market_buy": [
-      "Market pricing a benign equity supply environment in 2027; Jones sees accelerating share issuance as a structural headwind the consensus has not priced"
-    ],
+    "whats_new": [],
+    "vs_market_buy": [],
     "vs_market_sell": [],
     "buy_vs_sell_divergence": [],
     "aligned": [],
     "buy_side_trades": [],
     "sell_side_trades": [],
-    "dominant_themes": [
-      "2027 equity supply overhang",
-      "Fed restrictiveness under Warsh",
-      "Late-cycle AI bull market risk"
-    ],
-    "buy_side_sentiment": "bearish",
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "week": {
     "period_start": "2026-10-11",
     "period_end": "2026-10-18",
     "entries_count": 17,
-    "buy_side_bullets": [
-      "30Y Treasury at 5.5% is structural \u2014 the invoice for deficit spending, not a temporary dislocation; government can't bend economic laws. [Howard Marks]",
-      "Fed funds 50 bps too low \u2014 October 27-28 hike explicitly advocated as 10Y and 30Y approach 24-year highs. [Gundlach]",
-      "2027 equity headwinds emerging \u2014 accelerating share issuance adds supply-side risk to late-cycle 1999-analog thesis. [Tudor Jones]",
-      "Market at most expensive level in Greenlight history \u2014 fund closed to new investors July 2026; no adequate risk/reward found. [Einhorn]",
-      "Short US dollar sole high-conviction macro trade \u2014 de-dollarization and central bank gold buying structural. [Druckenmiller]"
-    ],
-    "sell_side_bullets": [
-      "$166.4B into money-market funds in the week of Oct 7 \u2014 largest weekly cash inflow since April 2020 pandemic; risk-off is structural until dollar peaks. [Hartnett]",
-      "US recession probability 40%, Europe/Japan 50% \u2014 Iran/Middle East scenario adds geopolitical trigger on top of macro headwinds. [Berezin]",
-      "2027 recession risk rising sharply \u2014 fiscal stimulus and AI spending both running out of runway post-midterm gridlock. [Rosenberg]",
-      "S&P 500 year-end target cut from 8,250 to 7,900 \u2014 first major 2026 downgrade; elevated yields and energy prices cited. [Yardeni shift]",
-      "AI agents = bankpocalypse for banking and payments \u2014 Visa and Mastercard face structural disruption, not an AI bubble but legacy disruption. [Visser]"
-    ],
-    "whats_new": [
-      "Hartnett paradoxically argues Fed hike now = most bullish outcome \u2014 caps yield panic, enables year-end risk recovery. [Hartnett evolving]",
-      "Bessent pledged post-midterm debt-reduction plan \u2014 first explicit fiscal commitment; markets skeptical given 30Y at 5.27%. [Bessent shift]",
-      "Yardeni downgraded S&P target for first time in 2026 \u2014 first break from 11-month Roaring 20s conviction. [Yardeni shift]",
-      "Tudor Jones extended 2026 caution into explicit 2027 supply-side headwind \u2014 new mechanism added to existing bearish thesis. [Tudor Jones]"
-    ],
-    "vs_market_buy": [
-      "Market pricing Fed hold or cut in 2027; Gundlach sees rates still 50 bps too low \u2014 actively advocates further hike",
-      "Consensus S&P target ~7,800\u20138,000; Howard Marks and Einhorn see structural overvaluation not yet corrected",
-      "Dollar consensus neutral; Druckenmiller uniquely positioned short dollar as sole high-conviction macro trade"
-    ],
-    "vs_market_sell": [
-      "Wilson most bullish sell-sider at S&P 8,000 \u2014 diverges from Yardeni/Hartnett/Rosenberg caution and risk-off tone",
-      "Slok constructive on AI productivity as durable growth driver \u2014 Rosenberg calls AI spending a 'running out of runway' story for 2027"
-    ],
-    "buy_vs_sell_divergence": [
-      "Howard Marks (buy) treats 5.5% 30Y yield as structural equilibrium \u2014 Hartnett (sell) treats same level as a deleveraging trigger. Same yield, opposite implications.",
-      "Tepper (buy) adds AI infrastructure and power names as durable capex cycle play \u2014 Rosenberg (sell) warns AI spending is losing momentum as 2027 growth driver."
-    ],
-    "aligned": [
-      "Bond yields at multi-decade highs as the defining macro regime for risk assets. [Howard Marks, Hartnett, Gundlach, Yardeni, Bessent]",
-      "Post-midterm fiscal contraction will slow 2027 growth \u2014 both sides see the gridlock coming. [Bessent, Rosenberg, Yardeni, Tudor Jones]",
-      "Dollar strength is a near-term headwind for global risk assets. [Druckenmiller, Hartnett, Slok]"
-    ],
-    "buy_side_trades": [
-      "Short US dollar [Druckenmiller]",
-      "Long Vistra/NRG Energy \u2014 AI data center power demand play [Tepper]",
-      "Short/intermediate bonds over long-duration Treasuries [Gundlach]"
-    ],
-    "sell_side_trades": [
-      "Start adding bonds as yields approach structural peak [Hartnett]",
-      "Defensive value over growth; avoid small caps and banks until dollar peaks [Hartnett]"
-    ],
-    "dominant_themes": [
-      "Multi-decade high bond yields threatening deleveraging",
-      "2027 recession risk post-fiscal-cliff and midterms",
-      "AI supply-side disruption \u2014 equity issuance and banking disruption"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   },
   "month": {
     "period_start": "2026-09-18",
     "period_end": "2026-10-18",
     "entries_count": 194,
-    "buy_side_bullets": [
-      "US debt crisis possible within ~3 years \u2014 $7.5T spending vs $5.5T revenue, near-$2T annual deficit structurally unsustainable. [Dalio]",
-      "30Y Treasury at 5.5% reflects unavoidable fiscal invoice \u2014 three structural drivers: sticky inflation, large peacetime deficit, AI capex crowding. [Howard Marks]",
-      "Fed funds rate 50 bps too low \u2014 October hike advocated; long-dated bonds avoided in favor of short/intermediate maturities. [Gundlach]",
-      "2027 equity headwinds from accelerating share issuance \u2014 AI bull market 1999 analog intact but late-cycle risk rising. [Tudor Jones]",
-      "Market most expensive in Greenlight's history \u2014 fund closed to new investors; structural overvaluation in equity risk premium vs bonds. [Einhorn]"
-    ],
-    "sell_side_bullets": [
-      "Risk-off structural until dollar peaks \u2014 $166.4B weekly MMF inflows (Oct 7) largest since April 2020; investors rebuilding cash and cutting leverage. [Hartnett]",
-      "US recession probability 40%, Europe/Japan 50% \u2014 Middle East escalation is new geopolitical trigger stacked on macro headwinds. [Berezin]",
-      "2027 recession risk accelerating \u2014 fiscal and AI spending both losing momentum as post-midterm gridlock approaches. [Rosenberg shift]",
-      "Warsh's 'money matters' mantra confirms financial repression regime shift \u2014 bank-driven credit creation taking over from Fed QE. [Napier]",
-      "AI agents = bankpocalypse \u2014 banking and payments sector (Visa, Mastercard, banks) facing structural disruption beyond mere AI bubble framing. [Visser]"
-    ],
-    "whats_new": [
-      "Berezin escalated US recession probability to 40% \u2014 adding geopolitical trigger (Middle East/Iran) to pre-existing macro baseline. [Berezin shift]",
-      "Yardeni downgraded S&P target for first time in 2026 \u2014 first reversal of 11-month bullish trend. [Yardeni shift]",
-      "Hartnett reframing a Fed hike as paradoxically bullish \u2014 new framing vs earlier 'rates too high' equity risk thesis. [Hartnett evolving]",
-      "Bessent pledged post-midterm debt-reduction details \u2014 first explicit fiscal commitment from Treasury after months of market pressure. [Bessent shift]",
-      "Tudor Jones extended 2026 caution into explicit 2027 supply-side headwind thesis. [Tudor Jones]",
-      "Rosenberg launched ROSY ETF September 2026 \u2014 institutionalizing bearish macro framework as investor-accessible product. [Rosenberg]"
-    ],
-    "vs_market_buy": [
-      "Market pricing soft-landing equity path; Dalio and Einhorn see valuation and debt risks as fundamentally unresolved \u2014 a structural disagreement",
-      "Fed futures pricing pause/cut; Gundlach actively advocating October 27-28 hike \u2014 a 50bp gap vs market pricing",
-      "Consensus long or neutral dollar; Druckenmiller sole high-conviction dollar short based on de-dollarization thesis"
-    ],
-    "vs_market_sell": [
-      "Wilson at S&P 8,000 remains most bullish sell-sider \u2014 diverges from growing sell-side caution cohort of Yardeni, Hartnett, Rosenberg, Berezin",
-      "Slok/Hatzius constructive on US growth durability from AI and fiscal tailwinds; Rosenberg/Berezin see 2027 recession as base case"
-    ],
-    "buy_vs_sell_divergence": [
-      "Howard Marks (buy) treats 5.5% 30Y yield as structural equilibrium, manageable \u2014 Hartnett (sell) treats same level as a deleveraging trigger. Same yield, opposite implications.",
-      "Tepper (buy) adds AI infrastructure and power (Vistra, NRG) as durable capex cycle \u2014 Rosenberg (sell) warns AI spending running out as 2027 growth driver. Opposite reads on AI durability.",
-      "Ackman (buy) calls September Fed hike a mistake (AI-capex inelastic to rates) \u2014 Gundlach (buy) says rates still 50 bps too low [rare buy-side intra-cohort split on Fed]"
-    ],
-    "aligned": [
-      "Bond yields at multi-decade highs as regime-defining macro condition across both sides. [Howard Marks, Hartnett, Gundlach, Yardeni, Bessent, Dalio]",
-      "AI capital expenditure as the dominant structural theme \u2014 nearly universal citation, though read as growth driver or crowding/bubble risk diverges.",
-      "Post-midterm fiscal contraction will slow 2027 growth \u2014 convergence from both sides on timing and mechanism. [Bessent, Rosenberg, Yardeni, Tudor Jones, Hatzius]",
-      "Dollar strength is near-term headwind for global risk assets. [Druckenmiller, Hartnett, Slok]"
-    ],
-    "buy_side_trades": [
-      "Short US dollar [Druckenmiller]",
-      "Long gold and gold-linked assets \u2014 de-dollarization and central bank buying [Dalio, Druckenmiller, Howard Marks]",
-      "Long Vistra/NRG Energy \u2014 AI data center power demand [Tepper]",
-      "Short/intermediate bonds over long-duration Treasuries [Gundlach]",
-      "Defensive index put overlay [Soros]"
-    ],
-    "sell_side_trades": [
-      "Start adding bonds as yields approach structural peak [Hartnett]",
-      "Defensive value over growth and small caps [Yardeni, Hartnett]",
-      "Short legacy banking and payments on AI disruption thesis [Visser]"
-    ],
-    "dominant_themes": [
-      "Multi-decade high bond yields and fiscal unsustainability",
-      "2027 recession risk post-fiscal-cliff and midterm gridlock",
-      "AI capex \u2014 durable growth engine vs bubble/disruption risk"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   }
 }
