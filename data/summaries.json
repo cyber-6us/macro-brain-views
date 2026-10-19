@@ -1,53 +1,208 @@
 {
-  "generated_at": "2026-10-18",
+  "generated_at": "2026-10-19",
   "today": {
-    "date": "2026-10-18",
-    "entries_count": 1,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "date": "2026-10-19",
+    "entries_count": 9,
+    "buy_side_bullets": [
+      "Treasury market selloff has 'long way to go' — supply/demand imbalance not yet resolved. [Dalio]",
+      "Higher sovereign rates inevitable as governments expand welfare spending and borrow more. [Ackman]"
+    ],
+    "sell_side_bullets": [
+      "Sell signal ended but no all-clear — 3-4 more weeks of caution expected. [Hartnett]",
+      "Asia 1997 analog: booms end when creditors notice, not when engineers do — creditors are watching now. [Edwards]",
+      "Most dangerous U.S. market of a 40-year career — valuations, leverage and positioning all at extremes. [Rosenberg]",
+      "Warsh 'money matters' framing signals shift to bank-driven money creation and financial repression. [Napier]",
+      "U.S. recession 2027 unlikely — but 2028 is elevated risk with potential Nasdaq -50% drawdown. [Berezin]"
+    ],
+    "whats_new": [
+      "Treasury market selloff has 'long way to go' — supply/demand imbalance not yet resolved [Dalio — new Oct 19]",
+      "Higher sovereign rates inevitable as governments expand welfare spending and borrow more [Ackman — new Oct 19]",
+      "Sell signal ended but no all-clear — 3-4 more weeks of caution expected [Hartnett — new Oct 19]",
+      "Asia 1997 analog: booms end when creditors notice, not when engineers do — creditors are watching now [Edwards — new Oct 19]",
+      "Most dangerous U.S. market of a 40-year career — valuations, leverage and positioning all at extremes [Rosenberg — new Oct 19]"
+    ],
+    "vs_market_buy": [
+      "Treasury market selloff has 'long way to go' — supply/demand imbalance not yet resolved [Dalio]"
+    ],
+    "vs_market_sell": [
+      "Sell signal ended but no all-clear — 3-4 more weeks of caution expected [Hartnett]",
+      "Asia 1997 analog: booms end when creditors notice, not when engineers do — creditors are watching now [Edwards]",
+      "Most dangerous U.S. market of a 40-year career — valuations, leverage and positioning all at extremes [Rosenberg]"
+    ],
+    "buy_vs_sell_divergence": [
+      "Severity of near-term risk: buy-side more bearish [Dalio] vs sell-side neutral [Berezin]",
+      "Both sides bearish but on different channels: buy-side on rates/USD, sell-side on AI capex and equities"
+    ],
+    "aligned": [
+      "Higher-for-longer rates — broad consensus that rates will stay elevated or rise further",
+      "Gold and commodities as portfolio hedge — cited across both buy-side (Dalio, Napier) and sell-side",
+      "AI capex cycle risk — both sides flag potential overspend relative to monetization [Dalio, Ackman, Hartnett, Berezin]"
+    ],
+    "buy_side_trades": [
+      "Reduce duration / avoid long-dated Treasuries globally",
+      "Hold gold (15% allocation thesis reiterated)",
+      "Reduce AI sector exposure where capex exceeds differentiated return potential",
+      "Underweight sovereign bonds — sovereign rate rise thesis",
+      "Long quality equities with pricing power and low debt sensitivity"
+    ],
+    "sell_side_trades": [
+      "Long gold, commodities, emerging markets",
+      "Underweight U.S. mega-cap tech",
+      "Monitor BDC and private credit stress as leading risk indicator",
+      "Avoid long-duration bonds — double-digit inflation thesis",
+      "Short U.S. and U.K. sovereign debt on fiscal dominance",
+      "Buy Treasuries on yield spikes",
+      "Overweight international / non-U.S. equities",
+      "Underweight U.S. equities (most dangerous market in 40 years)"
+    ],
+    "dominant_themes": [
+      "Higher-for-longer rates / bond market stress",
+      "AI capex risk and bubble concerns",
+      "Fiscal dominance and sovereign debt sustainability"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "bearish"
   },
   "week": {
-    "period_start": "2026-10-11",
-    "period_end": "2026-10-18",
-    "entries_count": 17,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "period_start": "2026-10-12",
+    "period_end": "2026-10-19",
+    "entries_count": 21,
+    "buy_side_bullets": [
+      "Market is the most expensive Greenlight has seen in its history — structural overvaluation persists despite Q1 outperformance. [Einhorn, Jones, Dalio]",
+      "Rotation from memory chips (SanDisk exit, Micron trim) to megacap AI infrastructure (Amazon #1 at 16%). [Tepper]",
+      "Debt-reduction plan promised 'right after midterms' — no details yet, markets skeptical [shift]. [Bessent]",
+      "Short US dollar is his sole high-conviction macro trade — de-dollarization and central bank gold buying underpin the view. [Druckenmiller]"
+    ],
+    "sell_side_bullets": [
+      "2027 recession risk rising sharply — fiscal stimulus and AI spending both 'running out of dry powder' [shift]. [Rosenberg]",
+      "Fed hike = 'most bullish thing' paradoxically — caps yield panic, enables year-end risk recovery [evolving]. [Hartnett]",
+      "US recession probability at 40% — Iran/Middle East conflict adds a new geopolitical trigger on top of existing macro headwinds. [Berezin]",
+      "S&P 500 year-end target raised to 8,000 — earnings story intact, bull market confirmed [evolving]. [Wilson]",
+      "S&P 500 target raised again (September 2026) despite 'massive melt rally' — tactical upgrade [shift]. [Bannister]"
+    ],
+    "whats_new": [
+      "2027 recession risk rising sharply — fiscal stimulus and AI spending both 'running out of dry powder' [shift] [Rosenberg — new Oct 19]",
+      "S&P 500 year-end target raised to 8,000 — earnings story intact, bull market confirmed [evolving] [Wilson — new Oct 19]",
+      "S&P 500 target raised again (September 2026) despite 'massive melt rally' — tactical upgrade [shift] [Bannister — new Oct 19]",
+      "Debt-reduction plan promised 'right after midterms' — no details yet, markets skeptical [shift] [Bessent — new Oct 19]",
+      "S&P 500 year-end target cut from 8,250 to 7,900 on Sept 16 — first major downgrade of 2026 [shift] [Yardeni — new Oct 19]"
+    ],
+    "vs_market_buy": [
+      "Market is the most expensive Greenlight has seen in its history — structural overvaluation persists despite Q1 outperformance [Einhorn]",
+      "2027 faces material headwinds from accelerating share sales — equity supply overhang flagged as emerging macro concern [Jones]",
+      "Treasury market selloff has 'long way to go' — supply/demand imbalance not yet resolved [Dalio]"
+    ],
+    "vs_market_sell": [
+      "2027 recession risk rising sharply — fiscal stimulus and AI spending both 'running out of dry powder' [shift] [Rosenberg]",
+      "Fed hike = 'most bullish thing' paradoxically — caps yield panic, enables year-end risk recovery [evolving] [Hartnett]",
+      "US recession probability at 40% — Iran/Middle East conflict adds a new geopolitical trigger on top of existing macro headwinds [Berezin]"
+    ],
+    "buy_vs_sell_divergence": [
+      "Severity of near-term risk: buy-side more bearish [Einhorn, Jones] vs sell-side neutral [Berezin]",
+      "Both sides bearish but on different channels: buy-side on rates/USD, sell-side on AI capex and equities"
+    ],
+    "aligned": [
+      "Higher-for-longer rates — broad consensus that rates will stay elevated or rise further",
+      "Gold and commodities as portfolio hedge — cited across both buy-side (Dalio, Napier) and sell-side",
+      "AI capex cycle risk — both sides flag potential overspend relative to monetization [Dalio, Ackman, Hartnett, Berezin]"
+    ],
+    "buy_side_trades": [
+      "Short long-duration Treasuries — 30Y yield breakout suggests bond vigilantes unconvinced by fiscal promises",
+      "Dollar strength hedge given geopolitical risk premium and yield differential",
+      "Long Vistra (VST) and NRG Energy as AI data-center power demand proxy",
+      "Long Amazon as top position in AI infrastructure/cloud",
+      "Reduced Micron (MU) exposure after earlier gains",
+      "Long gold as macro/inflation hedge",
+      "Long EUR and JPY vs USD (dollar weakness hedge)",
+      "Long Fortune Brands (FBIN), Sotera Health (SHC), PayPal (PYPL) — value additions Q2 2026"
+    ],
+    "sell_side_trades": [
+      "Long gold, silver, uranium as alternative stores of value",
+      "Long Japanese yen (JPY) as safe-haven FX",
+      "Long defensive equities with secular tailwinds over cyclicals",
+      "Reduce semiconductor exposure (correction expected)",
+      "Add hyperscaler / cloud platform exposure (stable fundamentals)",
+      "Stay long equities into year-end on earnings catalyst",
+      "Defensive equities and gold as hedges against overvalued market",
+      "Shift from tech-heavy to value/defensive positioning for risk management"
+    ],
+    "dominant_themes": [
+      "AI capex risk and bubble concerns",
+      "Higher-for-longer rates / bond market stress",
+      "Fiscal dominance and sovereign debt sustainability"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "bearish"
   },
   "month": {
-    "period_start": "2026-09-18",
-    "period_end": "2026-10-18",
-    "entries_count": 194,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "period_start": "2026-09-19",
+    "period_end": "2026-10-19",
+    "entries_count": 191,
+    "buy_side_bullets": [
+      "AI market caps built on capex and accounting choices that will reverse — 'blow up' in 2026-2028. [Burry, Einhorn, Druckenmiller, Dalio, Dalio, Einhorn, Gundlach, Napier, Druckenmiller, Burry, Marks, Gundlach, Druckenmiller, Dalio, Gundlach, Einhorn, Druckenmiller, Einhorn, Burry, Dalio, Soros, Dalio, Gundlach, Druckenmiller, Marks, Einhorn, Einhorn, Jones, Soros, Burry, Dalio, Jones, Marks, Einhorn, Jones, Dalio]",
+      "'Blockbuster year' for the US economy — 3.5%+ GDP growth target. [Bessent, Jones, Tepper, Bessent, Tepper, Bessent, Tepper, Tepper, Bessent, Ackman, Soros, Tepper, Bessent, Tepper]",
+      "Fed September 2026 hike to 4.0% was a 'mistake' — AI capex insensitive to higher rates. [Ackman]",
+      "'AI Hurtles Ahead' memo: moderate AI position with selectivity and prudence — neither all-in nor completely out. [Marks]"
+    ],
+    "sell_side_bullets": [
+      "Markets on 'collision course' with higher rates — long-dated yields could surpass 6%. [Gundlach]",
+      "Ice Age deflation thesis is over — double-digit inflation is coming back. [Edwards]",
+      "ROSY ETF launched September 2026 — institutionalizing bearish macro framework. [Rosenberg]",
+      "Bull & Bear indicator at 9.6 — formal sell signal triggered; extreme bullishness. [Hartnett]",
+      "Global GDP forecast 2.8% — above market consensus 2.5%; US 2.6% GDP. [Hatzius]"
+    ],
+    "whats_new": [
+      "Markets on 'collision course' with higher rates — long-dated yields could surpass 6% [Gundlach — new Oct 19]",
+      "AI market caps built on capex and accounting choices that will reverse — 'blow up' in 2026-2028 [Burry — new Oct 19]",
+      "'Blockbuster year' for the US economy — 3.5%+ GDP growth target [Bessent — new Oct 19]",
+      "Fed September 2026 hike to 4.0% was a 'mistake' — AI capex insensitive to higher rates [Ackman — new Oct 19]",
+      "SpaceX $1.75T IPO is 'a major speculative top' marker for the current cycle [Einhorn — new Oct 19]"
+    ],
+    "vs_market_buy": [
+      "AI market caps built on capex and accounting choices that will reverse — 'blow up' in 2026-2028 [Burry]",
+      "SpaceX $1.75T IPO is 'a major speculative top' marker for the current cycle [Einhorn]",
+      "'Narrative bubble' is the greatest tail risk in 2026 — compelling narratives decoupling prices from reality [Druckenmiller]"
+    ],
+    "vs_market_sell": [
+      "Markets on 'collision course' with higher rates — long-dated yields could surpass 6% [Gundlach]",
+      "Ice Age deflation thesis is over — double-digit inflation is coming back [Edwards]",
+      "ROSY ETF launched September 2026 — institutionalizing bearish macro framework [Rosenberg]"
+    ],
+    "buy_vs_sell_divergence": [
+      "Severity of near-term risk: buy-side more bearish [Burry, Einhorn] vs sell-side neutral [Hatzius, Sonders]",
+      "Both sides bearish but on different channels: buy-side on rates/USD, sell-side on AI capex and equities"
+    ],
+    "aligned": [
+      "Higher-for-longer rates — broad consensus that rates will stay elevated or rise further",
+      "Gold and commodities as portfolio hedge — cited across both buy-side (Dalio, Napier) and sell-side",
+      "AI capex cycle risk — both sides flag potential overspend relative to monetization [Dalio, Ackman, Hartnett, Berezin]"
+    ],
+    "buy_side_trades": [
+      "Short Nvidia, Palantir via put options",
+      "Short SMH (iShares Semiconductor ETF)",
+      "Long MercadoLibre (MELI) — new Q1 2026 position",
+      "Long Adobe, Autodesk, Veeva Systems — beaten-down SaaS",
+      "Long high-quality FCF compounders at dislocated prices",
+      "Monitor for AI capex inflation feedback loop developing",
+      "Capital preservation positioning — underweight equities vs. benchmark",
+      "Macro book targeting direct exposures (unspecified in public filings)"
+    ],
+    "sell_side_trades": [
+      "Short 30-year US Treasuries — outright short position still active",
+      "Long 2-7 year BBB+ rated bonds — quality-focused positioning",
+      "Long US small/mid-caps, regional banks, REITs",
+      "Long international and emerging market equities",
+      "Short Magnificent 7 / Big Tech relative value",
+      "Equal-weight 25% stocks / 25% bonds / 25% cash / 25% commodities",
+      "Long risk-managed macro strategies via ROSY ETF",
+      "Underweight momentum equities; overweight valuation discipline and defensive quality"
+    ],
+    "dominant_themes": [
+      "AI capex risk and bubble concerns",
+      "Higher-for-longer rates / bond market stress",
+      "Recession probability and growth deceleration"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "bearish"
   }
 }
