@@ -1,53 +1,156 @@
 {
-  "generated_at": "2026-10-19",
+  "generated_at": "2026-10-20",
   "today": {
-    "date": "2026-10-19",
-    "entries_count": 9,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
+    "date": "2026-10-20",
+    "entries_count": 2,
+    "buy_side_bullets": [
+      "Master Fund uneven in 2026: modest early gain followed by sharp March drawdown on Middle East conflict. [Howard]"
+    ],
+    "sell_side_bullets": [
+      "Markets pricing in too many future Fed hikes \u2014 little additional tightening actually needed. [Hatzius]"
+    ],
+    "whats_new": [
+      "Jan Hatzius: Core CPI near 0.2% monthly could trigger a \"one and done\" or complete December pause"
+    ],
+    "vs_market_buy": [
+      "Master Fund uneven in 2026: modest early gain followed by sharp March drawdown on Middle East conflict [Howard]"
+    ],
     "vs_market_sell": [],
     "buy_vs_sell_divergence": [],
-    "aligned": [],
+    "aligned": [
+      "AI capex concentration and monetization risk flagged across both sides"
+    ],
     "buy_side_trades": [],
     "sell_side_trades": [],
-    "dominant_themes": [],
+    "dominant_themes": [
+      "equities",
+      "rates",
+      "bonds"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "neutral"
   },
   "week": {
-    "period_start": "2026-10-12",
-    "period_end": "2026-10-19",
-    "entries_count": 21,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
+    "period_start": "2026-10-13",
+    "period_end": "2026-10-20",
+    "entries_count": 20,
+    "buy_side_bullets": [
+      "Debt-reduction plan promised 'right after midterms' \u2014 no details yet, markets skeptical [shift]. [Bessent]",
+      "Rotation from memory chips (SanDisk exit, Micron trim) to megacap AI infrastructure (Amazon #1 at 16%). [Tepper]",
+      "Market is the most expensive Greenlight has seen in its history \u2014 structural overvaluation persists despite Q1 outperformance. [Einhorn]",
+      "Short US dollar is his sole high-conviction macro trade \u2014 de-dollarization and central bank gold buying underpin the view. [Druckenmiller]",
+      "2027 faces material headwinds from accelerating share sales \u2014 equity supply overhang flagged as emerging macro concern. [Jones]"
+    ],
+    "sell_side_bullets": [
+      "S&P 500 year-end target cut from 8,250 to 7,900 on Sept 16 \u2014 first major downgrade of 2026 [shift]. [Yardeni]",
+      "Fed hike = 'most bullish thing' paradoxically \u2014 caps yield panic, enables year-end risk recovery [evolving]. [Hartnett]",
+      "Bankpocalypse incoming \u2014 AI agents will disrupt banking/payments (Visa, Mastercard) the way AI coding tools disrupted software. [Visser]",
+      "US recession probability at 40% \u2014 Iran/Middle East conflict adds a new geopolitical trigger on top of existing macro headwinds. [Berezin]",
+      "Sell signal ended but no all-clear \u2014 3-4 more weeks of caution expected. [Hartnett]"
+    ],
+    "whats_new": [
+      "Scott Bessent: Debt-reduction plan promised 'right after midterms' \u2014 no details yet, markets skeptical",
+      "Ed Yardeni: S&P 500 year-end target cut from 8,250 to 7,900 on Sept 16 \u2014 first major downgrade of 2026",
+      "Michael Hartnett: Fed hike = 'most bullish thing' paradoxically \u2014 caps yield panic, enables year-end risk recovery",
+      "Jan Hatzius: Core CPI near 0.2% monthly could trigger a \"one and done\" or complete December pause"
+    ],
+    "vs_market_buy": [
+      "Debt-reduction plan promised 'right after midterms' \u2014 no details yet, markets skeptical [shift] [Bessent]",
+      "Market is the most expensive Greenlight has seen in its history \u2014 structural overvaluation persists despite Q1 outperformance [Einhorn]",
+      "Short US dollar is his sole high-conviction macro trade \u2014 de-dollarization and central bank gold buying underpin the view [Druckenmiller]"
+    ],
     "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "buy_vs_sell_divergence": [
+      "Buy-side bullish vs sell-side bearish on equities outlook"
+    ],
+    "aligned": [
+      "AI capex concentration and monetization risk flagged across both sides",
+      "Rising rates and higher-for-longer Fed posture seen as persistent headwind"
+    ],
+    "buy_side_trades": [
+      "Hold gold (15% allocation thesis reiterated)",
+      "Long EUR and JPY vs USD (dollar weakness hedge)",
+      "Reduce duration / avoid long-dated Treasuries globally",
+      "Reduced Micron (MU) exposure after earlier gains",
+      "Short long-duration Treasuries \u2014 30Y yield breakout suggests bond vigilantes unconvinced by fiscal promises"
+    ],
+    "sell_side_trades": [
+      "Hold gold \u2014 primary hedge for financial repression",
+      "Long gold, commodities, emerging markets",
+      "Buy Treasuries on yield spikes",
+      "Neutral equities and bonds near term (shifted from underweight equities)",
+      "Short long-duration sovereign bonds \u2014 bond vigilante risk"
+    ],
+    "dominant_themes": [
+      "equities",
+      "bonds",
+      "rates"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "bearish"
   },
   "month": {
-    "period_start": "2026-09-19",
-    "period_end": "2026-10-19",
-    "entries_count": 191,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "period_start": "2026-09-20",
+    "period_end": "2026-10-20",
+    "entries_count": 181,
+    "buy_side_bullets": [
+      "AI market caps built on capex and accounting choices that will reverse \u2014 'blow up' in 2026-2028. [Burry]",
+      "'Blockbuster year' for the US economy \u2014 3.5%+ GDP growth target. [Bessent]",
+      "Fed September 2026 hike to 4.0% was a 'mistake' \u2014 AI capex insensitive to higher rates. [Ackman]",
+      "SpaceX $1.75T IPO is 'a major speculative top' marker for the current cycle. [Einhorn]",
+      "'Narrative bubble' is the greatest tail risk in 2026 \u2014 compelling narratives decoupling prices from reality. [Druckenmiller]"
+    ],
+    "sell_side_bullets": [
+      "Markets on 'collision course' with higher rates \u2014 long-dated yields could surpass 6%. [Gundlach]",
+      "Bull & Bear indicator at 9.6 \u2014 formal sell signal triggered; extreme bullishness. [Hartnett]",
+      "Ice Age deflation thesis is over \u2014 double-digit inflation is coming back. [Edwards]",
+      "ROSY ETF launched September 2026 \u2014 institutionalizing bearish macro framework. [Rosenberg]",
+      "Global GDP forecast 2.8% \u2014 above market consensus 2.5%; US 2.6% GDP. [Hatzius]"
+    ],
+    "whats_new": [
+      "Torsten Slok: Recession probability slashed to 10% \u2014 far below 30%+ priced by markets",
+      "Ed Yardeni: S&P 500 target raised to 8,250 \u2014 'wasn't bullish enough'; 23% consensus earnings growth in 2026",
+      "David Rosenberg: 2027 recession risk rising sharply \u2014 fiscal stimulus and AI spending both 'running out of dry powder'",
+      "Mike Wilson: S&P 500 year-end target raised to 8,000 \u2014 earnings story intact, bull market confirmed",
+      "Barry Bannister: S&P 500 target raised again (September 2026) despite 'massive melt rally' \u2014 tactical upgrade"
+    ],
+    "vs_market_buy": [
+      "AI market caps built on capex and accounting choices that will reverse \u2014 'blow up' in 2026-2028 [Burry]",
+      "Fed September 2026 hike to 4.0% was a 'mistake' \u2014 AI capex insensitive to higher rates [Ackman]",
+      "SpaceX $1.75T IPO is 'a major speculative top' marker for the current cycle [Einhorn]"
+    ],
+    "vs_market_sell": [
+      "S&P 500 target 7,800 for 2026 \u2014 'won't be a straight line' but bullish direction [Wilson]",
+      "Recession probability slashed to 10% \u2014 far below 30%+ priced by markets [shift] [Slok]",
+      "S&P 500 target raised to 8,250 \u2014 'wasn't bullish enough'; 23% consensus earnings growth in 2026 [evolving] [Yardeni]"
+    ],
+    "buy_vs_sell_divergence": [
+      "Buy-side bullish vs sell-side bearish on equities outlook"
+    ],
+    "aligned": [
+      "AI capex concentration and monetization risk flagged across both sides",
+      "Rising rates and higher-for-longer Fed posture seen as persistent headwind"
+    ],
+    "buy_side_trades": [
+      "Macro book targeting direct exposures (unspecified in public filings)",
+      "Income play: selective high yield / short-duration credit in rate-cutting environment",
+      "Multi-asset portfolio construction over single-strategy \u2014 exploit mispricings from investor mistakes",
+      "Hold equities despite fiscal concerns \u2014 don't overreact to macro worry",
+      "Index put options as portfolio hedge (20% defensive overlay)"
+    ],
+    "sell_side_trades": [
+      "Long Defensive Value vs. short Cyclical Growth / Mag7",
+      "Rotate into bonds and gold as risk-off hedges",
+      "Short or underweight US technology (overweight concentration creates systemic risk)",
+      "Reduce equity concentration, increase cash \u2014 bullish positioning + 5% bonds = asymmetric downside",
+      "Prefer rotation within equities over broad directional calls"
+    ],
+    "dominant_themes": [
+      "equities",
+      "bonds",
+      "rates"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "bearish"
   }
 }
