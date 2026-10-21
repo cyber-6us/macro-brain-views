@@ -1,52 +1,178 @@
 {
-  "generated_at": "2026-10-20",
+  "generated_at": "2026-10-21",
   "today": {
-    "date": "2026-10-20",
-    "entries_count": 2,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
+    "date": "2026-10-21",
+    "entries_count": 5,
+    "buy_side_bullets": [
+      "10-year yields hit 5.34% (highest since 2002); Treasury dismissing bond market backlash, betting on 3% growth to outrun $40T debt. [Bessent]"
+    ],
+    "sell_side_bullets": [
+      "Equity correction nearly over; S&P 500 targeting 8,500 by mid-2027 on 27% Q3 EPS growth and year-end rally. [Wilson]",
+      "AI capex ROI materializing slowly; expected AI returns above Fed funds rate keeping 10-year yields structurally elevated. [Slok]",
+      "AI funding is the key bump in the road to superintelligence; French OAT stress re-emerging as European sovereign fragility risk. [Reid]"
+    ],
+    "whats_new": [
+      "Gundlach: shifts to active call for Oct 27-28 FOMC hike, wants 30-yr at 6% before buying long bonds",
+      "Wilson: upgrades near-term equity view\u2014correction 'nearly over', raises mid-2027 target to 8,500",
+      "Slok: new thesis that slowing AI token spend signals compute demand is price-sensitive, not unlimited"
+    ],
+    "vs_market_buy": [
+      "Bessent: market pricing fiscal collapse, Treasury sees growth-driven solvency\u2014dismisses 5.34% 10-yr as temporary"
+    ],
+    "vs_market_sell": [
+      "Wilson: consensus too cautious on equity correction depth; calls bottom in 2-3 weeks vs widespread recession fears"
+    ],
+    "buy_vs_sell_divergence": [
+      "Rate trajectory: Gundlach (sell) wants FOMC to hike Oct 27-28; Hatzius (sell) sees a pause as likely\u2014markets split >85% for pause",
+      "Equity outlook: Wilson (sell) bullish\u2014correction nearly over; buy-side more cautious with Tudor Jones warning 2027 headwinds",
+      "Fiscal: Bessent (buy) dismisses bond market concern as temporary; sell-side broadly sees yields staying elevated"
+    ],
+    "aligned": [
+      "Rates staying higher for longer\u2014both sides accept 10-year yields above 5% as the near-term baseline",
+      "AI capex is the defining macro force of 2026: driving yields, M&A, equity earnings, and productivity debate",
+      "Bond duration is less effective as an equity hedge in current rate environment"
+    ],
     "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "sell_side_trades": [
+      "Watch for European sovereign-corporate credit dislocations around French OATs",
+      "Reduce long Treasury allocation as hedge effectiveness diminishes in sustained high-rate environment",
+      "Favor financials and healthcare sectors",
+      "Overweight software vs semiconductors",
+      "Buy the dip in equities over next 2-3 weeks ahead of year-end rally"
+    ],
+    "dominant_themes": [
+      "Higher-for-longer rates / bond market stress",
+      "Fed policy and rate trajectory",
+      "Equity market correction and recovery outlook"
+    ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "week": {
-    "period_start": "2026-10-13",
-    "period_end": "2026-10-20",
-    "entries_count": 20,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "period_start": "2026-10-14",
+    "period_end": "2026-10-21",
+    "entries_count": 22,
+    "buy_side_bullets": [
+      "10-year yields hit 5.34% (highest since 2002); Treasury dismissing bond market backlash, betting on 3% growth to outrun $40T debt. [Bessent]",
+      "Long-term rates rising further; short bonds as fiscal deficits and AI capex keep borrowing costs elevated. [Ackman]",
+      "Classic late-cycle debt dynamics; gold outperforming as currency credibility erodes in capital wars regime. [Dalio]",
+      "2027 could challenge US stocks as share sales grow; near-term headwinds from rate and policy pressures. [Jones]",
+      "Dollar bearish with purchasing power at top of historical range; AI and Nvidia overpower rate concerns. [Druckenmiller]"
+    ],
+    "sell_side_bullets": [
+      "Equity correction nearly over; S&P 500 targeting 8,500 by mid-2027 on 27% Q3 EPS growth and year-end rally. [Wilson]",
+      "AI capex ROI materializing slowly; expected AI returns above Fed funds rate keeping 10-year yields structurally elevated. [Slok]",
+      "AI funding is the key bump in the road to superintelligence; French OAT stress re-emerging as European sovereign fragility risk. [Reid]",
+      "Record $166B weekly money market inflows; 'no rate cuts, no cash cuts'\u2014BofA Bull/Bear at 8.1, still in sell territory. [Hartnett]",
+      "Ice Age thesis giving way to fiscal dominance regime; AI productivity supports equities but consumer is tapped out. [Edwards]"
+    ],
+    "whats_new": [
+      "Wilson: switches from near-term caution to 'correction nearly over' with 8,500 mid-2027 target",
+      "Slok: introduces AI token spend deceleration as a signal of compute demand limits",
+      "Gundlach: escalates rate call\u2014Oct FOMC hike now active possibility; 30-yr at 5.44%, wants 6% to buy",
+      "Bessent: defends debt trajectory under rising market pressure; 10-yr at 5.34% highest since 2002"
+    ],
+    "vs_market_buy": [
+      "Bessent: market pricing fiscal collapse, Treasury sees growth-driven solvency\u2014dismisses 5.34% 10-yr as temporary",
+      "Dalio: market underpricing capital wars and currency credibility risk; gold still underowned"
+    ],
+    "vs_market_sell": [
+      "Wilson: consensus too cautious on equity correction depth; calls bottom in 2-3 weeks vs widespread recession fears",
+      "Hatzius: Fed more likely to pause than consensus hike-pricing suggests; one-and-done if CPI stays at 0.2%"
+    ],
+    "buy_vs_sell_divergence": [
+      "Rate trajectory: Gundlach (sell) wants FOMC to hike Oct 27-28; Hatzius (sell) sees a pause as likely\u2014markets split >85% for pause",
+      "Equity outlook: Wilson (sell) bullish\u2014correction nearly over; buy-side more cautious with Tudor Jones warning 2027 headwinds",
+      "Fiscal: Bessent (buy) dismisses bond market concern as temporary; sell-side broadly sees yields staying elevated"
+    ],
+    "aligned": [
+      "Rates staying higher for longer\u2014both sides accept 10-year yields above 5% as the near-term baseline",
+      "AI capex is the defining macro force of 2026: driving yields, M&A, equity earnings, and productivity debate",
+      "Bond duration is less effective as an equity hedge in current rate environment"
+    ],
+    "buy_side_trades": [
+      "Reduce duration / avoid long-dated Treasuries globally",
+      "Long gold as macro/inflation hedge",
+      "Hold gold (15% allocation thesis reiterated)",
+      "Long Vistra (VST) and NRG Energy as AI data-center power demand proxy",
+      "Long Amazon as top position in AI infrastructure/cloud"
+    ],
+    "sell_side_trades": [
+      "Buy equities on dips \u2014 real assets outperform in repression regime",
+      "Buy Treasuries on yield spikes",
+      "Monitor AI capex vs revenue signals as leading indicator for next drawdown",
+      "Long gold, commodities, emerging markets",
+      "Short long-dated US Treasuries; avoid buying until 30-year reaches ~6%"
+    ],
+    "dominant_themes": [
+      "Equity market correction and recovery outlook",
+      "Higher-for-longer rates / bond market stress",
+      "Fed policy and rate trajectory"
+    ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "month": {
-    "period_start": "2026-09-20",
-    "period_end": "2026-10-20",
-    "entries_count": 181,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "period_start": "2026-09-21",
+    "period_end": "2026-10-21",
+    "entries_count": 177,
+    "buy_side_bullets": [
+      "10-year yields hit 5.34% (highest since 2002); Treasury dismissing bond market backlash, betting on 3% growth to outrun $40T debt. [Bessent evolving]",
+      "Long-term rates rising further; short bonds as fiscal deficits and AI capex keep borrowing costs elevated. [Ackman]",
+      "Classic late-cycle debt dynamics; gold outperforming as currency credibility erodes in capital wars regime. [Dalio evolving]",
+      "2027 could challenge US stocks as share sales grow; near-term headwinds from rate and policy pressures. [Jones]",
+      "Dollar bearish with purchasing power at top of historical range; AI and Nvidia overpower rate concerns. [Druckenmiller evolving]"
+    ],
+    "sell_side_bullets": [
+      "Equity correction nearly over; S&P 500 targeting 8,500 by mid-2027 on 27% Q3 EPS growth and year-end rally. [Wilson]",
+      "AI capex ROI materializing slowly; expected AI returns above Fed funds rate keeping 10-year yields structurally elevated. [Slok shift]",
+      "AI funding is the key bump in the road to superintelligence; French OAT stress re-emerging as European sovereign fragility risk. [Reid shift]",
+      "Record $166B weekly money market inflows; 'no rate cuts, no cash cuts'\u2014BofA Bull/Bear at 8.1, still in sell territory. [Hartnett]",
+      "Ice Age thesis giving way to fiscal dominance regime; AI productivity supports equities but consumer is tapped out. [Edwards]"
+    ],
+    "whats_new": [
+      "Edwards: Ice Age thesis formally pivoting to fiscal dominance / higher structural inflation regime",
+      "Wilson: full bullish pivot for 2026 year-end; bull market restarted April with rolling recovery",
+      "Gundlach: progressively more hawkish\u2014from 25bp insufficient to Oct FOMC hike call",
+      "Berezin: recession base case abandoned; bull market mature with 2028 as next recession window"
+    ],
+    "vs_market_buy": [
+      "Bessent: market pricing fiscal collapse, Treasury sees growth-driven solvency\u2014dismisses 5.34% 10-yr as temporary",
+      "Dalio: market underpricing capital wars and currency credibility risk; gold still underowned"
+    ],
+    "vs_market_sell": [
+      "Wilson: consensus too cautious on equity correction depth; calls bottom in 2-3 weeks vs widespread recession fears",
+      "Hatzius: Fed more likely to pause than consensus hike-pricing suggests; one-and-done if CPI stays at 0.2%"
+    ],
+    "buy_vs_sell_divergence": [
+      "Rate trajectory: Gundlach (sell) wants FOMC to hike Oct 27-28; Hatzius (sell) sees a pause as likely\u2014markets split >85% for pause",
+      "Equity outlook: Wilson (sell) bullish\u2014correction nearly over; buy-side more cautious with Tudor Jones warning 2027 headwinds",
+      "Fiscal: Bessent (buy) dismisses bond market concern as temporary; sell-side broadly sees yields staying elevated"
+    ],
+    "aligned": [
+      "Rates staying higher for longer\u2014both sides accept 10-year yields above 5% as the near-term baseline",
+      "AI capex is the defining macro force of 2026: driving yields, M&A, equity earnings, and productivity debate",
+      "Bond duration is less effective as an equity hedge in current rate environment"
+    ],
+    "buy_side_trades": [
+      "Long gold \u2014 up to 15% allocation as hard-money anchor",
+      "Long Canadian dollar, Australian dollar",
+      "Implicit long on AI infrastructure beneficiaries regardless of rate environment",
+      "Implicit caution on US assets vs. rest of world given 'capital wars' framing",
+      "Long gold / Short Nasdaq (relative outperformance play)"
+    ],
+    "sell_side_trades": [
+      "Rotate into defensives, quality, value, yield from growth and tech",
+      "Long US dollar vs. European currencies given European capital outflows into US AI assets",
+      "Long EM exporters leveraged to China's export surge",
+      "Long gold, commodities, emerging markets",
+      "Structural bullish bias on Treasuries via stablecoin demand channel"
+    ],
+    "dominant_themes": [
+      "Equity market correction and recovery outlook",
+      "Higher-for-longer rates / bond market stress",
+      "Fed policy and rate trajectory"
+    ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   }
