@@ -20,62 +20,16 @@
     "period_start": "2026-10-15",
     "period_end": "2026-10-22",
     "entries_count": 19,
-    "buy_side_bullets": [
-      "No chance Warsh secures Fed rate cuts — monetary conditions to remain restrictive throughout outlook horizon. [Paul Tudor Jones, Ray Dalio, Bill Ackman, Scott Bessent]",
-      "Master Fund uneven in 2026: modest early gain followed by sharp March drawdown on Middle East conflict. [Ray Dalio, Alan Howard]",
-      "Hiring senior macro traders signals long-term commitment to macro despite difficult recent performance. [Alan Howard, Scott Bessent]",
-      "2027 faces material headwinds from accelerating share sales — equity supply overhang flagged as emerging macro concern. [Paul Tudor Jones]"
-    ],
-    "sell_side_bullets": [
-      "Rising rates creating sector bifurcation: financials/energy/materials benefit, rate-sensitive sectors face pressure. [Jordi Visser, Michael Hartnett, Albert Edwards, Russell Napier +7]",
-      "Bankpocalypse incoming — AI agents will disrupt banking/payments (Visa, Mastercard) the way AI coding tools disrupted.... [Jordi Visser, Peter Berezin, Michael Hartnett, Albert Edwards +5]",
-      "US recession probability at 40% — Iran/Middle East conflict adds a new geopolitical trigger on top of existing macro .... [Jordi Visser, Peter Berezin, Michael Hartnett, Albert Edwards +4]",
-      "Global Restructuring thesis: trade, finance, and geopolitics in structural transition, not cyclical correction. [Peter Berezin, Michael Hartnett, David Rosenberg, Liz Ann Sonders +3]",
-      "Gold is the primary signal and hedge for financial repression regime. [Russell Napier]"
-    ],
-    "whats_new": [
-      "Liz Ann Sonders shifted from neutral to mixed",
-      "Russell Napier shifted from bearish to mixed",
-      "Jim Reid shifted from bearish to neutral",
-      "Bill Ackman shifted from bullish to mixed",
-      "John Mauldin shifted from neutral to bearish"
-    ],
-    "vs_market_buy": [
-      "Contrarian: Paul Tudor Jones bearish - Jones warned on October 14 that 2027 could challenge U.S. stocks as the pace of ...",
-      "Contrarian: Ray Dalio bearish - Dalio warned on October 13 that the U.S. Treasury market selloff has a 'long way..."
-    ],
-    "vs_market_sell": [
-      "Contrarian: Mike Wilson bullish - Wilson told CNBC on October 20-21 that the US equity correction is nearly over, ..."
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
     "buy_vs_sell_divergence": [],
-    "aligned": [
-      "Both sides cautious on commodities",
-      "Both sides cautious on equities",
-      "Both sides cautious on fx",
-      "Both sides cautious on rates"
-    ],
-    "buy_side_trades": [
-      "Reduce duration / avoid long-dated Treasuries globally. [Ray Dalio]",
-      "Hold gold (15% allocation thesis reiterated). [Ray Dalio]",
-      "Reduce AI sector exposure where capex exceeds differentiated return potential. [Ray Dalio]",
-      "Underweight sovereign bonds — sovereign rate rise thesis. [Bill Ackman]",
-      "Long quality equities with pricing power and low debt sensitivity. [Bill Ackman]"
-    ],
-    "sell_side_trades": [
-      "Long Bitcoin/crypto — AI agents need crypto rails; BTC performance closely tied to software ETFs. [Jordi Visser]",
-      "Long optics/photonics companies — preferred over memory chips for new capital allocation. [Jordi Visser]",
-      "Short/underweight traditional banks and payment networks (Visa, Mastercard) — bankpocalypse thesis. [Jordi Visser]",
-      "Underweight global equities (20x forward earnings = overvalued even post-drawdown). [Peter Berezin]",
-      "Energy commodity exposure as a hedge against Middle East supply shock. [Peter Berezin]",
-      "Overweight defensive assets / bonds in recession-probability-rising environment. [Peter Berezin]",
-      "Long gold, commodities, emerging markets. [Michael Hartnett]",
-      "Underweight U.S. mega-cap tech. [Michael Hartnett]"
-    ],
-    "dominant_themes": [
-      "Equities",
-      "Rates & Bonds",
-      "AI & Tech"
-    ],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
@@ -83,69 +37,16 @@
     "period_start": "2026-09-22",
     "period_end": "2026-10-22",
     "entries_count": 168,
-    "buy_side_bullets": [
-      "Fundamental regime shift underway: fiscal dominance and dollar credibility eroding will define the next downturn. [Michael Burry, Scott Bessent, Bill Ackman, David Einhorn +10]",
-      "Dollar dominance must be actively maintained — stablecoins are a key vehicle to extend dollar hegemony globally, espe.... [Michael Burry, Bill Ackman, David Einhorn, Ray Dalio +9]",
-      "'Bits deflate, Atoms inflate, Trust appreciates' — AI deflation in software clashes with commodity/energy inflation f.... [Scott Bessent, Bill Ackman, David Einhorn, Stan Druckenmiller +9]",
-      "Top holdings: IVV (1. [Michael Burry, Scott Bessent, Stan Druckenmiller, Ray Dalio +7]",
-      "Gold: 'biggest move yet' ahead — central bank buying elevated, de-dollarization deeper than prior cycles. [Stan Druckenmiller, David Einhorn, Ray Dalio]"
-    ],
-    "sell_side_bullets": [
-      "Stock rally reads like dot-com 'Groundhog Day' — breadth narrowing, leadership concentrated in AI/tech, same structur.... [Jeffrey Gundlach, Michael Hartnett, Albert Edwards, David Rosenberg +12]",
-      "'Bear Market Within a Bull Market' — two distinct markets operating simultaneously; traditional sectors in stealth bear. [Jeffrey Gundlach, Michael Hartnett, Albert Edwards, David Rosenberg +11]",
-      "National debt at $40T / 125% GDP is structural headwind managed by strong income, employment, and growth data. [Michael Hartnett, Albert Edwards, David Rosenberg, Jan Hatzius +11]",
-      "Consumer spending (68% of GDP) is the critical macro variable; AI capex cannot offset a consumer slowdown — 'consumer.... [Albert Edwards, Peter Berezin, Torsten Slok, Ed Yardeni +10]",
-      "Geopolitical tension (Hormuz, oil, Middle East) is one of the primary headwinds investors are underestimating. [Ed Yardeni, Peter Berezin, Barry Bannister, Russell Napier +1]"
-    ],
-    "whats_new": [
-      "Howard Marks shifted from mixed to bearish",
-      "Jim Reid shifted from bearish to neutral",
-      "Peter Berezin shifted from mixed to neutral",
-      "Torsten Slok shifted from bearish to neutral",
-      "John Mauldin shifted from neutral to bearish"
-    ],
-    "vs_market_buy": [
-      "Contrarian: Michael Burry bearish - Burry's Scion Asset Management is positioned for an AI-driven market crash he co...",
-      "Contrarian: David Einhorn bearish - Einhorn's Q2 2026 letter called SpaceX's $1.75 trillion IPO valuation 'a major s...",
-      "Contrarian: Stan Druckenmiller bearish - Druckenmiller's most recent public commentary identifies 'narrative bubbles' — s..."
-    ],
-    "vs_market_sell": [
-      "Contrarian: Mike Wilson bullish - Wilson has turned bullish for 2026, targeting S&P 500 at 7,800 on the back of a ...",
-      "Contrarian: Torsten Slok bullish - Slok has sharply reversed his earlier 2026 stagflation call, slashing his US rec...",
-      "Contrarian: Ed Yardeni bullish - Yardeni raised his S&P 500 target to 8,250 after admitting he 'wasn't bullish en..."
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
     "buy_vs_sell_divergence": [],
-    "aligned": [
-      "Both sides cautious on commodities",
-      "Both sides cautious on equities",
-      "Both sides cautious on credit",
-      "Both sides cautious on fx"
-    ],
-    "buy_side_trades": [
-      "Short Nvidia, Palantir via put options. [Michael Burry]",
-      "Short SMH (iShares Semiconductor ETF). [Michael Burry]",
-      "Long MercadoLibre (MELI) — new Q1 2026 position. [Michael Burry]",
-      "Long Adobe, Autodesk, Veeva Systems — beaten-down SaaS. [Michael Burry]",
-      "Long high-quality FCF compounders at dislocated prices. [Bill Ackman]",
-      "Monitor for AI capex inflation feedback loop developing. [Bill Ackman]",
-      "Capital preservation positioning — underweight equities vs. benchmark. [David Einhorn]",
-      "Macro book targeting direct exposures (unspecified in public filings). [David Einhorn]"
-    ],
-    "sell_side_trades": [
-      "Short 30-year US Treasuries — outright short position still active. [Jeffrey Gundlach]",
-      "Long 2-7 year BBB+ rated bonds — quality-focused positioning. [Jeffrey Gundlach]",
-      "Long US small/mid-caps, regional banks, REITs. [Michael Hartnett]",
-      "Long international and emerging market equities. [Michael Hartnett]",
-      "Short Magnificent 7 / Big Tech relative value. [Michael Hartnett]",
-      "Equal-weight 25% stocks / 25% bonds / 25% cash / 25% commodities. [Michael Hartnett]",
-      "Long risk-managed macro strategies via ROSY ETF. [David Rosenberg]",
-      "Underweight momentum equities; overweight valuation discipline and defensive quality. [David Rosenberg]"
-    ],
-    "dominant_themes": [
-      "Rates & Bonds",
-      "Equities",
-      "AI & Tech"
-    ],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   }
