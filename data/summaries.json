@@ -3,196 +3,51 @@
   "today": {
     "date": "2026-10-23",
     "entries_count": 10,
-    "buy_side_bullets": [
-      "Long-duration Treasuries among most dangerous assets; corporate maturity wall poses FCF risk ahead. [Druckenmiller, PTJ]",
-      "AI-driven equity rally resembles 1987 setup; AI accounting understates depreciation ~$176B (2026-28), masking true costs. [Burry]",
-      "US equities at historic valuation extremes \u2014 'most expensive we've ever seen'; Greenlight closed to new investors. [Einhorn]",
-      "Gold's biggest move still ahead driven by central-bank buying and de-dollarization; current correction is forced liquidation. [Druckenmiller]",
-      "AI infrastructure concentration drove 32% H1 return; Amazon top holding at ~16% of $7.47B portfolio. [Tepper]"
-    ],
-    "sell_side_bullets": [
-      "Bull & Bear Indicator at 8.1 sell territory; $166.4B/week into money markets (largest since April 2020) \u2014 awaiting sustained Fed cuts. [Hartnett]",
-      "Inflationary narrative challenged \u2014 slowdown, not persistent inflation; wages not accelerating; split Congress to drive yields lower. [Rosenberg]",
-      "Roaring 2020s intact but growing more cautious; bond vigilantes reacting to deficits are primary tail risk for multiples. [Yardeni]",
-      "S&P 500 bull case 7,500 for 2026 but extreme valuations (1929/2000/2021 analog); market overestimates AI near-term earnings. [Bannister]"
-    ],
-    "whats_new": [
-      "Hartnett now advocates buying 30-year Treasuries \u2014 shift from prior 'avoid bonds and dollar' stance. [Hartnett shift]",
-      "Burry explicitly comparing AI exuberance to 1987 setup \u2014 escalation of prior bearish call. [Burry evolving]",
-      "Einhorn closing Greenlight to new investors indefinitely \u2014 structural confidence signal beyond positioning alone. [Einhorn]",
-      "PTJ says 'no chance' Warsh cuts rates \u2014 fresh confirmation of hawkish rate constraint thesis. [PTJ]"
-    ],
-    "vs_market_buy": [
-      "PTJ says Warsh will not cut rates \u2014 contrary to market pricing of eventual Fed easing",
-      "Burry short AI-exposed equities while market celebrates AI near all-time highs"
-    ],
-    "vs_market_sell": [
-      "Rosenberg sees disinflation ahead vs consensus inflation fears driving rate hawkishness",
-      "Hartnett pivoting long 30-year Treasuries while consensus market flows continue into cash"
-    ],
-    "buy_vs_sell_divergence": [
-      "Tepper bullish on AI infrastructure (long Amazon, Micron) vs Hartnett explicitly recommending avoid adding tech exposure",
-      "Yardeni bullish S&P 8,250 year-end vs Burry/Einhorn flagging historic valuation extremes"
-    ],
-    "aligned": [
-      "Long gold as cross-side consensus hedge \u2014 both Druckenmiller (central bank buying) and Hartnett (commodity long) aligned",
-      "AI valuation rationality as key risk \u2014 Marks (asset price reasonableness), Burry (accounting), Bannister (earnings overhype), Rosenberg (K-shaped)"
-    ],
-    "buy_side_trades": [
-      "Long gold \u2014 central bank buying and de-dollarization thesis (Druckenmiller)",
-      "Short long-duration Treasuries (Druckenmiller)",
-      "Short S&P 500 / AI-exposed equities (Burry)",
-      "Long Amazon, Micron, AI infrastructure broadly (Tepper)",
-      "Long Green Brick Partners GRBK ~19% position (Einhorn)"
-    ],
-    "sell_side_trades": [
-      "Long 30-year Treasuries \u2014 peak yield play (Hartnett)",
-      "Long gold, silver, uranium \u2014 inflation hedge / disinflation winner (Rosenberg, Hartnett)",
-      "Long Japanese yen (Rosenberg)",
-      "Long defensive/value equities (Bannister, Rosenberg)",
-      "Underweight AI/growth on valuation extremes (Bannister)"
-    ],
-    "dominant_themes": [
-      "AI valuation rationality and bubble risk \u2014 growing divergence between AI bulls and skeptics",
-      "Peak rates and long-duration Treasury entry point \u2014 Hartnett pivoting, Gundlach warned debt reckoning",
-      "Gold as cross-side consensus hedge amid macro uncertainty and de-dollarization"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   },
   "week": {
     "period_start": "2026-10-16",
     "period_end": "2026-10-23",
     "entries_count": 29,
-    "buy_side_bullets": [
-      "Long-duration Treasuries 'reckoning coming' \u2014 US debt burden untenable; Treasuries no longer flight-to-quality. [Druckenmiller, PTJ, Gundlach]",
-      "Gold consensus long across buy side \u2014 central bank buying, de-dollarization, inflation hedge. [Druckenmiller, Bessent, Dalio]",
-      "US equities at historic valuation extremes; bubble-level pricing vs fundamentals; Greenlight closed to new investors. [Einhorn, Burry]",
-      "AI infrastructure bull: Tepper's 32% H1 return via Amazon/Micron concentration; Druckenmiller AI-heavy portfolio. [Tepper, Druckenmiller]",
-      "Share issuance acceleration in 2027 seen as major headwind for stocks \u2014 dilution risk rising. [PTJ]"
-    ],
-    "sell_side_bullets": [
-      "Bull & Bear Indicator sell territory (8.1); $166B/week to money markets; cash not moving to risk without sustained cuts. [Hartnett]",
-      "Recession risk elevated: Iran conflict pushing US recession probability to 40%; Middle East escalation key macro risk. [Berezin]",
-      "Bond yields 'more likely to rise than fall' under Warsh Fed; Gundlach sees hike more likely than cut. [Gundlach, Napier]",
-      "Equity correction 'nearly over' with 2-3 more weeks of pain then H4 2026 rally \u2014 buy-the-dip thesis. [Wilson]",
-      "AI 'bankpocalypse' disruption of banking/payments sector \u2014 structural headwind for financials. [Visser shift]"
-    ],
-    "whats_new": [
-      "Hartnett pivots to buy 30-year Treasuries \u2014 reversal of 'avoid bonds' stance from earlier this year. [Hartnett shift]",
-      "Berezin softens near-term US recession call \u2014 pushes base case to 2028 on trade deal optimism. [Berezin shift]",
-      "Gundlach says Fed more likely to hike than cut \u2014 hawkish escalation of 'no legitimate flight-to-quality' thesis. [Gundlach evolving]",
-      "Wilson calls equity correction 'nearly over' \u2014 meaningful shift from earlier cautious stance. [Wilson shift]",
-      "PTJ warns 2027 share issuance acceleration as new bear catalyst beyond rate constraints. [PTJ evolving]"
-    ],
-    "vs_market_buy": [
-      "PTJ says Warsh will not cut rates \u2014 contra market expectation of eventual easing",
-      "Gundlach says hike more likely than cut \u2014 strongly contra consensus",
-      "Burry short AI equities while market near all-time highs"
-    ],
-    "vs_market_sell": [
-      "Hartnett beginning to buy 30-year Treasuries vs consensus cash accumulation trend",
-      "Rosenberg sees disinflation while market remains concerned about inflation persistence",
-      "Wilson buying equities near the bottom \u2014 contra prevailing risk-off mood in his prior stance"
-    ],
-    "buy_vs_sell_divergence": [
-      "Tepper/Druckenmiller bullish on AI infrastructure vs Hartnett recommending avoid adding tech \u2014 direct AI disagreement",
-      "Einhorn/Burry warning of historic valuation extremes vs Yardeni/Wilson looking through to 2026 targets",
-      "Bessent bullish 'grow out of debt' thesis vs Gundlach/Dalio warning of debt reckoning/heart attack"
-    ],
-    "aligned": [
-      "Gold as multi-side consensus long \u2014 Druckenmiller, Einhorn, Rosenberg, Hartnett all recommend",
-      "Tariff and trade policy uncertainty creating macro crosscurrents \u2014 consensus across buy and sell side",
-      "AI's impact on productivity and earnings not yet broadly felt \u2014 both sides note AI concentrated in tech sector"
-    ],
-    "buy_side_trades": [
-      "Long gold \u2014 central bank buying, de-dollarization (Druckenmiller, Einhorn)",
-      "Long Amazon, Micron, AI infrastructure (Tepper)",
-      "Short long-duration Treasuries (Druckenmiller)",
-      "Short S&P 500 / AI names (Burry)",
-      "Long Green Brick Partners GRBK (Einhorn)"
-    ],
-    "sell_side_trades": [
-      "Long 30-year Treasuries \u2014 peak yield play (Hartnett)",
-      "Long gold, silver, uranium, Japanese yen (Rosenberg)",
-      "Defensive/value equities over growth (Bannister, Rosenberg, Sonders)",
-      "Short/underweight tech/AI on valuation (Bannister)",
-      "Long bonds \u2014 lower yield thesis post-midterms (Rosenberg)"
-    ],
-    "dominant_themes": [
-      "Peak rates and Treasury turning point \u2014 multiple sell-side pivots toward long duration",
-      "AI valuation bubble debate intensifying \u2014 deep buy/sell side disagreement on near-term earnings",
-      "Gold consensus long across both sides \u2014 de-dollarization and inflation uncertainty driving demand"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   },
   "month": {
     "period_start": "2026-09-23",
     "period_end": "2026-10-23",
     "entries_count": 171,
-    "buy_side_bullets": [
-      "US debt 'untenable' and heading for reckoning; long-duration Treasuries seen as dangerous across multiple investors. [Druckenmiller, Gundlach, Dalio]",
-      "Gold dominant long across buy side \u2014 central bank buying, de-dollarization, fiscal dominance regimes driving demand. [Druckenmiller, Einhorn, Dalio, Soros area]",
-      "US equities at historic valuation extremes reminiscent of 1929/2000/2021; both long-short and macro funds adopting defensive postures. [Einhorn, Burry, Bannister]",
-      "AI infrastructure as key growth driver: Tepper's 32% H1 return shows high conviction; Druckenmiller's mosaic-based approach favors AI longs. [Tepper, Druckenmiller]",
-      "Stagflation warning from Dalio \u2014 US 'certainly in stagflationary period'; capital wars risk around sovereign debt. [Dalio]"
-    ],
-    "sell_side_bullets": [
-      "Consensus bearish on equities: BofA sell signal, Berezin 40% recession risk, Edwards Asia-1997 analog, Rosenberg 'most dangerous market'. [Hartnett, Berezin, Edwards, Rosenberg]",
-      "Rates 'higher for longer': Gundlach hike more likely than cut, Napier monetary tightening signal from Warsh Fed, multiple sell-side raising yield targets. [Gundlach, Napier, Reid]",
-      "AI impact on banking ('bankpocalypse') and earnings overestimation seen as twin structural risks. [Visser, Bannister, Edwards]",
-      "German fiscal stimulus failure and European political gridlock flagged as global macro contagion risk. [Reid]",
-      "Equity correction nearly complete; tactical buy-dip opportunity in H4 2026 \u2014 minority bullish view. [Wilson, Yardeni]"
-    ],
-    "whats_new": [
-      "Hartnett pivots from 'avoid bonds' to buying 30-year Treasuries \u2014 major sell-side tone shift. [Hartnett shift]",
-      "Berezin pushes base-case recession to 2028 \u2014 meaningful softening of earlier 75% 2025 recession call. [Berezin shift]",
-      "Gundlach escalates to 'hike more likely than cut' \u2014 beyond earlier 'reckoning coming' base case. [Gundlach evolving]",
-      "Edwards 'Ice Age' thesis enters fiscal dominance phase with double-digit inflation scenario now live. [Edwards evolving]",
-      "Einhorn closes Greenlight to new investors \u2014 institutional signal of defensive positioning. [Einhorn]"
-    ],
-    "vs_market_buy": [
-      "PTJ and Gundlach say Warsh Fed will not cut \u2014 contra market pricing of eventual easing",
-      "Burry short AI equities while market celebrates AI near all-time highs",
-      "Dalio calls stagflation in April \u2014 contra soft-landing consensus that dominated into mid-2026"
-    ],
-    "vs_market_sell": [
-      "Rosenberg: disinflation vs consensus inflation fears",
-      "Hartnett pivoting long 30-year Treasuries vs consensus cash accumulation",
-      "Wilson bullish equity near-term while broader sell-side remains cautious"
-    ],
-    "buy_vs_sell_divergence": [
-      "AI infrastructure: Tepper/Druckenmiller deeply long vs Hartnett explicitly avoiding tech \u2014 strongest recent disagreement",
-      "Treasury duration: Druckenmiller (short) vs Hartnett (long 30Y) \u2014 opposite direction trade on same asset",
-      "Recession: Bessent/Yardeni say no recession vs Berezin (40% risk) / Rosenberg / Edwards (high alarm)"
-    ],
-    "aligned": [
-      "Gold consensus across all sides \u2014 buy and sell side, bulls and bears, all recommend gold exposure",
-      "Fiscal sustainability concerns \u2014 debt levels unsustainable long-term; consensus on eventual reckoning though timeline differs",
-      "AI has changed the macro landscape but its near-term earnings impact is overestimated \u2014 both sides agree on AI productivity lag",
-      "Tariff/trade policy uncertainty creating crosscurrents \u2014 acknowledged across all investors as volatility driver"
-    ],
-    "buy_side_trades": [
-      "Long gold \u2014 multiple investors, multiple rationales (Druckenmiller, Einhorn, Dalio)",
-      "Long Amazon, Micron, AI data center infrastructure (Tepper)",
-      "Short long-duration Treasuries (Druckenmiller)",
-      "Short S&P 500 / AI-exposed equities (Burry)",
-      "Long Green Brick Partners GRBK (Einhorn)"
-    ],
-    "sell_side_trades": [
-      "Long 30-year Treasuries \u2014 peak yield play (Hartnett)",
-      "Long gold, silver, uranium, JPY, defensive equities (Rosenberg)",
-      "Defensive/value over growth; underweight AI/tech on valuation (Bannister, Rosenberg, Sonders)",
-      "Long bonds on disinflation thesis (Rosenberg)",
-      "Short/underweight financials on AI banking disruption (Visser)"
-    ],
-    "dominant_themes": [
-      "Sovereign debt sustainability crisis \u2014 multiple investors warning of eventual reckoning, gold as hedge",
-      "AI valuation bubble debate vs AI infrastructure bull cycle \u2014 deepest cross-investor disagreement of the period",
-      "Rate regime inflection: peak hawkishness (Warsh Fed) creating long-duration Treasury entry point for sell side"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   }
 }
