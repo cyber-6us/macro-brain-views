@@ -1,53 +1,183 @@
 {
-  "generated_at": "2026-10-23",
+  "generated_at": "2026-10-24",
   "today": {
-    "date": "2026-10-23",
-    "entries_count": 10,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
+    "date": "2026-10-24",
+    "entries_count": 2,
+    "buy_side_bullets": [
+      "AI approaching 'classic bubble' burst \u2014 75% of S&P 500 gains since Nov 2022 from AI names. China/Japan Treasury demand at risk. [Dalio]",
+      "$4.4T annual net US debt supply projected by 2027; corporate bonds 'canary in coal mine.' [Dalio]",
+      "US debt crisis possible within 3 years without policy change; gold at 15% as core hedge. [Dalio]"
+    ],
+    "sell_side_bullets": [
+      "Rotation from AI-leveraged names to quality underway as AI trade hits rough patch. [Sonders shift]",
+      "Rising rates mostly constructive (growth-driven); credit spreads and margin debt signal complacency. [Sonders]",
+      "Sector spread widening: Energy vs Tech five-point daily gap reflects increasing selectivity. [Sonders]"
+    ],
+    "whats_new": [
+      "Dalio escalates AI bubble language to 'classic bubble approaching burst' (Oct 7) and quantifies debt supply to $4.4T by 2027 (Oct 18)",
+      "Sonders calls explicit market rotation from AI-leveraged to quality on CNBC (Oct 20)"
+    ],
+    "vs_market_buy": [
+      "Dalio warns China/Japan Treasuries pullback risk \u2014 not in current consensus pricing"
+    ],
+    "vs_market_sell": [
+      "Sonders: AI trade is hitting rough patch while markets still near highs \u2014 rotation signal ahead of consensus"
+    ],
+    "buy_vs_sell_divergence": [
+      "Today's divergence is within Dalio (buy) explicitly calling AI a bubble while Sonders (sell) notes only a 'rough patch' \u2014 degree of AI bearishness differs"
+    ],
+    "aligned": [
+      "Both today's contributors see rising rates as structural, not temporary",
+      "Both see some form of AI-related risk to equities near term"
+    ],
+    "buy_side_trades": [
+      "Long gold ~15% as core debt-debasement hedge [Dalio]",
+      "Avoid long-duration Treasuries [Dalio]"
+    ],
+    "sell_side_trades": [
+      "Rotate from AI-leveraged to quality equities [Sonders]",
+      "Long IG corps, high-yield, preferreds over duration [Sonders]"
+    ],
+    "dominant_themes": [
+      "AI bubble risk: explicit 'classic bubble' language from Dalio",
+      "US debt supply/demand imbalance: $4.4T annual projection by 2027",
+      "Market rotation: AI trade cooling, quality rising"
+    ],
+    "buy_side_sentiment": "bearish",
     "sell_side_sentiment": "mixed"
   },
   "week": {
-    "period_start": "2026-10-16",
-    "period_end": "2026-10-23",
-    "entries_count": 29,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "period_start": "2026-10-17",
+    "period_end": "2026-10-24",
+    "entries_count": 30,
+    "buy_side_bullets": [
+      "AI is a 'classic bubble approaching burst'; equities running out of cushion vs. rising bond yields. [Dalio, Burry, Einhorn]",
+      "US equities at most expensive valuations in history \u2014 most expensive since start of fund or arguably ever. [Einhorn, Bannister]",
+      "Appaloosa returned 32% H1 2026 driven by AI data center holdings; Amazon top position. [Tepper]",
+      "Long-duration Treasuries 'most dangerous asset'; gold still has bigger move ahead on central-bank buying. [Druckenmiller]",
+      "Greenlight closed to new capital July 2026; defensive posture, largest position Green Brick Partners. [Einhorn]"
+    ],
+    "sell_side_bullets": [
+      "Bull & Bear Indicator at 8.1 (sell territory); $166.4B in 1 week to money markets \u2014 largest since Apr 2020. [Hartnett]",
+      "Debt 'reckoning' coming: US long Treasuries no longer viewed as flight-to-quality asset. [Gundlach]",
+      "Asia 1997 analog \u2014 booms end when creditors notice; 'Great Melt' of persistent inflation replacing 'Ice Age.' [Edwards]",
+      "Financial repression regime arriving: Warsh signals bank-driven money creation; gold primary hedge. [Napier]",
+      "Economy running hot, AI capex driving growth; below 10% recession probability. [Slok, Hatzius]",
+      "S&P 500 target 7,800 on 17% earnings growth; software over semiconductors, small caps over large. [Wilson]"
+    ],
+    "whats_new": [
+      "Dalio escalates AI bubble language to 'classic bubble approaching burst' \u2014 more extreme than prior AI risk framing",
+      "Sonders calls explicit market rotation from AI-leveraged to quality (Oct 20) \u2014 new directional call vs. prior sector bifurcation framing",
+      "Dalio flags China/Japan Treasuries demand risk as a new mechanism \u2014 beyond prior supply/fiscal concerns"
+    ],
+    "vs_market_buy": [
+      "Dalio sees China/Japan Treasuries demand pullback \u2014 not yet priced by consensus",
+      "Burry maintains shorts despite record S&P highs \u2014 diverges from crowded long positioning",
+      "Einhorn: equities at most expensive in history, expects mean reversion \u2014 vs. consensus bullishness"
+    ],
+    "vs_market_sell": [
+      "Napier: financial repression inevitable \u2014 market not pricing negative real rates yet",
+      "Edwards: 'Ice Age' is over, regime-shift to persistent inflation \u2014 vs. consensus disinflation narrative",
+      "Gundlach: long-end Treasuries no longer safe haven \u2014 challenges conventional flight-to-quality logic"
+    ],
+    "buy_vs_sell_divergence": [
+      "Soft landing: Slok/Hatzius see economy running hot; Dalio/Einhorn/Burry see dangerous fragility",
+      "AI investment: Tepper bullish on AI infrastructure buildout vs. Dalio/Burry warning of bubble dynamics",
+      "Equities: Wilson (MS) targets 7,800 S&P with 17% earnings growth vs. Einhorn/Burry short/bearish"
+    ],
+    "aligned": [
+      "AI bubble risk growing \u2014 multiple buy- and sell-side voices now using 'bubble' language explicitly",
+      "Bond market stress is the primary systemic risk; rising yields creating cross-asset pressure",
+      "Gold and hard assets remain preferred defensive hedges amid fiscal/debt uncertainty"
+    ],
+    "buy_side_trades": [
+      "Long AI infrastructure (Amazon, Micron, TSMC) [Tepper]",
+      "Long gold at 15% allocation as debt-debasement hedge [Dalio]",
+      "Long selective credit / direct lending in high-yield [Marks]",
+      "Short S&P 500 and AI-exposed equities [Burry]",
+      "Long Green Brick Partners (GRBK, ~19%) [Einhorn]"
+    ],
+    "sell_side_trades": [
+      "Long 30-year Treasuries on peak-yield thesis [Hartnett]",
+      "Long gold and commodities; defensive equity posture [Hartnett]",
+      "Long gold, silver, uranium, Japanese yen [Rosenberg]",
+      "Avoid long-duration bonds; focus on IG corps, HY, preferreds [Sonders, Gundlach]",
+      "Rotate from AI-leveraged names to quality equities [Sonders]"
+    ],
+    "dominant_themes": [
+      "AI bubble risk emerging \u2014 explicit 'classic bubble' language from multiple voices",
+      "Bond market stress: Treasury supply/demand imbalance and sovereign debt sustainability",
+      "Market rotation: from AI-leveraged to quality/defensive as AI trade cools"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "bearish"
   },
   "month": {
-    "period_start": "2026-09-23",
-    "period_end": "2026-10-23",
-    "entries_count": 171,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "period_start": "2026-09-24",
+    "period_end": "2026-10-24",
+    "entries_count": 160,
+    "buy_side_bullets": [
+      "AI bubble risk building consensus: 'classic bubble approaching burst' with 75% of S&P 500 gains from AI since Nov 2022. [Dalio, Burry, Einhorn]",
+      "Equities at historical valuation extremes comparable to 1929/2000/2021 \u2014 multiple mega-bears raise alarm. [Einhorn, Bannister, Burry]",
+      "Gold as primary hedge: multiple investors hold or increase gold as debt/fiscal risk rises. [Dalio, Druckenmiller, Einhorn]",
+      "AI infrastructure buildout continues to drive outperformance for concentrated holders. [Tepper, Druckenmiller]",
+      "Macro volatility ahead for 5\u201310 years due to QE unwinding and central bank regime shifts. [Howard]"
+    ],
+    "sell_side_bullets": [
+      "US sovereign debt sustainability at the center of risk: Treasury supply to reach $4.4T/year, bond vigilante concern mounting. [Dalio, Gundlach, Hartnett, Napier]",
+      "Persistent inflation replacing disinflation narrative \u2014 'Great Melt' replacing 'Ice Age'; double-digit inflation risk flagged. [Edwards, Rosenberg]",
+      "Market sell signals widespread: BofA Bull & Bear at 8.1 (sell), $166B money market inflows in a week. [Hartnett]",
+      "Financial repression regime incoming with Warsh at Fed \u2014 real rates to be held below inflation. [Napier]",
+      "Economy running hot with AI/capex tailwinds, but K-shaped dynamics widening. [Slok, Hatzius, Yardeni]",
+      "Market rotation from AI-leveraged to quality; tech leadership narrowing. [Sonders, Wilson]"
+    ],
+    "whats_new": [
+      "Dalio escalates to explicit AI 'classic bubble' language and quantifies $4.4T debt supply",
+      "Sonders calls October rotation from AI to quality \u2014 new directional call",
+      "Hartnett's Bull & Bear Indicator fell back to 8.1 sell territory after August peak of 9.7"
+    ],
+    "vs_market_buy": [
+      "China/Japan Treasuries pullback risk not priced [Dalio]",
+      "Burry maintains shorts vs. record equity highs \u2014 extreme divergence from market direction",
+      "AI depreciation $176B understated 2026-2028 \u2014 consensus earnings estimates too high [Burry]"
+    ],
+    "vs_market_sell": [
+      "Financial repression regime not priced by most investors [Napier]",
+      "Double-digit inflation risk completely absent from consensus [Edwards]",
+      "Long-end Treasuries overvalued as flight-to-quality assets [Gundlach, Napier]"
+    ],
+    "buy_vs_sell_divergence": [
+      "Recession risk: Berezin (40\u201375% probability) vs. Slok/Hatzius (10% probability, soft landing)",
+      "AI: Tepper/Druckenmiller bullish on AI infrastructure; Dalio/Burry/Edwards warn of classic bubble",
+      "Equity outlook: Wilson (7,800 S&P), Yardeni (8,250) vs. Einhorn/Burry/Berezin bearish"
+    ],
+    "aligned": [
+      "Bond market stress is the primary systemic risk for H2 2026",
+      "Gold and hard assets are consensus hedges across buy and sell side",
+      "AI has driven exceptional returns but valuation risk is now broadly acknowledged",
+      "Fed path deeply uncertain; rate cuts not guaranteed"
+    ],
+    "buy_side_trades": [
+      "Long AI infrastructure (Amazon, Micron, TSMC) [Tepper]",
+      "Long gold at 15% as debt-debasement hedge [Dalio, Druckenmiller]",
+      "Short S&P 500 and AI equities [Burry]",
+      "Long selective direct lending and high-yield credit [Marks]",
+      "Long defensive value (Green Brick) [Einhorn]"
+    ],
+    "sell_side_trades": [
+      "Long 30-year Treasuries on peak-yield thesis [Hartnett]",
+      "Long gold, silver, uranium, Japanese yen [Rosenberg]",
+      "Long quality over AI-leveraged equities [Sonders]",
+      "Below-benchmark bond duration; IG corps and high-yield preferred [Sonders, Gundlach]",
+      "Long defensive value; underweight AI/growth [Bannister]",
+      "Long S&P 500 to 7,800\u20138,250 on earnings growth [Wilson, Yardeni]"
+    ],
+    "dominant_themes": [
+      "AI bubble risk: from 'concern' to 'classic bubble approaching burst' in investor language",
+      "US sovereign debt crisis: $4.4T supply projection, China/Japan demand uncertainty, bond vigilante risk",
+      "Macro regime shift: financial repression, 'Great Melt' inflation, end of easy-money cycle"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "bearish"
   }
 }
