@@ -1,53 +1,170 @@
 {
-  "generated_at": "2026-10-24",
+  "generated_at": "2026-10-25",
   "today": {
-    "date": "2026-10-24",
-    "entries_count": 2,
+    "date": "2026-10-25",
+    "entries_count": 3,
     "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
+    "sell_side_bullets": [
+      "US recession odds raised to 40% on Iran conflict oil shock risk; Europe/Japan at 50%. [Berezin]",
+      "Economic data signals slowdown not inflation - wages not accelerating, fiscal gridlock to cap yields. [Rosenberg]",
+      "'Roaring 2020s' intact long-term (S&P 10,000 by 2029) but cautious near-term on rising yields and geopolitics. [Yardeni evolving]"
+    ],
+    "whats_new": [
+      "Berezin explicitly ties Iran conflict escalation to recession probability upgrade - first geopolitical trigger for recession call in this cycle",
+      "Rosenberg adds post-midterm gridlock as bond-bullish thesis - new structural argument",
+      "Yardeni shifts to mixed from outright bullish stance, raising caution on bond market"
+    ],
     "vs_market_buy": [],
-    "vs_market_sell": [],
+    "vs_market_sell": [
+      "Berezin's 40% US recession odds vs. consensus ~15-20% - significant divergence",
+      "Rosenberg's deflation/slowdown read vs. market pricing of persistent inflation"
+    ],
     "buy_vs_sell_divergence": [],
     "aligned": [],
     "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "sell_side_trades": [
+      "Long gold, silver, uranium [Rosenberg]",
+      "Long Japanese yen [Rosenberg]",
+      "Cautious on equities, long defensives [Berezin, Rosenberg]",
+      "Monitor bond yields for S&P multiple compression [Yardeni]"
+    ],
+    "dominant_themes": [
+      "Geopolitical tail risk (Iran) as macro catalyst",
+      "Slowdown vs. inflation debate - bears gaining ground",
+      "Bond market stress and rising yields as near-term headwind"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "bearish"
   },
   "week": {
-    "period_start": "2026-10-17",
-    "period_end": "2026-10-24",
-    "entries_count": 30,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "period_start": "2026-10-18",
+    "period_end": "2026-10-25",
+    "entries_count": 32,
+    "buy_side_bullets": [
+      "Equities volatile but resilient; AI and tech remain core long positions. [Druckenmiller, Tudor Jones, Tepper]",
+      "Gold bullish on de-dollarization, central bank buying, and inflation hedging. [Druckenmiller, Einhorn]",
+      "US equity market historically expensive - defensive positioning and hedges added. [Einhorn, Marks]",
+      "Dollar weakness hedge via EUR/JPY positions reflecting de-dollarization thesis. [Einhorn]"
+    ],
+    "sell_side_bullets": [
+      "US recession probability rising - Iran conflict pushes BCA to 40%; Rosenberg flags slowdown data. [Berezin, Rosenberg]",
+      "Bond market stress emerging - long-end yields rising, creating valuation headwind for equities. [Yardeni, Hartnett]",
+      "Hartnett tactically bearish (Bull & Bear 9.7) despite strategic bullish stance - sell signal territory. [Hartnett]",
+      "Economy growing but K-shaped; consumer delinquencies rising beneath the surface. [Slok]",
+      "Roaring 2020s intact long-term but near-term caution flagged. [Yardeni evolving]"
+    ],
+    "whats_new": [
+      "Berezin raises recession odds explicitly citing Iran conflict - first geopolitical recession trigger call this cycle [Berezin shift]",
+      "Rosenberg adds post-midterm gridlock as structural bond-bullish thesis [Rosenberg]",
+      "Yardeni shifts from outright bullish to mixed, acknowledging yield pressure [Yardeni evolving]",
+      "Einhorn closes fund to new investors - signals conviction on bearish equity stance [Einhorn shift]"
+    ],
+    "vs_market_buy": [
+      "Druckenmiller against consensus: long-duration Treasuries remain most dangerous asset despite rate-cut hopes",
+      "Einhorn against consensus: US equity market at historically extreme valuations yet most remain fully invested"
+    ],
+    "vs_market_sell": [
+      "Berezin 40% recession odds vs. market consensus ~15-20%",
+      "Rosenberg: slowdown + disinflation vs. market pricing of higher-for-longer inflation",
+      "Hartnett in sell-signal territory while most consensus remains bullish"
+    ],
+    "buy_vs_sell_divergence": [
+      "Buy side (Druckenmiller, Einhorn) still selectively long equities despite valuation concerns; sell side (Berezin, Rosenberg) calling for broad equity caution",
+      "Buy side sees AI infrastructure as durable long-term opportunity; sell side (Edwards) warns AI valuations stretched against tapped-out consumer"
+    ],
+    "aligned": [
+      "Gold remains broadly favored across buy and sell side as inflation/geopolitical hedge",
+      "Long-duration US Treasuries viewed as unattractive by both sides",
+      "AI is real but valuations need scrutiny - consensus across multiple investors"
+    ],
+    "buy_side_trades": [
+      "Long gold via physical + options [Einhorn]",
+      "Long AI infrastructure tech selectively [Druckenmiller, Tepper]",
+      "Short USD via EUR/JPY tail protection [Einhorn]",
+      "Long Green Brick Partners (homebuilder, 19% of Greenlight portfolio) [Einhorn]"
+    ],
+    "sell_side_trades": [
+      "Long gold, silver, uranium [Rosenberg]",
+      "Long Japanese yen [Rosenberg]",
+      "Underweight long-duration bonds [Sonders, Gundlach]",
+      "Cautious on equities, rotate to defensives [Berezin, Hartnett]",
+      "Monitor bond yield pressure on S&P multiples [Yardeni]"
+    ],
+    "dominant_themes": [
+      "Geopolitical escalation (Iran) as new macro risk catalyst",
+      "Slowdown vs. inflation debate - bears gaining ground on growth",
+      "AI-driven equity rally facing bond yield headwinds and valuation scrutiny"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "bearish"
   },
   "month": {
-    "period_start": "2026-09-24",
-    "period_end": "2026-10-24",
-    "entries_count": 160,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "period_start": "2026-09-25",
+    "period_end": "2026-10-25",
+    "entries_count": 148,
+    "buy_side_bullets": [
+      "Equities near historically extreme valuations; most buy-side cutting risk or adding hedges rather than outright shorting. [Einhorn, Marks, Druckenmiller]",
+      "Gold broadly favored on de-dollarization, central bank demand, and as fiscal deficit hedge. [Druckenmiller, Einhorn, Bass]",
+      "AI infrastructure remains core long-term conviction - but position sizing reduced as prices reflect opportunity. [Druckenmiller, Tepper]",
+      "Long-duration US Treasuries widely viewed as dangerous; debt maturity wall and fiscal deficit the key risks. [Druckenmiller, Ackman, Gundlach]",
+      "Stagflation remains embedded - US 'certainly in stagflationary period' with uncertain Fed response. [Dalio]"
+    ],
+    "sell_side_bullets": [
+      "Recession risk elevated and rising - geopolitical triggers (Iran) + fiscal cliff creating 40-75% probability calls. [Berezin, Rosenberg]",
+      "Bond market stress and rising long-end yields threaten equity multiples - broad consensus theme. [Hartnett, Yardeni, Gundlach]",
+      "Hartnett's July 2026 'big rally before big collapse' pattern echoed across sell-side bears. [Hartnett]",
+      "AI productivity gains real but concentrated - consumer tapped out with low savings, rising costs. [Edwards]",
+      "K-shaped economy masking underlying weakness; delinquencies rising among lower-income cohort. [Slok, Rosenberg]",
+      "Government intervention (Treasury buybacks, yield suppression) cosmetic and unsustainable. [Marks]"
+    ],
+    "whats_new": [
+      "Iran conflict explicitly cited as recession trigger - new geopolitical escalation risk entering macro discourse [Berezin shift]",
+      "Greenlight closes to new investors - Einhorn's most definitive bearish equity signal since 2008 [Einhorn shift]",
+      "Rosenberg's post-midterm gridlock thesis adds new structural bond-bullish narrative [Rosenberg]",
+      "Edwards' Ice Age thesis evolving from deflation to fiscal dominance - major framework shift [Edwards shift]",
+      "Yardeni moderating bullish stance amid yield pressure - notable given Roaring 2020s conviction [Yardeni evolving]"
+    ],
+    "vs_market_buy": [
+      "Druckenmiller: long Treasuries a mistake despite consensus rate-cut optimism",
+      "Dalio: US 'certainly stagflationary' vs. Fed/market view of controlled disinflation",
+      "Ackman: Fed will abandon 2% target; market still pricing 2% as achievable"
+    ],
+    "vs_market_sell": [
+      "Berezin 40% recession odds vs. consensus 15-20%",
+      "Rosenberg: disinflation/deflation vs. higher-for-longer market pricing",
+      "Burry: AI/index bubble comparable to 1987 setup vs. consensus AI secular growth thesis"
+    ],
+    "buy_vs_sell_divergence": [
+      "Buy side (Druckenmiller, Tepper) still holds AI as structural opportunity; sell side (Edwards, Burry) warns valuations disconnected from fundamentals",
+      "Buy side (Dalio, PTJ) focused on geopolitical/fiscal structural shifts; sell side (Slok, Hatzius) still modeling base-case soft landing",
+      "Buy side broadly more constructive on gold; sell side split on gold vs. bonds as safe haven"
+    ],
+    "aligned": [
+      "Long-duration US Treasuries broadly unattractive - consensus across buy and sell",
+      "Gold broadly favored by both sides as geopolitical/fiscal hedge",
+      "AI real but valuations stretched - shared view across bearish commentators",
+      "US fiscal trajectory unsustainable - bipartisan concern across all investors"
+    ],
+    "buy_side_trades": [
+      "Long gold (physical + options) [Einhorn, Druckenmiller]",
+      "Long AI infrastructure selectively (reduced sizing) [Druckenmiller, Tepper]",
+      "Short USD/Long EUR+JPY [Einhorn]",
+      "Long homebuilders [Einhorn]",
+      "Short long-duration Treasuries [Ackman, Druckenmiller]"
+    ],
+    "sell_side_trades": [
+      "Long gold, silver, uranium [Rosenberg]",
+      "Long Japanese yen [Rosenberg]",
+      "Underweight long-duration bonds; favor short/intermediate maturities [Sonders, Gundlach]",
+      "Rotate to defensives and value from growth [Hartnett, Berezin, Bannister]",
+      "Long bonds on growth deceleration [Rosenberg]"
+    ],
+    "dominant_themes": [
+      "Geopolitical escalation (Iran, Middle East) as macro risk catalyst",
+      "Fiscal dominance and debt sustainability - US $1T+ interest expense unsustainable",
+      "AI-driven equity rally facing convergence of valuation risk, bond yields, and consumer weakness"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "bearish"
   }
 }
