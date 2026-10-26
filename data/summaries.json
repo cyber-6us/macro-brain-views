@@ -1,52 +1,195 @@
 {
-  "generated_at": "2026-10-25",
+  "generated_at": "2026-10-26",
   "today": {
-    "date": "2026-10-25",
-    "entries_count": 3,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "date": "2026-10-26",
+    "entries_count": 6,
+    "buy_side_bullets": [
+      "Quality equities remain cheap \u2014 one of the best buying opportunities in years despite macro headwinds [Ackman]",
+      "2027 will be 'stunning' if geopolitical risks ease and energy prices fall [Ackman]"
+    ],
+    "sell_side_bullets": [
+      "Faster money growth expected; inflation to remain structurally above interest rates [Hatzius, Visser, Wilson, Napier]",
+      "Core inflation ~2.2% \u2014 December Fed rate hike possible, soft data could shift this [Hatzius, Wilson, Napier]",
+      "Recession risk would intensify automation displacement in a feedback loop [Hatzius, Napier]",
+      "Bitcoin benefits from financial repression dynamics and negative real yield environment [Visser, Napier]",
+      "Optics companies and crypto are highest-conviction areas for 2026-2027 [Visser]"
+    ],
+    "whats_new": [
+      "Torsten Slok (Apollo) publishes landmark finding: AI has 'zero payoff' to S&P 493 outside tech \u2014 productivity not broadening",
+      "Jan Hatzius raises AI job displacement estimate: 9% of US workers (~15M jobs) at risk, recession accelerant",
+      "Mike Wilson revises S&P 500 target to 8,500 by mid-2027, above Morgan Stanley's official 8,300 \u2014 correction 'final innings'",
+      "Russell Napier reads Warsh appointment as financial repression signal \u2014 long gold, buy equities on dips",
+      "Bill Ackman in October 22 CNBC: geopolitical resolution key to 2027 'stunning' scenario; Fed hike still a 'mistake'"
+    ],
+    "vs_market_buy": [
+      "Fed's September hike to 4.0% called a 'mistake' \u2014 market priced for cuts that may not come [Ackman]",
+      "2027 'stunning' scenario conditional on geopolitical resolution \u2014 more bullish than consensus if wars end [Ackman]"
+    ],
+    "vs_market_sell": [
+      "AI productivity is S&P 500 story, not broad economy \u2014 market pricing AI as broad productivity lift [Slok]",
+      "S&P 500 correction nearly done \u2014 8,500 target by mid-2027 more bullish than official Morgan Stanley forecast [Wilson shift]",
+      "AI job displacement of 9% of US workers underappreciated systemic risk if recession accelerates automation [Hatzius]"
+    ],
+    "buy_vs_sell_divergence": [
+      "Ackman sees 2027 as 'stunning' if geopolitics resolve; Hatzius warns of 'stall speed' and AI job displacement risk",
+      "Buy-side (Ackman) sees quality equities as cheap buying opportunity; sell-side (Wilson) sees correction in progress though nearing end",
+      "Sell-side (Visser) constructive on Bitcoin as negative real yield beneficiary; buy-side not expressing crypto positioning"
+    ],
+    "aligned": [
+      "Inflation remains elevated and persistent \u2014 rate cuts not imminent",
+      "AI investment concentrated in hyperscalers, productivity spillover limited"
+    ],
+    "buy_side_trades": [
+      "Long quality equities at dislocation \u2014 highest-quality businesses trading at cheap prices"
+    ],
+    "sell_side_trades": [
+      "Long Micron (MU) \u2014 bought below $1,000, not near peak earnings",
+      "Long optics companies \u2014 AI infrastructure exposure without frothy AI equity premium",
+      "Long Bitcoin \u2014 negative real yield beneficiary, next big gains after AI momentum phase",
+      "Long AI revenue/profit beneficiaries over AI infrastructure builders (chips, power)",
+      "Rotation from momentum into quality earnings growers",
+      "Long gold \u2014 financial repression insurance and monetary hedge",
+      "Buy equities on dips \u2014 real assets outperform in financial repression regimes",
+      "Avoid long-duration bonds \u2014 negative real yields structurally assured"
+    ],
+    "dominant_themes": [
+      "Equity correction/rally",
+      "Geopolitical risk",
+      "Inflation persistence"
+    ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "week": {
-    "period_start": "2026-10-18",
-    "period_end": "2026-10-25",
-    "entries_count": 32,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
+    "period_start": "2026-10-19",
+    "period_end": "2026-10-26",
+    "entries_count": 37,
+    "buy_side_bullets": [
+      "Full exit of SanDisk in Q2 2026; proceeds rotated into AI infrastructure names [Ackman, Dalio, Howard, Bessent]",
+      "2027 will be 'stunning' if geopolitical risks ease and energy prices fall [Dalio, Marks, Ackman]",
+      "Stock equity risk premium shrinking as bond yields rise \u2014 equities have less cushion for error [Einhorn, Druckenmiller, Dalio]",
+      "10-year Treasury briefly hit 5.34%, highest since 2002; Bessent says 'you win over time' [Bessent]",
+      "Fiscal year deficit expected to top 6% of GDP, following 5.8% in FY2025 [Bessent]"
+    ],
+    "sell_side_bullets": [
+      "US recession probability raised to 40% on Iran conflict escalation risk [Edwards, Rosenberg, Mauldin, Hartnett]",
+      "Long-term S&P 500 target of 10,000 by 2029 intact under 'Roaring 2020s' thesis [Rosenberg, Mauldin, Sonders, Hartnett]",
+      "Fed should have hiked by 50bps rather than 25bps in September 2026 [Mauldin, Napier shift, Hatzius, Gundlach]",
+      "Faster broad money growth incoming \u2014 structural rather than cyclical [Berezin shift, Napier shift, Hatzius, Reid]",
+      "Wages show no sign of accelerating, capping inflation pass-through [Edwards, Napier shift, Rosenberg]"
+    ],
     "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "vs_market_buy": [
+      "Fed's September hike to 4.0% called a 'mistake' \u2014 market priced for cuts that may not come [Ackman]",
+      "2027 'stunning' scenario conditional on geopolitical resolution \u2014 more bullish than consensus if wars end [Ackman]"
+    ],
+    "vs_market_sell": [
+      "AI productivity is S&P 500 story, not broad economy \u2014 market pricing AI as broad productivity lift [Slok]",
+      "S&P 500 correction nearly done \u2014 8,500 target by mid-2027 more bullish than official Morgan Stanley forecast [Wilson shift]",
+      "AI job displacement of 9% of US workers underappreciated systemic risk if recession accelerates automation [Hatzius]"
+    ],
+    "buy_vs_sell_divergence": [
+      "Ackman sees 2027 as 'stunning' if geopolitics resolve; Hatzius warns of 'stall speed' and AI job displacement risk",
+      "Buy-side (Ackman) sees quality equities as cheap buying opportunity; sell-side (Wilson) sees correction in progress though nearing end",
+      "Sell-side (Visser) constructive on Bitcoin as negative real yield beneficiary; buy-side not expressing crypto positioning"
+    ],
+    "aligned": [
+      "Inflation remains elevated and persistent \u2014 rate cuts not imminent",
+      "AI investment concentrated in hyperscalers, productivity spillover limited",
+      "Rates staying higher-for-longer than prior consensus expected"
+    ],
+    "buy_side_trades": [
+      "Underweight sovereign bonds \u2014 sovereign rate rise thesis",
+      "Long quality equities with pricing power and low debt sensitivity",
+      "Reduce duration / avoid long-dated Treasuries globally",
+      "Hold gold (15% allocation thesis reiterated)",
+      "Reduce AI sector exposure where capex exceeds differentiated return potential",
+      "Long Green Brick Partners (GRBK, ~19% of portfolio)",
+      "Long gold (major 2025 driver, +64%)",
+      "Long Amazon (top position ~15.95%)"
+    ],
+    "sell_side_trades": [
+      "Avoid long-duration bonds \u2014 double-digit inflation thesis",
+      "Short U.S. and U.K. sovereign debt on fiscal dominance",
+      "Buy Treasuries on yield spikes",
+      "Overweight international / non-U.S. equities",
+      "Underweight U.S. equities (most dangerous market in 40 years)",
+      "Long gold and hard assets \u2014 hedge for fiscal expansion and debt monetization",
+      "Short long-duration sovereign bonds \u2014 bond vigilante risk",
+      "Overweight financials, energy, materials, selected industrials"
+    ],
+    "dominant_themes": [
+      "Equity correction/rally",
+      "Inflation persistence",
+      "Geopolitical risk"
+    ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "month": {
-    "period_start": "2026-09-25",
-    "period_end": "2026-10-25",
-    "entries_count": 148,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
+    "period_start": "2026-09-26",
+    "period_end": "2026-10-26",
+    "entries_count": 144,
+    "buy_side_bullets": [
+      "Initiated CoreWeave (CRWV): new AI infrastructure conviction play [Ackman, Marks shift, Gundlach, Dalio]",
+      "~19% convertible notes for risk-calibrated yield with equity upside [Einhorn, Marks shift, Napier shift, Soros]",
+      "10-year Treasury yield heading to 5.50% \u2014 5.31% is still not equilibrium [Gundlach, Dalio, Druckenmiller shift, Ackman]",
+      "Targeting return to 3% GDP growth; economy on track [Einhorn, Gundlach, Bessent shift, Druckenmiller shift]",
+      "Iran war scenario: energy and defense positioning as primary trades [Dalio, Tepper, Druckenmiller shift, Einhorn]"
+    ],
+    "sell_side_bullets": [
+      "AI failure scenario would worsen already-dangerous global debt burden [Bannister shift, Yardeni shift, Mauldin shift, Sonders shift]",
+      "S&P 500 on track for 10,000 by 2029 \u2014 no recession, no landing [Bannister shift, Hatzius shift, Mauldin shift, Reid shift]",
+      "Fed should have hiked by 50bps rather than 25bps in September 2026 [Yardeni shift, Hatzius shift, Mauldin shift, Sonders shift]",
+      "Global equity inflows tracking record $1.2T in 2026 \u2014 crowding risk [Bannister shift, Yardeni shift, Wilson shift, Berezin shift]",
+      "Stagflation avoided \u2014 growth resuming, inflation moderating [Hatzius shift, Mauldin shift, Edwards, Slok shift]"
+    ],
     "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "vs_market_buy": [
+      "Fed's September hike to 4.0% called a 'mistake' \u2014 market priced for cuts that may not come [Ackman]",
+      "2027 'stunning' scenario conditional on geopolitical resolution \u2014 more bullish than consensus if wars end [Ackman]",
+      "Financial repression will make real bond yields permanently negative \u2014 market underpricing this regime shift [Napier]"
+    ],
+    "vs_market_sell": [
+      "AI productivity is S&P 500 story, not broad economy \u2014 market pricing AI as broad productivity lift [Slok]",
+      "S&P 500 correction nearly done \u2014 8,500 target by mid-2027 more bullish than official Morgan Stanley forecast [Wilson shift]",
+      "AI job displacement of 9% of US workers underappreciated systemic risk if recession accelerates automation [Hatzius]"
+    ],
+    "buy_vs_sell_divergence": [
+      "Ackman sees 2027 as 'stunning' if geopolitics resolve; Hatzius warns of 'stall speed' and AI job displacement risk",
+      "Buy-side (Ackman) sees quality equities as cheap buying opportunity; sell-side (Wilson) sees correction in progress though nearing end",
+      "Sell-side (Visser) constructive on Bitcoin as negative real yield beneficiary; buy-side not expressing crypto positioning"
+    ],
+    "aligned": [
+      "Inflation remains elevated and persistent \u2014 rate cuts not imminent",
+      "AI investment concentrated in hyperscalers, productivity spillover limited",
+      "Rates staying higher-for-longer than prior consensus expected"
+    ],
+    "buy_side_trades": [
+      "Long quality stocks \u2014 calling this one of the best times in years to buy",
+      "Implicit long on AI infrastructure beneficiaries regardless of rate environment",
+      "Long gold as primary macro hedge vs. fiscal deterioration",
+      "Underweight Nasdaq relative to gold over 3-5 year horizon",
+      "Hold equities despite fiscal concerns \u2014 don't overreact to macro worry",
+      "Avoid long-duration bonds \u2014 buyback program insufficient to change structural yield pressure",
+      "Short long-duration Treasuries \u2014 structurally vulnerable at 5.25% 30Y yield",
+      "Long high-quality short-duration credit (BBB/BB rated)"
+    ],
+    "sell_side_trades": [
+      "Long Defensive Value (DV) equities over large-cap cyclical growth",
+      "Reduce exposure to AI/tech capex names ahead of Q4 correction",
+      "Reduce near-term equity targets but maintain long-term bull exposure",
+      "Watch 6% 10Y yield as the trigger to reduce equity risk significantly",
+      "Long rates \u2014 Fed cuts coming in H1 2027 as growth slows to stall speed",
+      "Cautious on cyclical equities given stall speed labor market",
+      "Inflation hedge positioning given Iran/Hormuz supply disruption risk",
+      "Conservative asset allocation \u2014 Muddle Through not conducive to high-risk positioning"
+    ],
+    "dominant_themes": [
+      "Equity correction/rally",
+      "Recession risk",
+      "Higher-for-longer rates"
+    ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   }
