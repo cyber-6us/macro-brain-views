@@ -3,117 +3,33 @@
   "today": {
     "date": "2026-10-27",
     "entries_count": 4,
-    "buy_side_bullets": [
-      "2027 will be 'really, really challenging' \u2014 flood of AI IPO supply will overwhelm demand in late 2026/2027. [Paul Tudor Jones]",
-      "60/40 odds of a US fiscal crisis \u2014 deficit unsustainable without a market forcing function. [Paul Tudor Jones]",
-      "Long oil \u2014 expects $20-25 rally; stock market will 'hate' it as inflation rises. [Paul Tudor Jones]",
-      "Still room to run into year-end 2026 before 1999 blow-off top analog resolves. [Paul Tudor Jones]",
-      "Intends to be net short US equities throughout 2027 \u2014 most explicit short declaration yet. [Paul Tudor Jones [evolving]]"
-    ],
-    "sell_side_bullets": [
-      "Bull & Bear Indicator at 7.4 \u2014 formal sell signal ended; 17 signals since 2002 avg -2-3% market loss. [Michael Hartnett [shift]]",
-      "Not an all-clear: 7.4 is neutral; contrarian buy requires below 2.0 \u2014 full risk-on still distant. [Michael Hartnett]",
-      "Two prerequisites for risk-on: Fed hike Oct 28 (credibility) + AI financing concerns resolved \u2014 neither met. [Michael Hartnett]",
-      "Mag 7 earnings next market inflection point \u2014 miss would threaten last line of defense. [Michael Hartnett]",
-      "Duration, debasement hedges (gold), and international equities preferred over US mega-caps. [Michael Hartnett]"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
     "whats_new": [],
-    "vs_market_buy": [
-      "2027 will be 'really, really challenging' \u2014 flood of AI IPO supply will overwhel. [Paul Tudor Jones]"
-    ],
-    "vs_market_sell": [
-      "AI growth impulse peaks late 2026/early 2027 \u2014 Goldman's view before recent AI s. [Jan Hatzius]",
-      "AI data centers ~50% of 2026 GDP growth \u2014 concentrated and fragile single-driver. [John Mauldin]"
-    ],
-    "buy_vs_sell_divergence": [
-      "Buy-side aggregate: bearish; Sell-side aggregate: mixed"
-    ],
-    "aligned": [
-      "Both sides cite AI uncertainty as key risk",
-      "Both sides cite INFLATION uncertainty as key risk"
-    ],
-    "buy_side_trades": [
-      "Short US equities in 2027 [Paul Tudor Jones]",
-      "Long oil \u2014 $20-25 rally anticipated [Paul Tudor Jones]",
-      "Long gold as fiscal crisis hedge [Paul Tudor Jones]"
-    ],
-    "sell_side_trades": [
-      "Long duration (Treasuries) on peak yield thesis [Michael Hartnett]",
-      "Long gold and debasement hedges [Michael Hartnett]",
-      "International equities over US mega-caps [Michael Hartnett]",
-      "Defensively positioned heading into 2027 AI capex peak [Jan Hatzius]",
-      "Monitor long-term rates for GDP drag signal [Jan Hatzius]"
-    ],
-    "dominant_themes": [
-      "equities",
-      "commodities",
-      "rates"
-    ],
-    "buy_side_sentiment": "bearish",
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "week": {
     "period_start": "2026-10-20",
     "period_end": "2026-10-27",
     "entries_count": 32,
-    "buy_side_bullets": [
-      "Master Fund uneven in 2026: modest early gain followed by sharp March drawdown on Middle East conflict. [Alan Howard]",
-      "Hiring senior macro traders signals long-term commitment to macro despite difficult recent performance. [Alan Howard]",
-      "BH Macro 2025: 1.38% GBP / 0.83% USD NAV return \u2014 board calls it less than satisfactory. [Alan Howard]",
-      "Redemption allowance raised from 5% to 14.99% to address persistent discount to NAV. [Alan Howard]",
-      "Private fund launched January 2026 to invest in both Master Fund and BH Macro shares \u2014 broadening access. [Alan Howard]"
-    ],
-    "sell_side_bullets": [
-      "AI growth impulse peaks late 2026/early 2027 \u2014 Goldman's view before recent AI sustainability concerns. [Jan Hatzius [evolving]]",
-      "Large deficits and AI-linked borrowing driving long-term rate rise \u2014 structural, not cyclical pressure. [Jan Hatzius]",
-      "Higher yields subtract cumulative 0.6% from GDP if sustained \u2014 material macro drag emerging. [Jan Hatzius]",
-      "AI to displace up to 9% of US workers (~15M jobs); recession would sharply accelerate displacement. [Jan Hatzius]",
-      "US economy at 'stall speed' risk \u2014 AI productivity gains raised GDP threshold needed for job creation. [Jan Hatzius]"
-    ],
-    "whats_new": [
-      "Jan Hatzius: stance shifted from neutral to mixed",
-      "Jim Reid: stance shifted from bearish to neutral",
-      "Howard Marks: stance shifted from bearish to mixed",
-      "Michael Hartnett: stance shifted from bearish to neutral",
-      "Peter Berezin: stance shifted from neutral to bearish"
-    ],
-    "vs_market_buy": [
-      "Greenlight closed to new investors July 2026 (potentially indefinitely) \u2014 perfor. [David Einhorn]",
-      "Maintains short positions despite rally pressure; 'my estimation of value is not. [Michael Burry]",
-      "2027 will be 'really, really challenging' \u2014 flood of AI IPO supply will overwhel. [Paul Tudor Jones]"
-    ],
-    "vs_market_sell": [
-      "AI growth impulse peaks late 2026/early 2027 \u2014 Goldman's view before recent AI s. [Jan Hatzius]",
-      "Shortage of capital but abundance of good investment ideas \u2014 private credit oppo. [Torsten Slok]",
-      "AI boom and high equity valuations remain a potential bubble; recommends gold, s. [David Rosenberg]"
-    ],
-    "buy_vs_sell_divergence": [
-      "Buy-side more bullish on near-term outlook; sell-side more cautious on AI sustainability and rate headwinds"
-    ],
-    "aligned": [
-      "Both sides cite RATES uncertainty as key risk",
-      "Both sides cite FED uncertainty as key risk",
-      "Both sides cite GOLD uncertainty as key risk"
-    ],
-    "buy_side_trades": [
-      "Long Green Brick Partners (GRBK, ~19% of portfolio) [David Einhorn]",
-      "Long gold (major 2025 driver, +64%) [David Einhorn]",
-      "Long Amazon (top position ~15.95%) [David Tepper]",
-      "Long Micron Technology (AI memory demand) [David Tepper]",
-      "Long AI infrastructure names broadly [David Tepper]"
-    ],
-    "sell_side_trades": [
-      "Defensively positioned heading into 2027 AI capex peak [Jan Hatzius]",
-      "Monitor long-term rates for GDP drag signal [Jan Hatzius]",
-      "Short long-dated US Treasuries; avoid buying until 30-year reaches ~6% [Jeffrey Gundlach]",
-      "Watch for European sovereign-corporate credit dislocations around French OATs [Jim Reid]",
-      "Long AI revenue/profit beneficiaries over AI infrastructure builders (chips, power) [Mike Wilson]"
-    ],
-    "dominant_themes": [
-      "equities",
-      "bonds",
-      "rates"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
@@ -121,64 +37,16 @@
     "period_start": "2026-09-27",
     "period_end": "2026-10-27",
     "entries_count": 147,
-    "buy_side_bullets": [
-      "Geopolitical resolution (Iran, Russia-Ukraine) is the key catalyst \u2014 would bring rates and inflation down sharply. [Bill Ackman]",
-      "2027 will be 'stunning' if geopolitical risks ease and energy prices fall. [Bill Ackman]",
-      "Fed September hike to 4.0% was a 'mistake' \u2014 AI capex ($650B+) is rate-insensitive due to near-infinite AI ROI. [Bill Ackman]",
-      "Wars and sticky inflation are capping what should be a much stronger market. [Bill Ackman]",
-      "Quality equities remain cheap \u2014 one of the best buying opportunities in years despite macro headwinds. [Bill Ackman]"
-    ],
-    "sell_side_bullets": [
-      "Long-term S&P 500 target of 10,000 by 2029 intact under 'Roaring 2020s' thesis. [Ed Yardeni]",
-      "Near-term more cautious - rising bond yields and geopolitical tensions create volatility. [Ed Yardeni]",
-      "Raised 2026 year-end S&P target to 8,250 from 7,700 on earnings resilience. [Ed Yardeni]",
-      "Views bond market stress and geopolitical risks as cyclical rather than structural threats. [Ed Yardeni]",
-      "AI growth impulse peaks late 2026/early 2027 \u2014 Goldman's view before recent AI sustainability concerns. [Jan Hatzius [evolving]]"
-    ],
-    "whats_new": [
-      "Bill Ackman: stance shifted from bullish to mixed",
-      "Howard Marks: stance shifted from neutral to mixed",
-      "Jan Hatzius: stance shifted from bearish to mixed",
-      "John Mauldin: stance shifted from mixed to bearish",
-      "Mike Wilson: stance shifted from mixed to bullish"
-    ],
-    "vs_market_buy": [
-      "Greenlight closed to new investors July 2026 (potentially indefinitely) \u2014 perfor. [David Einhorn]",
-      "AI is a 'classic bubble approaching a burst point' \u2014 AI-related shares drove 75%. [Ray Dalio]",
-      "Historic approach was contrarian macro: short overleveraged sectors, long underv. [Crispin Odey]"
-    ],
-    "vs_market_sell": [
-      "AI growth impulse peaks late 2026/early 2027 \u2014 Goldman's view before recent AI s. [Jan Hatzius]",
-      "AI data centers ~50% of 2026 GDP growth \u2014 concentrated and fragile single-driver. [John Mauldin]",
-      "Shortage of capital but abundance of good investment ideas \u2014 private credit oppo. [Torsten Slok]"
-    ],
-    "buy_vs_sell_divergence": [
-      "Buy-side more bullish on near-term outlook; sell-side more cautious on AI sustainability and rate headwinds"
-    ],
-    "aligned": [
-      "Both sides cite RATES uncertainty as key risk",
-      "Both sides cite FED uncertainty as key risk",
-      "Both sides cite GOLD uncertainty as key risk"
-    ],
-    "buy_side_trades": [
-      "Long quality equities at dislocation \u2014 highest-quality businesses trading at cheap prices [Bill Ackman]",
-      "Long Green Brick Partners (GRBK, ~19% of portfolio) [David Einhorn]",
-      "Long gold (major 2025 driver, +64%) [David Einhorn]",
-      "Selective opportunities in direct lending and high-yield credit with deployment-pace caution [Howard Marks]",
-      "Avoid long-dated government bonds (US, developed market) [Jeffrey Gundlach]"
-    ],
-    "sell_side_trades": [
-      "Long US equities on dips with longer-term horizon [Ed Yardeni]",
-      "Monitor bond market for yield-driven multiple compression risk [Ed Yardeni]",
-      "Defensively positioned heading into 2027 AI capex peak [Jan Hatzius]",
-      "Monitor long-term rates for GDP drag signal [Jan Hatzius]",
-      "Avoid long-duration bonds \u2014 debt trap plus inflation incompatible with Treasury rally [John Mauldin]"
-    ],
-    "dominant_themes": [
-      "equities",
-      "bonds",
-      "rates"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   }
