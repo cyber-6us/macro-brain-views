@@ -1,53 +1,141 @@
 {
-  "generated_at": "2026-10-27",
+  "generated_at": "2026-10-28",
   "today": {
-    "date": "2026-10-27",
-    "entries_count": 4,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
+    "date": "2026-10-28",
+    "entries_count": 2,
+    "buy_side_bullets": [
+      "US can grow its way out of debt via economic growth + government spending restraint; ~$180B tariff revenue cited [Scott Bessent]"
+    ],
+    "sell_side_bullets": [
+      "S&P 500 approaching seasonal year-end low around October 27; historical pattern favors a rally from here [Jim Reid]"
+    ],
+    "whats_new": [
+      "Jim Reid: neutral \u2192 mixed",
+      "Scott Bessent: mixed \u2192 bullish"
+    ],
+    "vs_market_buy": "Buy-side broadly aligned with cautious market positioning",
+    "vs_market_sell": "Sell-side mixed with no clear divergence from market",
+    "buy_vs_sell_divergence": "Buy-side bullish vs sell-side mixed: buy-side skews more pessimistic on fundamentals while sell-side has more varied outlooks",
+    "aligned": [
+      "AI investment theme central to macro outlook \u2014 valuation concerns shared across both sides",
+      "US fiscal trajectory and debt sustainability a shared concern"
+    ],
     "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
+    "sell_side_trades": [
+      "Long equities into year-end based on midterm seasonality"
+    ],
+    "dominant_themes": [
+      "AI/Technology",
+      "Equities",
+      "Geopolitics"
+    ],
+    "buy_side_sentiment": "bullish",
     "sell_side_sentiment": "mixed"
   },
   "week": {
-    "period_start": "2026-10-20",
-    "period_end": "2026-10-27",
+    "period_start": "2026-10-21",
+    "period_end": "2026-10-28",
     "entries_count": 32,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "buy_side_bullets": [
+      "US can grow its way out of debt via economic growth + government spending restraint; ~$180B tariff revenue cited [Scott Bessent]",
+      "2027 will be 'really, really challenging' \u2014 flood of AI IPO supply will overwhelm demand in late 2026/2027 [Paul Tudor Jones]",
+      "Geopolitical resolution (Iran, Russia-Ukraine) is the key catalyst \u2014 would bring rates and inflation down sharply [Bill Ackman]",
+      "AI is a 'classic bubble approaching a burst point' \u2014 AI-related shares drove 75% of S&P 500 gains since Nov 2022 [Ray Dalio]"
+    ],
+    "sell_side_bullets": [
+      "S&P 500 approaching seasonal year-end low around October 27; historical pattern favors a rally from here [Jim Reid]",
+      "Bull & Bear Indicator at 7.4 \u2014 formal sell signal ended; 17 signals since 2002 avg -2-3% market loss [shift] [Michael Hartnett]",
+      "AI growth impulse peaks late 2026/early 2027 \u2014 Goldman's view before recent AI sustainability concerns [evolving] [Jan Hatzius]",
+      "AI cash flow reality check \u2014 aggregate projected returns can't hold; sector will produce winners and losers [John Mauldin]"
+    ],
+    "whats_new": [
+      "Jim Reid: bearish \u2192 mixed",
+      "Scott Bessent: mixed \u2192 bullish",
+      "Michael Hartnett: bearish \u2192 neutral",
+      "Jan Hatzius: neutral \u2192 mixed",
+      "Russell Napier: mixed \u2192 bearish"
+    ],
+    "vs_market_buy": "Buy-side more bearish than market consensus given dominant bearish stance despite recent equity rally",
+    "vs_market_sell": "Sell-side predominantly bearish on near-term equity risk despite some bullish outliers on earnings",
+    "buy_vs_sell_divergence": "Both sides broadly bearish; limited explicit disagreements on direction",
+    "aligned": [
+      "Elevated rates regime persisting \u2014 both sides acknowledge higher-for-longer or further hike risk",
+      "AI investment theme central to macro outlook \u2014 valuation concerns shared across both sides",
+      "US fiscal trajectory and debt sustainability a shared concern"
+    ],
+    "buy_side_trades": [
+      "Long Green Brick Partners (GRBK, ~19% of portfolio)",
+      "Long gold (major 2025 driver, +64%)",
+      "Long Amazon (top position ~15.95%)",
+      "Long Micron Technology (AI memory demand)",
+      "Long AI infrastructure names broadly"
+    ],
+    "sell_side_trades": [
+      "Short long-dated US Treasuries; avoid buying until 30-year reaches ~6%",
+      "Watch for European sovereign-corporate credit dislocations around French OATs",
+      "Buy the dip in equities over next 2-3 weeks ahead of year-end rally",
+      "Overweight software vs semiconductors",
+      "Favor financials and healthcare sectors"
+    ],
+    "dominant_themes": [
+      "AI/Technology",
+      "Rates/Fed",
+      "Equities"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "bearish"
   },
   "month": {
-    "period_start": "2026-09-27",
-    "period_end": "2026-10-27",
-    "entries_count": 147,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "period_start": "2026-09-28",
+    "period_end": "2026-10-28",
+    "entries_count": 137,
+    "buy_side_bullets": [
+      "US can grow its way out of debt via economic growth + government spending restraint; ~$180B tariff revenue cited [Scott Bessent]",
+      "2027 will be 'really, really challenging' \u2014 flood of AI IPO supply will overwhelm demand in late 2026/2027 [Paul Tudor Jones]",
+      "Geopolitical resolution (Iran, Russia-Ukraine) is the key catalyst \u2014 would bring rates and inflation down sharply [Bill Ackman]",
+      "AI is a 'classic bubble approaching a burst point' \u2014 AI-related shares drove 75% of S&P 500 gains since Nov 2022 [Ray Dalio]"
+    ],
+    "sell_side_bullets": [
+      "S&P 500 approaching seasonal year-end low around October 27; historical pattern favors a rally from here [Jim Reid]",
+      "Bull & Bear Indicator at 7.4 \u2014 formal sell signal ended; 17 signals since 2002 avg -2-3% market loss [shift] [Michael Hartnett]",
+      "AI growth impulse peaks late 2026/early 2027 \u2014 Goldman's view before recent AI sustainability concerns [evolving] [Jan Hatzius]",
+      "AI cash flow reality check \u2014 aggregate projected returns can't hold; sector will produce winners and losers [John Mauldin]"
+    ],
+    "whats_new": [
+      "Jim Reid: neutral \u2192 mixed",
+      "Paul Tudor Jones: mixed \u2192 bearish",
+      "Michael Hartnett: bearish \u2192 neutral",
+      "Jan Hatzius: neutral \u2192 mixed",
+      "John Mauldin: neutral \u2192 bearish"
+    ],
+    "vs_market_buy": "Buy-side more bearish than market consensus given dominant bearish stance despite recent equity rally",
+    "vs_market_sell": "Sell-side predominantly bearish on near-term equity risk despite some bullish outliers on earnings",
+    "buy_vs_sell_divergence": "Both sides broadly bearish; limited explicit disagreements on direction",
+    "aligned": [
+      "Elevated rates regime persisting \u2014 both sides acknowledge higher-for-longer or further hike risk",
+      "AI investment theme central to macro outlook \u2014 valuation concerns shared across both sides",
+      "US fiscal trajectory and debt sustainability a shared concern"
+    ],
+    "buy_side_trades": [
+      "Long memory chips: Micron, Samsung, SK Hynix",
+      "Long AMZN, TSM, GOOGL, UBER, CoreWeave",
+      "Exited MSFT, PDD, KWEB",
+      "Avoid long-duration Treasuries \u2014 yield ceiling is not credible without fiscal reform",
+      "Cautious on richly-valued AI equities relative to transformation timeline"
+    ],
+    "sell_side_trades": [
+      "Short US tech (overvalued relative to consumer weakness)",
+      "Long inflation protection assets",
+      "Short long-duration bonds",
+      "Short euro area assets on growth downgrade",
+      "Avoid long-duration bonds given hawkish inflation surprise risk"
+    ],
+    "dominant_themes": [
+      "AI/Technology",
+      "Rates/Fed",
+      "Equities"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "bearish"
   }
 }
