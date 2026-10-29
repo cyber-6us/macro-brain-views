@@ -1,97 +1,8 @@
 {
-<<<<<<< HEAD
-  "generated_at": "2026-10-28",
-  "today": {
-    "date": "2026-10-28",
-    "entries_count": 2,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-=======
   "generated_at": "2026-10-29",
   "today": {
     "date": "2026-10-29",
     "entries_count": 12,
-    "buy_side_bullets": [
-      "Stagflation/fiscal crisis most likely US scenario; debt at $39.2T vs $7.1T spending; country 'almost unrecognizable' in 5 years. [Dalio]",
-      "Capital preservation mode - US equities most expensive since fund founding; gold and healthcare key longs; outperformed Q1 by 11 ppts. [Einhorn]",
-      "Macro investing alive again; dollar bearish; ~40% energy exposure; long copper/gold; short bonds; warns of US debt spiral. [Druckenmiller]",
-      "Fed more likely to hike than cut from 3.5-3.75%; avoid long-end Treasuries; private credit liquidity mismatch risk. [Gundlach]",
-      "Q2 rotation out of Micron into Amazon and TSMC; pivoting from pure tech to industrials/consumer cyclicals; $7.72B portfolio. [Tepper]"
-    ],
-    "sell_side_bullets": [
-      "'Ice Age' regime shift complete: fiscal dominance replacing secular stagnation; double-digit inflation returning; UK gilts at 1998 highs. [Albert Edwards]",
-      "Iran war pushes EU/Japan recession risk to 50%, US to 40%; oil could surge to $200/barrel on supply disruption. [Berezin]",
-      "Valuation mania comparable to 1929/2000/2021; slow grind not double-digit year; AI near-term earnings overestimated. [Bannister]",
-      "'No Hire, No Fire' labor market masking deterioration; bullish Canadian dollar reversal toward 77 cents. [Rosenberg shift]",
-      "'Roaring 2020s' intact; S&P 7,500 year-end; gold to $6,000; BRAIN Revolution productivity boom continues. [Yardeni]"
-    ],
-    "whats_new": [
-      "Rosenberg reverses long-held Canadian dollar bearish stance to bullish 77 cents on rate differential shift",
-      "Edwards declares 'Ice Age' regime now inflationary - fundamental thesis reversal from deflationary secular stagnation",
-      "Einhorn officially closes fund to new investors as of July 1, 2026 - highest-conviction bearish capital preservation signal",
-      "Gundlach explicitly calls hike more likely than cut - sharpest hawkish pivot in years for DoubleLine",
-      "Druckenmiller publicly declares 'macro is back' after decade-plus calling it dormant"
-    ],
-    "vs_market_buy": [
-      "Dalio sees 1970s stagflation as base case vs market's soft-landing consensus",
-      "Gundlach sees Fed hike as more likely than consensus easing path - 3.5-3.75% floor view",
-      "Einhorn: US equities most expensive ever vs complacent consensus valuations"
-    ],
-    "vs_market_sell": [
-      "Yardeni most bullish on Street - S&P 7,500 and 60% optimistic scenario vs widespread caution",
-      "Berezin: 40% US recession odds vs market consensus below 20%"
-    ],
-    "buy_vs_sell_divergence": [
-      "Yardeni (sell) Roaring 2020s/S&P 7,500 vs Dalio/Einhorn (buy) warning of fiscal crisis and most expensive equities ever",
-      "Edwards/Berezin (sell) 40-50% recession risk in EU/Japan vs Druckenmiller/Tepper (buy) positioned risk-on with energy/tech",
-      "Sonders (sell) says earnings strongest in years vs Einhorn (buy) calling US equities most expensive since inception"
-    ],
-    "aligned": [
-      "Long gold as universal hedge - both sides aligned [Druckenmiller, Einhorn, Yardeni, indirectly Berezin]",
-      "Avoid long-duration bonds - consensus across buy and sell [Gundlach, Sonders, Edwards]",
-      "AI valuation requires discipline - narrative vs reality gap must be weighed [Howard Marks, Bannister]",
-      "Geopolitical risk (Iran) is a primary market driver in 2026 [Dalio, Berezin, Rosenberg]"
-    ],
-    "buy_side_trades": [
-      "Long gold (Druckenmiller, Einhorn)",
-      "Long copper - AI/data center demand + supply tightness (Druckenmiller)",
-      "Short USD - near top of historic PPP range (Druckenmiller)",
-      "40% energy stocks - China stimulus + Middle East catalysts (Druckenmiller)",
-      "Long Amazon ~15% portfolio weight (Tepper)",
-      "Long TSMC - AI infrastructure play (Tepper)",
-      "Short long-duration US Treasuries (Gundlach)",
-      "Long Green Brick Partners 19% of Greenlight (Einhorn)"
-    ],
-    "sell_side_trades": [
-      "Overweight cash vs equities (Berezin)",
-      "Long oil/energy on Iran supply disruption (Berezin)",
-      "Underweight long-duration bonds; favor 1-5yr maturities (Sonders)",
-      "Short long-duration sovereign bonds including UK gilts and JGBs (Edwards)",
-      "Underweight Europe and Japan equities - 50% recession risk (Berezin)",
-      "Long BRAIN Revolution themes - biotech, robotics, AI, nanotech (Yardeni)"
-    ],
-    "dominant_themes": [
-      "Stagflation and fiscal dominance replacing secular stagnation as new macro regime",
-      "Iran geopolitical risk driving commodity/oil shock and elevated recession probabilities",
-      "AI valuation discipline: transformational potential must be weighed against stretched asset prices"
-    ],
->>>>>>> 861909a (Daily update 2026-10-29: 12 new entries)
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "bearish"
-  },
-  "week": {
-<<<<<<< HEAD
-    "period_start": "2026-10-21",
-    "period_end": "2026-10-28",
-    "entries_count": 32,
     "buy_side_bullets": [],
     "sell_side_bullets": [],
     "whats_new": [],
@@ -102,83 +13,30 @@
     "buy_side_trades": [],
     "sell_side_trades": [],
     "dominant_themes": [],
-=======
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
+  },
+  "week": {
     "period_start": "2026-10-22",
     "period_end": "2026-10-29",
     "entries_count": 39,
-    "buy_side_bullets": [
-      "Stagflation, fiscal crisis, 'great turbulence' - US debt trajectory unsustainable; capital wars risk. [Dalio]",
-      "Capital preservation and most expensive US equities since Greenlight founding; Q1 outperformed S&P by 11 ppts. [Einhorn]",
-      "Dollar bearish, energy 40% long, copper/gold positions, short bonds; macro investing revival. [Druckenmiller]",
-      "Fed hike more likely than cut; private credit liquidity mismatch looming; avoid long-end Treasuries. [Gundlach]",
-      "US economy very strong 3.5%+ GDP growth, 'very optimistic', no recession ahead. [Bessent]",
-      "No rate cuts possible under Warsh Fed leadership - hawkish Fed surprise risk. [Tudor Jones]"
-    ],
-    "sell_side_bullets": [
-      "'Ice Age' regime shift: double-digit inflation returning, fiscal dominance now dominant theme. [Albert Edwards]",
-      "Iran war pushes Europe/Japan recession risk to 50%, US to 40%; oil supply shock to $200/barrel. [Berezin]",
-      "Valuation mania comparable to 1929/2000/2021; AI earnings timeline overestimated; slow grind higher. [Bannister]",
-      "'No Hire, No Fire' US labor market; Iran-Israel risk as key driver; Canadian dollar bullish reversal. [Rosenberg]",
-      "AI disruption trade spreading from tech into broader services sector - broader participation. [Hartnett]",
-      "Sticky inflation complicating Warsh Fed tenure; GDP slowing, data increasingly divergent. [Mauldin]"
-    ],
-    "whats_new": [
-      "Rosenberg reverses Canadian dollar bearish stance to bullish 77 cents - major positioning reversal",
-      "Edwards: 'Ice Age' thesis fully flipped inflationary - fiscal dominance as new regime",
-      "Einhorn officially closes fund to new investors - formal peak-bearishness capital preservation",
-      "Gundlach: hike more likely than cut - sharpest hawkish pivot in DoubleLine history",
-      "Bessent reaffirms 3.5%+ GDP strong growth vs growing market concern - significant policy divergence"
-    ],
-    "vs_market_buy": [
-      "Dalio far more bearish on fiscal sustainability than consensus market pricing",
-      "Gundlach hawkish surprise: hike explicitly more likely than market-priced cuts",
-      "Tudor Jones: no cuts under Warsh vs market still expecting eventual easing"
-    ],
-    "vs_market_sell": [
-      "Yardeni more bullish than Street - Roaring 2020s and S&P 7,500 vs widespread caution",
-      "Berezin 40% US recession odds vs consensus sub-20% - persistent most-bearish outlier"
-    ],
-    "buy_vs_sell_divergence": [
-      "Bessent (buy) strong 3.5%+ GDP vs Berezin (sell) warning 40% recession odds",
-      "Yardeni (sell) S&P 7,500 Roaring 2020s vs Dalio/Einhorn (buy) warning fiscal crisis",
-      "Hartnett (sell) AI disruption spreading positively vs Edwards (sell) calling QE-era equity inflation ending"
-    ],
-    "aligned": [
-      "Long gold as hedge across buy and sell side [Druckenmiller, Einhorn, Yardeni, Bannister]",
-      "Avoid long-duration bonds - hawkish rate view across both sides [Gundlach, Sonders, Edwards, Mauldin]",
-      "Geopolitical risk (Iran) as primary market driver [Berezin, Rosenberg, Tudor Jones, Dalio]",
-      "AI valuation discipline required [Howard Marks, Bannister]"
-    ],
-    "buy_side_trades": [
-      "Long gold and copper (Druckenmiller)",
-      "Short USD (Druckenmiller)",
-      "40% energy allocation (Druckenmiller)",
-      "Long Amazon and TSMC (Tepper)",
-      "Short long-duration Treasuries (Gundlach)",
-      "Long gold and healthcare defensives; very low net equity (Einhorn)"
-    ],
-    "sell_side_trades": [
-      "Long Detroit/Main Street, short Mag7/Davos (Hartnett)",
-      "Overweight cash over equities (Berezin)",
-      "Long oil on Iran supply disruption risk (Berezin)",
-      "Underweight long-duration bonds; favor short/intermediate (Sonders, Edwards)",
-      "Long BRAIN Revolution themes (Yardeni)",
-      "Defensive value and gold (Bannister)"
-    ],
-    "dominant_themes": [
-      "Stagflation/fiscal dominance regime change replacing secular stagnation as primary macro narrative",
-      "Iran geopolitical risk: oil supply shock and elevated recession probabilities in EU/Japan",
-      "Rates higher for longer: Fed hike probability rising, multiple strategists agree on hawkish path"
-    ],
->>>>>>> 861909a (Daily update 2026-10-29: 12 new entries)
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "month": {
-<<<<<<< HEAD
-    "period_start": "2026-09-28",
-    "period_end": "2026-10-28",
-    "entries_count": 137,
+    "period_start": "2026-09-29",
+    "period_end": "2026-10-29",
+    "entries_count": 139,
     "buy_side_bullets": [],
     "sell_side_bullets": [],
     "whats_new": [],
@@ -189,76 +47,6 @@
     "buy_side_trades": [],
     "sell_side_trades": [],
     "dominant_themes": [],
-=======
-    "period_start": "2026-09-29",
-    "period_end": "2026-10-29",
-    "entries_count": 139,
-    "buy_side_bullets": [
-      "Stagflation and fiscal crisis dominant macro risk; US debt at $39.2T unsustainable; 'great turbulence' ahead. [Dalio]",
-      "Capital preservation mode; most expensive US equities since fund founding; gold and healthcare key. [Einhorn]",
-      "Dollar bearish, energy heavy, macro investing revival after decade dormancy; supply tightness in copper. [Druckenmiller]",
-      "Private credit liquidity crisis ahead; Fed hike more likely than cut; long-end Treasuries to avoid. [Gundlach]",
-      "US economy strong 3.5%+ GDP, record investment, no recession; AI investment accelerating. [Bessent]",
-      "Iran: no rate cuts under Warsh; geopolitical risk number one concern for markets. [Tudor Jones]"
-    ],
-    "sell_side_bullets": [
-      "'Ice Age' regime fully shifted to fiscal dominance; double-digit inflation central thesis; gilts at 1998 highs. [Albert Edwards]",
-      "Iran war: 40% US recession odds, 50% EU/Japan; oil to $200 supply shock risk; prefer cash. [Berezin]",
-      "Valuation mania comparable to 1929/2000/2021; 25% recession risk; AI earnings timeline overestimated. [Bannister]",
-      "'No Hire, No Fire' labor; Iran risk; Canadian dollar bullish reversal; defensive and gold preferred. [Rosenberg]",
-      "Roaring 2020s intact; S&P 7,500; gold $6,000; BRAIN Revolution productivity boom. [Yardeni]",
-      "AI disruption trade spreading into services; Main Street over Wall Street positioning. [Hartnett]"
-    ],
-    "whats_new": [
-      "Edwards: 'Ice Age' flips from 30-year deflation thesis to fiscal-dominance inflation - most significant thesis reversal in career",
-      "Rosenberg: bullish CAD reversal after years of persistent bearish USD/CAD view",
-      "Einhorn: fund formally closed to new investors - highest-conviction bearish signal in over a decade",
-      "Gundlach: hike probability explicitly above cut probability - strongest hawkish pivot in DoubleLine history",
-      "Druckenmiller: 'macro is back' declaration after 10-15 years calling it dead - regime change confirmed"
-    ],
-    "vs_market_buy": [
-      "Dalio sees 1970s stagflation as base case vs market's soft-landing consensus",
-      "Gundlach: hike explicitly more likely than consensus easing path",
-      "Einhorn: US equities most expensive since inception vs market's stretched-but-justifiable framing"
-    ],
-    "vs_market_sell": [
-      "Yardeni: Roaring 2020s and S&P 7,500 vs broad Street caution",
-      "Berezin: 40% recession odds vs consensus under 20% - widest bear-market divergence on Street"
-    ],
-    "buy_vs_sell_divergence": [
-      "Bessent (buy) strong 3.5%+ GDP vs Berezin (sell) 40% recession odds - widest macro spread on Street",
-      "Yardeni (sell) most bullish strategist vs Dalio/Einhorn (buy) warning of once-in-generation fiscal/equity risk",
-      "Tepper (buy) adding Amazon/TSMC in risk-on mode vs Bannister (sell) calling valuation mania comparable to 1929"
-    ],
-    "aligned": [
-      "Long gold as universal hedge - near unanimous across buy and sell sides [Druckenmiller, Einhorn, Yardeni, Bannister, Rosenberg]",
-      "Avoid long-duration bonds - rates higher for longer view entrenched on both sides",
-      "Iran geopolitical risk as primary market catalyst for 2026 [Berezin, Rosenberg, Tudor Jones, Dalio]",
-      "AI valuation requires discipline - transformation real but prices stretched [Howard Marks, Bannister]",
-      "Macro regime change underway - not cyclical, structural [Edwards, Napier, Dalio, Druckenmiller]"
-    ],
-    "buy_side_trades": [
-      "Long gold and copper (Druckenmiller)",
-      "Short USD (Druckenmiller)",
-      "Long energy ~40% of portfolio (Druckenmiller)",
-      "Long Amazon, TSMC (Tepper)",
-      "Short long-duration Treasuries (Gundlach)",
-      "Long gold, healthcare defensives; very low net equity (Einhorn)"
-    ],
-    "sell_side_trades": [
-      "Long Detroit/Main Street, short Mag7/Davos (Hartnett)",
-      "Overweight cash over equities (Berezin)",
-      "Long oil/energy on Iran risk (Berezin)",
-      "Underweight long-duration bonds; favor short/intermediate (Sonders, Edwards, Mauldin)",
-      "Long BRAIN Revolution: biotech, robotics, AI, nanotech (Yardeni)",
-      "Defensive value and gold (Bannister)"
-    ],
-    "dominant_themes": [
-      "Fiscal dominance and stagflation replacing secular stagnation - most significant regime change since 1970s",
-      "Iran geopolitical risk: oil supply shock, 40-50% recession probabilities, rate constraints on Fed",
-      "Rates higher for longer entrenched: from Fed hike risk to fiscal pressure to QE-era ending"
-    ],
->>>>>>> 861909a (Daily update 2026-10-29: 12 new entries)
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   }
