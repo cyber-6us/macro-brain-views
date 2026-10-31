@@ -3,165 +3,51 @@
   "today": {
     "date": "2026-10-31",
     "entries_count": 2,
-    "buy_side_bullets": [
-      "Scion Asset Management deregistered from SEC and fully wound down \u2014 fair value gap 'too wide' to maintain positions [Michael Burry]"
-    ],
-    "sell_side_bullets": [
-      "Tactically defensive through mid-November \u2014 equities, bond yields, and dollar expected to fall further before bottom [Michael Hartnett]"
-    ],
-    "whats_new": [
-      "Michael Burry (bearish) \u2014 first entry this window",
-      "Michael Hartnett (bearish) \u2014 first entry this window"
-    ],
-    "vs_market_buy": [
-      "Scion Asset Management deregistered from SEC and fully wound down \u2014 fair value gap 'too wide' to maintain positions [Michael Burry]"
-    ],
-    "vs_market_sell": [
-      "Tactically defensive through mid-November \u2014 equities, bond yields, and dollar expected to fall further before bottom [Michael Hartnett]"
-    ],
-    "buy_vs_sell_divergence": "Both sides broadly bearish \u2014 divergence on timing/magnitude",
-    "aligned": [
-      "High rates remain a dominant macro overhang \u2014 both sides flag this."
-    ],
-    "buy_side_trades": [
-      "Short Nasdaq-100 (final position before wind-down)",
-      "Short semiconductor ETFs \u2014 AI cloud economics seen as unsustainable at current multiples"
-    ],
-    "sell_side_trades": [
-      "Underweight equities through mid-November",
-      "Long 30-year Treasuries targeting yield near 5%",
-      "Short USD / DXY below 100 as a tactical target"
-    ],
-    "dominant_themes": [
-      "equities",
-      "AI/tech",
-      "rates/bonds"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   },
   "week": {
     "period_start": "2026-10-24",
     "period_end": "2026-10-31",
     "entries_count": 34,
-    "buy_side_bullets": [
-      "Scion Asset Management deregistered from SEC and fully wound down \u2014 fair value gap 'too wide' to maintain positions [Michael Burry]",
-      "High-quality stocks are 'stupidly cheap' \u2014 macro fears and geopolitical anxiety creating classic mispricing [Bill Ackman]",
-      "Macro investing has returned after decade-plus of dormancy - biggest opportunities in years [Stan Druckenmiller]",
-      "US faces 'great turbulence' - country will be almost unrecognizable in 5 years [Ray Dalio]",
-      "AI is far from a fad but investors must assess whether AI asset prices are reasonable - conviction without valuation discipline is dangerous [Howard Marks]"
-    ],
-    "sell_side_bullets": [
-      "Tactically defensive through mid-November \u2014 equities, bond yields, and dollar expected to fall further before bottom [Michael Hartnett]",
-      "Correction in the average stock is 'nearly over' \u2014 stocks bottoming after 2-3 weeks of chop [Mike Wilson]",
-      "'Higher for longer' rates extending well into 2027 \u2014 September Apollo podcast explicitly titled 'Higher for Longer and the Road to 2027' [Torsten Slok]",
-      "'Ice Age' regime shift complete: fiscal dominance and rising debt have replaced secular stagnation and falling yields [Albert Edwards]",
-      "'No Hire, No Fire' labor market - hiring rate at cycle lows, nonfarm payrolls masking household survey deterioration [David Rosenberg]"
-    ],
-    "whats_new": [
-      "Michael Burry (bearish) \u2014 first entry this window",
-      "Michael Hartnett shifted to bearish (was neutral)",
-      "Torsten Slok shifted to bearish (was mixed)",
-      "Bill Ackman shifted to bullish (was mixed)",
-      "Stan Druckenmiller (mixed) \u2014 first entry this window",
-      "Howard Marks (neutral) \u2014 first entry this window"
-    ],
-    "vs_market_buy": [
-      "Scion Asset Management deregistered from SEC and fully wound down \u2014 fair value gap 'too wide' to maintain positions [Michael Burry]",
-      "US faces 'great turbulence' - country will be almost unrecognizable in 5 years [Ray Dalio]",
-      "Fed more likely to hike than cut from 3.5-3.75% - bond market already prices near-zero cut probability [Jeffrey Gundlach]"
-    ],
-    "vs_market_sell": [
-      "Tactically defensive through mid-November \u2014 equities, bond yields, and dollar expected to fall further before bottom [Michael Hartnett]",
-      "'Higher for longer' rates extending well into 2027 \u2014 September Apollo podcast explicitly titled 'Higher for Longer and the Road to 2027' [Torsten Slok]",
-      "'Ice Age' regime shift complete: fiscal dominance and rising debt have replaced secular stagnation and falling yields [Albert Edwards]"
-    ],
-    "buy_vs_sell_divergence": "Both sides broadly bearish \u2014 divergence on timing/magnitude",
-    "aligned": [
-      "High rates remain a dominant macro overhang \u2014 both sides flag this."
-    ],
-    "buy_side_trades": [
-      "Short Nasdaq-100 (final position before wind-down)",
-      "Short semiconductor ETFs \u2014 AI cloud economics seen as unsustainable at current multiples",
-      "Long high-quality compounders \u2014 Ackman explicitly flagging 10x return opportunity",
-      "Long Fannie Mae / Freddie Mac \u2014 named as 'stupidly cheap' GSE opportunity",
-      "Accumulate large-cap quality during geopolitical volatility rather than retreat"
-    ],
-    "sell_side_trades": [
-      "Underweight equities through mid-November",
-      "Long 30-year Treasuries targeting yield near 5%",
-      "Short USD / DXY below 100 as a tactical target",
-      "Long quality/FCF-stable equities \u2014 new momentum leadership into year-end",
-      "Buy the current pullback for a move toward 8,500 by mid-2027"
-    ],
-    "dominant_themes": [
-      "AI/tech",
-      "equities",
-      "macro/geopolitical"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   },
   "month": {
     "period_start": "2026-10-01",
     "period_end": "2026-10-31",
     "entries_count": 141,
-    "buy_side_bullets": [
-      "Scion Asset Management deregistered from SEC and fully wound down \u2014 fair value gap 'too wide' to maintain positions [Michael Burry]",
-      "High-quality stocks are 'stupidly cheap' \u2014 macro fears and geopolitical anxiety creating classic mispricing [Bill Ackman]",
-      "Macro investing has returned after decade-plus of dormancy - biggest opportunities in years [Stan Druckenmiller]",
-      "US faces 'great turbulence' - country will be almost unrecognizable in 5 years [Ray Dalio]",
-      "AI is far from a fad but investors must assess whether AI asset prices are reasonable - conviction without valuation discipline is dangerous [Howard Marks]"
-    ],
-    "sell_side_bullets": [
-      "Tactically defensive through mid-November \u2014 equities, bond yields, and dollar expected to fall further before bottom [Michael Hartnett]",
-      "Correction in the average stock is 'nearly over' \u2014 stocks bottoming after 2-3 weeks of chop [Mike Wilson]",
-      "'Higher for longer' rates extending well into 2027 \u2014 September Apollo podcast explicitly titled 'Higher for Longer and the Road to 2027' [Torsten Slok]",
-      "'Ice Age' regime shift complete: fiscal dominance and rising debt have replaced secular stagnation and falling yields [Albert Edwards]",
-      "'No Hire, No Fire' labor market - hiring rate at cycle lows, nonfarm payrolls masking household survey deterioration [David Rosenberg]"
-    ],
-    "whats_new": [
-      "Torsten Slok shifted to bearish (was bullish, neutral, mixed)",
-      "Bill Ackman shifted to bullish (was mixed)",
-      "Jan Hatzius shifted to mixed (was bullish, neutral)",
-      "Crispin Odey (neutral) \u2014 first entry this window",
-      "George Soros (mixed) \u2014 first entry this window",
-      "Kyle Bass (mixed) \u2014 first entry this window"
-    ],
-    "vs_market_buy": [
-      "Scion Asset Management deregistered from SEC and fully wound down \u2014 fair value gap 'too wide' to maintain positions [Michael Burry]",
-      "US faces 'great turbulence' - country will be almost unrecognizable in 5 years [Ray Dalio]",
-      "Fed more likely to hike than cut from 3.5-3.75% - bond market already prices near-zero cut probability [Jeffrey Gundlach]"
-    ],
-    "vs_market_sell": [
-      "Tactically defensive through mid-November \u2014 equities, bond yields, and dollar expected to fall further before bottom [Michael Hartnett]",
-      "'Higher for longer' rates extending well into 2027 \u2014 September Apollo podcast explicitly titled 'Higher for Longer and the Road to 2027' [Torsten Slok]",
-      "'Ice Age' regime shift complete: fiscal dominance and rising debt have replaced secular stagnation and falling yields [Albert Edwards]"
-    ],
-    "buy_vs_sell_divergence": "Both sides broadly bearish \u2014 divergence on timing/magnitude",
-    "aligned": [
-      "High rates remain a dominant macro overhang \u2014 both sides flag this."
-    ],
-    "buy_side_trades": [
-      "Short Nasdaq-100 (final position before wind-down)",
-      "Short semiconductor ETFs \u2014 AI cloud economics seen as unsustainable at current multiples",
-      "Long high-quality compounders \u2014 Ackman explicitly flagging 10x return opportunity",
-      "Long Fannie Mae / Freddie Mac \u2014 named as 'stupidly cheap' GSE opportunity",
-      "Accumulate large-cap quality during geopolitical volatility rather than retreat"
-    ],
-    "sell_side_trades": [
-      "Underweight equities through mid-November",
-      "Long 30-year Treasuries targeting yield near 5%",
-      "Short USD / DXY below 100 as a tactical target",
-      "Long quality/FCF-stable equities \u2014 new momentum leadership into year-end",
-      "Buy the current pullback for a move toward 8,500 by mid-2027"
-    ],
-    "dominant_themes": [
-      "AI/tech",
-      "equities",
-      "macro/geopolitical"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   }
 }
