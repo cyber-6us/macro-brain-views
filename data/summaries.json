@@ -1,53 +1,201 @@
 {
-  "generated_at": "2026-10-31",
+  "generated_at": "2026-11-01",
   "today": {
-    "date": "2026-10-31",
-    "entries_count": 2,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "date": "2026-11-01",
+    "entries_count": 6,
+    "buy_side_bullets": [
+      "No Fed cuts likely under Warsh-led Fed \u2014 rates structurally higher for longer. [Tudor Jones]",
+      "Macro alpha harder to generate \u2014 Brevan lagged peers in 2025 and faced Q1 2026 drawdown in rates book. [A. Howard]",
+      "Bitcoin named strongest inflation hedge ahead of gold amid fiscal deterioration. [Tudor Jones]",
+      "$8bn small-cap volatility bet signals macro stress building in less-covered segments of market. [Tudor Jones]"
+    ],
+    "sell_side_bullets": [
+      "Financial repression is back \u2014 governments will hold real rates below inflation to erode debt burdens; gold beats bonds. [Napier]",
+      "Post-QE stagflationary regime underway \u2014 AI disruption driving credit unwind, fiscal policy now dominant macro force. [Visser]",
+      "'Bipolar Economy' 2026 \u2014 PCE at 3.5% y/y, oil/Iran shock raising recession risk, consumer caution spreading. [Mauldin]",
+      "US GDP at 2.6% above consensus, but labor fragility masked by headline figures \u2014 Fed has limited room to cut. [Hatzius]"
+    ],
+    "whats_new": [
+      "Tudor Jones shifts from 1999-bubble comparison to explicit rate-lock view under Warsh \u2014 no cuts priced in [Tudor Jones shift]",
+      "Napier escalates to 'Great Portfolio Reset' framing, explicitly naming gold as preferred asset over bonds [Napier evolving]",
+      "Visser introduces stagflation framing as base case, not tail risk [Visser shift]"
+    ],
+    "vs_market_buy": [
+      "Tudor Jones sees zero probability of rate cuts under Warsh, vs. market pricing modest easing",
+      "Tudor Jones bullish on small-cap volatility when consensus is range-bound VIX"
+    ],
+    "vs_market_sell": [
+      "Napier warns bonds are structurally unattractive vs. consensus 'safe haven' framing",
+      "Visser sees multiple compression broadening beyond Mag7, vs. market rotating into breadth narrative",
+      "Mauldin's recession risk elevated by oil shock, vs. consensus soft-landing view"
+    ],
+    "buy_vs_sell_divergence": [
+      "Buy-side (Tudor Jones): music still playing in equities; Sell-side (Visser, Mauldin): structural bear market underway",
+      "Buy-side: bitcoin as inflation hedge (positive); Sell-side (Napier): gold preferred, skeptical on crypto as hedge",
+      "Goldman (Hatzius) constructive on 2.6% US GDP growth; Mauldin sees bipolar economy with meaningful recession risk"
+    ],
+    "aligned": [
+      "Rates structurally higher \u2014 no easy pivot from Fed regardless of leadership",
+      "Fiscal deficits are the dominant macro risk; both sides highlight $40T+ debt trajectory",
+      "Oil/geopolitical risks (Iran) elevate downside scenarios"
+    ],
+    "buy_side_trades": [
+      "Long small-cap volatility \u2014 large macro position signaling stress ahead",
+      "Long bitcoin as primary inflation/deficit hedge vs gold",
+      "Short or underweight long-duration bonds given fiscal deterioration",
+      "Expanding digital assets allocation as part of firm-wide strategy shift",
+      "Adding macro PM capacity in rates and sovereign credit \u2014 implies continued macro rates positioning"
+    ],
+    "sell_side_trades": [
+      "Overweight non-US developed markets given Germany fiscal stimulus tailwind",
+      "Cautious on US duration \u2014 limited Fed cut path constrains bond rally",
+      "Defensive positioning \u2014 avoid consumer cyclicals vulnerable to spending slowdown",
+      "Caution on energy exposure given dual risk of oil spike and demand destruction",
+      "Short or underweight US equities \u2014 multiple compression spreading"
+    ],
+    "dominant_themes": [
+      "Financial repression and debt burden endgame",
+      "Fed policy uncertainty under new leadership",
+      "AI disruption driving regime shift in markets"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "bearish"
   },
   "week": {
-    "period_start": "2026-10-24",
-    "period_end": "2026-10-31",
-    "entries_count": 34,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "entries_count": 38,
+    "buy_side_bullets": [
+      "Equities remain investable with selective mega-cap and small-cap opportunities; no crash imminent. [Ackman, Tepper]",
+      "US GDP forecasted to exceed 3.5% in 2026; recession risk dismissed with strong dollar and inflation cooling. [Bessent]",
+      "Long copper and gold; short bonds \u2014 macro is back with 3-4 years of disruption ahead. [Druckenmiller, Tudor Jones]",
+      "Betting Fed cuts substantially more than market expects under Warsh; trimmed net equity to 29% on valuation concern. [Einhorn]",
+      "Private credit evolution is the major structural opportunity; public market at challenging valuations. [Marks]"
+    ],
+    "sell_side_bullets": [
+      "Long Main St, short Wall St \u2014 US CPI tracking toward 5%+ by midterms; flows near historical highs signal sentiment risk. [Hartnett]",
+      "US recession probability elevated \u2014 Rosenberg challenges inflation narrative, Berezin puts US odds at 40% post Iran war. [Rosenberg, Berezin]",
+      "Structural inflation regime emerging \u2014 Ice Age thesis ending per Edwards; financial repression is the debt endgame per Napier. [Edwards, Napier]",
+      "Earnings-driven bull market intact \u2014 S&P target 7,800-8,250 with rotation from Mag7 to broader market. [Wilson, Yardeni]"
+    ],
+    "whats_new": [
+      "Tudor Jones shifts to explicit rate-lock view under Warsh Fed [Tudor Jones shift]",
+      "Napier escalates to 'Great Portfolio Reset' framing \u2014 explicit gold > bonds stance [Napier evolving]",
+      "Visser introduces stagflation base case from AI disruption and credit unwind [Visser shift]",
+      "Einhorn closed Greenlight to new investors indefinitely, trimmed equity exposure to 29% [Einhorn shift]",
+      "Hartnett's Bull & Bear Indicator hit near 20-year high of 9.6 \u2014 contrarian sell signal [Hartnett evolving]"
+    ],
+    "vs_market_buy": [
+      "Druckenmiller/Tudor Jones: macro is back after 15 years of being 'dead' \u2014 contrarian to passive-investing consensus",
+      "Einhorn: Fed will cut substantially more than market prices under Warsh \u2014 counter to no-cuts consensus",
+      "Bessent: US GDP will exceed 3.5% \u2014 well above street consensus of ~2%"
+    ],
+    "vs_market_sell": [
+      "Hartnett: CPI heading to 5%+ by midterms vs. market's benign inflation path",
+      "Napier: bonds structurally unattractive at current real yields \u2014 vs. consensus 'safe haven' allocation",
+      "Rosenberg/Berezin: recession risk substantially underpriced by markets",
+      "Gundlach: Fed hike more likely than cut \u2014 counter to market pricing of neutral or easing path"
+    ],
+    "buy_vs_sell_divergence": [
+      "Buy-side (Bessent, Ackman): no recession, strong economy; Sell-side (Rosenberg, Berezin): recession risk elevated",
+      "Buy-side (Einhorn): Fed cuts aggressively; Sell-side (Gundlach, Tudor Jones): Fed hikes or stays higher",
+      "Buy-side (Wilson, Yardeni on sell framing): S&P 7,800-8,250 achievable; Sell-side (Bannister, Hartnett): valuation stretched near sentiment extremes"
+    ],
+    "aligned": [
+      "Fiscal deficits are the primary macro tail risk \u2014 both sides highlight $40T+ trajectory",
+      "Dollar under pressure \u2014 consensus view across buy and sell side",
+      "AI as structural disruption affecting sector allocation and capex cycle",
+      "Oil/Iran shock as key near-term macro variable"
+    ],
+    "buy_side_trades": [
+      "Short Nasdaq-100 (final position before wind-down)",
+      "Short semiconductor ETFs \u2014 AI cloud economics seen as unsustainable at current multiples",
+      "Long high-quality compounders \u2014 Ackman explicitly flagging 10x return opportunity",
+      "Long Fannie Mae / Freddie Mac \u2014 named as 'stupidly cheap' GSE opportunity",
+      "Accumulate large-cap quality during geopolitical volatility rather than retreat"
+    ],
+    "sell_side_trades": [
+      "Underweight equities through mid-November",
+      "Long 30-year Treasuries targeting yield near 5%",
+      "Short USD / DXY below 100 as a tactical target",
+      "Long quality/FCF-stable equities \u2014 new momentum leadership into year-end",
+      "Buy the current pullback for a move toward 8,500 by mid-2027"
+    ],
+    "dominant_themes": [
+      "Fiscal dominance and US debt trajectory as primary macro risk",
+      "AI-driven regime shift in sector leadership and capex allocation",
+      "Iran conflict elevating oil/inflation risk and recession probability"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "mixed",
+    "period_start": "2026-10-25",
+    "period_end": "2026-11-01"
   },
   "month": {
-    "period_start": "2026-10-01",
-    "period_end": "2026-10-31",
-    "entries_count": 141,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "entries_count": 138,
+    "buy_side_bullets": [
+      "Equities remain investable with selective mega-cap and small-cap opportunities; no crash imminent. [Ackman, Tepper]",
+      "US GDP forecasted to exceed 3.5% in 2026; recession risk dismissed with strong dollar and inflation cooling. [Bessent]",
+      "Long copper and gold; short bonds \u2014 macro is back with 3-4 years of disruption ahead. [Druckenmiller, Tudor Jones]",
+      "Betting Fed cuts substantially more than market expects under Warsh; trimmed net equity to 29% on valuation concern. [Einhorn]",
+      "Private credit evolution is the major structural opportunity; public market at challenging valuations. [Marks]"
+    ],
+    "sell_side_bullets": [
+      "Long Main St, short Wall St \u2014 US CPI tracking toward 5%+ by midterms; flows near historical highs signal sentiment risk. [Hartnett]",
+      "US recession probability elevated \u2014 Rosenberg challenges inflation narrative, Berezin puts US odds at 40% post Iran war. [Rosenberg, Berezin]",
+      "Structural inflation regime emerging \u2014 Ice Age thesis ending per Edwards; financial repression is the debt endgame per Napier. [Edwards, Napier]",
+      "Fed rate hike more likely than cut; credit spreads widening despite calm VIX; 20% cash, heavy Treasuries. [Gundlach]",
+      "Earnings-driven bull market intact \u2014 S&P target 7,800-8,250 with rotation from Mag7 to broader market. [Wilson, Yardeni]"
+    ],
+    "whats_new": [
+      "Tudor Jones shifts to explicit rate-lock view under Warsh Fed [Tudor Jones shift]",
+      "Napier escalates to 'Great Portfolio Reset' framing \u2014 explicit gold > bonds stance [Napier evolving]",
+      "Visser introduces stagflation base case from AI disruption and credit unwind [Visser shift]",
+      "Einhorn closed Greenlight to new investors indefinitely, trimmed equity exposure to 29% [Einhorn shift]",
+      "Hartnett's Bull & Bear Indicator hit near 20-year high of 9.6 \u2014 contrarian sell signal [Hartnett evolving]"
+    ],
+    "vs_market_buy": [
+      "Druckenmiller/Tudor Jones: macro is back after 15 years of being 'dead' \u2014 contrarian to passive-investing consensus",
+      "Einhorn: Fed will cut substantially more than market prices under Warsh \u2014 counter to no-cuts consensus",
+      "Bessent: US GDP will exceed 3.5% \u2014 well above street consensus of ~2%"
+    ],
+    "vs_market_sell": [
+      "Hartnett: CPI heading to 5%+ by midterms vs. market's benign inflation path",
+      "Napier: bonds structurally unattractive at current real yields \u2014 vs. consensus 'safe haven' allocation",
+      "Rosenberg/Berezin: recession risk substantially underpriced by markets",
+      "Gundlach: Fed hike more likely than cut \u2014 counter to market pricing of neutral or easing path"
+    ],
+    "buy_vs_sell_divergence": [
+      "Buy-side (Bessent, Ackman): no recession, strong economy; Sell-side (Rosenberg, Berezin): recession risk elevated",
+      "Buy-side (Einhorn): Fed cuts aggressively; Sell-side (Gundlach, Tudor Jones): Fed hikes or stays higher",
+      "Buy-side (Wilson, Yardeni on sell framing): S&P 7,800-8,250 achievable; Sell-side (Bannister, Hartnett): valuation stretched near sentiment extremes"
+    ],
+    "aligned": [
+      "Fiscal deficits are the primary macro tail risk \u2014 both sides highlight $40T+ trajectory",
+      "Dollar under pressure \u2014 consensus view across buy and sell side",
+      "AI as structural disruption affecting sector allocation and capex cycle",
+      "Oil/Iran shock as key near-term macro variable"
+    ],
+    "buy_side_trades": [
+      "Short Nasdaq-100 (final position before wind-down)",
+      "Short semiconductor ETFs \u2014 AI cloud economics seen as unsustainable at current multiples",
+      "Long high-quality compounders \u2014 Ackman explicitly flagging 10x return opportunity",
+      "Long Fannie Mae / Freddie Mac \u2014 named as 'stupidly cheap' GSE opportunity",
+      "Accumulate large-cap quality during geopolitical volatility rather than retreat"
+    ],
+    "sell_side_trades": [
+      "Underweight equities through mid-November",
+      "Long 30-year Treasuries targeting yield near 5%",
+      "Short USD / DXY below 100 as a tactical target",
+      "Long quality/FCF-stable equities \u2014 new momentum leadership into year-end",
+      "Buy the current pullback for a move toward 8,500 by mid-2027"
+    ],
+    "dominant_themes": [
+      "Fiscal dominance and US debt trajectory as primary macro risk",
+      "AI-driven regime shift in sector leadership and capex allocation",
+      "Iran conflict elevating oil/inflation risk and recession probability"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "mixed",
+    "period_start": "2026-10-02",
+    "period_end": "2026-11-01"
   }
 }
