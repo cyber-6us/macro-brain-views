@@ -3,220 +3,51 @@
   "today": {
     "date": "2026-11-02",
     "entries_count": 12,
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish",
-    "buy_side_bullets": [
-      "US debt heading for 'heart attack' - fiscal trajectory unsustainable, 2026-2028 the most dangerous period. [Dalio]",
-      "Dollar bearish structural short - fiscal deficits undermining USD; long copper, gold, AI equities as the positioning. [Druckenmiller]",
-      "No recession risk - US GDP 3.5%+ in 2026, strong dollar, 'Main Street about to prosper.' [Bessent]",
-      "Equity exposure cut to ~29% - US valuations too stretched; betting Fed cuts rates more than market prices under Warsh. [Einhorn]"
-    ],
-    "sell_side_bullets": [
-      "Fed more likely to hike than cut - 2-year yield above funds rate, $40T debt by year-end, 20% cash + commodities as defensive hedge. [Gundlach]",
-      "S&P 500 target 8,250, Roaring 2020s intact - AI productivity drives 3% GDP and natural disinflation, 10,000 by 2029. [Yardeni]",
-      "'Ice Age' thesis dead - fiscal dominance replaces secular stagnation, double-digit inflation returning, bond bull market over. [Edwards]",
-      "Markets propped solely by S&P 500 concentration - labor market secretly collapsing, forced Fed cuts ahead, 2026 is year of resolution. [Rosenberg]",
-      "US recession at 40% probability, Iran conflict now dominant macro risk - crude could hit $200; Europe/Japan at 50%. [Berezin]",
-      "2026 'anything but dull' - global GDP 3.0%, inflation 3.8%, Fed on hold all year, dollar bearish, oil tail risk $150. [Reid]",
-      "Earnings backdrop strongest in years despite concentration - K-shaped economy, AI cascade underway, breadth improving. [Sonders]",
-      "Sugar high fading - S&P at 6,350 initially (one of Wall Street's most cautious), 25% recession risk, defensive value over tech. [Bannister]"
-    ],
-    "whats_new": [
-      "Edwards formally declared his 30-year 'Ice Age' thesis obsolete - fiscal dominance is the new regime [shift]",
-      "Einhorn disclosed macro book down 6% YTD on wrong rate-cut timing and closed fund to new investors [shift]",
-      "Gundlach explicitly called for hike probability over cut - a reversal from his prior easing bias [shift]",
-      "Berezin moderated US recession call from 75% to 40% as Iran conflict replaced tariffs as primary risk [Berezin shift]"
-    ],
-    "vs_market_buy": [
-      "Dalio sees 'worse than recession' from Trump policies while market is pricing in soft landing",
-      "Druckenmiller is short bonds and long copper/gold while consensus is still long duration",
-      "Einhorn bets Fed cuts more than priced under Warsh while market prices few or no cuts"
-    ],
-    "vs_market_sell": [
-      "Gundlach sees hike probability while market is pricing cuts - a direct contradiction of consensus",
-      "Rosenberg sees labor market collapse that market data does not yet show - leading indicator divergence",
-      "Edwards sees double-digit inflation while market prices 2-3% inflation trajectory - extreme divergence",
-      "Bannister targets 6,350 S&P while consensus target is 7,000-8,500 - most cautious on Wall Street"
-    ],
-    "buy_vs_sell_divergence": [
-      "Bessent (buy) says no recession and 3.5% GDP; Rosenberg (sell) says labor market is collapsing and recession coming",
-      "Einhorn (buy) expects Fed to cut more than market prices; Gundlach (sell) expects the Fed to hike",
-      "Dalio (buy) fears AI bubble; Yardeni (sell) says AI drives Roaring 2020s productivity and S&P to 10,000"
-    ],
-    "aligned": [
-      "Broad consensus that fiscal deficits are unsustainable and create structural risks - [Dalio, Druckenmiller, Gundlach, Edwards, Rosenberg]",
-      "Dollar bearish view - both buy and sell side skeptical of USD strength persisting [Druckenmiller, Reid]",
-      "Gold and commodities as inflation/fiscal hedges - cited across buy and sell side [Druckenmiller, Dalio, Gundlach, Bannister]",
-      "AI is transforming the macro backdrop - either via productivity (Yardeni) or disruption/bubble risk (Dalio)"
-    ],
-    "buy_side_trades": [
-      "Short USD / long copper and gold [Druckenmiller]",
-      "Long AI-linked equities - 'eclectic basket' [Druckenmiller]",
-      "Short long-duration Treasuries [Druckenmiller]",
-      "Long gold vs. debt/monetary breakdown [Dalio]",
-      "Long USD and US equities as Treasury policy [Bessent]",
-      "Reduce net equity to ~29%; long rates on Warsh-driven cuts [Einhorn]"
-    ],
-    "sell_side_trades": [
-      "20% cash + commodities as inflation hedge; more Treasuries vs. private credit [Gundlach]",
-      "Long US equities broadly, S&P 8,250 then 10,000 [Yardeni]",
-      "Short long-duration bonds, defensive equities, inflation hedges [Edwards]",
-      "Long US Treasuries anticipating forced Fed cuts; short US equities [Rosenberg]",
-      "Underweight Europe/Japan equities; long energy; long US Treasuries [Berezin]",
-      "Dollar bearish; cautious on US duration [Reid]",
-      "Defensive/value over large-cap tech; long gold [Bannister]"
-    ],
-    "dominant_themes": [
-      "Fiscal dominance and debt unsustainability - the primary macro constraint across buy and sell side",
-      "Fed policy uncertainty - hike vs. cut debate is the central market dispute heading into year-end",
-      "AI as both productivity driver (Yardeni/Sonders) and bubble/disruption risk (Dalio/Edwards) - bifurcated views"
-    ]
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   },
   "week": {
     "period_start": "2026-10-26",
     "period_end": "2026-11-02",
     "entries_count": 47,
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish",
-    "buy_side_bullets": [
-      "Debt crisis and monetary breakdown are imminent - dollar bearish, long gold/copper, short bonds as the core hedge. [Dalio, Druckenmiller]",
-      "No chance of Fed rate cuts under Warsh - bitcoin is the strongest inflation hedge, $8bn bet on small-cap volatility. [Tudor Jones]",
-      "High-quality large-caps 'stupidly cheap' - macro fears and geopolitical anxiety creating classic mispricing for patient longs. [Ackman]",
-      "Scion wound down entirely - returned capital citing fair value gap 'too wide' to maintain positions. [Burry]",
-      "Bessent projects 3.5%+ GDP, rejects recession, credits record equity highs as policy success. [Bessent]"
-    ],
-    "sell_side_bullets": [
-      "Fed either on hold all year or hiking - rates higher for longer is the dominant sell-side thesis, not cuts. [Gundlach, Slok, Tudor Jones, Reid]",
-      "BofA tactically defensive through mid-November - equities, yields, and dollar all expected to fall before a sustainable bottom. [Hartnett]",
-      "'Bipolar Economy' in 2026 - stagflationary bear driven by AI disruption and credit unwind; post-QE regime, not recession. [Mauldin, Visser]",
-      "Financial repression is back - 'Great Portfolio Reset' underway, bonds structurally unattractive, gold over bonds. [Napier]",
-      "S&P 500 correction nearly complete - target 8,500 by mid-2027 as earnings improve and macro stabilizes. [Wilson]",
-      "Goldman constructive above consensus - US GDP 2.6%, global 2.8%; labor fragility is the only downside risk. [Hatzius]"
-    ],
-    "whats_new": [
-      "Burry closed Scion entirely - most dramatic exit of any named investor in this period [shift]",
-      "Edwards declared Ice Age thesis obsolete - 30-year framework abandoned for fiscal dominance [Edwards shift]",
-      "Gundlach flipped from easing bias to explicit hike probability [Gundlach shift]",
-      "Berezin moderated recession call from 75% to 40% - Iran conflict replaced tariffs as primary risk [Berezin shift]",
-      "Wilson upgraded near-term view - said correction nearly complete and targets 8,500 by mid-2027 [Wilson shift]"
-    ],
-    "vs_market_buy": [
-      "Tudor Jones says zero chance of Fed cuts under Warsh while market still prices modest easing",
-      "Dalio and Druckenmiller both bearish on US assets while market indices at elevated levels",
-      "Ackman calls quality large-caps 'stupidly cheap' - contrarian against prevailing bearish tone from peers"
-    ],
-    "vs_market_sell": [
-      "Gundlach, Slok explicitly call for Fed hikes or hold - directly against market pricing of easing",
-      "Hartnett maintaining defensive posture through mid-November when most are calling a bottom",
-      "Napier's financial repression thesis implies bonds remain structurally unattractive despite falling yields",
-      "Rosenberg says labor market collapse is imminent while headline labor data still looks solid"
-    ],
-    "buy_vs_sell_divergence": [
-      "Ackman says quality stocks are 'stupidly cheap'; Hartnett/Bannister say the market needs to fall further first",
-      "Bessent (buy) says no recession, 3.5% growth; Rosenberg/Mauldin (sell) say bipolar imbalances force a painful resolution",
-      "Tudor Jones says no Fed cuts; Goldman/Hatzius (sell) projects modest Fed room with constructive growth outlook",
-      "Wilson (sell) turned bullish on equities near-term; Hartnett (sell) maintains defensive posture - sell-side itself divided"
-    ],
-    "aligned": [
-      "Higher for longer rates is now the consensus view across buy and sell side - not cuts [Gundlach, Slok, Tudor Jones, Reid]",
-      "Iran conflict and oil are the dominant near-term macro risk - everyone is watching crude [Berezin, Mauldin, Reid]",
-      "Fiscal deficit and debt sustainability are structural concerns shared broadly [Dalio, Druckenmiller, Gundlach, Napier, Rosenberg]",
-      "Gold is universally favored as a hedge - appeared in both buy and sell side trade ideas [Dalio, Druckenmiller, Bannister, Napier]",
-      "K-shaped economy and bifurcated consumer are persistent themes across all windows [Sonders, Mauldin, Rosenberg]"
-    ],
-    "buy_side_trades": [
-      "Short USD, long copper, long gold, short long-duration Treasuries [Druckenmiller]",
-      "Long bitcoin as primary inflation hedge ahead of gold, long small-cap vol [Tudor Jones]",
-      "Long high-quality large-cap equities on valuation mispricing [Ackman]",
-      "Long gold vs. monetary breakdown [Dalio]",
-      "Reduce equity exposure to 29%, long rates on Warsh-driven cuts [Einhorn]"
-    ],
-    "sell_side_trades": [
-      "20% cash + commodities, more Treasuries, avoid private credit [Gundlach]",
-      "Defensive through mid-November; sell equities, yields, and dollar [Hartnett]",
-      "Long gold over bonds as financial repression hedge [Napier]",
-      "Underweight Europe/Japan, long energy, long US Treasuries [Berezin]",
-      "Long US equities broadly, S&P 8,250 then 10,000 [Yardeni]",
-      "S&P 8,500 by mid-2027 as correction completes [Wilson]"
-    ],
-    "dominant_themes": [
-      "Higher for longer rates replacing the easing narrative - the dominant theme shift of the week",
-      "Iran conflict and oil as the new primary macro risk replacing tariffs",
-      "Fiscal dominance and debt unsustainability as the structural macro backdrop for 2026-2028"
-    ]
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   },
   "month": {
     "period_start": "2026-10-03",
     "period_end": "2026-11-02",
     "entries_count": 148,
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish",
-    "buy_side_bullets": [
-      "Debt, dollar, and fiscal unsustainability are the core macro framework - structurally short USD, long gold/copper. [Dalio, Druckenmiller]",
-      "No Fed cuts under Warsh - bitcoin strongest inflation hedge, $8bn small-cap vol bet as the primary macro trade. [Tudor Jones]",
-      "Equities selectively cheap - quality large-caps mispriced by macro panic, contrarian buy opportunity. [Ackman, Tepper]",
-      "Risk management over returns - equity exposure reduced to 29%, capital preservation prioritized. [Einhorn, Howard]",
-      "Government projecting 3.5%+ GDP, no recession - record market highs and cooling inflation confirm policy success. [Bessent]"
-    ],
-    "sell_side_bullets": [
-      "Higher for longer extending into 2027 - Iran conflict, sticky services inflation above 3%, and fiscal deficits keep rates elevated. [Gundlach, Slok, Napier, Edwards]",
-      "Recession risk elevated but not dominant: 40% in US, 50% Europe/Japan - oil is now the primary trigger. [Berezin, Mauldin]",
-      "S&P 500 range war: most bullish 8,250-10,000 (Yardeni), most cautious 6,350 (Bannister) - 50%+ spread in year-end targets",
-      "Financial repression era has returned - bonds structurally unattractive for the next decade, gold is the only real hedge. [Napier, Edwards, Russell]",
-      "Post-QE regime transition underway - stagflationary bear market driven by AI disruption and credit unwind. [Visser, Mauldin]",
-      "K-shaped economy persists with extreme bifurcation - consumer confidence, breadth, and labor data all diverging. [Sonders, Rosenberg, Hartnett]"
-    ],
-    "whats_new": [
-      "Burry closed Scion entirely - most dramatic capital return in the group this cycle [Burry shift]",
-      "Edwards declared 30-year Ice Age thesis obsolete - pivoting to fiscal dominance/inflation regime [Edwards shift]",
-      "Gundlach reversed from easing bias to explicit hike probability [Gundlach shift]",
-      "Wilson upgraded equities near-term after months of caution - correction nearly complete [Wilson shift]",
-      "Berezin moderated recession from 75% to 40% as Iran replaced tariffs as primary risk [Berezin shift]",
-      "Dalio framed 2026-2028 as 'particularly risky period' - new political risk framework [Dalio evolving]"
-    ],
-    "vs_market_buy": [
-      "Tudor Jones: zero chance of Fed cuts under Warsh while market still prices modest easing",
-      "Dalio and Druckenmiller: bearish on US assets and dollar while S&P at elevated levels",
-      "Einhorn: betting Fed cuts substantially more than priced - opposite of Gundlach's hike call"
-    ],
-    "vs_market_sell": [
-      "Gundlach explicitly calls for Fed hikes or hold - directly against market pricing of easing",
-      "Edwards calls for double-digit inflation return while market prices 2-3%",
-      "Napier: financial repression makes bonds structurally unattractive for a decade despite yield levels",
-      "Rosenberg: labor market secretly collapsing while consensus still sees resilience"
-    ],
-    "buy_vs_sell_divergence": [
-      "Bessent (buy) calls 3.5% GDP, no recession; Rosenberg (sell) calls 'Year of Resolution' for bubbles with forced Fed cuts",
-      "Ackman (buy) says stocks are 'stupidly cheap'; Hartnett/Bannister (sell) say further downside before a sustainable bottom",
-      "Einhorn (buy) bets on Fed cutting more than market; Gundlach/Slok (sell) call for rates higher for longer",
-      "Dalio (buy) fears AI bubble popping; Yardeni (sell) says AI drives Roaring 2020s to S&P 10,000 by 2029"
-    ],
-    "aligned": [
-      "Higher for longer rates is now the dominant consensus - not cuts - across buy and sell side [Tudor Jones, Gundlach, Slok, Reid]",
-      "Iran conflict and oil are the primary near-term macro risk replacing tariff concerns [Berezin, Mauldin, Reid]",
-      "Fiscal deficit unsustainability is a structural concern across both sides [Dalio, Druckenmiller, Gundlach, Napier, Rosenberg, Edwards]",
-      "Gold universally favored as the hedge of choice across buy and sell side [Dalio, Druckenmiller, Napier, Bannister, Tudor Jones]",
-      "K-shaped bifurcation in the economy and markets is broadly acknowledged [Sonders, Mauldin, Rosenberg, Hartnett]"
-    ],
-    "buy_side_trades": [
-      "Short USD, long copper, long gold, short long-duration Treasuries [Druckenmiller]",
-      "Long bitcoin as primary inflation hedge, long small-cap vol [Tudor Jones]",
-      "Long high-quality large-cap equities on valuation mispricing [Ackman]",
-      "Long gold vs. monetary breakdown, reduce US equity exposure [Dalio]",
-      "Reduce equity exposure 29%, long rates on Warsh cuts [Einhorn]"
-    ],
-    "sell_side_trades": [
-      "20% cash + commodities, more Treasuries, avoid private credit [Gundlach]",
-      "Long gold over bonds as financial repression hedge [Napier]",
-      "Underweight Europe/Japan equities, long energy, long US Treasuries [Berezin]",
-      "Long US equities S&P 8,250 then 10,000 by 2029 [Yardeni]",
-      "Defensive/value over large-cap tech, long gold [Bannister]",
-      "S&P 8,500 by mid-2027 after near-complete correction [Wilson]"
-    ],
-    "dominant_themes": [
-      "Higher for longer rates - the consensus macro thesis replacing the easing narrative across the board",
-      "Fiscal dominance and debt unsustainability as the primary structural risk for 2026-2028",
-      "AI as simultaneously the productivity driver of the Roaring 2020s (Yardeni) and the bubble/disruption risk (Dalio, Edwards, Visser)"
-    ]
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   }
 }
