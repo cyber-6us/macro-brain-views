@@ -20,137 +20,34 @@
     "period_start": "2026-10-27",
     "period_end": "2026-11-03",
     "entries_count": 41,
-    "buy_side_bullets": [
-      "Fiscal crisis convergence — short bonds, long gold/copper/AI as USD structurally weakens under $38T+ debt load. [Druckenmiller, Dalio]",
-      "Bitcoin elevated above gold as primary inflation hedge given deficit trajectory; $8bn small-cap volatility bet signals macro stress ahead. [Tudor Jones]",
-      "High-quality compounders 'stupidly cheap' — macro anxiety creating classic value opportunity at 10x potential. Fannie/Freddie named explicitly. [Ackman]",
-      "AI cloud economics under scrutiny — final Scion short via Nasdaq/semiconductor puts before wind-down confirms AI bubble conviction. [Burry]",
-      "Fed under Warsh expected to hold — no cuts; Einhorn outlier betting on more cuts than priced, with macro book -6% YTD on wrong timing. [Tudor Jones, Einhorn evolving]"
-    ],
-    "sell_side_bullets": [
-      "Inflation regime change underway — Ice Age thesis officially morphing into fiscal dominance; double-digit inflation possible; secular bond bull over. [Edwards shift]",
-      "'Higher for longer' extending into 2027 — Iran-driven energy prices keeping CPI above 3%; markets pricing rate-cut expectations are mispriced. [Slok, Gundlach]",
-      "S&P 500 targets diverge sharply: Yardeni at 8,250 and Wilson at 8,500 by mid-2027 on earnings resilience vs. Bannister most cautious at 6,350. [Yardeni, Wilson, Bannister]",
-      "Iran conflict now dominant macro risk — oil shock could send crude to $200; Europe and Japan recession probability at 40-50%. [Berezin]",
-      "Post-QE fiscal dominance regime: Great Portfolio Reset underway, bonds structurally unattractive, gold preferred over duration. [Napier, Visser shift]"
-    ],
-    "whats_new": [
-      "Edwards: Long-running 'Ice Age' secular stagnation thesis officially retired — replaced by fiscal dominance and double-digit inflation regime. Historic pivot.",
-      "Burry: Scion Asset Management fully deregistered; final trade was Nasdaq-100 and semiconductor puts. AI cloud economics cited as unsustainable.",
-      "Tudor Jones: Bitcoin explicitly elevated above gold as primary inflation hedge — marks a specific new hierarchy in his inflation-hedging framework.",
-      "Slok: 'Higher for longer' thesis extended explicitly to 2027 — prior language did not include that specific multi-year horizon.",
-      "Hartnett: Tactical sell-off target set with specific levels — 30yr yield to 5%, DXY below 100, real yields near 3% before sustainable bottom."
-    ],
-    "vs_market_buy": [
-      "Tudor Jones: No Fed rate cuts under Warsh — markets still pricing eventual easing; this view implies meaningfully higher rates than consensus.",
-      "Druckenmiller: Structural USD bearishness — market has not priced in the fiscal deterioration path he sees as inevitable.",
-      "Dalio: US equities at 1929-level valuation risk — market pricing continued expansion; his view implies near-peak conditions."
-    ],
-    "vs_market_sell": [
-      "Gundlach: Fed more likely to hike than cut — significant departure from market consensus for eventual easing cycle.",
-      "Slok: Higher for longer explicitly into 2027 — market pricing earlier relief; this view implies persistent rate pressure.",
-      "Bannister: S&P 500 at 6,350 target — one of most cautious calls on the street vs. market levels near 7,500+."
-    ],
-    "buy_vs_sell_divergence": [
-      "Dollar: Druckenmiller structurally short USD on fiscal deterioration vs. Bessent (Treasury) committed to strong dollar through deficit reduction and pro-growth policy.",
-      "S&P trajectory: Ackman sees quality at historic discount with 10x potential vs. Bannister projecting 25% recession risk and 6,350 year-end.",
-      "Bond direction: Einhorn long rates expecting more Fed cuts than priced vs. Gundlach/Slok saying no cuts — potential Fed hike instead."
-    ],
-    "aligned": [
-      "Gold as primary macro hedge — mentioned independently by Druckenmiller, Dalio, Bannister, Napier, and Gundlach across buy and sell sides.",
-      "US fiscal trajectory is unsustainable — both sides converge on debt-to-GDP and deficit dynamics as the central long-term risk.",
-      "AI transformational but valuation discipline required — Marks (buy) and multiple sell-side investors cautious on AI pricing vs. underlying returns."
-    ],
-    "buy_side_trades": [
-      "Short USD, long copper (front-end futures), long gold, long AI-linked equities [Druckenmiller]",
-      "Long gold, reduce US equity exposure, international diversification [Dalio]",
-      "Long bitcoin as primary inflation hedge; long small-cap volatility options [Tudor Jones]",
-      "Long high-quality compounders, Fannie Mae/Freddie Mac as 'stupidly cheap' GSEs [Ackman]",
-      "Long Amazon (>15% weight), Taiwan Semiconductor; rotate toward industrials/consumer cyclicals [Tepper]"
-    ],
-    "sell_side_trades": [
-      "Long gold, rotate into defensive/value sectors, underweight large-cap tech [Bannister]",
-      "Long 30yr Treasuries targeting 5% yield; underweight equities through mid-November [Hartnett]",
-      "Short long-duration bonds — secular bond bull market over [Edwards, Gundlach]",
-      "Long private credit over public bonds in higher-for-longer environment [Slok]",
-      "Long energy as tail-risk hedge against $200 crude scenario [Berezin]",
-      "Long bitcoin as credit unwind/AI scarcity trade [Visser]"
-    ],
-    "dominant_themes": [
-      "Fiscal dominance replacing monetary policy — both sides see government deficit/debt dynamics overriding central bank signaling",
-      "AI bifurcation: productivity bull case (Yardeni, Tepper) vs. bubble/cloud-economics bear case (Burry, Visser, Edwards)",
-      "Rates higher for longer — consensus on Fed cuts increasingly challenged from both sides; hike risk resurfaces"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   },
   "month": {
     "period_start": "2026-10-04",
     "period_end": "2026-11-03",
     "entries_count": 145,
-    "buy_side_bullets": [
-      "Fiscal/monetary crisis convergence: dollar structurally weak, bonds un-investable, gold and hard assets preferred as wealth preservation. [Druckenmiller, Dalio, Tudor Jones]",
-      "AI as dual force: buy-side tilted toward AI infrastructure winners (Nvidia, TSMC, Amazon) while simultaneously short AI cloud economics at current multiples. [Tepper, Burry, Ackman]",
-      "No Fed rate cuts under Warsh regime — market mispricing easing trajectory; rate risk asymmetric to upside. [Tudor Jones, Gundlach]",
-      "Macro book losses widening as rate-cut timing wrong — Einhorn -6% on rates, reflecting cost of being early on easing pivot. [Einhorn evolving]",
-      "Quality compounders at historic discount — Ackman sees generational opportunity in high-quality large-caps and GSEs; Bessent sees policy-driven asset price support. [Ackman, Bessent]"
-    ],
-    "sell_side_bullets": [
-      "Inflation regime shift entrenching: Edwards' Ice Age thesis officially retired; fiscal dominance, $200 crude tail risk, and PCE at 3.5% defining new regime. [Edwards shift, Berezin, Mauldin]",
-      "Iran conflict elevated to primary macro risk — oil supply disruption triggering $200 crude scenario; recession odds for Europe/Japan at 40-50%. [Berezin]",
-      "Rate call divergence at maximum: Yardeni sees Roaring 2020s with S&P 8,250 target; Bannister sees 6,350 with 25% recession odds — widest spread in years. [Yardeni, Bannister]",
-      "Great Portfolio Reset underway — bonds structurally unattractive, financial repression intensifying, gold becoming core rather than alternative allocation. [Napier, Russell]",
-      "Post-QE fiscal dominance is new macro framework — Visser sees stagflationary credit unwind cycle, not ordinary recession; multi-year regime shift in progress. [Visser shift]"
-    ],
-    "whats_new": [
-      "Edwards officially retired 30-year Ice Age thesis — replaced by fiscal dominance/inflationary regime. The single biggest sell-side macro thesis flip of 2026.",
-      "Burry fully wound down Scion Asset Management — final positions were AI/semiconductor shorts. Marks definitive close of his institutional hedge fund career.",
-      "Tudor Jones elevated bitcoin above gold as primary inflation hedge — marks shift in his preferred inflation expression.",
-      "Slok extended 'higher for longer' to explicit 2027 timeframe — prior calls were open-ended.",
-      "Hartnett set specific tactical targets (30yr at 5%, DXY <100) vs. prior qualitative defensive calls."
-    ],
-    "vs_market_buy": [
-      "Tudor Jones: No Fed cuts under Warsh — markets pricing some easing; his view implies rates staying higher longer than current forwards.",
-      "Dalio: US equity valuations at 1929 levels — current market pricing continued expansion; his framework implies near-peak risk.",
-      "Druckenmiller: Structural USD bear — market has not fully priced in fiscal deterioration trajectory he views as multi-year."
-    ],
-    "vs_market_sell": [
-      "Gundlach: Hike probability non-trivial — 2yr above funds rate the decisive signal; market treating hike as negligible probability.",
-      "Bannister: 6,350 year-end S&P target — contra consensus Wall Street bulls near 8,000+; driven by consumer spending collapse risk.",
-      "Visser: Stagflationary multi-year credit unwind, not cyclical correction — market pricing ordinary recession scenario."
-    ],
-    "buy_vs_sell_divergence": [
-      "Dollar direction: Druckenmiller/Dalio structurally bearish on USD vs. Bessent/Slok (USD strong on fiscal discipline and higher-for-longer rates).",
-      "Equity valuation: Ackman says quality stocks at generational discount vs. Edwards/Bannister warning of multiple compression ahead.",
-      "Bond direction: Einhorn betting Fed cuts more than priced vs. Gundlach/Slok/Edwards all warning bond bull is definitively over."
-    ],
-    "aligned": [
-      "Gold is the consensus macro hedge — cited by Druckenmiller, Dalio, Gundlach, Bannister, Napier, and Tudor Jones across buy and sell side.",
-      "US debt trajectory is unsustainable — virtually every investor acknowledges the $38-40T debt level as a structural constraint on policy.",
-      "AI capex is front-running revenue — both buy and sell side cautious on near-term AI monetization vs. valuation, even if long-term bullish.",
-      "Iran conflict is a primary macro risk — elevated across both sides as the clearest near-term economic shock vector."
-    ],
-    "buy_side_trades": [
-      "Short USD, long copper (front-end), long gold, long AI-linked equities basket [Druckenmiller]",
-      "Long gold, reduce US equities, international diversification away from dollar assets [Dalio]",
-      "Long bitcoin as primary inflation/deficit hedge; long small-cap volatility [Tudor Jones]",
-      "Long quality compounders and Fannie/Freddie as 'stupidly cheap' [Ackman]",
-      "Long Amazon, TSMC; rotating into industrials/consumer cyclicals from pure semiconductors [Tepper]"
-    ],
-    "sell_side_trades": [
-      "Short long-duration bonds — secular bond bull definitively over [Edwards, Gundlach]",
-      "Long gold; rotate into defensive/value; underweight large-cap tech [Bannister, Napier]",
-      "Long 30yr Treasuries targeting 5% yield; underweight equities through mid-November [Hartnett]",
-      "Long private credit over public bonds; underweight duration [Slok]",
-      "Long energy (oil) as $200 crude tail-risk hedge; underweight European and Japanese equities [Berezin]",
-      "Long bitcoin as AI scarcity/credit unwind trade [Visser]"
-    ],
-    "dominant_themes": [
-      "Fiscal dominance as new macro regime — government deficits and debt dynamics overriding central bank credibility on both sides of Atlantic",
-      "AI bifurcation deepening — infrastructure and productivity bull case vs. cloud economics/bubble bear case reaching peak divergence",
-      "Iran oil shock and geopolitical risk as primary 2026 macro wildcard — $200 crude scenario challenging all existing growth/inflation frameworks"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   }
 }
