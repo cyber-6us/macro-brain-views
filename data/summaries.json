@@ -3,218 +3,51 @@
   "today": {
     "date": "2026-11-04",
     "entries_count": 15,
-    "buy_side_bullets": [
-      "Short bonds, long Bitcoin and small-cap volatility as fiscal stress trades. [Tudor Jones, Ackman]",
-      "Macro book losses from wrong-way rate cuts bet - defensively positioned at ~29% net equity. [Einhorn shift]",
-      "Rates more likely to rise than fall; short long-duration Treasuries amid structural deficits. [Ackman, Tudor Jones]",
-      "2027 could be an 'incredible year' if war and inflation headwinds ease - patience required. [Ackman]",
-      "No chance Warsh cuts rates; fiscal deterioration is the dominant macro force. [Tudor Jones evolving]"
-    ],
-    "sell_side_bullets": [
-      "Higher for longer rates now dominant view - road to 2027 theme crystallizing. [Gundlach, Slok]",
-      "US recession risk elevated: 40% US, 50% Europe/Japan - Iran oil shock is the trigger. [Berezin]",
-      "Long Main Street, short Wall Street - small/mid-caps and EM over Mag-7, US CPI risk >5% by midterms. [Hartnett]",
-      "Financial repression intensifying - bonds losing appeal, gold over bonds. [Napier]",
-      "Stagflationary bear market with private credit risk; AI hardware over software. [Visser]",
-      "S&P 8,250 target raised but October caution emerging; economy stronger than expected. [Yardeni evolving]"
-    ],
-    "whats_new": [
-      "Einhorn's macro book lost 6% on wrong-way rate cut bet - explicit reversal of earlier bullish rate thesis [Einhorn shift]",
-      "Gundlach shifted explicitly to 'higher for longer' in September podcast - road to 2027 [Gundlach shift]",
-      "Yardeni raised S&P to 8,250 from 7,700 but flagged October caution - both bullish and cautious simultaneously [Yardeni evolving]",
-      "Tudor Jones made $8bn small-cap volatility bet - largest macro wager of Q2 2026",
-      "Napier's 'great portfolio reset' thesis now explicit - bonds losing appeal, gold preferred"
-    ],
-    "vs_market_buy": [
-      "Tudor Jones sees 'no chance' Warsh cuts rates - more hawkish than market pricing",
-      "Ackman bearish on bonds while market still pricing eventual easing"
-    ],
-    "vs_market_sell": [
-      "Berezin 40% US recession odds vs market ~15-20% pricing - significantly more bearish",
-      "Napier sees financial repression as base case - markets not pricing this duration/mechanism",
-      "Hartnett: S&P technical bull market is NOT a new major rally - contra consensus"
-    ],
-    "buy_vs_sell_divergence": [
-      "Ackman/Tudor Jones short bonds vs Hatzius/Goldman seeing rates on hold (not rising) - direction disagreement",
-      "Tudor Jones bullish on Bitcoin vs sell-side largely ignoring crypto",
-      "Einhorn still betting on more Fed cuts vs Gundlach/Slok 'higher for longer' - explicit contradiction"
-    ],
-    "aligned": [
-      "Structural fiscal deficits are a macro headwind - both buy and sell side agree",
-      "AI is a structural economic force but creating uneven/K-shaped outcomes",
-      "Consumer stress and affordability are downside risks [Slok, Yardeni, Hartnett]",
-      "Oil shock from Iran is a recession catalyst risk - acknowledged across the board"
-    ],
-    "buy_side_trades": [
-      "Long Bitcoin - Tudor Jones, Visser",
-      "Short long-duration Treasuries - Ackman, Tudor Jones",
-      "Long small-cap volatility (PTJ $8bn bet)",
-      "Defensive equity positioning - Einhorn (~29% net)"
-    ],
-    "sell_side_trades": [
-      "Long Main Street/small-mid-caps vs short Mag-7 - Hartnett",
-      "High cash (~20%) + commodities - Gundlach",
-      "Long gold over bonds - Napier, Bannister",
-      "Long AI hardware vs short software - Visser",
-      "Underweight risk assets - Berezin",
-      "Long financials/healthcare/small-caps - Wilson"
-    ],
-    "dominant_themes": [
-      "Higher for longer rates / fiscal dominance replacing monetary policy",
-      "Oil shock / Iran recession risk hitting Europe and Japan hardest",
-      "AI bifurcation: hardware/infrastructure winners vs software multiple compression"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "bearish"
+    "sell_side_sentiment": "mixed"
   },
   "week": {
     "period_start": "2026-10-28",
     "period_end": "2026-11-04",
     "entries_count": 52,
-    "buy_side_bullets": [
-      "Dollar bearish, short bonds, long gold/copper/Bitcoin as fiscal deterioration hedge. [Druckenmiller, Tudor Jones, Ackman]",
-      "US debt 'heart attack' risk - $38T+ debt on unsustainable trajectory approaching a critical window. [Dalio]",
-      "Macro book losses from wrong-way rate cuts bet; Greenlight defensively positioned. [Einhorn shift]",
-      "No chance Warsh cuts rates; fiscal stress driving macro regime change. [Tudor Jones]",
-      "2027 as potential turnaround year for markets if war and inflation pressures ease. [Ackman]"
-    ],
-    "sell_side_bullets": [
-      "Higher for longer rates dominant view - road to 2027; September framing crystallized. [Gundlach, Slok]",
-      "US recession 40%, Europe/Japan 50% - Iran oil shock is the main new trigger. [Berezin]",
-      "Long Main Street short Wall Street - small/mid-caps and EM, US CPI >5% midterm risk. [Hartnett]",
-      "Financial repression intensifying - great portfolio reset, bonds losing appeal. [Napier]",
-      "S&P technical bull market is not a major new rally; economy doing more work than expected. [Hartnett, Yardeni evolving]",
-      "Stagflationary bear, private credit risk, AI hardware over software stocks. [Visser]"
-    ],
-    "whats_new": [
-      "Einhorn's macro book lost 6% on wrong-way rate cut bet - previous bullish rate stance reversed [Einhorn shift]",
-      "Gundlach's September 2026 'higher for longer' podcast - road to 2027 as new framing [Gundlach shift]",
-      "Yardeni raised to 8,250 but signaling October caution - both more bullish and more cautious [Yardeni evolving]",
-      "Tudor Jones $8bn small-cap volatility bet - new large macro position",
-      "Berezin lowered US recession odds to 40% from 60% - partial improvement acknowledged"
-    ],
-    "vs_market_buy": [
-      "Druckenmiller/Dalio: Fed declared inflation victory prematurely - rate hike risk underpriced",
-      "Tudor Jones: No chance Warsh cuts - more hawkish than market",
-      "Dalio: 1929-level wealth-to-money ratio - markets not pricing crash risk"
-    ],
-    "vs_market_sell": [
-      "Berezin 40% US recession vs market ~15-20% - large divergence",
-      "Gundlach: Hike more likely than cut in 2026 - markets priced 0 cuts already",
-      "Napier: Financial repression as base case - markets not pricing this scenario"
-    ],
-    "buy_vs_sell_divergence": [
-      "Buy side (Druckenmiller) expects further disruption/macro opportunities; sell side (Hatzius/Goldman) sees 2.8% global GDP - relatively benign",
-      "Einhorn betting on more Fed cuts vs Gundlach/Slok 'higher for longer' - opposing rate views",
-      "Dalio sees 'worse than recession' vs Bessent 'very strong' 2026 - stark divergence on macro"
-    ],
-    "aligned": [
-      "Structural fiscal deficits as macro headwind - universal agreement",
-      "AI is real and structural but creates uneven/K-shaped outcomes",
-      "Dollar bearish medium-term on fiscal backdrop [Druckenmiller, Hartnett, Hatzius]",
-      "Iran/oil shock is a new recession risk - acknowledged across sides"
-    ],
-    "buy_side_trades": [
-      "Long Bitcoin - Tudor Jones, Visser",
-      "Short long-duration Treasuries - Druckenmiller, Ackman, Tudor Jones",
-      "Long gold - Druckenmiller, Dalio",
-      "Long copper - Druckenmiller",
-      "Short USD broadly - Druckenmiller",
-      "Defensive equity positioning - Einhorn (~29% net)"
-    ],
-    "sell_side_trades": [
-      "Long Main Street/small-mid-caps vs short Mag-7 - Hartnett",
-      "High cash + commodities - Gundlach",
-      "Long gold over bonds - Napier, Bannister, Gundlach",
-      "Long AI hardware vs short software - Visser",
-      "Long financials/healthcare/small-caps - Wilson",
-      "Underweight risk assets - Berezin"
-    ],
-    "dominant_themes": [
-      "Fiscal dominance / debt crisis: US deficit exceeding $2T/yr, rate hike risk underpriced",
-      "Oil shock / Iran recession risk: 40-50% recession probability across major economies",
-      "AI bifurcation: hardware/infrastructure winners vs software multiple compression"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   },
   "month": {
     "period_start": "2026-10-05",
     "period_end": "2026-11-04",
     "entries_count": 156,
-    "buy_side_bullets": [
-      "Dollar bearish, short bonds, long hard assets (gold, copper, Bitcoin) as fiscal/inflation hedge. [Druckenmiller, Tudor Jones, Ackman, Dalio]",
-      "US debt 'heart attack' imminent - $38T+ on unsustainable path; 2026-2028 is a critical political/economic window. [Dalio]",
-      "Macro regime shift underway - QE era over, fiscal dominance replacing monetary policy. [Tudor Jones, Visser]",
-      "2027 as the potential turnaround year; patience required through near-term volatility. [Ackman]",
-      "Greenlight defensive posture after macro book -6%; Warsh rate cuts still the eventual call. [Einhorn evolving]"
-    ],
-    "sell_side_bullets": [
-      "Higher for longer rates entrench as 2026 consensus; road to 2027 framing solidifying. [Gundlach, Slok]",
-      "US recession 40%, Europe/Japan 50% - Iran oil shock and tariffs as dual risk triggers. [Berezin]",
-      "Long Main Street short Mag-7 as AI disruption trade rotates out of US mega-cap. [Hartnett]",
-      "Financial repression as base case debt resolution - bonds lose appeal, gold preferred. [Napier]",
-      "Stagflationary bear market: weak software stocks, strong AI hardware, private credit stress risk. [Visser]",
-      "S&P 500 targets range 6,350-8,250 - wide dispersion reflects genuine macro uncertainty. [Bannister, Yardeni, Wilson]"
-    ],
-    "whats_new": [
-      "Einhorn's macro book lost 6% reversing earlier bullish rate stance [Einhorn shift]",
-      "Gundlach's September 'higher for longer / road to 2027' - new explicit framing [Gundlach shift]",
-      "Yardeni raised to 8,250 but adding caution in October [Yardeni evolving]",
-      "Berezin lowered US recession to 40% from 60% (improvement acknowledged) but Iran pushes Europe/Japan to 50%",
-      "Bessent still projecting 3.5%+ GDP growth - official Treasury view diverging from buy-side bears"
-    ],
-    "vs_market_buy": [
-      "Dalio/Druckenmiller: Fed declared inflation victory too early; rate hike risk severely underpriced",
-      "Tudor Jones: No chance Warsh cuts - more hawkish than any market consensus",
-      "Dalio: 1929 wealth-to-money ratio, stagflation risk - markets pricing benign scenario"
-    ],
-    "vs_market_sell": [
-      "Berezin 40% US recession vs market ~15-20% - largest single divergence",
-      "Napier: Financial repression is base case; markets priced for yield normalization not repression",
-      "Hartnett: Record equity inflows yet bullish S&P rally is not a new major bull market",
-      "Gundlach: Treasury restructuring tail risk - zero pricing of this scenario in markets"
-    ],
-    "buy_vs_sell_divergence": [
-      "Dalio 'something worse than a recession' vs Bessent 'very strong 2026' - starkest macro divergence",
-      "Einhorn/Tudor Jones betting on more cuts or fiscal stress vs Gundlach/Slok 'higher for longer'",
-      "Buy side broadly dollar-bearish; sell side (Goldman/Hatzius) sees growth as supportive",
-      "Ackman bullish on specific equities vs Berezin/Visser urging underweight risk assets"
-    ],
-    "aligned": [
-      "Structural fiscal deficits are a durable macro headwind - universal buy and sell side agreement",
-      "AI is a transformative structural force creating K-shaped economic outcomes [Slok, Dalio, Hatzius]",
-      "Iran/oil shock as a new global recession risk trigger - acknowledged across all sides",
-      "Consumer affordability and K-shaped divergence as the key domestic risk [Slok, Yardeni, Hartnett, Bannister]",
-      "Gold is a preferred hedge against fiscal/monetary deterioration [Druckenmiller, Dalio, Napier, Bannister]"
-    ],
-    "buy_side_trades": [
-      "Short USD broadly - Druckenmiller",
-      "Long gold - Druckenmiller, Dalio",
-      "Long copper - Druckenmiller",
-      "Short long-duration Treasuries - Druckenmiller, Ackman, Tudor Jones",
-      "Long Bitcoin - Tudor Jones, Visser",
-      "Long AI equities basket - Druckenmiller",
-      "Long small-cap volatility - Tudor Jones ($8bn)",
-      "Long Microsoft - Ackman",
-      "Defensive equity ~29% net - Einhorn"
-    ],
-    "sell_side_trades": [
-      "Long small/mid-caps vs short Mag-7 - Hartnett",
-      "High cash (~20%) + commodities - Gundlach",
-      "Long gold over bonds - Napier, Bannister, Gundlach",
-      "Long AI hardware vs short software - Visser",
-      "Long financials/healthcare/small-caps - Wilson",
-      "Underweight risk assets - Berezin",
-      "Defensive value vs large-cap tech - Bannister",
-      "Short 10Y UST (4.45% target) - Deutsche Bank/Reid"
-    ],
-    "dominant_themes": [
-      "Fiscal dominance: $38T+ US debt, $2T/yr deficits, structural dollar weakness and rate volatility",
-      "Oil shock / Iran recession risk: dual trigger for global contraction across developed markets",
-      "AI regime shift: hardware/infrastructure winners, software losers, K-shaped economy and labor disruption"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   }
 }
