@@ -20,140 +20,34 @@
     "period_start": "2026-10-29",
     "period_end": "2026-11-05",
     "entries_count": 50,
-    "buy_side_bullets": [
-      "Higher-for-longer rates now primary macro risk \u2014 short bonds, long gold/copper/hard assets as inflation hedges. [Druckenmiller, Ackman, Tudor Jones, Gundlach shift]",
-      "US equity valuations at historic extremes warrant defensive positioning; Scion shut down, capital returned \u2014 AI denial phase thesis complete. [Burry, Einhorn, Dalio]",
-      "Dollar bear case strengthening amid de-dollarization, fiscal excess, and AI liquidity displacement; macro investing alive again after 10-15 dormant years. [Druckenmiller]",
-      "Debt-driven 'heart attack' risk acutely elevated in 2026-2028 window; stagflation emerging as AI cycle peaks and geopolitical premiums persist. [Dalio]",
-      "AI infrastructure rotation underway \u2014 cutting semiconductor exposure, adding power generation (Vistra, NRG) and megacap tech as AI power demand thesis matures. [Tepper]"
-    ],
-    "sell_side_bullets": [
-      "Bull & Bear indicator at 9.6 \u2014 a formal BofA sell signal \u2014 rotate from AI spenders to AI beneficiaries; long Main Street/small-caps, short Mag7/Davos. [Hartnett]",
-      "Global GDP 2.8%, US 2.6% above consensus \u2014 growth solid but labor market 'shaky'; Fed not cutting without marked further weakness, rates staying elevated. [Hatzius]",
-      "Ice Age deflation framework over \u2014 fiscal dominance replacing secular stagnation, double-digit inflation possible within 2-3 years. [Edwards shift]",
-      "Financial repression intensifying as Warsh signals 'money matters'; great portfolio reset underway as bonds lose appeal and equities get riskier \u2014 prefer gold. [Napier evolving]",
-      "S&P 500 8,250 target maintained despite market volatility \u2014 Roaring 2020s thesis on track, economy stronger than expected, targeting 10,000 by 2029. [Yardeni]"
-    ],
-    "whats_new": [
-      "Burry fully shut Scion Asset Management, returning capital \u2014 final act of AI denial phase thesis after Nasdaq/semiconductor put book; declared AI market in 'denial phase' before closing",
-      "Einhorn admits macro book lost 6% in first nine months betting wrong on Fed rate cuts \u2014 now fully defensive at 29% net equity exposure",
-      "Druckenmiller declares macro investing alive again after 10-15 years of dormancy, citing structural change in monetary regime and AI disruption",
-      "Edwards formally ends Ice Age deflation thesis \u2014 unprecedented shift from 30-year secular stagnation call to fiscal dominance/inflation regime"
-    ],
-    "vs_market_buy": [
-      "Druckenmiller and Ackman short bonds while market still pricing some Fed easing in 2027 \u2014 both see Fed more likely to hike than cut",
-      "Dalio warns US debt crisis risk severely underpriced by markets; 2026-2028 window 'particularly risky' and mostly ignored by consensus"
-    ],
-    "vs_market_sell": [
-      "Yardeni's 8,250 S&P 500 target and 10,000 by 2029 call sits well above most Wall Street consensus, standing alone as the most aggressive bull",
-      "Hartnett's formal sell signal (Bull & Bear at 9.6) contradicts the heavy equity inflows from his own BofA flow data \u2014 record year of global equity inflows"
-    ],
-    "buy_vs_sell_divergence": [
-      "Equities direction: Yardeni/Wilson (sell-side) firmly bullish; Dalio/Einhorn/Burry (buy-side) deeply cautious to fully exited \u2014 sharpest buy vs sell split in 2026",
-      "Inflation trajectory: Bessent/Druckenmiller (buy-side) see structural inflation risk; Rosenberg (sell-side) sees disinflation and potential deflation shock if growth fades",
-      "Fed next move: Gundlach/Napier (sell-side) expect hike or financial repression; Bessent (buy-side, official) rejects that scenario entirely"
-    ],
-    "aligned": [
-      "Long-duration bonds under pressure; 10-year at 4.3%+ and 30-year at 5.5% widely viewed as appropriate or rising further",
-      "AI infrastructure buildout driving specific sectoral winners (power generation, copper) regardless of broader equity view",
-      "Dollar structural weakness as a multi-year trend \u2014 most buy-side and several sell-side strategists agree",
-      "Midterm elections (November 2026) seen as a potential near-term market catalyst for a year-end rally"
-    ],
-    "buy_side_trades": [
-      "Short long-duration Treasuries [Ackman, Tudor Jones, Druckenmiller]",
-      "Long gold and copper as inflation/de-dollarization hedges [Druckenmiller]",
-      "Long secular growth tech (MSFT, Salesforce, ServiceNow, Workday) [Druckenmiller]",
-      "Short US dollar [Druckenmiller]",
-      "Long Bitcoin as best inflation hedge vs gold [Tudor Jones]",
-      "$8bn small-cap volatility bet [Tudor Jones]",
-      "Long Amazon and AI power stocks (Vistra, NRG Energy) [Tepper]"
-    ],
-    "sell_side_trades": [
-      "Long Main Street / small-caps; short Mag7 / Davos-style large-cap tech [Hartnett]",
-      "Long gold vs long-duration bonds [Napier]",
-      "Long defensive stocks \u2014 healthcare, staples \u2014 as cyclical hedge [Bannister]",
-      "Long international/non-US equities over US equities as dollar weakens [Hartnett]"
-    ],
-    "dominant_themes": [
-      "Higher-for-longer rates and Fed hiking risk displacing easing narrative",
-      "AI-driven market rotation: from infrastructure spenders to real-economy beneficiaries",
-      "Debt/fiscal dominance and financial repression as structural regime shift"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   },
   "month": {
     "period_start": "2026-10-06",
     "period_end": "2026-11-05",
     "entries_count": 147,
-    "buy_side_bullets": [
-      "Higher rates, weak dollar, long hard assets \u2014 structural consensus across most large buy-side macro managers who have acted on it. [Druckenmiller, Ackman, Dalio, Tudor Jones, Gundlach]",
-      "AI-driven equity bubble approaching 1987/2000 inflection \u2014 bear case strongest among managers who have scrutinized AI capex accounting and depreciation math. [Burry, Einhorn, Dalio]",
-      "Geopolitical risk structurally underpriced \u2014 defense stocks and hard assets as essential portfolio hedges; Iran conflict now dominating short-term risk pricing. [Bass, Dalio]",
-      "Defensive positioning now standard: 20% cash, gold allocations, reduced equity exposure \u2014 SpaceX IPO at $1.75T flagged as speculative cycle top marker. [Einhorn, Soros, Howard]",
-      "AI is real but asset prices must justify it; private credit has rapid deployment and interconnectedness risk; 30-year bonds at 5.5% are 'an invoice' \u2014 now competitive vs equities. [Howard Marks]"
-    ],
-    "sell_side_bullets": [
-      "Bull & Bear indicator reached extreme 9.6 \u2014 formal sell signal \u2014 triggering rotation from AI hardware spenders to Main Street beneficiaries and international equities. [Hartnett]",
-      "Ice Age ending: fiscal dominance, money supply surge, and banking sector credit expansion building inflation re-ignition risk; Asia 1997 currency stress parallels relevant. [Edwards]",
-      "Financial repression 15-20 year regime underway \u2014 Warsh 'money matters' framing signals formal onset; gold vs bonds as the defining portfolio call. [Napier evolving]",
-      "'1999 meets 1990': AI-driven capex boom (echoing 1999 tech surge) colliding with geopolitical disruption comparable to 1990 Gulf War \u2014 regime change likely by 2027. [Reid]",
-      "AI provides zero payoff to S&P 493 outside core tech; labor displacement starting to show in payroll data; benefits dangerously narrow. [Slok, Hatzius]"
-    ],
-    "whats_new": [
-      "Burry deregistered Scion after 20+ years \u2014 the most significant fund closure of 2026, driven by irreconcilable gap between fair value and market prices",
-      "Edwards ends 30-year Ice Age deflation thesis \u2014 the most significant strategic call change of 2026 among sell-side strategists",
-      "Napier escalates from predicting financial repression to actively portfolio-positioning for it after Warsh Fed rhetoric",
-      "Einhorn flags SpaceX IPO at $1.75T valuation as a 'major speculative top' marker for the AI cycle \u2014 adds to Burry closure as bearish sentiment cluster",
-      "Tepper's Appaloosa posted 32% H1 2026 returns, among the best in the industry, while simultaneously rotating away from pure memory chips toward power infrastructure"
-    ],
-    "vs_market_buy": [
-      "Dalio warns pre-1945 historical parallel \u2014 world order breakdown risk \u2014 is virtually absent from market pricing while he explicitly forecasts it",
-      "Bass sees defense capex as the dominant multi-year macro trade but mainstream portfolio allocation to defense stocks remains well below his conviction level",
-      "Druckenmiller and Ackman short bonds as rates set to rise further while mainstream consensus still prices eventual easing by end-2027"
-    ],
-    "vs_market_sell": [
-      "Yardeni alone with S&P 10,000 by 2029 target \u2014 his Roaring 2020s thesis is a significant positive outlier vs Wall Street consensus",
-      "Hartnett's extreme sell signal at 9.6 came as his own flow data showed record global equity inflows \u2014 institutional and retail buying into what he calls a formal top signal",
-      "Reid's '1999 meets 1990' framing implies regime change much sooner than priced; most of Wall Street expects a soft landing through 2027"
-    ],
-    "buy_vs_sell_divergence": [
-      "Equities: Yardeni/Wilson/Hatzius (sell-side) bullish; Dalio/Einhorn/Burry/Bass (buy-side) cautious to fully exited \u2014 most significant cross-side divergence of the year",
-      "Inflation: Edwards/Napier (sell-side) see accelerating inflation; Rosenberg (sell-side, lone contrarian) sees disinflation; Druckenmiller/Ackman (buy-side) confirm inflation risk",
-      "China and EM: Tepper (buy-side) maintains Taiwan Semiconductor as core holding; Dalio warns of de-globalization destroying EM returns \u2014 opposite risk assessments",
-      "AI valuation: Yardeni/Wilson (sell-side) see AI as earnings driver justifying multiples; Burry/Einhorn/Dalio (buy-side) see AI capex creating accounting distortions and bubble risk"
-    ],
-    "aligned": [
-      "Long-duration bonds underperform in a higher-for-longer world \u2014 consensus view across both sides, executed differently",
-      "US dollar weakening as a structural multi-year trend \u2014 widely held by both buy and sell side",
-      "AI infrastructure winners (power generation, copper, data center REITs) are real regardless of AI bubble debate",
-      "K-shaped economy \u2014 a bifurcated labor and consumer market \u2014 is the operative macro lens for 2026 across nearly all strategists",
-      "Midterm elections and potential year-end seasonality are tactical upside catalysts both sides acknowledge"
-    ],
-    "buy_side_trades": [
-      "Short long-duration Treasuries / short bonds [Ackman, Tudor Jones, Druckenmiller, Gundlach]",
-      "Long gold and copper as inflation/de-dollarization hedges [Druckenmiller, Dalio, Bass]",
-      "Long secular growth tech (MSFT, Salesforce, ServiceNow) [Druckenmiller]",
-      "Short US dollar [Druckenmiller, Dalio implied]",
-      "Long Bitcoin as inflation hedge [Tudor Jones]",
-      "$8bn small-cap volatility bet [Tudor Jones]",
-      "Long AI power infrastructure (Vistra, NRG Energy, Taiwan Semiconductor) [Tepper]",
-      "Long defense stocks and geopolitical hedge plays [Bass]",
-      "Long high-quality large-cap stocks called 'stupidly cheap' [Ackman]"
-    ],
-    "sell_side_trades": [
-      "Long Main Street / small-caps; short Mag7 / Davos-style tech [Hartnett]",
-      "Long gold vs long-duration bonds [Napier, Edwards]",
-      "Long international/non-US equities \u2014 anything-but-dollar trade [Hartnett]",
-      "Long defensive stocks \u2014 healthcare, staples, gold \u2014 to hedge cyclical exposure [Bannister]",
-      "Long power generation names as AI energy proxy [Wilson, Slok implied]"
-    ],
-    "dominant_themes": [
-      "Debt/fiscal dominance and financial repression as the defining structural shift of the 2026-2030 period",
-      "AI cycle inflection: from infrastructure buildout (buy AI hardware) to real-economy impact (buy beneficiaries, short incumbents)",
-      "Geopolitical risk monetization: Iran conflict, US-China tension, and de-globalization creating permanent risk premiums in energy and defense"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   }
 }
