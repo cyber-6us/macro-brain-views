@@ -3,213 +3,51 @@
   "today": {
     "date": "2026-11-06",
     "entries_count": 12,
-    "buy_side_bullets": [
-      "AI market approaching bubble levels analogous to 1929 and 2000 crashes\u2014watch for holders forced to sell paper wealth for cash [Ray Dalio]",
-      "Hyperscaler bond issuance hit $220B in H1 2026, more than double all of 2025\u2014heavy corporate borrowing risks raising financing costs [Ray Dalio]",
-      "Stay grounded during market fluctuations\u2014opportunity comes when investors look past noise [Howard Marks]",
-      "Prioritise stocks over bonds for AI exposure, as bond issuance risk from AI capex is high [Howard Marks]",
-      "2026 is the worst year for US consumer sentiment on record since 1952 [Michael Burry]"
-    ],
-    "sell_side_bullets": [
-      "Nasdaq-100 correction \"probably inevitable\"\u2014both AI supply and demand sides stalling at the same time [David Rosenberg]",
-      "Hyperscaler capex squeeze: Microsoft/Alphabet share declines reflect cash flow compression from AI spending [David Rosenberg]",
-      "Divided government post-midterms harder to pass fiscal stimulus\u2014slightly positive for fiscal trajectory [Jim Reid]",
-      "Markets now price ~50bps of Fed rate hikes through 2027, below pre-election levels [Jim Reid]",
-      "Iran: severe stress now, with more risk if conflict re-escalates\u2014a live macro tail risk [Torsten Slok]"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "neutral",
-    "buy_side_trades": [
-      "Build portfolio of uncorrelated assets rather than concentrating in AI winners [Ray Dalio]",
-      "Favour equities over bonds for AI-linked positioning [Howard Marks]",
-      "Treasury buybacks anchoring the long end\u2014watch for major issuance overhaul [Scott Bessent]",
-      "Short long-duration Treasuries (maintained) [Bill Ackman]",
-      "Long Visa, Mastercard\u2014up 12-13% from average cost [Bill Ackman]",
-      "Long Microsoft as AI value play [Bill Ackman]"
-    ],
-    "sell_side_trades": [
-      "Long Eli Lilly [Jordi Visser]",
-      "Long Micron [Jordi Visser]",
-      "Long Ethereum over Bitcoin [Jordi Visser]"
-    ],
-    "dominant_themes": [
-      "equities",
-      "bonds",
-      "rates"
-    ],
-    "whats_new": [
-      "Scott Bessent shifted from bullish to neutral",
-      "Jordi Visser shifted from bearish to bullish"
-    ],
-    "vs_market_buy": [
-      "AI market approaching 1929/2000 bubble\u2014positioning for dispersion, not AI winner-takes-all [Dalio]",
-      "Markets feel structurally broken by leverage and casino-style vehicles [Ackman]",
-      "2026 worst consumer sentiment on record since 1952\u2014contra bullish consensus [Burry]"
-    ],
-    "vs_market_sell": [
-      "AI delivers zero payoff outside Big Tech\u2014contra market's broad AI productivity thesis [Slok]",
-      "Nasdaq correction 'probably inevitable' on double-sided AI trade stall [Rosenberg]",
-      "Europe recession probability 50%\u2014diverges from modest soft-landing consensus [Berezin]"
-    ],
-    "buy_vs_sell_divergence": [
-      "Buy side (Marks) favours equities over bonds for AI exposure; sell side (Slok) sees zero AI payoff for S&P 493",
-      "Ackman bullish on 2027 recovery; Berezin/Rosenberg see rising recession risk heading into 2027",
-      "Visser bullish AI infrastructure; Rosenberg sees AI trade stalling on both supply and demand sides"
-    ],
-    "aligned": [
-      "Rates staying higher for longer\u2014both sides see no near-term Fed cuts",
-      "Iran conflict remains a live tail risk for commodities and global growth",
-      "AI-driven market structure is the dominant macro force, though with opposite conclusions on impact",
-      "Divided government post-midterms slightly positive for fiscal trajectory"
-    ]
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   },
   "week": {
     "period_start": "2026-10-30",
     "period_end": "2026-11-06",
     "entries_count": 50,
-    "buy_side_bullets": [
-      "Bitcoin is the best inflation hedge - better than gold [Paul Tudor Jones]",
-      "Budget deficit 'blowing up' and bond market 'getting smoked' - structural fiscal stress [Paul Tudor Jones]",
-      "Long-term rates will rise further - short bonds amid structural deficit pressures [Bill Ackman]",
-      "2027 could be 'incredible year' if war and inflation headwinds ease [Bill Ackman]",
-      "Macro book lost 6% in first nine months of 2026 - rate cut bet wrong [David Einhorn]"
-    ],
-    "sell_side_bullets": [
-      "'Higher for longer' rate outlook now dominant - road to 2027 theme [Torsten Slok]",
-      "Big Beautiful Bill adds ~1% GDP growth but creates K-shaped outcomes [Torsten Slok]",
-      "'Long Detroit, short Davos' - small/mid-caps and EM over Mag-7 [Michael Hartnett]",
-      "US CPI could exceed 5% by midterms - inflation risk underappreciated [Michael Hartnett]",
-      "Global GDP 2.8% in 2026 - above consensus of 2.5% [Jan Hatzius]"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish",
-    "buy_side_trades": [
-      "Long Bitcoin as inflation/fiscal hedge [Paul Tudor Jones]",
-      "Long small-cap volatility via large options position [Paul Tudor Jones]",
-      "Short long-duration Treasuries [Paul Tudor Jones]",
-      "Short long-duration Treasuries [Bill Ackman]",
-      "Long Microsoft - AI value play [Bill Ackman]",
-      "Long rate cuts - betting Fed under Warsh cuts substantially more than priced [David Einhorn]",
-      "Defensive equity positioning (~29% net) [David Einhorn]",
-      "Short USD broadly as fiscal backdrop structurally undermines dollar [Stan Druckenmiller]"
-    ],
-    "sell_side_trades": [
-      "Long small/mid-cap equities vs short Mag-7 [Michael Hartnett]",
-      "Long emerging markets [Michael Hartnett]",
-      "Long non-US equities via 'anything-but-dollar' trade [Michael Hartnett]",
-      "Long financials, healthcare, consumer discretionary vs growth/tech [Mike Wilson]",
-      "Long small-cap equities [Mike Wilson]",
-      "Long gold over bonds [Russell Napier]",
-      "Underweight bonds [Russell Napier]",
-      "Long AI hardware vs short software stocks [Jordi Visser]"
-    ],
-    "dominant_themes": [
-      "equities",
-      "rates",
-      "bonds"
-    ],
-    "whats_new": [
-      "Scott Bessent moved from bullish to neutral over the week",
-      "Bill Ackman moved from bullish to mixed over the week",
-      "Torsten Slok moved from bearish to mixed over the week",
-      "Jordi Visser moved from bearish to bullish over the week",
-      "Michael Hartnett moved from bearish to mixed over the week"
-    ],
-    "vs_market_buy": [
-      "AI bubble risks near 1929/2000 levels\u2014contra market AI euphoria [Dalio]",
-      "Bitcoin/gold preferred over bonds as fiscal hedges [Tudor Jones]",
-      "Markets structurally broken by leverage\u2014casino-style trading distorting prices [Ackman]"
-    ],
-    "vs_market_sell": [
-      "AI delivers zero productivity payoff outside Mag 7\u2014contra broad AI productivity consensus [Slok]",
-      "Europe recession probability 50%\u2014above consensus soft-landing estimates [Berezin]",
-      "Nasdaq correction 'probably inevitable' on double-sided AI trade stall [Rosenberg]"
-    ],
-    "buy_vs_sell_divergence": [
-      "Buy side constructive on AI infrastructure equities; sell side sees AI payoff concentrated in Mag 7 only",
-      "Ackman/Marks favour equities over bonds; Hartnett risk-off, targeting lower yields through mid-November",
-      "Tudor Jones bullish oil $20-25 upside; Goldman/Deutsche Bank flagging Strait of Hormuz as binary risk"
-    ],
-    "aligned": [
-      "Rates higher for longer\u2014no imminent Fed rate cuts expected by either side",
-      "Iran conflict is the dominant geopolitical tail risk for commodities and global growth",
-      "2027 is the key inflection year\u2014most see increasing risk of either recession or rate reset",
-      "Post-midterm divided government reduces fiscal stimulus risk"
-    ]
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   },
   "month": {
     "period_start": "2026-10-07",
     "period_end": "2026-11-06",
     "entries_count": 146,
-    "buy_side_bullets": [
-      "Bitcoin is the best inflation hedge - better than gold [Paul Tudor Jones]",
-      "Budget deficit 'blowing up' and bond market 'getting smoked' - structural fiscal stress [Paul Tudor Jones]",
-      "Long-term rates will rise further - short bonds amid structural deficit pressures [Bill Ackman]",
-      "2027 could be 'incredible year' if war and inflation headwinds ease [Bill Ackman]",
-      "Macro book lost 6% in first nine months of 2026 - rate cut bet wrong [David Einhorn]"
-    ],
-    "sell_side_bullets": [
-      "'Higher for longer' rate outlook now dominant - road to 2027 theme [Torsten Slok]",
-      "Big Beautiful Bill adds ~1% GDP growth but creates K-shaped outcomes [Torsten Slok]",
-      "'Long Detroit, short Davos' - small/mid-caps and EM over Mag-7 [Michael Hartnett]",
-      "US CPI could exceed 5% by midterms - inflation risk underappreciated [Michael Hartnett]",
-      "Global GDP 2.8% in 2026 - above consensus of 2.5% [Jan Hatzius]"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish",
-    "buy_side_trades": [
-      "Long Bitcoin as inflation/fiscal hedge [Paul Tudor Jones]",
-      "Long small-cap volatility via large options position [Paul Tudor Jones]",
-      "Short long-duration Treasuries [Paul Tudor Jones]",
-      "Short long-duration Treasuries [Bill Ackman]",
-      "Long Microsoft - AI value play [Bill Ackman]",
-      "Long rate cuts - betting Fed under Warsh cuts substantially more than priced [David Einhorn]",
-      "Defensive equity positioning (~29% net) [David Einhorn]",
-      "Short USD broadly as fiscal backdrop structurally undermines dollar [Stan Druckenmiller]"
-    ],
-    "sell_side_trades": [
-      "Long small/mid-cap equities vs short Mag-7 [Michael Hartnett]",
-      "Long emerging markets [Michael Hartnett]",
-      "Long non-US equities via 'anything-but-dollar' trade [Michael Hartnett]",
-      "Long financials, healthcare, consumer discretionary vs growth/tech [Mike Wilson]",
-      "Long small-cap equities [Mike Wilson]",
-      "Long gold over bonds [Russell Napier]",
-      "Underweight bonds [Russell Napier]",
-      "Long AI hardware vs short software stocks [Jordi Visser]"
-    ],
-    "dominant_themes": [
-      "equities",
-      "bonds",
-      "rates"
-    ],
-    "whats_new": [
-      "Howard Marks shifted from bearish to neutral over the month",
-      "Scott Bessent shifted from bullish to neutral over the month",
-      "Jim Reid shifted from bearish to neutral over the month",
-      "Torsten Slok shifted from bullish to mixed over the month",
-      "Jordi Visser shifted from mixed to bullish over the month"
-    ],
-    "vs_market_buy": [
-      "Structural fiscal crisis and AI bubble risks flagged well above market consensus [Dalio, Tudor Jones, Ackman]",
-      "Bitcoin and gold preferred over bonds as long-term fiscal hedges\u2014diverges from duration-neutral consensus [Tudor Jones, Einhorn]",
-      "2027 year-end crisis risk underappreciated by market\u2014buy-side sees multiple catalysts converging [Tudor Jones, Druckenmiller]"
-    ],
-    "vs_market_sell": [
-      "AI productivity payoff limited to Big Tech\u2014contra market's broad AI-led earnings upgrade thesis [Slok, Rosenberg]",
-      "European recession probability at 50%\u2014meaningfully above mainstream consensus [Berezin]",
-      "Long-end yields structurally higher than consensus\u2014Gundlach, Reid, Hartnett all flag 5%+ as new normal"
-    ],
-    "buy_vs_sell_divergence": [
-      "Buy side generally bullish on AI infrastructure equities long-term; sell side questions AI productivity payoff for 90% of S&P",
-      "Tudor Jones/Ackman bullish on Q4 2026 seasonal tailwinds; Hartnett/Wilson more cautious through November",
-      "Dalio/Marks recommend uncorrelated assets and equities over bonds; Napier/Gundlach short long-duration bonds"
-    ],
-    "aligned": [
-      "Higher for longer rates\u2014no meaningful Fed cuts expected near term",
-      "Iran conflict is the key geopolitical risk; oil above $95 seen as equity negative",
-      "AI is the dominant structural theme\u2014disagree on beneficiaries but not the centrality",
-      "Fiscal deficits and Treasury market stress are a shared long-term concern",
-      "2027 is the critical year for identifying whether boom continues or correction arrives"
-    ]
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   }
 }
