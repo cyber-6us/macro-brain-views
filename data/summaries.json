@@ -1,53 +1,175 @@
 {
-  "generated_at": "2026-11-06",
+  "generated_at": "2026-11-07",
   "today": {
-    "date": "2026-11-06",
-    "entries_count": 12,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
+    "date": "2026-11-07",
+    "entries_count": 2,
+    "buy_side_bullets": [
+      "2027 expected to be brutal for stocks as AI cycle peaks \u2014 tactical Q4 2026 rally still expected. [Tudor Jones]",
+      "Market historically bottoms late October/early November before year-end push \u2014 December 31 tactical focus. [Tudor Jones]",
+      "Long-term fiscal overextension remains primary macro risk beyond the 2026 seasonal trade. [Tudor Jones]"
+    ],
+    "sell_side_bullets": [
+      "US tech bonds down ~9% in 2026, relative return vs IG at 30-year low \u2014 supply-driven cheapness creates buy opportunity. [Hartnett]",
+      "Hyperscaler bond issuance hit $182bn in 2026, up from $17bn in 2024 \u2014 supply glut, not credit deterioration, the driver. [Hartnett]",
+      "Bull & Bear Indicator sell signal ended October 18; tactically cautious lifted post-midterms with 30Y yield target ~5%. [Hartnett]"
+    ],
+    "whats_new": [
+      "Tudor Jones 2027 brutal call \u2014 new explicit bearish view on next year vs prior focus on near-term Treasuries short",
+      "Hartnett shifting from sell signal to neutral post-midterms \u2014 explicit end of tactical caution"
+    ],
+    "vs_market_buy": [
+      "Tudor Jones sees near-term Q4 rally market is not fully pricing yet, then 2027 pain market is ignoring"
+    ],
+    "vs_market_sell": [
+      "Hartnett argues tech bonds are fundamentally cheap vs IG \u2014 market is pricing supply risk as credit risk"
+    ],
+    "buy_vs_sell_divergence": [
+      "Tudor Jones tactically bullish Q4 equities vs Hartnett still cautious near-term on equity pressure \u2014 timing disagreement"
+    ],
+    "aligned": [
+      "Both see post-midterms as inflection point \u2014 Q4 to transition from caution to positioning shift"
+    ],
     "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "sell_side_trades": [
+      "Buy US tech bonds on 30-year relative return low vs IG",
+      "Position for 30Y Treasury yield decline toward 5% post-midterms"
+    ],
+    "dominant_themes": [
+      "AI valuation cycle peak in 2027",
+      "Post-midterms inflection in risk positioning",
+      "Hyperscaler debt supply saturation"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "neutral"
   },
   "week": {
-    "period_start": "2026-10-30",
-    "period_end": "2026-11-06",
-    "entries_count": 50,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
+    "period_start": "2026-10-31",
+    "period_end": "2026-11-07",
+    "entries_count": 49,
+    "buy_side_bullets": [
+      "AI market concentration nearing bubble levels comparable to 1929/2000; hyperscaler bond issuance $220bn H1 2026. [Dalio]",
+      "2027 expected to be brutal for stocks \u2014 fiscal overextension and AI cycle peak the key risks. [Tudor Jones]",
+      "Markets structurally broken: 95% leverage, one-day leveraged vehicles, perpetual futures distorting price discovery. [Ackman]",
+      "Worst US consumer sentiment since 1952; leveraged ETFs creating sharp but rapidly fading volatility spikes. [Burry]",
+      "Economy not where administration wants it, but real wage growth ~1% signals gradual improvement. [Bessent]"
+    ],
+    "sell_side_bullets": [
+      "Nasdaq-100 correction 'probably inevitable' \u2014 both sides of AI trade stalling as hyperscaler capex squeezes cash flow. [Rosenberg]",
+      "US tech bonds at 30-year relative return low vs IG \u2014 buy on supply, not credit concerns; $182bn hyperscaler issuance. [Hartnett]",
+      "Post-midterms: divided government eases fiscal concerns; markets pricing ~50bps hikes through 2027. [Jim Reid]",
+      "Inflation stopped falling, now rising \u2014 core CPI hovering ~3% for 3 years, now moving higher. [Slok]",
+      "Europe structurally doomed by welfare state overhang \u2014 crisis likely before political will exists to fix. [Berezin]",
+      "AI is now the only macro story that matters \u2014 surge in Treasury yields directly tied to AI capital requirements. [Visser shift]"
+    ],
+    "whats_new": [
+      "Tudor Jones 2027 brutal call \u2014 new explicit long-horizon bearish view",
+      "Hartnett ending sell signal and pivoting to tech bond buy \u2014 stance shift post-midterms",
+      "Dalio framing AI concentration as 1929/2000-level bubble \u2014 escalation from prior market caution language",
+      "Berezin 'Europe is Doomed' \u2014 escalation from prior 50% recession probability framing"
+    ],
+    "vs_market_buy": [
+      "Dalio sees AI concentration as existential bubble risk market is underpricing",
+      "Ackman says markets fundamentally broken \u2014 structural distortions from leverage vehicles unpriced",
+      "Tudor Jones sees 2027 pain that forward curves don't reflect"
+    ],
+    "vs_market_sell": [
+      "Hartnett argues tech bonds are fundamentally cheap \u2014 market pricing supply as credit risk",
+      "Rosenberg says Nasdaq-100 correction more inevitable than consensus believes",
+      "Slok notes inflation resuming uptrend that markets have declared over"
+    ],
+    "buy_vs_sell_divergence": [
+      "Buy-side (Dalio, Ackman, Burry) sees structural market breakdown vs sell-side (Hatzius, Wilson) projecting earnings-led continuation",
+      "Bessent optimistic on wage growth / soft landing vs Rosenberg/Slok seeing resuming inflation and recession risk",
+      "Visser (sell) now bullish on AI macro narrative vs Dalio (buy) flagging AI bubble"
+    ],
+    "aligned": [
+      "Post-midterms viewed as inflection point for risk and fiscal trajectory \u2014 consensus across both sides",
+      "Hyperscaler bond supply identified as market-moving force \u2014 Dalio, Hartnett, Visser all flagging",
+      "Higher-for-longer rates environment likely to persist \u2014 Gundlach, Slok, Tudor Jones all pointing same direction"
+    ],
+    "buy_side_trades": [
+      "Short long-duration bonds, long short-duration [Ackman, Gundlach]",
+      "Long Bitcoin as inflation hedge [Tudor Jones]"
+    ],
+    "sell_side_trades": [
+      "Buy US tech bonds on 30-year relative return lows vs IG [Hartnett]",
+      "Long defensives, gold as hedge against mega-cap tech [Bannister]",
+      "30Y Treasury yield toward 5% post-midterms [Hartnett]"
+    ],
+    "dominant_themes": [
+      "AI bubble/supply cycle inflection",
+      "Post-midterms fiscal and rates trajectory",
+      "Structural market distortions from leverage vehicles"
+    ],
+    "buy_side_sentiment": "bearish",
     "sell_side_sentiment": "mixed"
   },
   "month": {
-    "period_start": "2026-10-07",
-    "period_end": "2026-11-06",
-    "entries_count": 146,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "period_start": "2026-10-08",
+    "period_end": "2026-11-07",
+    "entries_count": 131,
+    "buy_side_bullets": [
+      "AI market nearing bubble extremes \u2014 hyperscaler capex, bond issuance, and concentration all at historic levels. [Dalio, Ackman, Burry]",
+      "Higher-for-longer rates is base case \u2014 no Fed cuts in 2026 and risk of hikes; 2-year yield signals 50bps too easy. [Gundlach, Druckenmiller]",
+      "Great Portfolio Reset underway \u2014 financial repression echoing post-WWII as governments use inflation to erode real debt. [Einhorn, Dalio]",
+      "Bitcoin preferred over gold as inflation hedge in a world of fiscal dominance and negative real rates. [Tudor Jones]",
+      "Tepper and Bessent remain outliers seeing positive economic backdrop \u2014 earnings resilient, real wages growing. [Tepper, Bessent]"
+    ],
+    "sell_side_bullets": [
+      "Inflation stopped falling and is now rising \u2014 core CPI ~3% for 3 years, moving higher into end-2026. [Slok, Edwards]",
+      "Stagflation risk rising \u2014 AI-driven asset inflation meets goods/energy shock from Middle East conflict. [Hartnett, Mauldin, Napier]",
+      "US equity valuations at extremes: S&P forward P/E ~22, CAPE >40 \u2014 Nasdaq correction increasingly likely. [Rosenberg, Einhorn]",
+      "Europe structurally vulnerable \u2014 50% recession risk from Iran/energy shock, welfare state overhang precludes reform. [Berezin]",
+      "AI is the only macro story \u2014 Treasury yield surge directly tied to AI capital requirements, not fiscal deterioration alone. [Visser]",
+      "Financial repression accelerating \u2014 higher yields plus recession force faster monetization; bonds lose appeal. [Napier]"
+    ],
+    "whats_new": [
+      "Tudor Jones shifting from fiscal stress framework to explicit 2027 brutal equities call \u2014 escalation",
+      "Hartnett ending sell signal and recommending tech bonds \u2014 tactical pivot post-midterms [shift]",
+      "Berezin raising Europe recession risk to 50% from prior baseline \u2014 escalation [evolving]",
+      "Dalio framing AI concentration as 1929/2000 comparable \u2014 explicit bubble language new this month",
+      "Visser pivoting to bullish on AI narrative as macro driver \u2014 from stagflation bear to AI bull [shift]"
+    ],
+    "vs_market_buy": [
+      "Dalio/Ackman/Burry see structural breakdown market is not pricing \u2014 casino-style leverage, perpetual futures distorting signals",
+      "Gundlach/Druckenmiller see rates staying higher than forward curves imply",
+      "Tudor Jones sees 2027 pain market is ignoring given strong 2026 earnings narrative"
+    ],
+    "vs_market_sell": [
+      "Hartnett says tech bonds cheap vs IG \u2014 supply mismatch not credit deterioration",
+      "Rosenberg says GDP overstated \u2014 savings drawdown supporting consumption that markets read as genuine demand",
+      "Napier says bond markets pricing wrong equilibrium \u2014 financial repression means yields will be suppressed not rise"
+    ],
+    "buy_vs_sell_divergence": [
+      "Major: Buy-side (Dalio, Burry, Ackman) says markets structurally broken; sell-side (Hatzius, Wilson, Yardeni) says earnings drive continuation",
+      "Moderate: Buy-side sees higher-for-longer as certainty (Gundlach, Druckenmiller); sell-side mixed \u2014 Slok agrees, Hatzius less certain",
+      "New: Visser (sell) now bullish on AI as macro narrative vs Dalio (buy) calling it a bubble \u2014 direct contradiction"
+    ],
+    "aligned": [
+      "Hyperscaler bond supply is a major market force \u2014 Dalio, Hartnett, Visser, Rosenberg all flagging $182-220bn issuance",
+      "Post-midterms inflection point for fiscal trajectory and market positioning \u2014 both sides acknowledge",
+      "Financial repression is the long-run resolution to debt \u2014 Napier, Dalio, Einhorn, Mauldin all pointing to same mechanism",
+      "Energy/Iran shock as near-term stagflationary risk \u2014 broad consensus across buy and sell side"
+    ],
+    "buy_side_trades": [
+      "Short long-duration bonds [Ackman, Gundlach, Tudor Jones]",
+      "Long Bitcoin as inflation hedge [Tudor Jones]",
+      "Long copper/gold, short USD [Druckenmiller]",
+      "Defensive posture, net exposure ~25% [Einhorn]"
+    ],
+    "sell_side_trades": [
+      "Buy US tech bonds at 30-year relative return low [Hartnett]",
+      "Long defensives and gold vs mega-cap tech [Bannister]",
+      "Long local-currency EM bonds, real assets [Gundlach]",
+      "30Y Treasury yield toward 5% post-midterms [Hartnett]",
+      "Long Main Street (small/mid-cap, EM) short Davos (Mag-7) [Hartnett]"
+    ],
+    "dominant_themes": [
+      "AI bubble and supply cycle inflection",
+      "Financial repression and debt resolution",
+      "Stagflation from energy shock plus sticky inflation"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "bearish"
   }
 }
