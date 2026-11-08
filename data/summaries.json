@@ -3,141 +3,33 @@
   "today": {
     "date": "2026-11-08",
     "entries_count": 11,
-    "buy_side_bullets": [
-      "Long gold and copper as fiscal excess and supply tightness compound; short USD. [Druckenmiller, Einhorn]",
-      "U.S. equities in early stages of a sustained bear cycle; cutting equity exposure to ~29%. [Einhorn]",
-      "Federal debt compounding at 1.7x GDP growth rate is unsustainable; Treasury undermining fiscal discipline. [Druckenmiller]",
-      "Rotating from memory chips to AI-infrastructure mega-caps (Amazon, Alphabet, TSMC). [Tepper]",
-      "Massive short UK gilts at 154% of fund NAV; broad bearish macro stance on govts/equities. [Odey]"
-    ],
-    "sell_side_bullets": [
-      "No Fed rate cuts in 2026; probability of hike exceeds cut probability; short 30-year Treasury. [Gundlach]",
-      "Financial repression regime accelerating: higher yields + recession = forced negative real rates. [Napier]",
-      "Double-digit inflation possible as fiscal dominance replaces deflation; Ice Age thesis evolving. [Edwards]",
-      "Roaring 2020s base case intact: S&P 7,700 target, 60% probability, 3% real GDP, $310 EPS. [Yardeni]",
-      "S&P 7,800 target on 17% EPS growth; small caps to overweight for first time since March 2021. [Wilson]",
-      "S&P year-end target 6,350; secular bear market conditions persist; real index still below Dec 2021 peak. [Bannister]",
-      "Bipolar economy with 20 imbalances; slowing growth, sticky inflation, rate cuts unlikely. [Mauldin]"
-    ],
-    "whats_new": [
-      "Einhorn signals formal shift to capital preservation: equity exposure cut to 29%, fund closed to new investors. [Einhorn shift]",
-      "Gundlach escalates to explicit rate hike call after months of 'hold' narrative. [Gundlach shift]",
-      "Edwards declares Ice Age thesis over, replaced by fiscal dominance and double-digit inflation thesis. [Edwards shift]",
-      "Bannister hardens bearish stance with 6,350 target reaffirmed vs. prior mixed signals. [Bannister shift]"
-    ],
-    "vs_market_buy": [
-      "Druckenmiller short USD when market consensus remains neutral/long dollar",
-      "Einhorn adding EUR/JPY long vs. dollar as macro hedge - against prevailing USD strength narrative",
-      "Odey shorting UK gilts at extreme size when market expects BOE easing"
-    ],
-    "vs_market_sell": [
-      "Gundlach calling for rate hike when market prices flat-to-cut Fed path",
-      "Edwards warning of double-digit inflation vs. market 2-3% inflation pricing",
-      "Bannister's 6,350 S&P target is 10-15% below current market consensus targets",
-      "Napier warning of financial repression acceleration vs. markets pricing benign soft landing"
-    ],
-    "buy_vs_sell_divergence": [
-      "Buy side (Einhorn, Druckenmiller) explicitly bearish on U.S. equities vs. sell side (Wilson, Yardeni) maintaining bullish targets of 7,700-7,800",
-      "Buy side sees no Fed cuts and bearish macro; sell side split between Yardeni/Wilson (bullish) and Gundlach/Napier/Edwards/Bannister (bearish)",
-      "Druckenmiller short bonds while Wilson expects 10-year below 3.75% via Fed cuts"
-    ],
-    "aligned": [
-      "Federal fiscal deficit is unsustainable and poses long-term risk to bond markets. [Druckenmiller, Gundlach, Napier, Mauldin]",
-      "Inflation will remain structurally elevated above pre-2020 levels; rate cuts are premature. [Gundlach, Edwards, Napier, Mauldin]",
-      "Long-duration developed-market government bonds are unattractive. [Druckenmiller, Gundlach, Odey, Napier]"
-    ],
-    "buy_side_trades": [
-      "Long copper (Druckenmiller - structural supply deficit 8-year horizon)",
-      "Long gold (Druckenmiller, Einhorn)",
-      "Short USD vs. EUR/JPY (Druckenmiller, Einhorn)",
-      "Short 30-year U.S. Treasury (Druckenmiller)",
-      "Short UK gilts at 154% of fund NAV (Odey)",
-      "Long Amazon, Alphabet, TSMC AI infrastructure (Tepper)"
-    ],
-    "sell_side_trades": [
-      "Short 30-year U.S. Treasury (Gundlach)",
-      "Long local-currency EM bonds (Gundlach)",
-      "Long real assets as inflation hedge (Gundlach, Napier)",
-      "Underweight megacap tech, overweight defensive value (Bannister)",
-      "Long S&P small caps overweight (Wilson)",
-      "Overweight financials, healthcare, consumer discretionary, industrials (Wilson)"
-    ],
-    "dominant_themes": [
-      "Inflation persistence and rate hike risk: consensus shifting from 'cuts coming' to 'hikes possible'",
-      "Fiscal excess and bond market vulnerability: debt-to-GDP unsustainability a central concern",
-      "Bifurcated equity outlook: buy-side bearish vs. sell-side bulls (Wilson/Yardeni) maintaining 7,700-7,800 targets"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "bearish"
+    "sell_side_sentiment": "mixed"
   },
   "week": {
     "period_start": "2026-11-01",
     "period_end": "2026-11-08",
     "entries_count": 58,
-    "buy_side_bullets": [
-      "Risk-off positioning accelerating: equity exposures cut, gold and real assets favored. [Einhorn, Druckenmiller, Dalio]",
-      "Long gold and commodities as fiscal monetization risk builds; short USD. [Druckenmiller, Einhorn]",
-      "U.S. equities in early bear cycle; valuation not discounting elevated recession risk. [Einhorn, Dalio, Burry]",
-      "Geopolitical tail risks elevated; Iran conflict and Middle East uncertainty weigh on consumer confidence. [Tudor Jones, Druckenmiller]",
-      "AI infrastructure tech remains the one defensive-growth pocket worth owning despite broad caution. [Tepper, Druckenmiller]"
-    ],
-    "sell_side_bullets": [
-      "No Fed rate cuts in 2026; hike probability rising above cut probability as inflation stays sticky. [Gundlach, Mauldin, Bannister]",
-      "Financial repression regime underway; higher yields combined with recession to accelerate debt erosion. [Napier, Edwards]",
-      "S&P 500 targets deeply divided: 7,700-7,800 bull case (Yardeni, Wilson) vs. 6,350 bear case (Bannister). [Yardeni, Wilson, Bannister]",
-      "Recession risk elevated at ~25-35%; consumer and earnings deceleration visible. [Berezin, Rosenberg, Mauldin, Bannister]",
-      "BofA flows show defensive rotation continuing; market internals weakening beneath surface indices. [Hartnett]"
-    ],
-    "whats_new": [
-      "Einhorn formally shifts to capital preservation mode; fund closed to new investors. [Einhorn shift]",
-      "Gundlach escalates from 'no cuts' to explicit rate hike call. [Gundlach shift]",
-      "Edwards abandons Ice Age deflation thesis in favor of fiscal dominance/double-digit inflation. [Edwards shift]",
-      "Jordi Visser turns bullish at 22V Research after prior bearish stance; sees AI productivity lift. [Visser shift]",
-      "Paul Tudor Jones shifted to mixed from prior bearish, acknowledging resilient consumer data. [Tudor Jones evolving]"
-    ],
-    "vs_market_buy": [
-      "Druckenmiller and Einhorn short USD vs. prevailing market USD strength consensus",
-      "Odey shorting UK gilts at extreme 154% NAV when BOE easing is priced",
-      "Dalio and Burry bearish on U.S. equities while market indices near highs"
-    ],
-    "vs_market_sell": [
-      "Gundlach calling rate hike vs. market pricing flat-to-cut Fed path",
-      "Bannister 6,350 year-end target is 10-15% below market consensus",
-      "Napier warning financial repression will punish bond holders vs. market pricing benign soft landing",
-      "Berezin and Rosenberg: recession probability at 35-40% vs. consensus ~20%"
-    ],
-    "buy_vs_sell_divergence": [
-      "Buy side broadly bearish on U.S. equities (Dalio, Einhorn, Druckenmiller, Burry) vs. sell side bifurcated with Wilson/Yardeni maintaining 7,700+ targets",
-      "Buy side (Druckenmiller, Odey) short bonds vs. sell side Wilson expecting 10-year below 3.75%",
-      "Bessent (buy side, Treasury) maintains optimistic growth narrative vs. sell side bears (Rosenberg, Berezin, Mauldin) seeing clear deceleration"
-    ],
-    "aligned": [
-      "Fiscal deficit unsustainability is the top long-term risk. [Druckenmiller, Gundlach, Napier, Mauldin, Dalio]",
-      "Inflation will remain structurally elevated; rate cuts are premature or counterproductive. [Gundlach, Edwards, Napier, Mauldin, Bannister]",
-      "Avoid long-duration developed-market government bonds. [Druckenmiller, Gundlach, Odey, Napier, Edwards]",
-      "AI and technology infrastructure remains the strongest structural growth pocket. [Tepper, Druckenmiller, Wilson]"
-    ],
-    "buy_side_trades": [
-      "Long gold (Druckenmiller, Einhorn, Dalio)",
-      "Long copper (Druckenmiller)",
-      "Short USD vs. EUR/JPY (Druckenmiller, Einhorn)",
-      "Short UK gilts (Odey)",
-      "Long AI-infrastructure tech: Amazon, Alphabet, TSMC (Tepper)",
-      "Defensive positioning: cut equity exposure, raise cash (Einhorn, Dalio)"
-    ],
-    "sell_side_trades": [
-      "Short 30-year U.S. Treasury (Gundlach)",
-      "Long local-currency EM bonds (Gundlach)",
-      "Underweight megacap tech, overweight defensive value (Bannister)",
-      "Overweight small caps (Wilson)",
-      "Overweight financials, healthcare, industrials (Wilson)",
-      "Long real assets as financial repression hedge (Napier, Gundlach)"
-    ],
-    "dominant_themes": [
-      "Rate hike risk resurgent: 'no cuts in 2026' narrative hardening to 'possible hike'",
-      "Fiscal reckoning: U.S. debt trajectory unsustainable across both sides; bond market vulnerability rising",
-      "Equity market bifurcation: buy-side bears vs. sell-side bulls creating widest outlook divergence of 2026"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
@@ -145,72 +37,16 @@
     "period_start": "2026-10-09",
     "period_end": "2026-11-08",
     "entries_count": 142,
-    "buy_side_bullets": [
-      "Risk-off posture dominant: equity exposures broadly reduced; gold, real assets, commodities preferred. [Dalio, Einhorn, Druckenmiller, Burry, Tudor Jones]",
-      "Long gold and short USD as fiscal excess and geopolitical risk drive safe-haven demand. [Druckenmiller, Einhorn, Dalio]",
-      "U.S. equities overvalued and entering bear territory; recession risk not priced. [Einhorn, Dalio, Burry, Tudor Jones]",
-      "AI infrastructure the lone high-conviction long amid broad bearishness; rotating out of memory chips. [Tepper, Druckenmiller]",
-      "Scott Bessent (Treasury) and Bill Ackman maintain selective optimism on fiscal reform potential. [Bessent, Ackman]"
-    ],
-    "sell_side_bullets": [
-      "Rate cuts unlikely in 2026; probability of hike exceeded cut probability through Q4. [Gundlach, Mauldin, Edwards]",
-      "Recession probability 25-40%; consumer deceleration, earnings breadth narrowing. [Berezin, Rosenberg, Bannister, Mauldin]",
-      "Financial repression regime underway; debt resolution via inflation at 4-5.5% over next decade. [Napier, Edwards]",
-      "S&P 500 consensus deeply split: 7,700-7,800 bulls (Yardeni, Wilson) vs. 6,350 bears (Bannister) in widest divergence of cycle. [Yardeni, Wilson, Bannister]",
-      "BofA flows showing sustained defensive rotation; risk appetite declining throughout October-November. [Hartnett]",
-      "Credit spreads too tight given recession probability - positioned for spread widening. [Rosenberg, Berezin]"
-    ],
-    "whats_new": [
-      "Einhorn formally closes to new capital and cuts equity exposure to 29%: most defensive stance in Greenlight history. [Einhorn shift]",
-      "Gundlach moves from 'no cuts' to explicit rate hike advocacy. [Gundlach shift]",
-      "Edwards declares Ice Age over: fiscal dominance and double-digit inflation the new paradigm. [Edwards shift]",
-      "Jordi Visser reverses to bullish at 22V on AI productivity thesis. [Visser shift]",
-      "Paul Tudor Jones moved from bearish to mixed acknowledging resilient consumer but maintaining geopolitical hedges. [Tudor Jones evolving]",
-      "Dalio's Bridgewater has consistently deepened bearish conviction across the month. [Dalio evolving]"
-    ],
-    "vs_market_buy": [
-      "Druckenmiller, Einhorn, Odey all short USD or long alternatives when market consensus is USD positive",
-      "Dalio, Burry, Einhorn bearish on U.S. equities while indices remain near historical highs",
-      "Odey and Druckenmiller short developed-market bonds when market prices easing cycle to begin"
-    ],
-    "vs_market_sell": [
-      "Gundlach and Napier warning of hike/repression vs. market pricing benign soft landing",
-      "Berezin and Rosenberg recession probability 35-40% vs. market consensus ~20%",
-      "Bannister 6,350 target is 15% below prevailing market consensus; most bearish major sell-side call",
-      "Edwards double-digit inflation call vs. 2-3% market breakeven pricing"
-    ],
-    "buy_vs_sell_divergence": [
-      "Buy side bears (Dalio, Einhorn, Burry, Druckenmiller) vs. sell side bulls (Wilson, Yardeni) represent widest outlook divergence of 2026",
-      "Buy side broadly short or underweight bonds; sell side split with Wilson bullish on 10-year vs. Gundlach/Napier bearish",
-      "Treasury Secretary Bessent's optimistic fiscal reform narrative clashes with sell-side bears on recession risk"
-    ],
-    "aligned": [
-      "Fiscal deficit is the top systemic risk; debt compounding faster than GDP is universally flagged. [Druckenmiller, Gundlach, Napier, Dalio, Mauldin, Ackman]",
-      "Inflation will remain structurally above pre-2020 norms; rate cuts in 2026 are premature. [Gundlach, Edwards, Napier, Mauldin, Bannister, Dalio]",
-      "Long-duration developed-market government bonds are unattractive or outright shorts. [Druckenmiller, Gundlach, Napier, Edwards, Odey]",
-      "AI and technology infrastructure is the one structural growth pocket with cross-side consensus. [Tepper, Druckenmiller, Wilson, Hartnett]"
-    ],
-    "buy_side_trades": [
-      "Long gold (Druckenmiller, Einhorn, Dalio)",
-      "Long copper (Druckenmiller)",
-      "Short USD vs. EUR/JPY/basket (Druckenmiller, Einhorn)",
-      "Short UK gilts at extreme size (Odey)",
-      "Long AI-infrastructure tech (Tepper, Druckenmiller)",
-      "Raise cash / cut net equity exposure (Einhorn, Dalio, Tudor Jones)"
-    ],
-    "sell_side_trades": [
-      "Short 30-year U.S. Treasury (Gundlach)",
-      "Long local-currency EM bonds (Gundlach)",
-      "Long real assets as financial repression hedge (Napier, Gundlach)",
-      "Underweight megacap tech, overweight defensive value and gold (Bannister)",
-      "Overweight small caps and cyclicals (Wilson)",
-      "Credit spread wideners (Rosenberg, Berezin)"
-    ],
-    "dominant_themes": [
-      "Fiscal reckoning: debt unsustainability and bond market vulnerability as overarching macro risk",
-      "Inflation-rate paradox: sticky inflation argues against cuts but slowing growth argues for them, creating policy trap",
-      "Equity market bifurcation: widest divergence between buy-side bears and sell-side bulls of the entire 2026 cycle"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   }
