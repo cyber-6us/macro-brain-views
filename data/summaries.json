@@ -20,71 +20,16 @@
     "period_start": "2026-11-02",
     "period_end": "2026-11-09",
     "entries_count": 52,
-    "buy_side_bullets": [
-      "Short bonds, long gold and copper as US debt compounds at 1.7x GDP growth rate — fiscal trajectory structurally unsustainable. [Druckenmiller, Dalio, PTJ, Ackman]",
-      "AI market approaching bubble levels analogous to 1929 and 2000 — hyperscaler bond issuance hit $220B in H1 2026, wealth-to-money ratios historically ominous. [Dalio, Burry]",
-      "Markets feel 'broken' — 95% leverage, one-day ETFs, perpetual futures distorting price discovery; worst US consumer sentiment since 1952. [Ackman, Burry]",
-      "2027 recovery thesis conditional on clearing Iran war, inflation, and fiscal headwinds; near-term tactical Q4 2026 rally still expected. [PTJ, Ackman]",
-      "Short USD structurally; long copper on AI data-center demand creating structural supply deficit over next 8 years. [Druckenmiller]"
-    ],
-    "sell_side_bullets": [
-      "Financial repression accelerating — governments using 4-5.5% inflation over next decade to erode extreme debt burdens; bonds structurally less attractive. [Napier, Edwards]",
-      "US recession probability at 40%, Europe/Japan at 50% — Iran oil shock is dominant macro trigger; crude could reach $200 on sustained Strait of Hormuz disruption. [Berezin, Hatzius]",
-      "Bull & Bear Indicator sell signal ended Oct 18; post-midterms dollar weakening, 30Y yield toward 5%; US tech bonds at 30-year relative return low vs IG — buy signal. [Hartnett shift]",
-      "Higher-for-longer rates sustained: AI productivity gains zero for S&P 493, concentrated in Mag-7; K-shaped divergence widening with consumer delinquencies rising. [Slok, Rosenberg]",
-      "'Ice Age' thesis morphing into fiscal dominance regime — double-digit inflation possible as fiscal stimulus overwhelms monetary restraint. [Edwards]"
-    ],
-    "whats_new": [
-      "Hartnett ends tactical caution post-midterms — Bull & Bear sell signal expired Oct 18; flips to buy US tech bonds on 30-year relative cheapness. [Hartnett shift]",
-      "Bessent concedes economy below administration targets in early November, shifting from earlier '3.5%+ growth, very optimistic' stance. [Bessent shift]",
-      "Dalio adds hyperscaler bond issuance ($220B H1 2026) as new AI bubble risk catalyst beyond traditional valuation measures. [Dalio evolving]",
-      "PTJ separates near-term from structural view — tactical Q4 2026 rally call while maintaining deeply bearish 2027 outlook. [PTJ shift]",
-      "Reid frames macro as '1999 meets 1990' in November World Outlook — Brent scenarios $86-$150 depending on Strait of Hormuz status. [Reid evolving]"
-    ],
-    "vs_market_buy": [
-      "Bond short remains contrarian as markets price residual cut probability — Druckenmiller, PTJ, Ackman see structural yield repricing ahead",
-      "Market pricing AI bull scenario that conflicts with Dalio/Burry bubble warnings and Ackman's 'markets broken' assessment"
-    ],
-    "vs_market_sell": [
-      "Gundlach: Fed hike more likely than cut — firmly rejects residual cut probability markets still price",
-      "Napier and Edwards: bond markets pricing far too little financial repression risk and inflation upside over the decade",
-      "Rosenberg: labor market deterioration sharper than consensus models — forced and aggressive Fed rate cuts ahead"
-    ],
-    "buy_vs_sell_divergence": [
-      "Bessent (buy) sees no recession and improving economy into 2027; Berezin and Hatzius (sell) have US recession at 40% and Europe/Japan at 50%",
-      "Yardeni (sell) maintains Roaring 2020s S&P 8,250 target; Dalio and Einhorn (buy) warn of bubble conditions and are cutting risk",
-      "Howard Marks (buy): prefer stocks over bonds for AI exposure; Napier (sell): avoid bonds AND increasingly cautious on US equities too"
-    ],
-    "aligned": [
-      "Bond markets structurally less attractive — consensus across buy and sell side that higher rates persist into 2027",
-      "AI is the dominant macro variable — but concentration of gains in Mag-7 vs near-zero payoff for S&P 493 widely noted by both sides",
-      "USD likely to weaken structurally — buy and sell side aligned on dollar bearishness given fiscal excess",
-      "Post-midterms: divided government reduces fiscal stimulus risk near-term, supportive of seasonal year-end rally"
-    ],
-    "buy_side_trades": [
-      "Long copper via front-end futures on structural AI/data-center demand supply deficit [Druckenmiller]",
-      "Long gold as primary fiscal deterioration and inflation hedge [Druckenmiller, Einhorn, Tepper]",
-      "Short long-duration Treasuries [Druckenmiller, PTJ, Ackman]",
-      "Short USD broadly [Druckenmiller]",
-      "Long small-cap volatility via large options position [PTJ]",
-      "Long Visa, Mastercard; long Microsoft as AI value play [Ackman]",
-      "Long Amazon, Alphabet, TSMC for AI infrastructure [Tepper]"
-    ],
-    "sell_side_trades": [
-      "Buy US tech bonds on 30-year relative return low vs investment-grade [Hartnett]",
-      "Short 30-year US Treasury [Gundlach, Napier]",
-      "Underweight megacap tech, overweight defensive value stocks [Bannister]",
-      "Long local-currency EM bonds as diversification from DM fiscal risk [Gundlach]",
-      "Underweight European and Japanese equities vs US on oil shock vulnerability [Berezin]",
-      "Long Ethereum over Bitcoin for instant settlement in agentic AI phase [Visser]",
-      "Long Eli Lilly and Micron as AI infrastructure/execution plays [Visser]",
-      "Long small caps; overweight financials, healthcare, industrials [Mike Wilson]"
-    ],
-    "dominant_themes": [
-      "AI concentration and bubble risk — $220B hyperscaler bond issuance in H1 2026, valuation analogies to 1929 and 2000 era peaks",
-      "Financial repression and fiscal dominance — governments inflating away extreme debt loads; bonds structurally unattractive for the decade",
-      "Post-midterm macro rotation — divided government, dollar weakening, 30Y yield spike capping equities; near-term seasonal tailwind"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
@@ -92,76 +37,16 @@
     "period_start": "2026-10-10",
     "period_end": "2026-11-09",
     "entries_count": 138,
-    "buy_side_bullets": [
-      "Short bonds and long real assets — fiscal excess and structural monetary change make long-duration Treasuries a losing trade for the cycle. [Druckenmiller, PTJ, Ackman, Dalio, Odey]",
-      "AI market at extreme valuations — bubble analogies to 1929 and 2000 intensifying as hyperscaler capex crowds out returns for non-AI businesses. [Dalio, Burry, PTJ]",
-      "Capital preservation posture widespread — net equity exposure trimmed across buy-side macro funds as recession risk and overvaluation concerns grow. [Einhorn, Dalio, Odey]",
-      "Gold and copper preferred over equities as fiscal hedges — real assets outperform in fiscal dominance / financial repression regime. [Druckenmiller, Einhorn, Tepper]",
-      "2027 recovery conditional — multiple buy-side investors see a turnaround in 2027 only if Iran war, inflation, and fiscal headwinds clear simultaneously. [Ackman, PTJ, Dalio]"
-    ],
-    "sell_side_bullets": [
-      "US recession at 40%, Europe/Japan at 50% — Iran oil shock replaced tariffs as primary macro trigger; prolonged Strait of Hormuz closure could push crude to $200. [Berezin, Hatzius, Mauldin]",
-      "Financial repression replacing monetary restraint as the dominant policy regime — real rates to stay negative for a decade as governments inflate away debt. [Napier, Edwards, Reid]",
-      "Bond markets at secular crossroads — secular bull in fixed income definitively ending; yields structurally higher for a decade. [Gundlach, Napier, Edwards, Reid]",
-      "K-shaped economy widening — AI productivity gains concentrated in Mag-7 while S&P 493 shows zero revenue-per-worker improvement; consumer delinquencies rising. [Slok, Hartnett, Rosenberg, Sonders]",
-      "Post-midterms transition: Bull & Bear sell signal ended, 'anything but dollar' trade has legs, tech bonds at relative lows — selective risk-on emerging. [Hartnett shift]"
-    ],
-    "whats_new": [
-      "Hartnett's October 2026 flow data confirms lowest US stock share of global flows since 2020 — 'anything but dollar' trade now institutionalized. [Hartnett shift]",
-      "Bessent's tone shifted from 'very optimistic' (February 2026) to 'not where we want it yet' (November 2026) — first material concession on economic trajectory. [Bessent shift]",
-      "Berezin upgraded European recession risk from 30% to 50% driven by Iran war oil shock — adds Japan at same 50% threshold. [Berezin evolving]",
-      "Napier's 'Shock of 26' research explicitly framed higher yields plus recession as an accelerant of financial repression, not a Fed rescue trigger. [Napier evolving]",
-      "Gundlach raised tail risk of US Treasury debt restructuring for first time — forced coupon reductions on bondholders. [Gundlach evolving]"
-    ],
-    "vs_market_buy": [
-      "Buy-side macro funds collectively short bonds while market still prices residual Fed cuts — sees structural repricing ahead not reflected in forwards",
-      "AI bubble risk warnings from Dalio and Burry sharply at odds with market multiple expansion in hyperscalers and AI infrastructure names"
-    ],
-    "vs_market_sell": [
-      "Gundlach, Napier, Edwards all see hike risk as underpriced relative to current market forwards that show mild easing bias",
-      "Rosenberg and Berezin have recession probability (40-60%) well above market-implied probability embedded in credit spreads and equity multiples",
-      "Albert Edwards sees double-digit inflation risk as not priced at all in breakevens or equity discount rates"
-    ],
-    "buy_vs_sell_divergence": [
-      "Bessent (buy/Treasury): 3%+ growth, no recession, strong dollar — directly opposed by Berezin and Rosenberg (sell): 40% recession odds, forced Fed cuts, labor market deteriorating",
-      "Yardeni and Mike Wilson (sell) maintain S&P 8,250-7,800 targets; Einhorn, Dalio, Burry (buy) warn of extreme bubble conditions and cut net long exposure",
-      "Tepper (buy) rotating into AI infrastructure and consumer cyclicals; Hartnett (sell) favors non-US equities and 'long Detroit, short Davos'"
-    ],
-    "aligned": [
-      "Long-duration bonds structurally unattractive — unanimous view across buy and sell side regardless of base case growth outlook",
-      "USD structurally weak — broad dollar bearishness tied to fiscal excess, rate convergence, and de-dollarization trends",
-      "AI is the defining macro variable — but benefit concentration in Mag-7 vs zero payoff for broader market is a cross-side consensus finding",
-      "Iran war and Middle East conflict materially changes growth and inflation calculus — Brent $86 base case with $150 tail risk now embedded in models",
-      "Post-midterms: divided government reduces fiscal urgency near-term, supportive of Q4 seasonal equity rally"
-    ],
-    "buy_side_trades": [
-      "Long copper via front-end futures (structural AI/data-center supply deficit) [Druckenmiller]",
-      "Long gold as fiscal deterioration and inflation hedge [Druckenmiller, Einhorn, Tepper, Dalio]",
-      "Short long-duration Treasuries (30-year) [Druckenmiller, PTJ, Ackman, Odey]",
-      "Short UK gilts at extreme 154.8% NAV position [Odey]",
-      "Short USD broadly [Druckenmiller, Einhorn]",
-      "Long Bitcoin as inflation/fiscal hedge [PTJ]",
-      "Long small-cap volatility [PTJ]",
-      "Long Microsoft, Visa, Mastercard as AI value plays [Ackman]",
-      "Reduce net equity exposure to ~29% — capital preservation [Einhorn]"
-    ],
-    "sell_side_trades": [
-      "Buy US tech bonds on 30-year relative return low vs investment-grade [Hartnett]",
-      "Short 30-year US Treasury [Gundlach, Napier, Edwards]",
-      "Underweight megacap tech, overweight defensive value [Bannister]",
-      "Long local-currency EM bonds [Gundlach]",
-      "Long small caps; overweight financials, healthcare, industrials [Mike Wilson]",
-      "Underweight European and Japanese equities on oil shock vulnerability [Berezin]",
-      "Long gold over bonds as financial repression hedge [Napier, Bannister]",
-      "Long Eli Lilly and Micron as AI infrastructure plays [Visser]",
-      "High cash allocation (~20%) as defensive buffer [Gundlach]",
-      "Long Ethereum over Bitcoin for agentic AI phase [Visser]"
-    ],
-    "dominant_themes": [
-      "AI concentration and bubble risk — hyperscaler $220B bond issuance, 1929/2000 valuation analogies, Mag-7 vs S&P 493 productivity divergence",
-      "Financial repression and fiscal dominance — governments inflating away extreme debt; bonds the secular loser for the decade",
-      "Iran war macro shock — oil price tail risks ($200 crude), Europe/Japan 50% recession risk, global growth revision cycle ongoing"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   }
