@@ -1,53 +1,157 @@
 {
-  "generated_at": "2026-11-09",
+  "generated_at": "2026-11-10",
   "today": {
-    "date": "2026-11-09",
-    "entries_count": 0,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "buy_side_bullets": [
+      "US assets will attract more concentration as global geopolitical chaos escalates \u2014 April 2026 Bloomberg interview [Bass]"
+    ],
+    "sell_side_bullets": [
+      "30Y Treasury yield reached ~5% target \u2014 but 'frozen bullish' positioning is entrenched and the risk-off window may persist [Hartnett]"
+    ],
+    "whats_new": "Michael Hartnett: 30Y Treasury yield reached ~5% target \u2014 but 'frozen bullish' positioning is entrenched and the risk-off window may persist",
+    "vs_market_buy": "Buy-side is broadly mixed; watch for rotation signals in equities and credit",
+    "vs_market_sell": "Sell-side is bearish; macro headwinds flagged in rates and FX",
+    "buy_vs_sell_divergence": "Buy-side mixed vs sell-side bearish",
+    "aligned": [
+      "Rising rates / bond vigilance \u2014 consensus risk factor across both sides",
+      "USD trajectory \u2014 both sides watching dollar direction as macro signal",
+      "Equity concentration risk in Mag-7 / tech \u2014 shared concern"
+    ],
+    "buy_side_trades": [
+      "Long US assets for capital concentration trade vs international alternatives",
+      "Long defense/precision weapons names on bipartisan rearmament budget"
+    ],
+    "sell_side_trades": [
+      "Long 30-year Treasuries with yield at ~5% target",
+      "Short USD/DXY targeting below 100"
+    ],
+    "dominant_themes": [
+      "equities",
+      "fx",
+      "bonds",
+      "rates",
+      "commodities"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "bearish",
+    "entries_count": 2,
+    "date": "2026-11-10"
   },
   "week": {
-    "period_start": "2026-11-02",
-    "period_end": "2026-11-09",
-    "entries_count": 52,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "buy_side_bullets": [
+      "US assets will attract more concentration as global geopolitical chaos escalates \u2014 April 2026 Bloomberg interview [Bass]",
+      "Long copper and gold as supply tightness persists over next 8 years [Druckenmiller]",
+      "Rotating out of memory chips (Micron sold down, SanDisk fully exited) on weakening cycle [Tepper]",
+      "U.S. equity market in early stages of a sustained bear cycle [Einhorn]",
+      "Massive short UK gilts at 154.8% of European fund NAV [Odey]",
+      "2027 could be brutal for equities as AI optimism peaks and fiscal tailwinds fade [Jones]",
+      "AI market approaching bubble levels analogous to 1929 and 2000 crashes\u2014watch for holders forced to sell paper wealth for cash [Dalio]",
+      "Stay grounded during market fluctuations\u2014opportunity comes when investors look past noise [Marks]"
+    ],
+    "sell_side_bullets": [
+      "30Y Treasury yield reached ~5% target \u2014 but 'frozen bullish' positioning is entrenched and the risk-off window may persist [Hartnett]",
+      "No Fed rate cuts in 2026; probability of hike exceeds probability of cut [Gundlach]",
+      "Ice Age thesis evolving: fiscal dominance replacing deflation as the dominant force [Edwards]",
+      "Roaring 2020s base case: 3% real GDP growth, $310 S&P EPS, 7,700 target [Yardeni]",
+      "S&P 500 target 7,800 for 2026, with challenging H1 and strong H2 [Wilson]",
+      "'Shock of 26': higher yields plus recession to accelerate financial repression [Napier]",
+      "S&P 500 year-end target 6,350, implying ~14% downside from mid-year highs [Bannister]",
+      "Bipolar economy with 20 simultaneous imbalances creates extreme uncertainty [Mauldin]"
+    ],
+    "whats_new": "Michael Hartnett: 30Y Treasury yield reached ~5% target \u2014 but 'frozen bullish' positioning is entrenched and the risk-off window may persist",
+    "vs_market_buy": "Buy-side is broadly mixed; watch for rotation signals in equities and credit",
+    "vs_market_sell": "Sell-side is bearish; macro headwinds flagged in rates and FX",
+    "buy_vs_sell_divergence": "Buy-side mixed vs sell-side bearish",
+    "aligned": [
+      "Rising rates / bond vigilance \u2014 consensus risk factor across both sides",
+      "USD trajectory \u2014 both sides watching dollar direction as macro signal",
+      "Equity concentration risk in Mag-7 / tech \u2014 shared concern"
+    ],
+    "buy_side_trades": [
+      "Long US assets for capital concentration trade vs international alternatives",
+      "Long defense/precision weapons names on bipartisan rearmament budget",
+      "Long copper (structural supply deficit)",
+      "Long gold (fiscal risk hedge)",
+      "Long Amazon, Alphabet, TSMC (AI infrastructure beneficiaries)",
+      "Exit SanDisk on post-rally profit taking"
+    ],
+    "sell_side_trades": [
+      "Long 30-year Treasuries with yield at ~5% target",
+      "Short USD/DXY targeting below 100",
+      "Short 30-year U.S. Treasury",
+      "Long local-currency EM bonds",
+      "Long S&P 500 on dips toward correction levels",
+      "Long small caps (first overweight since 2021)"
+    ],
+    "dominant_themes": [
+      "equities",
+      "bonds",
+      "rates",
+      "fx",
+      "commodities"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "bearish",
+    "entries_count": 26,
+    "period_start": "2026-11-03",
+    "period_end": "2026-11-10"
   },
   "month": {
-    "period_start": "2026-10-10",
-    "period_end": "2026-11-09",
-    "entries_count": 138,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "buy_side_bullets": [
+      "US assets will attract more concentration as global geopolitical chaos escalates \u2014 April 2026 Bloomberg interview [Bass]",
+      "Long copper and gold as supply tightness persists over next 8 years [Druckenmiller]",
+      "Rotating out of memory chips (Micron sold down, SanDisk fully exited) on weakening cycle [Tepper]",
+      "U.S. equity market in early stages of a sustained bear cycle [Einhorn]",
+      "Massive short UK gilts at 154.8% of European fund NAV [Odey]",
+      "2027 could be brutal for equities as AI optimism peaks and fiscal tailwinds fade [Jones]",
+      "AI market approaching bubble levels analogous to 1929 and 2000 crashes\u2014watch for holders forced to sell paper wealth for cash [Dalio]",
+      "Stay grounded during market fluctuations\u2014opportunity comes when investors look past noise [Marks]"
+    ],
+    "sell_side_bullets": [
+      "30Y Treasury yield reached ~5% target \u2014 but 'frozen bullish' positioning is entrenched and the risk-off window may persist [Hartnett]",
+      "No Fed rate cuts in 2026; probability of hike exceeds probability of cut [Gundlach]",
+      "Ice Age thesis evolving: fiscal dominance replacing deflation as the dominant force [Edwards]",
+      "Roaring 2020s base case: 3% real GDP growth, $310 S&P EPS, 7,700 target [Yardeni]",
+      "S&P 500 target 7,800 for 2026, with challenging H1 and strong H2 [Wilson]",
+      "'Shock of 26': higher yields plus recession to accelerate financial repression [Napier]",
+      "S&P 500 year-end target 6,350, implying ~14% downside from mid-year highs [Bannister]",
+      "Bipolar economy with 20 simultaneous imbalances creates extreme uncertainty [Mauldin]"
+    ],
+    "whats_new": "Michael Hartnett: 30Y Treasury yield reached ~5% target \u2014 but 'frozen bullish' positioning is entrenched and the risk-off window may persist",
+    "vs_market_buy": "Buy-side is broadly mixed; watch for rotation signals in equities and credit",
+    "vs_market_sell": "Sell-side is bearish; macro headwinds flagged in rates and FX",
+    "buy_vs_sell_divergence": "Buy-side mixed vs sell-side bearish",
+    "aligned": [
+      "Rising rates / bond vigilance \u2014 consensus risk factor across both sides",
+      "USD trajectory \u2014 both sides watching dollar direction as macro signal",
+      "Equity concentration risk in Mag-7 / tech \u2014 shared concern"
+    ],
+    "buy_side_trades": [
+      "Long US assets for capital concentration trade vs international alternatives",
+      "Long defense/precision weapons names on bipartisan rearmament budget",
+      "Long copper (structural supply deficit)",
+      "Long gold (fiscal risk hedge)",
+      "Long Amazon, Alphabet, TSMC (AI infrastructure beneficiaries)",
+      "Exit SanDisk on post-rally profit taking"
+    ],
+    "sell_side_trades": [
+      "Long 30-year Treasuries with yield at ~5% target",
+      "Short USD/DXY targeting below 100",
+      "Short 30-year U.S. Treasury",
+      "Long local-currency EM bonds",
+      "Long S&P 500 on dips toward correction levels",
+      "Long small caps (first overweight since 2021)"
+    ],
+    "dominant_themes": [
+      "equities",
+      "bonds",
+      "rates",
+      "fx",
+      "commodities"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "bearish",
+    "entries_count": 27,
+    "period_start": "2026-10-11",
+    "period_end": "2026-11-10"
   }
 }
