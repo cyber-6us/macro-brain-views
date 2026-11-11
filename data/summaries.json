@@ -1,53 +1,185 @@
 {
-  "generated_at": "2026-11-10",
+  "generated_at": "2026-11-11",
   "today": {
-    "date": "2026-11-10",
-    "entries_count": 2,
+    "date": "2026-11-11",
+    "entries_count": 3,
     "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
+    "sell_side_bullets": [
+      "S&P 500 correction nearly over; 8,500 achievable mid-2027 - buy dips toward 7,100. [Wilson]",
+      "Seasonality is not destiny - Iran, AI capex, French political risk are live headwinds for year-end. [Reid]",
+      "Late-Oct AI selloff = forced deleveraging; buying Micron since Oct 27. [Visser]"
+    ],
+    "whats_new": [
+      "Wilson raises target to 8,500 (mid-2027) from prior 7,800 year-end view. [Wilson shift]",
+      "Visser turns buyer after weeks of caution; characterizes October selloff as technical not fundamental. [Visser shift]",
+      "Reid pivots to flagging midterm tailwinds as fragile given Iran/AI cross-currents. [Reid evolving]"
+    ],
+    "vs_market_buy": [
+      "Market pricing modest year-end gains; Wilson sees deeper dip (~7,100) as a buy, not a warning sign"
+    ],
+    "vs_market_sell": [
+      "Consensus expects AI rally to continue; Reid warns productivity gains are years away from GDP impact"
+    ],
+    "buy_vs_sell_divergence": [
+      "No buy-side views today; sell-side split between bullish (Wilson) and cautious (Reid) on equities"
+    ],
+    "aligned": [
+      "AI infrastructure spending seen as ongoing structural theme - both sides agree on that directional view",
+      "Near-term volatility expected over next 2-3 weeks before cleaner picture emerges"
+    ],
     "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "sell_side_trades": [
+      "Long S&P 500 on dips toward 7,100 [Mike Wilson]",
+      "Long Financials / regional banks on deregulation tailwind [Mike Wilson]",
+      "Long Micron (MU) on AI memory demand [Jordi Visser]",
+      "Long Bitcoin / crypto on AI macro / negative real yield thesis [Jordi Visser]"
+    ],
+    "dominant_themes": [
+      "AI selloff as deleveraging vs. bubble - market structure question",
+      "Post-midterm equity positioning and S&P 500 year-end path",
+      "Seasonality vs. macro risk (Iran, French politics, AI capex) for Q4 2026"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "bullish"
   },
   "week": {
-    "period_start": "2026-11-03",
-    "period_end": "2026-11-10",
-    "entries_count": 42,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "period_start": "2026-11-04",
+    "period_end": "2026-11-11",
+    "entries_count": 45,
+    "buy_side_bullets": [
+      "US assets will attract more concentration as global geopolitical chaos escalates \u2014 April 2026 Bloomberg interview. [Kyle Bass]",
+      "Long copper and gold as supply tightness persists over next 8 years. [Stan Druckenmiller]",
+      "Rotating out of memory chips (Micron sold down, SanDisk fully exited) on weakening cycle. [David Tepper]",
+      "U.S. equity market in early stages of a sustained bear cycle. [David Einhorn]",
+      "Massive short UK gilts at 154.8% of European fund NAV. [Crispin Odey]"
+    ],
+    "sell_side_bullets": [
+      "Seasonality alone won't drive year-end rally - Iran conflict, AI capex spending, and French political risk are live threats. [Jim Reid]",
+      "S&P 500 market correction is nearly over - downside to ~7,100 is a buying opportunity. [Mike Wilson]",
+      "Late-October AI selloff was forced deleveraging not bubble burst - $70B+ cut in 90 minutes. [Jordi Visser]",
+      "30Y Treasury yield reached ~5% target \u2014 but 'frozen bullish' positioning is entrenched and the risk-off window may persist. [Michael Hartnett]",
+      "No Fed rate cuts in 2026; probability of hike exceeds probability of cut. [Jeffrey Gundlach]"
+    ],
+    "whats_new": [
+      "Wilson raises medium-term S&P 500 target to 8,500 (mid-2027). [Wilson shift]",
+      "Visser turns buyer of AI/tech after weeks on sidelines, calls Oct selloff technical. [Visser shift]",
+      "Hartnett's BofA sell signal ends (Oct 15) but warns not an all-clear. [Hartnett evolving]"
+    ],
+    "vs_market_buy": [
+      "Bass sees US recession needed to rebuild foundation - more cautious than consensus. [Bass]",
+      "Druckenmiller bearish dollar at historic purchasing power peak - consensus expects USD stability. [Druckenmiller]"
+    ],
+    "vs_market_sell": [
+      "Edwards sees double-digit inflation returning - more extreme than market pricing. [Edwards]",
+      "Berezin recession risk 40% by year-end vs. market pricing near-zero probability. [Berezin]"
+    ],
+    "buy_vs_sell_divergence": [
+      "Buy-side (Druckenmiller, Tepper) rotating into AI/mega-cap after selling memory; sell-side (Reid) warns AI productivity years away",
+      "Gundlach / Napier bearish on duration; Wilson bullish equities despite same rate concern",
+      "Einhorn bearish US equities, moving to Europe; Wilson bullish US on deregulation/AI"
+    ],
+    "aligned": [
+      "AI is the dominant structural theme across buy and sell side",
+      "Iran energy shock complicates inflation picture - both sides agree",
+      "USD weakness expected medium-term. [Druckenmiller, Dalio]",
+      "Gold as hedge preferred across sides amid debt concerns. [Dalio, Napier, Einhorn]"
+    ],
+    "buy_side_trades": [
+      "Long US assets for capital concentration trade vs international alternatives [Kyle Bass]",
+      "Long defense/precision weapons names on bipartisan rearmament budget [Kyle Bass]",
+      "Long gold and hard assets given deeply negative true real rates [Kyle Bass]",
+      "Long copper (structural supply deficit) [Stan Druckenmiller]",
+      "Long gold (fiscal risk hedge) [Stan Druckenmiller]",
+      "Short USD [Stan Druckenmiller]",
+      "Short long-dated bonds [Stan Druckenmiller]",
+      "Long Amazon, Alphabet, TSMC (AI infrastructure beneficiaries) [David Tepper]"
+    ],
+    "sell_side_trades": [
+      "Long 30-year Treasuries with yield at ~5% target [Michael Hartnett]",
+      "Short USD/DXY targeting below 100 [Michael Hartnett]",
+      "Position for tactical tech rotation entry at mid-November if macro stabilizes [Michael Hartnett]",
+      "Short 30-year U.S. Treasury [Jeffrey Gundlach]",
+      "Long local-currency EM bonds [Jeffrey Gundlach]",
+      "Long real assets as inflation hedge [Jeffrey Gundlach]",
+      "Underweight long-duration developed-market govts [Jeffrey Gundlach]",
+      "Long S&P 500 on dips toward correction levels [Ed Yardeni]"
+    ],
+    "dominant_themes": [
+      "AI infrastructure spending and equity concentration risk",
+      "Iran/energy shock feeding inflation and complicating Fed path",
+      "US fiscal deficit / debt sustainability and bond market reaction"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "bearish"
   },
   "month": {
-    "period_start": "2026-10-11",
-    "period_end": "2026-11-10",
-    "entries_count": 137,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "period_start": "2026-10-12",
+    "period_end": "2026-11-11",
+    "entries_count": 135,
+    "buy_side_bullets": [
+      "US assets will attract more concentration as global geopolitical chaos escalates \u2014 April 2026 Bloomberg interview. [Kyle Bass]",
+      "Long copper and gold as supply tightness persists over next 8 years. [Stan Druckenmiller]",
+      "Rotating out of memory chips (Micron sold down, SanDisk fully exited) on weakening cycle. [David Tepper]",
+      "U.S. equity market in early stages of a sustained bear cycle. [David Einhorn]",
+      "Massive short UK gilts at 154.8% of European fund NAV. [Crispin Odey]"
+    ],
+    "sell_side_bullets": [
+      "Seasonality alone won't drive year-end rally - Iran conflict, AI capex spending, and French political risk are live threats. [Jim Reid]",
+      "S&P 500 market correction is nearly over - downside to ~7,100 is a buying opportunity. [Mike Wilson]",
+      "Late-October AI selloff was forced deleveraging not bubble burst - $70B+ cut in 90 minutes. [Jordi Visser]",
+      "30Y Treasury yield reached ~5% target \u2014 but 'frozen bullish' positioning is entrenched and the risk-off window may persist. [Michael Hartnett]",
+      "No Fed rate cuts in 2026; probability of hike exceeds probability of cut. [Jeffrey Gundlach]"
+    ],
+    "whats_new": [
+      "Wilson raises medium-term S&P 500 target to 8,500 (mid-2027). [Wilson shift]",
+      "Visser turns buyer of AI/tech after weeks on sidelines, calls Oct selloff technical. [Visser shift]",
+      "Hartnett's BofA sell signal ends (Oct 15) but warns not an all-clear. [Hartnett evolving]"
+    ],
+    "vs_market_buy": [
+      "Bass sees US recession needed to rebuild foundation - more cautious than consensus. [Bass]",
+      "Druckenmiller bearish dollar at historic purchasing power peak - consensus expects USD stability. [Druckenmiller]"
+    ],
+    "vs_market_sell": [
+      "Edwards sees double-digit inflation returning - more extreme than market pricing. [Edwards]",
+      "Berezin recession risk 40% by year-end vs. market pricing near-zero probability. [Berezin]"
+    ],
+    "buy_vs_sell_divergence": [
+      "Buy-side (Druckenmiller, Tepper) rotating into AI/mega-cap after selling memory; sell-side (Reid) warns AI productivity years away",
+      "Gundlach / Napier bearish on duration; Wilson bullish equities despite same rate concern",
+      "Einhorn bearish US equities, moving to Europe; Wilson bullish US on deregulation/AI"
+    ],
+    "aligned": [
+      "AI is the dominant structural theme across buy and sell side",
+      "Iran energy shock complicates inflation picture - both sides agree",
+      "USD weakness expected medium-term. [Druckenmiller, Dalio]",
+      "Gold as hedge preferred across sides amid debt concerns. [Dalio, Napier, Einhorn]"
+    ],
+    "buy_side_trades": [
+      "Long US assets for capital concentration trade vs international alternatives [Kyle Bass]",
+      "Long defense/precision weapons names on bipartisan rearmament budget [Kyle Bass]",
+      "Long gold and hard assets given deeply negative true real rates [Kyle Bass]",
+      "Long copper (structural supply deficit) [Stan Druckenmiller]",
+      "Long gold (fiscal risk hedge) [Stan Druckenmiller]",
+      "Short USD [Stan Druckenmiller]",
+      "Short long-dated bonds [Stan Druckenmiller]",
+      "Long Amazon, Alphabet, TSMC (AI infrastructure beneficiaries) [David Tepper]"
+    ],
+    "sell_side_trades": [
+      "Long 30-year Treasuries with yield at ~5% target [Michael Hartnett]",
+      "Short USD/DXY targeting below 100 [Michael Hartnett]",
+      "Position for tactical tech rotation entry at mid-November if macro stabilizes [Michael Hartnett]",
+      "Short 30-year U.S. Treasury [Jeffrey Gundlach]",
+      "Long local-currency EM bonds [Jeffrey Gundlach]",
+      "Long real assets as inflation hedge [Jeffrey Gundlach]",
+      "Underweight long-duration developed-market govts [Jeffrey Gundlach]",
+      "Long S&P 500 on dips toward correction levels [Ed Yardeni]"
+    ],
+    "dominant_themes": [
+      "AI infrastructure spending and equity concentration risk",
+      "Iran/energy shock feeding inflation and complicating Fed path",
+      "US fiscal deficit / debt sustainability and bond market reaction"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "bearish"
   }
 }
