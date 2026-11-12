@@ -3,240 +3,51 @@
   "today": {
     "date": "2026-11-12",
     "entries_count": 6,
-    "buy_side_bullets": [
-      "Traditional economic laws governing the past 40 years — falling rates, fiscal restraint, globalization — may no longer apply; investors must recalibrate return expectations. [Marks]",
-      "Soros CIO Fitzpatrick: 'one of the most difficult macro backdrops in decades' — Q2 13F rotates defensively into utilities, maintains elevated put overlay. [Soros]",
-      "Geopolitical fragmentation keeps cross-asset dispersion at multi-year highs, creating 'uniquely favorable' macro trading environment. [Alan Howard]"
-    ],
-    "sell_side_bullets": [
-      "US recession probability now above 50/50 for the first time, driven by real wage erosion, tighter financial conditions, and converging triple squeeze. [Rosenberg]",
-      "'1999 meets 1990': AI speculation colliding with fiscal risk premia — multiple compression risk even without an earnings shock; S&P target ~8,000. [Reid]",
-      "Physical World Upgrade: AI transitioning from cloud to energy grids, electrical systems, and thermal cooling infrastructure — the real-economy mega-capex cycle. [Visser]"
-    ],
-    "whats_new": [
-      "Howard Marks's September 22 'Shall We Repeal the Laws of Economics Part III' memo formally questions 40-year macro paradigm assumptions [Marks]",
-      "Rosenberg escalates US recession call above 50/50 — the most explicit probability crossing of the year [Rosenberg]",
-      "Jim Reid's mid-year 'Five Themes' tracker formalizes Deutsche Bank's growth downgrade to 3% and S&P 500 target of ~8,000 [Reid]",
-      "Jordi Visser's Physical World Upgrade thesis: AI infrastructure shifting from cloud to real economy (energy, electrical, cooling) [Visser]",
-      "Soros Fund CIO Fitzpatrick describes 'most difficult macro backdrop in decades' amid Q2 13F defensive rotation into utilities [Soros]"
-    ],
-    "vs_market_buy": [
-      "Marks explicitly cautions AI valuations require discipline despite transformational conviction — counter to market's narrative enthusiasm. [Marks]",
-      "Soros Fund rotates defensively into utilities despite broad market near multi-year highs — one of the most explicit defensive 13F moves of the year. [Soros]"
-    ],
-    "vs_market_sell": [
-      "Visser bullish on energy infrastructure and crypto as AI agents create genuine programmable-money utility demand — counter to cautious sell-side consensus. [Visser]",
-      "Reid's S&P 500 target of ~8,000 is below consensus Street estimates despite being a mid-year upgrade from prior view. [Reid]"
-    ],
-    "buy_vs_sell_divergence": [
-      "Marks (buy-side) sees equities preferred over bonds for AI exposure; Reid (sell-side) flags multiple compression risk on equities even without earnings shock.",
-      "Alan Howard (buy-side) bullish on macro dispersion creating alpha opportunities; Rosenberg (sell-side) interprets same dispersion as evidence of broad economic deterioration."
-    ],
-    "aligned": [
-      "Both sides acknowledge the economic paradigm has fundamentally shifted — traditional rate and fiscal rules no longer fully apply. [Marks, Rosenberg, Reid, Visser, Soros]",
-      "AI infrastructure is a structural mega-cycle but valuation and timing of related assets remain actively contested across buy and sell sides. [Marks, Visser, Reid, Alan Howard]"
-    ],
-    "buy_side_trades": [
-      "Long utilities — Soros Fund Q2 defensive rotation as macro backdrop deteriorates [Soros]",
-      "Long digital assets — Brevan Howard continuing strategic firm-wide pivot [Alan Howard]",
-      "Private credit over public bonds, with rigorous selectivity [Marks]"
-    ],
-    "sell_side_trades": [
-      "Short 10-year US Treasury — fiscal risk premium expanding, higher-for-longer locked in under Warsh [Reid]",
-      "Long energy infrastructure and electrical grid build-out stocks — Physical World Upgrade beneficiaries [Visser]",
-      "Long US Treasuries as 2027 recession hedge [Rosenberg]",
-      "Fade bond market volatility — TACO PTSD-driven moves are tactical noise [Visser]"
-    ],
-    "dominant_themes": [
-      "Economic paradigm shift — 40-year macro rules under structural challenge",
-      "Recession risk escalating — Rosenberg crosses 50/50 threshold for first time",
-      "AI Physical World Upgrade cycle — energy and electrical infrastructure as next mega-capex",
-      "Financial conditions tightening without Fed action — involuntary monetary tightening"
-    ],
-    "buy_side_sentiment": "bearish",
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "week": {
     "period_start": "2026-11-05",
     "period_end": "2026-11-12",
     "entries_count": 36,
-    "buy_side_bullets": [
-      "AI market approaching bubble levels comparable to 1929 and 2000; hyperscaler bond issuance hit $220B in H1 2026. [Dalio]",
-      "Federal debt compounding at 1.7x GDP growth rate; macro investing relevant again after a decade of dormancy; long copper, gold, short bonds, short USD. [Druckenmiller]",
-      "No Fed rate cuts in 2026; next recession could trigger a debt crisis sending long-term yields sharply higher. [Gundlach]",
-      "2027 could be brutal for equities as AI optimism peaks and fiscal tailwinds fade; tactical Q4 2026 rally still expected. [PTJ]",
-      "Markets 'broken' with casino-style trading and 95% leverage distorting price discovery; rejects simple AI-boom euphoria narrative. [Ackman]",
-      "30-year Treasury yield at ~5% target reached; investors 'frozen bullish' — risk-off window may not be over. [Hartnett]",
-      "Worst year for US consumer sentiment on record since 1952; new market forces masking real underlying fragility. [Burry]",
-      "Early stages of a sustained bear cycle; net equity exposure cut to ~29%; capital preservation posture. [Einhorn]",
-      "Traditional economic laws governing the past 40 years may no longer apply — new paradigm memo challenges return assumptions. [Marks]",
-      "Geopolitical fragmentation creates elevated cross-asset dispersion — 'uniquely favorable' macro trading environment. [Alan Howard]"
-    ],
-    "sell_side_bullets": [
-      "Bond yields rising sharply as secular stagnation narrative breaks down; fiscal dominance replacing QE-era suppressed yields. [Edwards]",
-      "'Shock of 26': financial repression accelerating — governments to hold real rates below inflation for 4-5.5% DM inflation over the next decade. [Napier]",
-      "Nasdaq-100 correction 'probably inevitable' — both AI supply and demand sides stalling simultaneously, double-sided stall. [Rosenberg]",
-      "K-shaped divergence widening: AI delivers zero financial payoff to non-tech companies; S&P 493 revenue per worker flat vs. rising for Mag-7. [Slok]",
-      "S&P 500 real level below Dec 2021 peak — secular bear market conditions persist; year-end target 6,350. [Bannister]",
-      "Iran war pushes Europe and Japan recession risk to 50%; AI boom is the only buffer keeping US recession at 40%. [Berezin]",
-      "Post-midterms divided government eases fiscal trajectory concerns; 'final dip of 2026' possible on seasonal tailwinds. [Reid]",
-      "AI is now the only macro story that matters; agentic AI and crypto tokenization are the next phase of the trade. [Visser]",
-      "US recession probability now above 50/50 — triple squeeze of real wage erosion, credit tightening, and fiscal drag converging. [Rosenberg shift]"
-    ],
-    "whats_new": [
-      "Dalio explicitly compares AI market concentration to 1929 and 2000 bubble analogs — most direct AI-bubble warning yet [Dalio]",
-      "Hartnett's 30-year Treasury 5% target reached; inflection point signaled for mid-November tech rotation [Hartnett]",
-      "Post-midterm Democratic sweep triggered equity/bond rally; divided government reduces fiscal expansion risk [Rosenberg, Reid, Hatzius]",
-      "Rosenberg escalates recession call above 50/50 probability — first explicit crossing of this threshold [Rosenberg evolving]",
-      "Marks issues 'Laws of Economics Part III' paradigm shift memo — most significant Oaktree note of 2026 [Marks]",
-      "Napier escalates 'Shock of 26' — higher yields plus recession to accelerate financial repression [Napier shift]",
-      "Visser introduces Physical World Upgrade thesis — AI transitioning from cloud to real economy infrastructure [Visser]",
-      "Burry's Scion wound down in late October; final shorts in Nasdaq-100 and semiconductor ETFs [Burry]"
-    ],
-    "vs_market_buy": [
-      "Dalio bearish on AI market at bubble levels despite broad market still near multi-year highs. [Dalio]",
-      "Einhorn in full capital preservation mode while S&P near multi-year highs — 'most expensive since Greenlight's founding.' [Einhorn]",
-      "Gundlach: hike more likely than cut — stark contrast with consensus expectation of eventual easing. [Gundlach]",
-      "Soros CIO describes macro as 'most difficult backdrop in decades' despite market still elevated. [Soros]"
-    ],
-    "vs_market_sell": [
-      "Yardeni maintains Roaring 2020s bull case at 60% probability with 7,700 year-end S&P 500 target. [Yardeni]",
-      "Wilson upgrades US small caps to overweight for first time since March 2021 — sees correction in average stock nearly complete. [Wilson]",
-      "Visser bullish on AI agents and crypto as next phase of AI trade — contrarian vs. cautious sell-side consensus. [Visser]"
-    ],
-    "buy_vs_sell_divergence": [
-      "Buy-side majority (Dalio, Einhorn, Odey, Gundlach, Bass, Soros) broadly bearish while sell-side has internally split views — Yardeni/Wilson bullish vs. Edwards/Napier/Bannister/Rosenberg/Berezin bearish.",
-      "Marks (buy) favors equities over bonds for AI exposure; Napier/Edwards (sell) argue bonds structurally unattractive for same AI-capex reasons."
-    ],
-    "aligned": [
-      "Broad cross-side consensus that the secular bond bull market is over — financial repression and fiscal dominance replacing QE-era rate suppression. [Napier, Marks, Gundlach, Edwards, Druckenmiller, Dalio]",
-      "AI infrastructure is a transformational multi-year capex cycle; disagreement is on valuation timing, not whether the cycle matters. [Dalio, Marks, Wilson, Visser, Reid]",
-      "Iran conflict remains a live tail risk for energy prices and global growth. [Berezin, Slok, Reid, Bass, Mauldin]"
-    ],
-    "buy_side_trades": [
-      "Long copper — structural supply deficit for AI/EV demand [Druckenmiller]",
-      "Long gold / short USD — fiscal risk hedge, emerging macro consensus [Druckenmiller, Bass, Einhorn]",
-      "Short UK gilts at 154.8% of European fund NAV — extreme conviction on further gilt sell-off [Odey]",
-      "Short 30-year US Treasury [Gundlach]",
-      "Long defense stocks — bipartisan rearmament capex cycle [Bass]",
-      "Long digital assets — Brevan Howard strategic allocation expanding [Alan Howard]",
-      "Long Fannie Mae/Freddie Mac — 'stupidly cheap' GSE opportunity [Ackman]"
-    ],
-    "sell_side_trades": [
-      "Long 30-year Treasury at ~5% yield target [Hartnett]",
-      "Buy US tech bonds on 30-year relative return low vs. investment grade [Hartnett]",
-      "Long energy infrastructure and electrical grid build-out stocks [Visser]",
-      "Underweight megacap tech, overweight defensive value stocks [Bannister]",
-      "Long local-currency EM bonds, short long-duration developed-market govts [Gundlach note: classified sell-side by convention]",
-      "Long Eli Lilly and Micron as AI infrastructure plays [Visser]",
-      "Short 10-year US Treasury — fiscal risk premium expanding [Reid]"
-    ],
-    "dominant_themes": [
-      "AI bubble risk — market concentration comparable to 1929/2000 [Dalio, Burry]",
-      "Financial repression accelerating — secular bond bull market definitively ending [Napier, Marks, Gundlach]",
-      "Post-midterms: divided government reduces fiscal expansion risk",
-      "30-year Treasury at 5% — Hartnett's tactical target achieved, mid-November inflection",
-      "AI Physical World Upgrade — real economy infrastructure buildout as next mega-cycle",
-      "Iran conflict as persistent geopolitical tail risk on oil and global growth",
-      "2027 recession risk building from multiple converging catalysts"
-    ],
-    "buy_side_sentiment": "bearish",
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "month": {
     "period_start": "2026-10-13",
     "period_end": "2026-11-12",
     "entries_count": 138,
-    "buy_side_bullets": [
-      "US faces 'great turbulence' — country will be 'almost unrecognizable' in 5 years; stagflation as most likely scenario as Fed eventually forced to monetize debt. [Dalio]",
-      "AI market now approaching 1929/2000 bubble analogs; hyperscaler bond issuance over $220B in H1 2026 — heavy corporate borrowing risks financing costs. [Dalio]",
-      "Federal debt compounding at 1.7x GDP growth since 2006; dollar near top of historic purchasing-power range; long copper, gold, short USD and bonds. [Druckenmiller]",
-      "Scion Asset Management wound down — final AI/semiconductor short book represents highest-conviction bearish call since the 2008 trade. [Burry]",
-      "Market most expensive since Greenlight's founding; early stages of sustained bear cycle; cut net equity to ~29%, closed to new investors. [Einhorn]",
-      "High-quality stocks 'stupidly cheap' at current valuations — macro fears and geopolitical anxiety creating classic mispricing in durable compounders. [Ackman]",
-      "No Fed rate cuts in 2026; hike more likely than cut; next recession could trigger debt crisis sending long-term yields sharply higher. [Gundlach]",
-      "Traditional economic laws governing the past 40 years may no longer apply — investors must adapt to a new paradigm. [Marks]",
-      "2027 could be brutal for equities as AI optimism peaks; tactical Q4 2026 rally still expected late October/early November. [PTJ]",
-      "US assets will attract more capital concentration as global geopolitical risk escalates; short-term recession may be 'necessary medicine.' [Bass]"
-    ],
-    "sell_side_bullets": [
-      "'Ice Age' thesis evolving into fiscal dominance — double-digit inflation possible as fiscal stimulus overwhelms monetary restraint. [Edwards]",
-      "Financial repression is back — governments will hold real rates below inflation for a decade; bonds structurally unattractive; Great Portfolio Reset underway. [Napier]",
-      "K-shaped divergence widening: AI delivers zero financial payoff to non-tech companies; consumer delinquencies rising outside Mag-7. [Slok]",
-      "US recession probability above 50/50; 2027 triple squeeze of real wage erosion, credit tightening, and fiscal drag converging. [Rosenberg evolving]",
-      "S&P 500 real level below Dec 2021 peak — secular bear market conditions persist; year-end target 6,350. [Bannister]",
-      "'1999 meets 1990': AI tech speculation meeting fiscal risk premia; multiple compression risk even without earnings shock; DB growth cut to 3%. [Reid]",
-      "Roaring 2020s intact at 60% probability — AI productivity drives 3% real GDP growth and $310 EPS; S&P 500 target 7,700. [Yardeni]",
-      "AI is now the only macro story that matters; Physical World Upgrade to energy/electrical grids is the next mega-cycle. [Visser]",
-      "Iran oil shock pushing Europe/Japan recession risk to 50%; AI boom is the only buffer keeping US recession at 40%. [Berezin]",
-      "Post-midterms divided government reduces fiscal trajectory risk; market approaching its 'final dip of 2026' on seasonal tailwinds. [Reid, Hatzius]"
-    ],
-    "whats_new": [
-      "Burry wound down Scion Asset Management — final AI/semiconductor short represents highest conviction bear call [Burry]",
-      "Dalio explicitly raises AI bubble comparison to 1929 and 2000 — the most direct AI-bubble warning of the year [Dalio]",
-      "Hartnett's 30-year Treasury 5% target reached over 90-day call period — inflection toward mid-November [Hartnett]",
-      "Post-midterm Democratic sweep: divided government reduces fiscal expansion risk, bond/equity rally [Rosenberg, Reid, Hatzius]",
-      "Marks issues 'Laws of Economics Part III' paradigm-shift memo — most significant Oaktree piece of 2026 [Marks]",
-      "Rosenberg escalates to >50/50 US recession probability — first explicit threshold crossing [Rosenberg evolving]",
-      "Napier's 'Shock of 26': financial repression accelerating toward decade of 4-5.5% DM inflation [Napier shift]",
-      "Tepper Q2 13F: exiting memory chips, adding AI infrastructure and industrials [Tepper]",
-      "Einhorn closes Greenlight to new investors, cuts net equity to 29% [Einhorn]",
-      "Visser's Physical World Upgrade thesis — AI transitioning from cloud to real economy [Visser]"
-    ],
-    "vs_market_buy": [
-      "Dalio, Einhorn, Burry bearish on US equities despite market near multi-year highs — 'most expensive in history' per Einhorn. [Dalio, Einhorn, Burry]",
-      "Gundlach: hike more likely than cut — stark contrast with market consensus of eventual easing. [Gundlach]",
-      "Odey: 154.8% short UK gilts as fraction of fund NAV — extreme conviction on further gilt sell-off. [Odey]",
-      "Soros Fund defensive positioning despite market at elevated levels — CIO describes 'most difficult backdrop in decades.' [Soros]"
-    ],
-    "vs_market_sell": [
-      "Yardeni: 60% probability on Roaring 2020s with 7,700 S&P target — the most bullish major strategist on the Street. [Yardeni]",
-      "Wilson: S&P 500 to 8,500 by mid-2027; upgrades small caps for first time since 2021 — meaningfully above consensus. [Wilson]",
-      "Visser: AI agents make crypto utility real; Physical World Upgrade is the next mega-cycle — contrarian bullish on energy/crypto. [Visser]"
-    ],
-    "buy_vs_sell_divergence": [
-      "Major buy-side bears (Dalio, Einhorn, Odey, Gundlach, Bass, Soros) hold bearish macro positions while sell-side is internally split — Yardeni/Wilson bullish vs. Edwards/Napier/Bannister/Rosenberg/Berezin bearish.",
-      "Ackman (buy) calls high-quality stocks 'stupidly cheap' at current valuations; Bannister (sell) says real S&P still below Dec 2021 peak — same period, opposite conclusions.",
-      "Druckenmiller (buy) long commodities as inflation play; Reid (sell) cautious on commodities given demand destruction risk alongside Iran supply premium."
-    ],
-    "aligned": [
-      "Secular bond bull market is over — financial repression and fiscal dominance replacing QE-era suppressed yields; buy-side and sell-side agree on direction. [Napier, Edwards, Gundlach, Marks, Druckenmiller, Dalio]",
-      "AI infrastructure is a transformational decade-long capex cycle regardless of near-term valuation concerns — disagreement is on timing, not significance. [Yardeni, Wilson, Visser, Druckenmiller, Dalio]",
-      "2027 is at materially elevated risk of recession or severe market stress — debate is on timing and catalyst, not whether the risk exists. [PTJ, Rosenberg, Berezin, Hatzius, Reid]",
-      "Iran conflict has structurally elevated energy prices and introduced a persistent geopolitical risk premium into global growth calculations. [Berezin, Slok, Reid, Mauldin, Bass]"
-    ],
-    "buy_side_trades": [
-      "Long copper — structural supply deficit for AI and EV demand [Druckenmiller]",
-      "Long gold / short USD — fiscal risk hedge emerging as macro consensus [Druckenmiller, Bass, Einhorn, Soros]",
-      "Long US equities selectively (quality compounders, Fannie/Freddie) [Ackman]",
-      "Short long-duration US Treasuries [Gundlach, Druckenmiller]",
-      "Short UK gilts at 154.8% of European fund NAV [Odey]",
-      "Long defense stocks — bipartisan rearmament creating multi-year capex cycle [Bass]",
-      "Long digital assets — Brevan Howard strategic firm-wide pivot [Alan Howard]",
-      "Long Amazon and TSMC — AI infrastructure beneficiaries [Tepper]"
-    ],
-    "sell_side_trades": [
-      "Long 30-year US Treasury at ~5% yield target [Hartnett]",
-      "Short 10-year US Treasury — fiscal risk premium expanding [Reid, Napier, Edwards]",
-      "Buy US tech bonds on 30-year relative return low vs. investment grade [Hartnett]",
-      "Long gold, underweight bonds [Napier]",
-      "Long energy/commodities on Iran supply premium [Slok, Berezin, Mauldin]",
-      "Long US small caps for first time since 2021 [Wilson]",
-      "Long energy infrastructure and electrical grid build-out stocks [Visser]",
-      "Underweight megacap tech, overweight defensive value stocks [Bannister]",
-      "Long local-currency EM bonds [Gundlach note: buy-side by convention]",
-      "Long Eli Lilly and Micron as AI infrastructure plays [Visser]"
-    ],
-    "dominant_themes": [
-      "AI bubble risk — market concentration comparable to 1929/2000 peaks [Dalio, Burry, Edwards, Einhorn]",
-      "Secular bond bull market ending — financial repression replacing QE era [Napier, Edwards, Marks, Gundlach]",
-      "2027 recession risk building from multiple converging catalysts [PTJ, Rosenberg, Berezin, Hatzius, Reid]",
-      "Iran conflict structurally elevated energy prices and geopolitical risk premium [Berezin, Slok, Reid, Bass]",
-      "Post-midterm fiscal outlook improvement with divided government",
-      "AI Physical World Upgrade — real economy infrastructure cycle (energy, electrical, cooling) [Visser]",
-      "K-shaped economy widening — AI gains concentrated in Mag-7, zero payoff to S&P 493 [Slok, Rosenberg]"
-    ],
-    "buy_side_sentiment": "bearish",
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   }
 }
