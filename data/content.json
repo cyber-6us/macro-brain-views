@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11",
+  "last_updated": "2026-11-12",
   "entries": [
     {
       "id": "2026-11-10-2bc6b016",
@@ -18626,6 +18626,181 @@
         "https://finance.yahoo.com/markets/crypto/articles/veteran-macro-investor-says-ai-152606622.html",
         "https://alpha-maven.com/story/hedge-fund/22vs-jordi-visser-says-the-ai-selloff-was-a-70-billion-forced-deleveraging-not-a-bubble-and-he-is-buying-micron-biggo-finance",
         "https://www.cnbc.com/video/2026/10/06/jordi-visser-the-progress-in-ai-keeps-getting-better-and-better.html"
+      ]
+    },
+    {
+      "id": "2026-11-12-a3d6bf24",
+      "date": "2026-11-12",
+      "investor": "George Soros",
+      "side": "buy",
+      "summary": "Soros Fund Management's Q2 2026 13F reveals a notable rotation toward defensive utilities, with the firm trimming its put overlay slightly while pivoting away from consumer discretionary. CIO Dawn Fitzpatrick described October 2026 conditions as 'one of the most difficult macro backdrops in decades,' citing stagflationary pressures, geopolitical risk premia, and an AI-driven asset concentration that mirrors the late-1990s tech bubble. Soros's $102M midterm political donation underscores his view that institutional shifts may be as important as market dynamics in 2026-2027.",
+      "key_views": [
+        "Q2 2026 13F shows utilities rotation — defensive repositioning away from consumer discretionary",
+        "CIO Fitzpatrick: 'one of the most difficult macro backdrops in decades' — stagflationary pressures and geopolitical risk premia",
+        "AI-driven asset concentration mirrors late-1990s tech bubble — requires caution on mega-cap exposure",
+        "Put overlay remains elevated despite slight trim — firm is not ready to remove downside protection",
+        "Largest political donation in Soros history ($102M midterms) reflects institutional uncertainty view"
+      ],
+      "trade_ideas": [
+        "Long utilities as defensive rotation in stagflationary environment",
+        "Maintain elevated put overlay — downside protection not yet removed",
+        "Underweight consumer discretionary given real wage erosion"
+      ],
+      "asset_classes": [
+        "equities",
+        "rates"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://www.bloomberg.com/news/videos/2026-03-03/soros-investors-face-painful-18-to-24-months",
+        "https://www.insiderset.com/13f/soros-fund-management-q2-2026"
+      ]
+    },
+    {
+      "id": "2026-11-12-b3fe3662",
+      "date": "2026-11-12",
+      "investor": "Howard Marks",
+      "side": "buy",
+      "summary": "In his September 22, 2026 Oaktree memo 'Shall We Repeal the Laws of Economics Part III,' Marks argues that the foundational rules governing markets for the past 40 years — falling rates, fiscal constraint, globalization, and the dominance of monetary policy — may no longer apply. He warns that unprecedented debt loads, AI-driven disruption, and global fragmentation are forcing a re-evaluation of traditional asset pricing models, while remaining cautious on AI valuations without being dismissive of its transformational potential. Marks urges investors to rethink return expectations in this new paradigm rather than extrapolating from prior cycles.",
+      "key_views": [
+        "September 2026 memo: traditional economic laws (falling rates, fiscal restraint, globalization) may no longer apply",
+        "Unprecedented sovereign debt loads require fundamental re-evaluation of asset pricing and return expectations",
+        "AI creates genuine transformation but current valuations require disciplined assessment, not narrative enthusiasm",
+        "Global fragmentation and de-dollarization are structural macro forces, not cyclical events",
+        "Investors must adapt to a new paradigm rather than extrapolating prior 40-year experience"
+      ],
+      "trade_ideas": [
+        "Selective in AI-related investments — valuation discipline required despite transformational potential",
+        "Recalibrate return expectations downward in an era of financial repression and high debt",
+        "Private credit remains more attractive than public bonds but selectivity critical"
+      ],
+      "asset_classes": [
+        "credit",
+        "equities",
+        "rates"
+      ],
+      "sentiment": "neutral",
+      "sources": [
+        "https://www.oaktreecapital.com/insights/memo/shall-we-repeal-the-laws-of-economics-part-iii",
+        "https://www.brookfield.com/sites/default/files/2026-09/oaktree-marks-laws-of-economics-part-iii.pdf"
+      ]
+    },
+    {
+      "id": "2026-11-12-c318437e",
+      "date": "2026-11-12",
+      "investor": "Alan Howard",
+      "side": "buy",
+      "summary": "Brevan Howard CEO Aron Landy stated in October 2026 that geopolitical fragmentation and structurally elevated volatility create a 'uniquely favorable' environment for macro trading, justifying the firm's ongoing expansion beyond 150 portfolio managers. The firm suffered losses during the July 2026 AI stock selloff as crowded positions across macro hedge funds were unwound, but has since recovered and continues its strategic pivot toward digital assets and broader alternatives under Howard's direction. Landy emphasized that dispersion across assets, geographies, and sectors remains at multi-year highs — the core condition for sustained macro alpha generation.",
+      "key_views": [
+        "CEO Landy: geopolitical fragmentation keeps dispersion elevated — 'uniquely favorable' macro trading environment",
+        "Brevan Howard lost money in July 2026 AI selloff as crowded hedge fund positions were force-unwound",
+        "Firm recovered post-July selloff and continues expansion beyond 150 PMs across macro strategies",
+        "Strategic pivot toward digital assets and broader alternatives as long-term firm evolution",
+        "Dispersion across assets, geographies, and sectors at multi-year highs — core condition for macro alpha"
+      ],
+      "trade_ideas": [
+        "Long digital assets as part of strategic firm pivot — increasing allocation",
+        "Macro rates and sovereign credit as core PM capacity expansion area",
+        "Capitalizing on cross-asset dispersion in geopolitically fragmented environment"
+      ],
+      "asset_classes": [
+        "rates",
+        "fx",
+        "cryptocurrencies",
+        "equities"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://www.hedgeweek.com/2026/10/brevan-howard-landy-dispersion-macro-alpha",
+        "https://www.pulse.bot/hedge-funds/news/brevan-howard-adds-three-macro-pms-swelling-investment-staff-beyond-150-e59f0838-abff-44bd-be68-6824da092e4c/"
+      ]
+    },
+    {
+      "id": "2026-11-12-8e1e0837",
+      "date": "2026-11-12",
+      "investor": "David Rosenberg",
+      "side": "sell",
+      "summary": "Rosenberg escalated his recession call in October 2026, pushing US recession probability above 50/50 for the first time, citing tighter effective financial conditions despite no Fed rate hikes, falling real wages, and an AI-driven market concentration that masks broad economic deterioration. His 2027 recession thesis is underpinned by AI and fiscal tailwinds fading simultaneously while consumer debt serviceability erodes — a convergence he describes as the 'triple squeeze.' He notes inflation is decelerating despite surface stickiness because there is no wage-price spiral to sustain it.",
+      "key_views": [
+        "US recession probability now above 50/50 — tighter financial conditions despite no Fed hikes, falling real wages",
+        "2027 recession call: AI and fiscal tailwinds fade simultaneously while consumer debt serviceability erodes",
+        "'Triple squeeze': real wage erosion, credit tightening, and fiscal drag converging in 2027",
+        "No wage-price spiral — inflation will decelerate despite near-term stickiness",
+        "S&P 500 concentration masks broad deterioration — only 2-3 mega-caps driving index returns"
+      ],
+      "trade_ideas": [
+        "Long US Treasuries as 2027 recession hedge",
+        "Short or underweight S&P 500 mega-cap concentration names",
+        "Long defensive sectors: utilities, healthcare, consumer staples"
+      ],
+      "asset_classes": [
+        "equities",
+        "bonds",
+        "rates"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://www.benzinga.com/markets/2026/10/rosenberg-recession-odds-above-50-50",
+        "https://buysidedigest.com/rosenberg-2027-recession-triple-squeeze"
+      ]
+    },
+    {
+      "id": "2026-11-12-c0d529c0",
+      "date": "2026-11-12",
+      "investor": "Jim Reid",
+      "side": "sell",
+      "summary": "In his August 13, 2026 'Five themes Deutsche Bank Research is tracking through the rest of 2026,' Reid articulated a '1999 meets 1990' market framework — an AI-driven speculative cycle colliding with fiscal risk premia and rising real yields in a way that could cause multiple compression without an earnings shock. Deutsche Bank cut its global growth forecast to 3% from 3.1%, moved its S&P 500 target to approximately 8,000, and kept a short 10-year Treasury as the key macro trade. Reid flagged that the Fed under Warsh has effectively locked in a higher-for-longer regime that the market has yet to fully price.",
+      "key_views": [
+        "'1999 meets 1990': AI tech speculation colliding with fiscal risk premia and rising real yields",
+        "Global growth cut to 3% from 3.1% at mid-year; US growth revised lower on consumer caution",
+        "S&P 500 target ~8,000; market multiple compression risk even without earnings shock",
+        "Short 10-year US Treasury remains key macro trade — fiscal risk premium expanding",
+        "Fed under Warsh locked in higher-for-longer; market has not fully priced this scenario"
+      ],
+      "trade_ideas": [
+        "Short 10-year US Treasury — fiscal risk premium expanding, higher-for-longer locked in",
+        "Cautious on US equities — multiple compression risk from rate and fiscal pressure",
+        "Watch for AI capex to earnings gap closing as the key inflection trigger"
+      ],
+      "asset_classes": [
+        "equities",
+        "rates",
+        "fx"
+      ],
+      "sentiment": "bearish",
+      "sources": [
+        "https://flow.db.com/research/five-themes-deutsche-bank-tracking-2026",
+        "https://www.db.com/news/detail/20260813-deutsche-bank-mid-year-global-growth-revision"
+      ]
+    },
+    {
+      "id": "2026-11-12-33196b91",
+      "date": "2026-11-12",
+      "investor": "Jordi Visser",
+      "side": "sell",
+      "summary": "In his September 6, 2026 note 'Bond fears are noise, AI agents are crypto's killer app,' Visser introduced his Physical World Upgrade thesis — arguing AI is transitioning from cloud-centric data centers into physical infrastructure (energy grids, electrical systems, thermal cooling), creating the most significant capital deployment cycle in the real economy since the 1990s buildout. He dismisses bond market volatility as 'TACO PTSD' (analysts reflexively pricing 2025-style macro threat resolutions) while arguing AI agents will make crypto utility real by enabling autonomous value exchange. Visser frames 2026 as the year of productive deleveraging where AI-driven physical buildout separates the winners from the casualties.",
+      "key_views": [
+        "Physical World Upgrade thesis: AI transitioning from cloud to physical — energy, electrical, cooling infrastructure the next mega-cycle",
+        "Bond fears are noise ('TACO PTSD') — analysts reflexively pricing 2025-style macro shock resolutions that won't repeat",
+        "AI agents make crypto utility real: autonomous value exchange creates genuine demand for programmable money",
+        "2026 = productive deleveraging year — AI infrastructure buildout accelerates as speculative excess unwinds",
+        "Real economy capex cycle in energy and electrical grids dwarfs prior internet infrastructure buildouts"
+      ],
+      "trade_ideas": [
+        "Long energy infrastructure and electrical grid build-out stocks — Physical World Upgrade beneficiaries",
+        "Long crypto/bitcoin as AI agents create genuine utility demand for programmable money",
+        "Fade bond market volatility — TACO PTSD-driven moves are tactical noise, not structural breaks"
+      ],
+      "asset_classes": [
+        "equities",
+        "cryptocurrencies",
+        "commodities",
+        "rates"
+      ],
+      "sentiment": "mixed",
+      "sources": [
+        "https://22vresearch.com/insights/bond-fears-noise-ai-agents-crypto-killer-app",
+        "https://www.22vresearch.com/insights/physical-world-upgrade-thesis-2026"
       ]
     }
   ]
