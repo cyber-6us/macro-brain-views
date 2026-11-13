@@ -1,227 +1,53 @@
 {
   "generated_at": "2026-11-13",
   "today": {
+    "date": "2026-11-13",
     "entries_count": 19,
-    "buy_side_bullets": [
-      "Macro trading is back as the dominant regime; structural shifts make it more tradeable than the last decade [Stan Druckenmiller]",
-      "Two-year window of compounding risk from debt, geopolitics, and AI disruption simultaneously [Ray Dalio]",
-      "'No chance' of Fed rate cuts under potential Warsh leadership \u2014 policy is data-driven, not political [Paul Tudor Jones]",
-      "Fed more likely to hike than cut in 2026; 2-year/fed funds inversion signals policy too loose [Jeffrey Gundlach]",
-      "AI is 'more of a bubble than a revolution' \u2014 valuations completely disconnected from long-run earnings [Michael Burry]"
-    ],
-    "sell_side_bullets": [
-      "US near-term stagflation: growth slowing + inflation stuck ~3% = no Fed cuts [Torsten Slok]",
-      "Post-midterms = peak AI equity concentration; prefer tech bonds over tech stocks now [Michael Hartnett]",
-      "Ice Age (disinflationary secular stagnation) is ending \u2014 paradigm shift to fiscal dominance [Albert Edwards]",
-      "Roaring 2020s base case at 60% odds: 3% GDP growth, 2.5% productivity gains [Ed Yardeni]",
-      "US 2.6% real GDP growth for 2026 \u2014 above consensus; driven by tax cuts and fading tariff drag [Jan Hatzius]"
-    ],
-    "whats_new": [
-      "Albert Edwards declares Ice Age deflation thesis is ending \u2014 paradigm shift to fiscal dominance and double-digit inflation [Edwards shift]",
-      "Hartnett calls peak AI equity concentration post-US midterms; pivots to tech bonds over tech stocks [Hartnett shift]",
-      "Gundlach escalates: now betting on hike (not just hold) as 2-year/fed funds inversion signals policy too loose [Gundlach evolving]",
-      "Burry shuttered Scion; running leaner pure-short AI book from outside the investment-adviser framework [Burry shift]",
-      "Napier's 'The Shock of 26' \u2014 rising yields + recession accelerates financial repression as the resolution mechanism [Napier evolving]"
-    ],
-    "vs_market_buy": [
-      "Druckenmiller and Ackman both see bond yields rising further while market prices rate cuts \u2014 running against consensus",
-      "Dalio warns two-year window for compounding crises; market is pricing benign soft-landing",
-      "Tudor Jones: 'no chance' of Fed cuts vs. market still pricing some easing probability"
-    ],
-    "vs_market_sell": [
-      "Hartnett: US equity flows near historic lows since 2020; market still priced for US exceptionalism",
-      "Edwards: double-digit inflation possible while bond markets still price below-4% yields long-term",
-      "Berezin: 40% US recession odds vs. market-implied ~25% probability"
-    ],
-    "buy_vs_sell_divergence": [
-      "Bonds: Gundlach/Druckenmiller/Ackman all short long bonds vs. Hatzius/Wilson expecting 10-year yields to stabilise lower",
-      "Equities: Yardeni (7,700) and Wilson (7,800) S&P targets vs. Einhorn/Berezin calling for defensive posture and correction",
-      "Inflation path: Bessent says inflation is falling; Edwards says double-digit inflation is coming",
-      "Fed path: Tudor Jones/Gundlach see hike risk vs. Hatzius/Wilson need 150bps of cuts for bull case"
-    ],
-    "aligned": [
-      "Bonds are not a safe-haven in an inflation regime \u2014 both buy and sell side warn against long-duration govts",
-      "AI capex cycle is real and ongoing regardless of near-term market volatility",
-      "Geopolitical risk (Iran conflict) is a meaningful macro tail that markets are under-pricing",
-      "Consumer resilience is the key battleground \u2014 both bulls and bears flag it as the swing factor"
-    ],
-    "buy_side_trades": [
-      "Short long-duration U.S. Treasuries [Stan Druckenmiller]",
-      "Long copper (supply squeeze + AI demand) [Stan Druckenmiller]",
-      "Long gold [Stan Druckenmiller]",
-      "Long Japanese and Korean equities (AI theme) [Stan Druckenmiller]",
-      "Diversify away from USD-denominated assets [Ray Dalio]",
-      "Gold and hard assets as currency-debasement hedge [Ray Dalio]",
-      "Long Bitcoin as inflation hedge [Paul Tudor Jones]",
-      "Long small-cap volatility (via options) [Paul Tudor Jones]"
-    ],
-    "sell_side_trades": [
-      "Long European bonds relative to US (diverging central bank paths) [Torsten Slok]",
-      "Long AI-capex beneficiaries for 2027 recovery trade [Torsten Slok]",
-      "Long small/mid-cap equities vs short Magnificent 7 [Michael Hartnett]",
-      "Long European and Japanese equities vs US [Michael Hartnett]",
-      "Long tech investment-grade bonds vs tech equities [Michael Hartnett]",
-      "Short 30-year US Treasury (yield near 2007 high) [Michael Hartnett]",
-      "Short long-duration government bonds globally [Albert Edwards]",
-      "Long commodities and gold as inflation/fiscal dominance hedge [Albert Edwards]"
-    ],
-    "dominant_themes": [
-      "Bonds / rates",
-      "Fiscal / debt",
-      "Inflation / stagflation"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "mixed",
-    "date": "2026-11-13"
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   },
   "week": {
-    "entries_count": 55,
-    "buy_side_bullets": [
-      "US assets will attract more concentration as global geopolitical chaos escalates \u2014 April 2026 Bloomberg interview [Kyle Bass]",
-      "Long copper and gold as supply tightness persists over next 8 years [Stan Druckenmiller]",
-      "Rotating out of memory chips (Micron sold down, SanDisk fully exited) on weakening cycle [David Tepper]",
-      "U.S. equity market in early stages of a sustained bear cycle [David Einhorn]",
-      "Massive short UK gilts at 154.8% of European fund NAV [Crispin Odey]"
-    ],
-    "sell_side_bullets": [
-      "30Y Treasury yield reached ~5% target \u2014 but 'frozen bullish' positioning is entrenched and the risk-off window may persist [Michael Hartnett]",
-      "No Fed rate cuts in 2026; probability of hike exceeds probability of cut [Jeffrey Gundlach]",
-      "Ice Age thesis evolving: fiscal dominance replacing deflation as the dominant force [Albert Edwards]",
-      "Roaring 2020s base case: 3% real GDP growth, $310 S&P EPS, 7,700 target [Ed Yardeni]",
-      "S&P 500 target 7,800 for 2026, with challenging H1 and strong H2 [Mike Wilson]"
-    ],
-    "whats_new": [
-      "Albert Edwards declares Ice Age deflation thesis is ending \u2014 paradigm shift to fiscal dominance and double-digit inflation [Edwards shift]",
-      "Hartnett calls peak AI equity concentration post-US midterms; pivots to tech bonds over tech stocks [Hartnett shift]",
-      "Gundlach escalates: now betting on hike (not just hold) as 2-year/fed funds inversion signals policy too loose [Gundlach evolving]",
-      "Burry shuttered Scion; running leaner pure-short AI book from outside the investment-adviser framework [Burry shift]",
-      "Napier's 'The Shock of 26' \u2014 rising yields + recession accelerates financial repression as the resolution mechanism [Napier evolving]"
-    ],
-    "vs_market_buy": [
-      "Druckenmiller and Ackman both see bond yields rising further while market prices rate cuts \u2014 running against consensus",
-      "Dalio warns two-year window for compounding crises; market is pricing benign soft-landing",
-      "Tudor Jones: 'no chance' of Fed cuts vs. market still pricing some easing probability"
-    ],
-    "vs_market_sell": [
-      "Hartnett: US equity flows near historic lows since 2020; market still priced for US exceptionalism",
-      "Edwards: double-digit inflation possible while bond markets still price below-4% yields long-term",
-      "Berezin: 40% US recession odds vs. market-implied ~25% probability"
-    ],
-    "buy_vs_sell_divergence": [
-      "Bonds: Gundlach/Druckenmiller/Ackman all short long bonds vs. Hatzius/Wilson expecting 10-year yields to stabilise lower",
-      "Equities: Yardeni (7,700) and Wilson (7,800) S&P targets vs. Einhorn/Berezin calling for defensive posture and correction",
-      "Inflation path: Bessent says inflation is falling; Edwards says double-digit inflation is coming",
-      "Fed path: Tudor Jones/Gundlach see hike risk vs. Hatzius/Wilson need 150bps of cuts for bull case"
-    ],
-    "aligned": [
-      "Bonds are not a safe-haven in an inflation regime \u2014 both buy and sell side warn against long-duration govts",
-      "AI capex cycle is real and ongoing regardless of near-term market volatility",
-      "Geopolitical risk (Iran conflict) is a meaningful macro tail that markets are under-pricing",
-      "Consumer resilience is the key battleground \u2014 both bulls and bears flag it as the swing factor"
-    ],
-    "buy_side_trades": [
-      "Long US assets for capital concentration trade vs international alternatives [Kyle Bass]",
-      "Long defense/precision weapons names on bipartisan rearmament budget [Kyle Bass]",
-      "Long gold and hard assets given deeply negative true real rates [Kyle Bass]",
-      "Long copper (structural supply deficit) [Stan Druckenmiller]",
-      "Long gold (fiscal risk hedge) [Stan Druckenmiller]",
-      "Short USD [Stan Druckenmiller]",
-      "Short long-dated bonds [Stan Druckenmiller]",
-      "Long Amazon, Alphabet, TSMC (AI infrastructure beneficiaries) [David Tepper]"
-    ],
-    "sell_side_trades": [
-      "Long 30-year Treasuries with yield at ~5% target [Michael Hartnett]",
-      "Short USD/DXY targeting below 100 [Michael Hartnett]",
-      "Position for tactical tech rotation entry at mid-November if macro stabilizes [Michael Hartnett]",
-      "Short 30-year U.S. Treasury [Jeffrey Gundlach]",
-      "Long local-currency EM bonds [Jeffrey Gundlach]",
-      "Long real assets as inflation hedge [Jeffrey Gundlach]",
-      "Underweight long-duration developed-market govts [Jeffrey Gundlach]",
-      "Long S&P 500 on dips toward correction levels [Ed Yardeni]"
-    ],
-    "dominant_themes": [
-      "Bonds / rates",
-      "Fiscal / debt",
-      "Geopolitics / Iran"
-    ],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed",
     "period_start": "2026-11-06",
-    "period_end": "2026-11-13"
+    "period_end": "2026-11-13",
+    "entries_count": 55,
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   },
   "month": {
-    "entries_count": 154,
-    "buy_side_bullets": [
-      "US assets will attract more concentration as global geopolitical chaos escalates \u2014 April 2026 Bloomberg interview [Kyle Bass]",
-      "Long copper and gold as supply tightness persists over next 8 years [Stan Druckenmiller]",
-      "Rotating out of memory chips (Micron sold down, SanDisk fully exited) on weakening cycle [David Tepper]",
-      "U.S. equity market in early stages of a sustained bear cycle [David Einhorn]",
-      "Massive short UK gilts at 154.8% of European fund NAV [Crispin Odey]"
-    ],
-    "sell_side_bullets": [
-      "30Y Treasury yield reached ~5% target \u2014 but 'frozen bullish' positioning is entrenched and the risk-off window may persist [Michael Hartnett]",
-      "No Fed rate cuts in 2026; probability of hike exceeds probability of cut [Jeffrey Gundlach]",
-      "Ice Age thesis evolving: fiscal dominance replacing deflation as the dominant force [Albert Edwards]",
-      "Roaring 2020s base case: 3% real GDP growth, $310 S&P EPS, 7,700 target [Ed Yardeni]",
-      "S&P 500 target 7,800 for 2026, with challenging H1 and strong H2 [Mike Wilson]"
-    ],
-    "whats_new": [
-      "Albert Edwards declares Ice Age deflation thesis is ending \u2014 paradigm shift to fiscal dominance and double-digit inflation [Edwards shift]",
-      "Hartnett calls peak AI equity concentration post-US midterms; pivots to tech bonds over tech stocks [Hartnett shift]",
-      "Gundlach escalates: now betting on hike (not just hold) as 2-year/fed funds inversion signals policy too loose [Gundlach evolving]",
-      "Burry shuttered Scion; running leaner pure-short AI book from outside the investment-adviser framework [Burry shift]",
-      "Napier's 'The Shock of 26' \u2014 rising yields + recession accelerates financial repression as the resolution mechanism [Napier evolving]"
-    ],
-    "vs_market_buy": [
-      "Druckenmiller and Ackman both see bond yields rising further while market prices rate cuts \u2014 running against consensus",
-      "Dalio warns two-year window for compounding crises; market is pricing benign soft-landing",
-      "Tudor Jones: 'no chance' of Fed cuts vs. market still pricing some easing probability"
-    ],
-    "vs_market_sell": [
-      "Hartnett: US equity flows near historic lows since 2020; market still priced for US exceptionalism",
-      "Edwards: double-digit inflation possible while bond markets still price below-4% yields long-term",
-      "Berezin: 40% US recession odds vs. market-implied ~25% probability"
-    ],
-    "buy_vs_sell_divergence": [
-      "Bonds: Gundlach/Druckenmiller/Ackman all short long bonds vs. Hatzius/Wilson expecting 10-year yields to stabilise lower",
-      "Equities: Yardeni (7,700) and Wilson (7,800) S&P targets vs. Einhorn/Berezin calling for defensive posture and correction",
-      "Inflation path: Bessent says inflation is falling; Edwards says double-digit inflation is coming",
-      "Fed path: Tudor Jones/Gundlach see hike risk vs. Hatzius/Wilson need 150bps of cuts for bull case"
-    ],
-    "aligned": [
-      "Bonds are not a safe-haven in an inflation regime \u2014 both buy and sell side warn against long-duration govts",
-      "AI capex cycle is real and ongoing regardless of near-term market volatility",
-      "Geopolitical risk (Iran conflict) is a meaningful macro tail that markets are under-pricing",
-      "Consumer resilience is the key battleground \u2014 both bulls and bears flag it as the swing factor"
-    ],
-    "buy_side_trades": [
-      "Long US assets for capital concentration trade vs international alternatives [Kyle Bass]",
-      "Long defense/precision weapons names on bipartisan rearmament budget [Kyle Bass]",
-      "Long gold and hard assets given deeply negative true real rates [Kyle Bass]",
-      "Long copper (structural supply deficit) [Stan Druckenmiller]",
-      "Long gold (fiscal risk hedge) [Stan Druckenmiller]",
-      "Short USD [Stan Druckenmiller]",
-      "Short long-dated bonds [Stan Druckenmiller]",
-      "Long Amazon, Alphabet, TSMC (AI infrastructure beneficiaries) [David Tepper]"
-    ],
-    "sell_side_trades": [
-      "Long 30-year Treasuries with yield at ~5% target [Michael Hartnett]",
-      "Short USD/DXY targeting below 100 [Michael Hartnett]",
-      "Position for tactical tech rotation entry at mid-November if macro stabilizes [Michael Hartnett]",
-      "Short 30-year U.S. Treasury [Jeffrey Gundlach]",
-      "Long local-currency EM bonds [Jeffrey Gundlach]",
-      "Long real assets as inflation hedge [Jeffrey Gundlach]",
-      "Underweight long-duration developed-market govts [Jeffrey Gundlach]",
-      "Long S&P 500 on dips toward correction levels [Ed Yardeni]"
-    ],
-    "dominant_themes": [
-      "Bonds / rates",
-      "Fiscal / debt",
-      "Geopolitics / Iran"
-    ],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed",
     "period_start": "2026-10-14",
-    "period_end": "2026-11-13"
+    "period_end": "2026-11-13",
+    "entries_count": 154,
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   }
 }
