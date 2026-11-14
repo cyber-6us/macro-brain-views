@@ -3,193 +3,51 @@
   "today": {
     "date": "2026-11-14",
     "entries_count": 6,
-    "buy_side_bullets": [
-      "US federal debt $40.6T now self-reinforcing \u2014 Dec 11 funding deadline + debt ceiling approaching; Bridgewater CIO departure adds institutional overhang. [Dalio]",
-      "AI winners 'practically unknowable' \u2014 $600B in AI debt issuance globally, 42 companies drove 2/3 of S&P gains since Jan 2024; concentration risk extreme. [Marks]",
-      "NVIDIA and AI hardware in explicit short \u2014 hyperscalers manipulating profits via useful-life extensions of infrastructure. [Burry]"
-    ],
-    "sell_side_bullets": [
-      "Equity risk premium has turned negative \u2014 S&P at 17.7x forward PE vs 5% risk-free, most dangerous mispricing in decades. [Rosenberg]",
-      "'1999 meets 1990': AI mania layered on oil geopolitical shock \u2014 mid-November likely trough before Santa rally. [Reid]",
-      "AI selloff was $70B forced hedge fund degrossing not a bubble burst \u2014 buying Micron; crypto is next structural growth wave. [Visser]"
-    ],
-    "whats_new": [
-      "Marks: First formal Oaktree AI memo \u2014 explicit AI investment framework from value-focused legend",
-      "Burry: Post-Scion Substack Nov 12 confirms direct short on NVIDIA/SMH as new operating stance",
-      "Rosenberg: Negative equity risk premium framing is a sharper escalation of existing bearish equity view",
-      "Dalio: Bridgewater co-CIO Karniol-Tambour departure adds leadership risk alongside existing debt warnings"
-    ],
-    "vs_market_buy": [
-      "Dalio and Burry materially more bearish than current S&P pricing; market still near highs",
-      "Marks' AI unknowability thesis contrasts with market still assigning high certainty to AI winner-takes-all"
-    ],
-    "vs_market_sell": [
-      "Rosenberg's negative ERP claim directly contradicts current pricing \u2014 market acting as if 5% risk-free is irrelevant",
-      "Visser's bullish degrossing call contrasts with Hartnett/Berezin recession caution \u2014 intra-sell-side disagreement"
-    ],
-    "buy_vs_sell_divergence": [
-      "Burry (buy-side, bearish AI hardware) vs Visser (sell-side, bullish AI hardware) \u2014 explicit disagreement on what the November selloff means",
-      "Dalio (bearish fiscal, avoid bonds) vs Reid (buy mid-November dip for Santa rally) \u2014 timing disagreement"
-    ],
-    "aligned": [
-      "AI concentration acknowledged as extreme and creating systemic risk \u2014 both sides agree",
-      "Fiscal/debt ceiling risk into year-end is a shared concern across today's contributors"
-    ],
-    "buy_side_trades": [
-      "Short NVIDIA and AI semiconductor ETFs SMH/SOXX (Burry)",
-      "Short Palantir via put options (Burry)",
-      "Avoid overconcentration in AI winners \u2014 diversify AI exposure (Marks)",
-      "Avoid long-duration Treasuries ahead of fiscal deadlines (Dalio)"
-    ],
-    "sell_side_trades": [
-      "Long Micron on AI degrossing thesis (Visser)",
-      "Build crypto exposure ahead of next structural growth wave (Visser)",
-      "Long North American O&G upstream producers (Rosenberg)",
-      "Buy S&P 500 dip around mid-November on seasonal tailwinds (Reid)"
-    ],
-    "dominant_themes": [
-      "AI concentration and credit risk \u2014 winners unknowable, debt issuance extreme",
-      "US fiscal debt ceiling crisis \u2014 December 11 deadline imminent",
-      "AI hardware selloff: bubble bursting (Burry) vs. forced degrossing (Visser)"
-    ],
-    "buy_side_sentiment": "bearish",
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "week": {
     "period_start": "2026-11-07",
     "period_end": "2026-11-14",
     "entries_count": 49,
-    "buy_side_bullets": [
-      "Macro regime shift confirmed: structural factors favor active macro over passive \u2014 bond vigilantes returning. [Druckenmiller, Dalio]",
-      "AI hardware in explicit short: NVIDIA/SMH vs SOXX, hyperscaler profit manipulation exposed. [Burry]",
-      "AI concentration extreme: $600B debt issuance, 42 companies driving 2/3 of S&P gains since Jan 2024, winners unknowable. [Marks]",
-      "Fed more likely to hike than cut \u2014 2Y/fed funds inversion signals policy too loose; long-end vulnerable to 6%+. [Gundlach]",
-      "'Frozen bullish' positioning entrenched despite 5% bonds \u2014 risk-off window may persist through mid-November. [Tudor Jones, Druckenmiller]"
-    ],
-    "sell_side_bullets": [
-      "Equity risk premium negative \u2014 S&P 17.7x PE vs 5% risk-free, the most extreme mispricing in modern history. [Rosenberg]",
-      "Post-midterms = peak AI equity concentration; prefer tech bonds over tech stocks now. [Hartnett]",
-      "Near-term stagflation: growth slowing + inflation stuck ~3% = no Fed cuts; AI boom draining housing/autos. [Slok]",
-      "'1999 meets 1990': AI mania + geopolitical oil shock layered \u2014 mid-November likely trough before Santa rally. [Reid]",
-      "AI selloff was $70B hedge fund degrossing not bubble burst \u2014 Micron and crypto are buys. [Visser shift]"
-    ],
-    "whats_new": [
-      "Marks: First formal Oaktree AI memo is a paradigm shift \u2014 explicitly framing AI as an investment cycle, not just a theme",
-      "Burry: Post-Scion Substack confirms Nov 12 explicit short on NVIDIA \u2014 escalation of AI bearish stance",
-      "Rosenberg: Negative equity risk premium is new this week \u2014 sharper than prior valuation warnings",
-      "Einhorn: Acknowledged rate-cut thesis was wrong \u2014 shift from defensive rate-cut long to revised macro view [Einhorn shift]",
-      "Dalio: Bridgewater CIO departure adds institutional uncertainty atop debt warnings"
-    ],
-    "vs_market_buy": [
-      "Druckenmiller, Gundlach, and Dalio all more hawkish than Fed dot plot \u2014 market underpricing hike risk",
-      "Burry's AI hardware short contrarian vs S&P near highs \u2014 market not pricing the bubble burst scenario",
-      "Bessent (GDP >3%, bullish) is the lone buy-side outlier against dominant buy-side bearishness"
-    ],
-    "vs_market_sell": [
-      "Rosenberg's negative ERP calls implicit mispricing in market; market disagrees",
-      "Hartnett bearish vs Hatzius/Yardeni/Wilson explicitly bullish \u2014 sharp intra-sell-side divide on 2027",
-      "Berezin 40% recession odds vs Yardeni 60% Roaring 2020s \u2014 largest sell-side macro forecast range of the year"
-    ],
-    "buy_vs_sell_divergence": [
-      "Burry (bearish AI hardware, short NVIDIA) vs Visser (bullish, buying AI selloff) \u2014 most explicit week-long disagreement",
-      "Bessent (bullish >3% GDP) vs Berezin (40% recession odds) \u2014 macro forecast extreme divergence",
-      "Gundlach/Druckenmiller (hikes ahead) vs Wilson/Hatzius (easing supportive) \u2014 rate path disagreement"
-    ],
-    "aligned": [
-      "AI concentration is extreme and poses systemic risk \u2014 consensus across both sides",
-      "Fiscal/debt ceiling risk into year-end acknowledged as tail risk \u2014 both sides warning",
-      "Mid-November flagged as market inflection point \u2014 both bulls and bears watching the same catalyst"
-    ],
-    "buy_side_trades": [
-      "Short NVIDIA and AI semiconductor ETFs SMH/SOXX (Burry)",
-      "Long gold and hard assets on negative real rates and fiscal risk (Bass, Dalio)",
-      "Short USD \u2014 foreigners overloaded in dollars, structural reversal (Druckenmiller)",
-      "Long defense on bipartisan rearmament cycle (Bass)",
-      "Long copper on structural supply deficit (Druckenmiller)"
-    ],
-    "sell_side_trades": [
-      "Long Micron on AI degrossing thesis (Visser)",
-      "Long North American O&G upstream producers (Rosenberg)",
-      "Long 30-year Treasuries at ~5% yield target (Hartnett)",
-      "Short USD/DXY targeting below 100 (Hartnett)",
-      "Long local-currency EM bonds (Napier)"
-    ],
-    "dominant_themes": [
-      "AI concentration and bubble debate \u2014 hardware short vs. structural bull",
-      "US fiscal/debt ceiling crisis \u2014 December deadlines accelerating",
-      "Fed hawkishness return \u2014 rate hike risk underpriced by consensus"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   },
   "month": {
     "period_start": "2026-10-15",
     "period_end": "2026-11-14",
     "entries_count": 157,
-    "buy_side_bullets": [
-      "Macro trading regime returning after decade of passive dominance; dispersion and volatility creating generational opportunities. [Druckenmiller, Howard, Bass]",
-      "AI concentration extreme; winners unknowable; $600B debt issuance requiring underwriting discipline \u2014 not bubble yet, but frothy. [Marks, Burry]",
-      "Hard assets remain core longs on fiscal dominance thesis: gold, copper, defense capex cycle. [Dalio, Bass, Gundlach]",
-      "Fed rate hike risk underpriced: 2Y/funds inversion, inflation sticky at 3-4%, long-end structurally vulnerable to 6%+. [Gundlach, Tudor Jones, Einhorn shift]",
-      "US dollar in structural decline \u2014 foreigners overloaded; fiscal deficit 6.2% of GDP unsustainable. [Druckenmiller, Dalio, Soros]"
-    ],
-    "sell_side_bullets": [
-      "Equity risk premium has turned negative \u2014 S&P 17.7x PE vs 5% risk-free, the most dangerous mispricing in modern market history. [Rosenberg]",
-      "AI equity supply flood coming in 2027: SpaceX, Anthropic, OpenAI IPOs will overwhelm buyback demand \u2014 most negative supply since 2002. [Tudor Jones, Hartnett]",
-      "Financial repression is the only viable 15-20 year debt resolution; inflation will structurally exceed rates. [Napier, Edwards]",
-      "Near-term stagflation: AI-driven growth not filtering outside Big Tech; housing and autos deteriorating; no Fed cuts. [Slok, Berezin]",
-      "Mid-November/post-midterm inflection: year-end rally possible if AI financing fears abate; Santa rally thesis intact. [Reid, Wilson, Hartnett]"
-    ],
-    "whats_new": [
-      "Edwards: Formally abandoning Ice Age disinflationary thesis \u2014 paradigm shift to fiscal dominance acknowledged [Edwards shift]",
-      "Einhorn: Acknowledged rate-cut thesis was wrong; macro book -6% YTD \u2014 reversing positioning [Einhorn shift]",
-      "Marks: First formal Oaktree AI memo \u2014 first time Oaktree has formally engaged with AI as an investment cycle",
-      "Rosenberg: Negative equity risk premium framing \u2014 escalation from prior valuation warnings",
-      "Visser: Anti-Minsky framework \u2014 largest hedge fund degrossing in 10 years creates buy opportunity [Visser evolving]"
-    ],
-    "vs_market_buy": [
-      "Most buy-side more hawkish vs Fed \u2014 rate hike priced in by Gundlach/Druckenmiller vs market consensus of cuts",
-      "Buy-side broadly bearish on US equities vs market still near multi-year highs \u2014 significant positioning divergence",
-      "Bessent is the lone bullish outlier (>3% GDP) against dominant buy-side bearishness"
-    ],
-    "vs_market_sell": [
-      "Bullish sell-side bloc (Yardeni, Hatzius, Wilson) overweight vs prevailing buy-side bearishness \u2014 historical anomaly",
-      "Credit stress risk (Napier, Russell, Edwards) seen as underpriced in current IG spreads",
-      "Berezin 40% recession odds vs market pricing ~15% \u2014 substantial divergence from consensus"
-    ],
-    "buy_vs_sell_divergence": [
-      "Burry/Marks (bearish AI, sell hardware) vs Visser (bullish AI, buy hardware) \u2014 most persistent month-long divide",
-      "Bessent (bullish GDP >3%) vs Berezin (40% recession) \u2014 largest macro forecast range in the dataset",
-      "Dalio/Gundlach (avoid long bonds) vs Hartnett (long 30Y at 5%) \u2014 rates divergence"
-    ],
-    "aligned": [
-      "AI concentration acknowledged as extreme and systemic risk \u2014 rare cross-side consensus",
-      "US dollar in structural decline \u2014 both sides agree on direction",
-      "Fiscal/debt ceiling risk into 2027 is a shared macro concern",
-      "Mid-November inflection point watched by bulls and bears alike"
-    ],
-    "buy_side_trades": [
-      "Short NVIDIA and AI semiconductor ETFs SMH/SOXX (Burry)",
-      "Long gold and hard assets on fiscal dominance / negative real rates (Bass, Dalio, Gundlach)",
-      "Short USD \u2014 structural reversal as foreigners reduce dollar overweight (Druckenmiller, Hartnett)",
-      "Long defense on bipartisan rearmament multi-year capex cycle (Bass)",
-      "Long copper on structural supply deficit (Druckenmiller)",
-      "Long US upstream O&G producers \u2014 energy rotation (Rosenberg)"
-    ],
-    "sell_side_trades": [
-      "Long Micron and crypto on AI degrossing buy thesis (Visser)",
-      "Long 30-year Treasuries at ~5% yield target (Hartnett)",
-      "Short tech stocks / long tech bonds \u2014 post-concentration rotation (Hartnett)",
-      "Long local-currency EM bonds on financial repression thesis (Napier)",
-      "Long gold and preserve liquidity (Napier)",
-      "Long North American O&G upstream producers (Rosenberg)"
-    ],
-    "dominant_themes": [
-      "AI bubble vs structural growth debate \u2014 hardware short vs structural bull, most contested theme of the month",
-      "US fiscal/debt ceiling crisis and financial repression \u2014 15-20 year structural concern",
-      "Fed hawkishness return \u2014 higher for longer, hike risk underpriced"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   }
 }
