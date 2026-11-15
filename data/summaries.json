@@ -3,227 +3,51 @@
   "today": {
     "date": "2026-11-15",
     "entries_count": 14,
-    "buy_side_bullets": [
-      "77% AI-concentrated portfolio up 32% H1 2026 — rotating within AI from memory (exit Sandisk, cut Micron 41%) to infrastructure (Amazon to $1.2bn, TSMC 6th straight quarter). [Tepper]",
-      "Fed rate hike to 4.0% was 'mistake'; AI capex is rate-insensitive so conventional tightening worsens fiscal inflation — bullish on 2027 as geopolitical pressures ease. [Ackman]",
-      "Q4 seasonal tailwind in play — stocks through the Oct/Nov bottom window, long crude oil for $20-25 further rise post-midterms. [Tudor Jones]",
-      "Greenlight closed to new investors July 1; macro book -6% over 9 months as rate-cut thesis proved wrong — maintaining defensive low-net posture. [Einhorn]",
-      "Brevan Howard Master Fund -0.2% YTD; equities profits offset rates losses — strategic pivot toward digital assets and broader alternatives underway. [Howard]"
-    ],
-    "sell_side_bullets": [
-      "Bull & Bear Indicator at 9.6 (sell signal); only 21 stocks (~4% of index) making new highs — narrowest breadth since dot-com top; global equities on pace for record $1.2tn 2026 inflows. [Hartnett]",
-      "30-year Treasury at 5.213% (highest since 2007); DoubleLine running outright bond shorts; Fed more likely to hike than cut — 'no chance' of cuts. [Gundlach]",
-      "Ice Age over, 'AI doomsday isn't 2028, it's now': consumer savings collapsing, AI capex crowding out consumption, fiscal monetisation path leads to double-digit inflation. [Edwards]",
-      "Market correction in 'final innings' — upgrading S&P 500 to 8,500 by mid-2027 (above official 8,300 target); small-caps and cyclicals over Mag-7. [Wilson]",
-      "December 2026 rate hike now expected at Goldman; 2027 global GDP 2.8% with AI adding 0.4% pts; labor market at 'stall speed' in some metrics. [Hatzius]",
-      "Warsh 'money matters' remark signals deliberate pivot to financial repression — hold gold, buy equities on dips; savers and bond holders the losers. [Napier]"
-    ],
-    "whats_new": [
-      "Wilson upgraded S&P 500 target to 8,500 by mid-2027 — significant revision from his 7,800 year-end 2026 call [Wilson shift]",
-      "Ackman explicitly called the September Fed hike a 'mistake' — first time articulating AI-driven inflation as rate-hike-resistant [Ackman]",
-      "Greenlight closed to new investors effective July 1 — Einhorn's first structural capacity decision in years [Einhorn]",
-      "Tepper revealed Q2 13F showing Amazon as largest position at $1.2bn with Sandisk fully exited — first time memory chip rotation is fully visible [Tepper]",
-      "Hartnett's 9.6 Bull & Bear reading and 21-stock new-high stat — most extreme concentration data point published this year [Hartnett]",
-      "Berezin lowered recession odds to 30% from 50% — first meaningful improvement in BCA's recession probability since Iran war began [Berezin shift]"
-    ],
-    "vs_market_buy": [
-      "Ackman argues rate hikes make inflation worse via government interest expense — contrarian to conventional 'rate hikes cool CPI' consensus",
-      "Tepper remains 77% AI-concentrated despite growing consensus about AI overvaluation risk",
-      "Tudor Jones bullish on Q4 seasonal strength despite near-record 252% market cap/GDP valuations"
-    ],
-    "vs_market_sell": [
-      "Gundlach: Fed more likely to hike than cut — contrarian to market still pricing some easing probability",
-      "Edwards: double-digit inflation plausible — far above consensus 3-4% expectations",
-      "Berezin: despite lowering to 30% recession odds, equities underweight contradicts bullish majority on Wall Street"
-    ],
-    "buy_vs_sell_divergence": [
-      "Wilson (sell) sees correction as over and targets 8,500 by mid-2027; Einhorn (buy) is in defensive mode with low gross/net exposure — opposite risk appetites",
-      "Tepper (buy) is adding aggressively to AI infrastructure; Hartnett (sell) says record AI inflows = peak = sell signal",
-      "Ackman (buy) expects 2027 to be 'amazing' as wars ease; Edwards (sell) says AI doomsday is unfolding now, not in 2028"
-    ],
-    "aligned": [
-      "Both sides agree the September Fed hike to 4.0% materially changes the macro equation",
-      "Both sides acknowledge AI is the dominant market driver and concentration risk is high",
-      "Both sides see narrowing market breadth as a risk factor regardless of directional view",
-      "Gold is cited as a core holding across buy (Einhorn) and sell (Napier) side simultaneously"
-    ],
-    "buy_side_trades": [
-      "Long Amazon — AI infrastructure + cloud at $1.2bn (Tepper)",
-      "Long TSMC — semiconductor infrastructure, 6th consecutive quarter buy (Tepper)",
-      "Long crude oil — $20-25 further upside post-midterms (Tudor Jones)",
-      "Long quality stocks and Fannie/Freddie — entry point plus privatisation thesis (Ackman)",
-      "Long gold and SOFR futures; short USD vs EUR/JPY (Einhorn)",
-      "S&P 500 broad ETF long with Russell 2000 put hedges (Tudor Jones)"
-    ],
-    "sell_side_trades": [
-      "Short 30-year US Treasuries outright (Gundlach)",
-      "Overweight investment-grade BBB+; selective BB high yield; avoid CCC bank loans (Gundlach)",
-      "Sell tech equities, prefer tech bonds; long commodities (Hartnett)",
-      "Long Financials, Industrials, Healthcare; small-caps vs Mag-7 (Wilson)",
-      "Long gold, buy equities on dips as financial repression regime entrenches (Napier)",
-      "Slight equities underweight, below-benchmark duration (Berezin)"
-    ],
-    "dominant_themes": [
-      "Post-September Fed hike recalibration: 4.0% rates reshaping every portfolio",
-      "AI concentration at dot-com-era extremes — record inflows, 21-stock leadership, $600bn+ debt issuance",
-      "Financial repression emerging as the consensus debt-resolution framework"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "bearish"
+    "sell_side_sentiment": "mixed"
   },
   "week": {
     "period_start": "2026-11-08",
     "period_end": "2026-11-15",
     "entries_count": 61,
-    "buy_side_bullets": [
-      "Federal debt at $40.6T is a structural trap — a third of interest payments now service existing interest; midterm results irrelevant to structural problems. [Dalio]",
-      "'A Layman Thinks About AI' (Nov 11): $600bn AI-related debt issuance in 2026; 42 companies drove 2/3 of S&P gains since Jan 2024 — concentration risk is extreme. [Howard Marks]",
-      "Macro trading is back after 15 years dormant — short US long bonds; fiscal stimulus + QT + foreign CB disengagement keep yields structurally high. [Druckenmiller]",
-      "Nov 12 Substack: 'Enough is Enough NVIDIA, SMH vs SOXX' — explicit short thesis on AI hardware; hyperscalers inflating profits via useful-life extensions. [Burry]",
-      "AI-concentrated 32% H1 2026 return — rotating from memory (Sandisk exit, Micron cut 41%) to AI infrastructure (Amazon $1.2bn, TSMC 6th consecutive Q). [Tepper]",
-      "Market correction in final innings; Q4 seasonal tailwind in play; long oil for $20-25 further rise. [Tudor Jones]"
-    ],
-    "sell_side_bullets": [
-      "'1999 meets 1990' framework: AI mania (1999-style euphoria) layered on geopolitical oil shock (1990 Gulf War) — historically the most volatile macro combination. [Reid]",
-      "Bull & Bear at 9.6 (sell signal); 21-stock (4%) new-high breadth; global equity inflows on pace for record $1.2tn; BofA clients at record 66% equity allocation. [Hartnett]",
-      "S&P 500 negative equity risk premium vs 5% risk-free rate — stocks now priced as risk-free assets, a historically dangerous mispricing. [Rosenberg]",
-      "30-year at 5.213% (2007 high); Fed more likely to hike than cut; DoubleLine maintaining outright long-bond shorts. [Gundlach]",
-      "December hike expected at Goldman; 2027 global GDP 2.8%; AI adds 0.4% pts; labor market 'stable at full employment' but some metrics at 'stall speed'. [Hatzius]",
-      "Market correction 'final innings' — upgrading S&P 500 to 8,500 by mid-2027 on deregulation, Financials, and broadening. [Wilson shift]"
-    ],
-    "whats_new": [
-      "Howard Marks published third systematic AI memo 'A Layman Thinks About AI' (Nov 11) — $600bn AI debt issuance figure and 42-company concentration stat are new data points [Marks]",
-      "Burry published 'Enough is Enough NVIDIA' on Nov 12 Cassandra Unchained Substack — first explicit 'short AI hardware' call with SMH vs SOXX framing [Burry]",
-      "Wilson upgraded S&P target from 7,800 year-end 2026 to 8,500 mid-2027 — significant upward revision mid-correction [Wilson shift]",
-      "Dalio's Nov 9 'Money Rehab' interview specified the interest-on-interest dynamic with $40.6T figure — most specific debt framing to date [Dalio evolving]",
-      "Einhorn's fund formally closed to new investors July 1 and macro book revealed as -6% over 9 months [Einhorn]",
-      "Greenlight's macro book -6% loss reflects rate-cut bet that turned into a rate hike — Einhorn's first major thesis miss in years [Einhorn]",
-      "Berezin lowered US recession probability from 40-50% to 30% — first improvement since Iran conflict began [Berezin shift]"
-    ],
-    "vs_market_buy": [
-      "Burry shorting AI hardware (NVDA, SMH) while market consensus remains long AI infrastructure",
-      "Druckenmiller short US long bonds even as many portfolio managers buying duration at 5%+",
-      "Tepper remains 77% AI-concentrated despite Hartnett's 9.6 sell signal"
-    ],
-    "vs_market_sell": [
-      "Rosenberg: negative equity risk premium ignored by markets — structurally dangerous mispricing vs 5% risk-free rate",
-      "Reid: '1999 meets 1990' implies the AI bull market could end abruptly like dot-com + geopolitical shock simultaneously",
-      "Edwards: fiscal monetisation to double-digit inflation — far outside consensus range of 3-4%"
-    ],
-    "buy_vs_sell_divergence": [
-      "Tepper (buy) adding AI concentration; Hartnett (sell) saying record AI inflows = contrarian sell signal",
-      "Howard Marks (buy) applying investment framework to AI: sees risk but stays constructive on select opportunities; Edwards (sell) says AI doomsday is now",
-      "Dalio (buy) urging portfolio diversification into gold and global assets; Hatzius (sell) constructive on US above-consensus growth"
-    ],
-    "aligned": [
-      "Both sides agree US federal debt dynamics are unsustainable and structurally risk-negative",
-      "Both sides cite AI concentration risk — disagreement is on timing and magnitude, not existence",
-      "Both sides expect higher rates for longer post-September hike",
-      "Gold appears as a consensus holding across buy and sell sides (Dalio, Einhorn, Napier, Marks)"
-    ],
-    "buy_side_trades": [
-      "Long gold and global asset diversification (Dalio)",
-      "Short US long bonds (Druckenmiller)",
-      "Long Amazon, TSMC (Tepper)",
-      "Short Nvidia and AI hardware via SMH/SOXX (Burry)",
-      "Long crude oil (Tudor Jones)",
-      "Long gold and short USD vs EUR/JPY (Einhorn)"
-    ],
-    "sell_side_trades": [
-      "Short 30-year US Treasuries outright (Gundlach)",
-      "Long commodities, long tech bonds over tech equities (Hartnett)",
-      "Long Financials, Industrials, Healthcare; small-caps over Mag-7 (Wilson)",
-      "Long gold, buy equities on dips as financial repression entrenches (Napier)",
-      "Slight equities underweight, below-benchmark duration (Berezin)"
-    ],
-    "dominant_themes": [
-      "AI mania meets debt reckoning — $600bn AI debt + negative equity risk premium + 9.6 Bull&Bear = late-cycle extremes",
-      "Post-midterm repricing: oil, rates, and equities recalibrating after US midterm elections",
-      "Financial repression vs outright rate hikes — the market's key unresolved debate"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   },
   "month": {
     "period_start": "2026-10-16",
     "period_end": "2026-11-15",
     "entries_count": 171,
-    "buy_side_bullets": [
-      "Structural debt trap: $40.6T federal debt, negative equity risk premium, 'great power competition' and domestic political gridlock creating a 2-year risk window. [Dalio]",
-      "AI as anti-bubble: early-November AI selloff was largest hedge fund degrossing in 10 years (~$70bn in 90 mins) — not a bubble pop, a forced deleveraging; buying Micron. [Visser]",
-      "Macro trading is back after 15 years dormant — short US bonds, long Japan/Korea, long Brazil; foreign CBs disengaging from US Treasuries is structural not cyclical. [Druckenmiller]",
-      "Three AI memos: 'Is It a Bubble?', 'AI Hurtles Ahead', 'A Layman Thinks About AI' — $600bn debt issuance, 42-company concentration; risks are real but select opportunities exist. [Howard Marks]",
-      "AI hardware short — 'Enough is Enough NVIDIA, SMH vs SOXX' (Nov 12); Scion deregistered; hyperscalers inflating profits via useful-life accounting extensions. [Burry]",
-      "Tepper 32% H1 return, 77% AI book — rotating from memory (Sandisk exit, Micron -41%) to AI infrastructure (Amazon $1.2bn, TSMC 6th consecutive Q). [Tepper]"
-    ],
-    "sell_side_bullets": [
-      "'1999 meets 1990': AI mania layered on geopolitical oil shock — global GDP 3.0%, global CPI 3.8%; 10yr UST target 4.75%, JGB near 3%. [Reid]",
-      "Bull & Bear at 9.5-9.6 (sell signal) for weeks; 21-stock breadth at dot-com-top levels; global equity inflows record $1.2tn in 2026; BofA clients at record 66% equity. [Hartnett]",
-      "Financial repression is the consensus debt-resolution path — Warsh 'money matters' marks the start; hold gold, buy equities on dips; bonds and savers lose. [Napier]",
-      "Ice Age officially dead — 'AI doomsday isn't 2028, it's now': consumer savings collapse + AI capex crowding consumption = double-digit inflation path. [Edwards]",
-      "S&P 500 negative equity risk premium vs 5% risk-free rate — structurally dangerous mispricing; Corton Rosenberg Global Macro ETF (TSX: ROSY) launched Sept 10. [Rosenberg]",
-      "US recession probability lowered to 30% (from 40-50%) as fiscal stimulus offsets energy shock; 'Rotation and Then Recession' sequence still the base case for 2027. [Berezin shift]",
-      "December 2026 rate hike expected; 2027 global GDP 2.8%; AI adds 0.4% pts to global growth, 0.6% to US. [Hatzius]",
-      "Market correction in final innings — S&P 500 to 8,500 by mid-2027; broadening to Financials, Industrials, Healthcare, small-caps. [Wilson evolving]"
-    ],
-    "whats_new": [
-      "Edwards explicitly declared Ice Age over and reframed as 'AI doomsday is now' — most significant paradigm shift from his long-running framework [Edwards shift]",
-      "Wilson upgraded S&P target to 8,500 mid-2027 from 7,800 year-end 2026 — material upward revision mid-correction [Wilson shift]",
-      "Napier framed Warsh's 'money matters' as the starting gun for financial repression — new concrete policy signal [Napier evolving]",
-      "Burry published first explicit AI hardware short thesis on Cassandra Unchained (Nov 12 post) [Burry]",
-      "Howard Marks published third AI memo with specific $600bn debt issuance data point — most granular AI risk analysis to date [Marks evolving]",
-      "Einhorn's fund closed to new investors and macro book revealed as -6% over 9 months — first public acknowledgment of thesis failure [Einhorn]",
-      "Berezin lowered US recession probability from 40-50% to 30% — first improvement since Iran conflict started [Berezin shift]",
-      "Tepper revealed within-AI rotation: fully exited memory chips (Sandisk) and cut Micron 41% while adding AI infrastructure [Tepper]",
-      "Dalio specified $40.6T debt with 'interest-on-interest' dynamic crowding out government spending — sharpest debt framing yet [Dalio evolving]"
-    ],
-    "vs_market_buy": [
-      "Burry: short Nvidia/AI hardware while market consensus remains strongly long AI semiconductor trade",
-      "Druckenmiller: short US long bonds at 5%+ yields against popular view that rates are now 'attractive'",
-      "Tepper: raising AI concentration to 77% despite Hartnett's 9.6 sell signal and record inflows"
-    ],
-    "vs_market_sell": [
-      "Edwards: double-digit inflation plausible under fiscal monetisation — 3x consensus expectation of 3-4%",
-      "Rosenberg: negative equity risk premium structurally dangerous; market ignoring it",
-      "Napier: financial repression beginning now — market treating current rate environment as 'inflation fight' not deliberate debt erosion",
-      "Berezin: 30% recession probability despite consensus bullishness post-midterms"
-    ],
-    "buy_vs_sell_divergence": [
-      "Visser (buy) calls AI selloff a forced deleveraging and buying opportunity; Hartnett (sell) sees record inflows as a contrarian peak signal — same event, opposite conclusions",
-      "Tepper (buy) adding AI infrastructure concentration; Burry (buy) simultaneously shorting AI hardware — disagreement within buy side on AI trade",
-      "Howard Marks (buy) applying careful valuation framework to AI and staying selectively constructive; Edwards (sell) calling the AI capex boom the mechanism of economic destruction",
-      "Hatzius (sell) projecting above-consensus 2.6% US GDP and December hike; Berezin (sell) has equities underweight with 30% recession odds — Goldman vs BCA split"
-    ],
-    "aligned": [
-      "Universal consensus that US federal debt dynamics are unsustainable — buy and sell side differ on timing and resolution mechanism only",
-      "Both sides agree AI is the defining market driver and concentration risk is at extreme levels",
-      "Both sides now expect rates to remain elevated or move higher — no one calling for near-term easing",
-      "Gold cited as a core position across buy and sell sides in almost every defensive framework",
-      "Both sides agree the market correction in October/early November was forced deleveraging, not fundamental breakdown"
-    ],
-    "buy_side_trades": [
-      "Long gold and global diversification — Brazil, Japan, Korea (Dalio, Druckenmiller)",
-      "Short US long bonds (Druckenmiller)",
-      "Long Amazon, TSMC; exit Sandisk (Tepper)",
-      "Short Nvidia and AI hardware, SMH vs SOXX (Burry)",
-      "Long Micron on AI degrossing thesis (Visser)",
-      "Long crude oil (Tudor Jones)",
-      "Long gold, short USD vs EUR/JPY (Einhorn)"
-    ],
-    "sell_side_trades": [
-      "Short 30-year US Treasuries outright; overweight IG credit BBB+; avoid CCC (Gundlach)",
-      "Long commodities; sell tech equities, buy tech bonds (Hartnett)",
-      "Long gold, buy equities on dips as financial repression regime entrenches (Napier)",
-      "Long Financials, Industrials, Healthcare; small-caps over Mag-7 (Wilson)",
-      "Slight equities underweight, below-benchmark duration (Berezin)",
-      "Defensive posture: index puts at ~20% of Soros Fund book (Soros/Fitzpatrick)"
-    ],
-    "dominant_themes": [
-      "Post-Iran-war rate regime: Fed at 4.0%+ (hike Sept), rates structurally higher — portfolio recalibration in progress",
-      "AI mania at extreme concentration — $600bn debt issuance, 21-stock new-high breadth, 9.6 Bull&Bear — but forced degrossing creating buy dips vs sell rallies split",
-      "Financial repression as the emerging consensus debt-resolution framework — Napier, Dalio, Rosenberg all pointing to same destination via different paths"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bearish"
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   }
 }
