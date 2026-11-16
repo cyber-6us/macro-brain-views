@@ -1,53 +1,198 @@
 {
-  "generated_at": "2026-11-15",
+  "generated_at": "2026-11-16",
   "today": {
-    "date": "2026-11-15",
-    "entries_count": 14,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "date": "2026-11-16",
+    "entries_count": 4,
+    "buy_side_bullets": [
+      "Natera (~20% of equity book, est. $870M+) remains top position \u2014 highest-conviction long for 6th straight quarter [Stan Druckenmiller]",
+      "AI tech picks down 27.8% avg since June 30 through Nov 9, vs SPY +0.8% \u2014 AI overweight underperforming [Stan Druckenmiller]",
+      "Crypto/digital assets overlay emerging: October Hyperliquid post sent crypto stock surging [Stan Druckenmiller]",
+      "Earlier 2026 hard-landing call not updated publicly \u2014 macro view status uncertain [Stan Druckenmiller]",
+      "Portfolio also holds MercadoLibre, TSMC, Seagate, Alcoa among top names [Stan Druckenmiller]"
+    ],
+    "sell_side_bullets": [
+      "S&P 500 year-end target upgraded to 7,900 (from 7,700) \u2014 earnings and GDP still supportive [Ed Yardeni]",
+      "Roaring 2020s thesis at 60% probability; economy remains 'booming' per Nov 6 podcast [Ed Yardeni]",
+      "AI sell-off 'taking some air out of the bubble' \u2014 healthy, not a rout; no crash call [Ed Yardeni]",
+      "14.5% weekly decline in semiconductor equipment stocks signals analyst earnings cuts ahead [Ed Yardeni]",
+      "Midterm elections + Iran conflict = two key near-term risk events to navigate [Ed Yardeni]"
+    ],
+    "whats_new": [
+      "Ed Yardeni \u2014 Yardeni upgraded his year-end S&P 500 target to 7,900 on November 2 \u2014 up from 7,700 \u2014 during a Bloom",
+      "Liz Ann Sonders \u2014 Schwab's November 3 Market Talk, hosted by Sonders as Chief Investment Strategist, addressed the mid"
+    ],
+    "vs_market_buy": [
+      "Buy side vs consensus: mixed with 2 participants"
+    ],
+    "vs_market_sell": [
+      "Sell side vs consensus: neutral with 2 participants"
+    ],
+    "buy_vs_sell_divergence": [
+      "Buy/sell sentiment divergence mixed: buy mixed, sell neutral"
+    ],
+    "aligned": [
+      "Both sides active on AI theme",
+      "Both sides active on EARNINGS theme"
+    ],
+    "buy_side_trades": [
+      "Long Natera (top holding, ~20% of book) [Stan Druckenmiller]",
+      "Long Hyperliquid/digital assets (endorsed Oct 29) [Stan Druckenmiller]",
+      "Long MercadoLibre, TSMC, Seagate (Q2 positions) [Stan Druckenmiller]"
+    ],
+    "sell_side_trades": [
+      "Long S&P 500 on dips toward current levels (target 7,900) [Ed Yardeni]",
+      "Cautious on semiconductor equipment stocks near-term [Ed Yardeni]",
+      "Post-midterm seasonal strength historically positive for equities (tactical long) [Liz Ann Sonders]",
+      "Defensive posture into 2027 on valuation and concentration risks [Liz Ann Sonders]"
+    ],
+    "dominant_themes": [
+      "equities",
+      "rates",
+      "commodities"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "neutral"
   },
   "week": {
-    "period_start": "2026-11-08",
-    "period_end": "2026-11-15",
-    "entries_count": 61,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "period_start": "2026-11-09",
+    "period_end": "2026-11-16",
+    "entries_count": 54,
+    "buy_side_bullets": [
+      "US assets will attract more concentration as global geopolitical chaos escalates \u2014 April 2026 Bloomberg interview [Kyle Bass]",
+      "Short-term US recession may be 'necessary medicine' to stabilize trade imbalances and reduce fiscal deficit [Kyle Bass]",
+      "True real rates approximately -12% due to government understating inflation \u2014 deeply negative and bullish for hard assets [Kyle Bass]",
+      "Japan remains a relative bright spot in developed markets; yen structurally better positioned than other majors [Kyle Bass]",
+      "Avoid China and Hong Kong business exposure \u2014 systemic risks remain severe despite near-term stability [Kyle Bass]"
+    ],
+    "sell_side_bullets": [
+      "30Y Treasury yield reached ~5% target \u2014 but 'frozen bullish' positioning is entrenched and the risk-off window may persist [Michael Hartnett]",
+      "DXY approaching 100 target \u2014 dollar weakness materializing as forecast since October [Michael Hartnett]",
+      "Mid-November inflection point: tech rotation possible if AI financing fears abate [Michael Hartnett]",
+      "$10.2bn equity outflows in one week \u2014 largest since March \u2014 reflects broad, sustained risk-off positioning [Michael Hartnett]",
+      "Long Detroit, short Davos rotation remains intact: US small/mid-caps, banks, REITs, EM vs Mag-7 [Michael Hartnett]"
+    ],
+    "whats_new": [
+      "Mike Wilson \u2014 Mike Wilson says the S&P 500 market correction is nearly over and expects two to three more weeks of",
+      "George Soros \u2014 Soros Fund Management's Q2 2026 13F reveals a notable rotation toward defensive utilities, with the ",
+      "Howard Marks \u2014 In his September 22, 2026 Oaktree memo 'Shall We Repeal the Laws of Economics Part III,' Marks argue",
+      "David Rosenberg \u2014 Rosenberg escalated his recession call in October 2026, pushing US recession probability above 50/50",
+      "Stan Druckenmiller \u2014 Druckenmiller maintains that the macro environment has fundamentally shifted \u2014 'Macro has been dead "
+    ],
+    "vs_market_buy": [
+      "Buy side vs consensus: mixed with 23 participants"
+    ],
+    "vs_market_sell": [
+      "Sell side vs consensus: bearish with 31 participants"
+    ],
+    "buy_vs_sell_divergence": [
+      "Buy/sell sentiment divergence mixed: buy mixed, sell bearish"
+    ],
+    "aligned": [
+      "Both sides active on AI theme",
+      "Both sides active on RATES theme",
+      "Both sides active on EQUITIES theme"
+    ],
+    "buy_side_trades": [
+      "Long US assets for capital concentration trade vs international alternatives [Kyle Bass]",
+      "Long defense/precision weapons names on bipartisan rearmament budget [Kyle Bass]",
+      "Long gold and hard assets given deeply negative true real rates [Kyle Bass]",
+      "Long utilities as defensive rotation in stagflationary environment [George Soros]",
+      "Maintain elevated put overlay \u2014 downside protection not yet removed [George Soros]",
+      "Underweight consumer discretionary given real wage erosion [George Soros]",
+      "Selective in AI-related investments \u2014 valuation discipline required despite transformational potential [Howard Marks]",
+      "Recalibrate return expectations downward in an era of financial repression and high debt [Howard Marks]",
+      "Private credit remains more attractive than public bonds but selectivity critical [Howard Marks]",
+      "Long digital assets as part of strategic firm pivot \u2014 increasing allocation [Alan Howard]"
+    ],
+    "sell_side_trades": [
+      "Long 30-year Treasuries with yield at ~5% target [Michael Hartnett]",
+      "Short USD/DXY targeting below 100 [Michael Hartnett]",
+      "Position for tactical tech rotation entry at mid-November if macro stabilizes [Michael Hartnett]",
+      "Long S&P 500 on dips toward 7,100 [Mike Wilson]",
+      "Long Financials / regional banks on deregulation tailwind [Mike Wilson]",
+      "Long Micron (MU) on AI memory demand [Jordi Visser]",
+      "Long Bitcoin / crypto on AI macro / negative real yield thesis [Jordi Visser]",
+      "Long US Treasuries as 2027 recession hedge [David Rosenberg]",
+      "Short or underweight S&P 500 mega-cap concentration names [David Rosenberg]",
+      "Long defensive sectors: utilities, healthcare, consumer staples [David Rosenberg]"
+    ],
+    "dominant_themes": [
+      "equities",
+      "bonds",
+      "rates"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "bearish"
   },
   "month": {
-    "period_start": "2026-10-16",
-    "period_end": "2026-11-15",
-    "entries_count": 171,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "period_start": "2026-10-17",
+    "period_end": "2026-11-16",
+    "entries_count": 174,
+    "buy_side_bullets": [
+      "US assets will attract more concentration as global geopolitical chaos escalates \u2014 April 2026 Bloomberg interview [Kyle Bass]",
+      "Short-term US recession may be 'necessary medicine' to stabilize trade imbalances and reduce fiscal deficit [Kyle Bass]",
+      "True real rates approximately -12% due to government understating inflation \u2014 deeply negative and bullish for hard assets [Kyle Bass]",
+      "Japan remains a relative bright spot in developed markets; yen structurally better positioned than other majors [Kyle Bass]",
+      "Avoid China and Hong Kong business exposure \u2014 systemic risks remain severe despite near-term stability [Kyle Bass]"
+    ],
+    "sell_side_bullets": [
+      "30Y Treasury yield reached ~5% target \u2014 but 'frozen bullish' positioning is entrenched and the risk-off window may persist [Michael Hartnett]",
+      "DXY approaching 100 target \u2014 dollar weakness materializing as forecast since October [Michael Hartnett]",
+      "Mid-November inflection point: tech rotation possible if AI financing fears abate [Michael Hartnett]",
+      "$10.2bn equity outflows in one week \u2014 largest since March \u2014 reflects broad, sustained risk-off positioning [Michael Hartnett]",
+      "Long Detroit, short Davos rotation remains intact: US small/mid-caps, banks, REITs, EM vs Mag-7 [Michael Hartnett]"
+    ],
+    "whats_new": [
+      "David Einhorn \u2014 Einhorn shifted Greenlight Capital to a capital-preservation posture in mid-2026, arguing the U.S. e",
+      "Albert Edwards \u2014 In a May 2026 Bloomberg Odd Lots appearance, Edwards declared the 'Ice Age' thesis is evolving into ",
+      "Mike Wilson \u2014 Wilson's Morgan Stanley team set a 2026 S&P 500 target of 7,800, forecasting 17% EPS growth on AI-dr",
+      "Michael Burry \u2014 2026 is recording the worst US consumer sentiment since 1952 according to Burry, who also argued new",
+      "David Rosenberg \u2014 Rosenberg argued on November 3rd that a Nasdaq-100 correction was \"probably inevitable,\" with both s"
+    ],
+    "vs_market_buy": [
+      "Buy side vs consensus: bearish with 65 participants"
+    ],
+    "vs_market_sell": [
+      "Sell side vs consensus: bearish with 109 participants"
+    ],
+    "buy_vs_sell_divergence": [
+      "Buy/sell sentiment divergence mixed: buy bearish, sell bearish"
+    ],
+    "aligned": [
+      "Both sides active on AI theme",
+      "Both sides active on RATES theme",
+      "Both sides active on EQUITIES theme"
+    ],
+    "buy_side_trades": [
+      "Long US assets for capital concentration trade vs international alternatives [Kyle Bass]",
+      "Long defense/precision weapons names on bipartisan rearmament budget [Kyle Bass]",
+      "Long gold and hard assets given deeply negative true real rates [Kyle Bass]",
+      "Long copper (structural supply deficit) [Stan Druckenmiller]",
+      "Long gold (fiscal risk hedge) [Stan Druckenmiller]",
+      "Short USD [Stan Druckenmiller]",
+      "Short long-dated bonds [Stan Druckenmiller]",
+      "Long Amazon, Alphabet, TSMC (AI infrastructure beneficiaries) [David Tepper]",
+      "Exit SanDisk on post-rally profit taking [David Tepper]",
+      "Initiate Boeing and American Airlines on turnaround thesis [David Tepper]"
+    ],
+    "sell_side_trades": [
+      "Long 30-year Treasuries with yield at ~5% target [Michael Hartnett]",
+      "Short USD/DXY targeting below 100 [Michael Hartnett]",
+      "Position for tactical tech rotation entry at mid-November if macro stabilizes [Michael Hartnett]",
+      "Short 30-year U.S. Treasury [Jeffrey Gundlach]",
+      "Long local-currency EM bonds [Jeffrey Gundlach]",
+      "Long real assets as inflation hedge [Jeffrey Gundlach]",
+      "Underweight long-duration developed-market govts [Jeffrey Gundlach]",
+      "Long S&P 500 on dips toward correction levels [Ed Yardeni]",
+      "Long small caps (first overweight since 2021) [Mike Wilson]",
+      "Overweight financials, healthcare, consumer discretionary, industrials [Mike Wilson]"
+    ],
+    "dominant_themes": [
+      "equities",
+      "bonds",
+      "rates"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "bearish"
   }
 }
