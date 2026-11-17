@@ -1,53 +1,198 @@
 {
-  "generated_at": "2026-11-16",
+  "generated_at": "2026-11-17",
   "today": {
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "entries_count": 4,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "buy_side_bullets": [
+      "Geopolitical risk (Ukraine, Iran) suppressing what should be a booming market; 2027 upside if chain loosens. [Ackman]",
+      "AI 'near infinite ROI' makes capex rate-insensitive \u2014 Fed hikes may worsen rather than cool inflation via AI channel. [Ackman]",
+      "Short long-duration bonds remains the core macro trade. [Ackman]"
+    ],
+    "sell_side_bullets": [
+      "2026 feels like '1999 meets 1990': AI euphoria + Middle East oil shock; Brent could hit $150 on Hormuz closure. [Reid]",
+      "Peak AI equity concentration post-midterms: $44.6bn into tech in 4 weeks \u2014 now prefer tech bonds over tech stocks. [Hartnett shift]",
+      "'Anything But Dollar' rotation live: US equities at lowest share of global flows since 2020. [Hartnett]",
+      "Iran war raises US recession odds to 40%; Europe/Japan at 50%; $200 oil tail risk now on the table. [Berezin shift]",
+      "Autumn stagflation signal: record diesel prices + 30yr Treasury at multi-decade high + AI bubble risk converging. [Hartnett]"
+    ],
+    "whats_new": [
+      "Hartnett explicitly calls 'peak AI equity concentration' \u2014 a tactical shift from broad-bearish to tech-bonds-over-tech-stocks trade.",
+      "Berezin reverses November 15 downgrade \u2014 recession odds back to 40% US / 50% Europe-Japan after Iran escalation.",
+      "Reid frames the year as '1999 meets 1990' in Deutsche Bank's formal November World Outlook \u2014 first systematic framing combining AI bubble and oil shock risks."
+    ],
+    "vs_market_buy": [
+      "Ackman is more cautious near-term than market pricing; market pricing ~92% Dec hike odds while Ackman calls it a 'mistake'"
+    ],
+    "vs_market_sell": [
+      "Reid and Hartnett both more bearish on AI equities than the current S&P 7,900+ market level implies",
+      "Berezin's 40% US recession odds materially above implied market probability (~10-15%)"
+    ],
+    "buy_vs_sell_divergence": [
+      "Ackman (buy) sees 2027 rebound if geopolitics ease; Reid (sell) says oil shock is structural, not a catalyst to fade"
+    ],
+    "aligned": [
+      "Short long-duration bonds: Ackman, Reid, Hartnett all warn rates rise further",
+      "AI concentration as the primary equity risk \u2014 both sides flagging tech as crowded"
+    ],
+    "buy_side_trades": [
+      "Short 30yr Treasuries [Ackman]",
+      "Long energy vs. short consumer [Ackman]"
+    ],
+    "sell_side_trades": [
+      "Tech bonds over tech stocks [Hartnett]",
+      "Long international/EM vs. short US equities [Hartnett]",
+      "Underweight European and Japanese equities [Berezin]",
+      "Long crude oil / energy as geopolitical hedge [Berezin, Reid]"
+    ],
+    "dominant_themes": [
+      "AI concentration risk / peak AI",
+      "Middle East energy shock / oil macro",
+      "Bond bearishness / higher-for-longer rates"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "bearish"
   },
   "week": {
-    "period_start": "2026-11-09",
-    "period_end": "2026-11-16",
-    "entries_count": 54,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "period_start": "2026-11-10",
+    "period_end": "2026-11-17",
+    "entries_count": 58,
+    "buy_side_bullets": [
+      "Federal debt trap \u2014 $40.6T at $7T spend vs $5T revenue; crowding out and structural deficit not solvable without paradigm shift. [Dalio evolving]",
+      "Short US long bonds: QT, fiscal stimulus, foreign CB disengagement keep yields structurally elevated. [Druckenmiller, Gundlach, Ackman]",
+      "AI hardware bear thesis sharpening: Nvidia + SMH vs SOXX short; hyperscalers inflating profits via useful-life extensions. [Burry]",
+      "Macro trading is back \u2014 the best macro environment in 15 years; long Japan and Korea, long copper/gold. [Druckenmiller]",
+      "Late-Oct/early-Nov stock bottom call validated; long oil on Iran-US conflict lingering into year-end. [Tudor Jones]"
+    ],
+    "sell_side_bullets": [
+      "Bull & Bear Indicator at 9.6 / 'peak AI concentration' \u2014 record $44.6bn tech flows in 4 weeks signals exhaustion; tech bonds > tech stocks. [Hartnett evolving]",
+      "Ice Age over: fiscal dominance replaces secular stagnation; double-digit inflation now plausible. [Edwards evolving]",
+      "Financial repression is the template: 'Shock of 26' \u2014 higher yields + recession = accelerated NIRP engineering. [Napier]",
+      "'1999 meets 1990': AI mania + Middle East oil shock; Brent $86 base, $150 Hormuz tail; global growth 3.0%. [Reid]",
+      "US recession odds 30-40%; equity risk premium negative at 17.7x fwd PE vs 5% risk-free. [Rosenberg, Berezin]",
+      "Stagflation entrenched: post-September hike 'shortage of capital' \u2014 no Fed cuts, potentially more hikes. [Slok, Hartnett]"
+    ],
+    "whats_new": [
+      "Edwards formally declares Ice Age thesis dead \u2014 a framework he held for 25+ years \u2014 shifting to fiscal dominance inflation call.",
+      "Hartnett evolves from broad sell to 'tech bonds > tech stocks' \u2014 first tactical differentiation within tech.",
+      "Berezin flip-flop: lowered recession odds to 30% on Nov 15, raised back to 40% on Nov 17 citing Iran escalation.",
+      "Wilson upgrades S&P 500 to 8,500 mid-2027 (from original 7,800 2026 target) \u2014 biggest single-week upward revision in MS 2026 track.",
+      "Reid formalizes '1999 meets 1990' framework in annual World Outlook \u2014 signals DB's official scenario for year-end 2026."
+    ],
+    "vs_market_buy": [
+      "Dalio/Druckenmiller short bonds vs. current 30yr ~5.2% \u2014 further upside they see not fully priced",
+      "Burry short AI hardware vs. AI rally that's priced in continued capex boom",
+      "Bass: US may need brief recession but it would be 'necessary medicine' \u2014 market not pricing this"
+    ],
+    "vs_market_sell": [
+      "Rosenberg: negative equity risk premium (ERP) means stocks priced as risk-free \u2014 market ignoring this pricing anomaly",
+      "Edwards/Napier: double-digit inflation + financial repression not in any consensus forecast",
+      "Berezin 40% US recession odds vs. market-implied ~10-15% \u2014 large divergence"
+    ],
+    "buy_vs_sell_divergence": [
+      "Wilson/Yardeni/Hatzius (sell): S&P 500 to 7,800-8,500, GDP 2.6-3%; Rosenberg/Berezin/Edwards (sell): recession, negative ERP, bear market",
+      "Bessent (buy): US GDP can exceed 3%, deficit to 3% by end of term; Rosenberg (sell): recession probability above 50/50",
+      "Tepper/Soros (buy): bullish on AI and potential rate cuts; Burry/Gundlach/Druckenmiller (buy): bearish on AI hardware and bonds"
+    ],
+    "aligned": [
+      "Short long-duration bonds / rates higher-for-longer: buy and sell side unified [Druckenmiller, Gundlach, Ackman, Reid, Hartnett, Napier, Rosenberg]",
+      "AI concentration is the primary equity risk \u2014 not AI productivity, but AI valuation crowding [Burry, Marks, Hartnett, Reid]",
+      "Middle East energy shock is a live macro risk \u2014 oil is the key variable [Reid, Berezin, Bass, Tudor Jones, Ackman]",
+      "Geopolitics (Iran, Ukraine) suppressing what would otherwise be a bullish market setup for 2027 [Ackman, Bessent, Tudor Jones]"
+    ],
+    "buy_side_trades": [
+      "Short US long bonds \u2014 30yr and 10yr [Druckenmiller, Gundlach, Ackman]",
+      "Long copper and gold \u2014 supply-demand structural bull [Druckenmiller]",
+      "Long Japan and Korea equities with AI overlay [Druckenmiller]",
+      "Short Nvidia/SMH, long SOXX ex-AI [Burry]",
+      "Long oil \u2014 $20-25 upside on Iran-US conflict scenario [Tudor Jones]"
+    ],
+    "sell_side_trades": [
+      "Tech bonds over tech stocks (high-grade tech credit > Mag-7 equities) [Hartnett]",
+      "Long international/EM, short US equities \u2014 'Anything But Dollar' rotation [Hartnett]",
+      "Long Detroit (small/mid-caps, banks, REITs) / Short Davos (Mag-7, mega-cap AI) [Hartnett]",
+      "Underweight European and Japanese equities vs. US on oil shock exposure [Berezin]",
+      "Long crude oil / energy as geopolitical hedge [Berezin, Reid]",
+      "Short long-duration global government bonds [Napier, Reid, Rosenberg]"
+    ],
+    "dominant_themes": [
+      "AI concentration / peak AI equity bubble",
+      "Middle East energy shock and oil macro",
+      "Bond bear market / financial repression / higher-for-longer"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "bearish"
   },
   "month": {
-    "period_start": "2026-10-17",
-    "period_end": "2026-11-16",
-    "entries_count": 174,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "period_start": "2026-10-18",
+    "period_end": "2026-11-17",
+    "entries_count": 177,
+    "buy_side_bullets": [
+      "Structural short US bonds: QT, fiscal excess, foreign CB disengagement keep 30yr yields elevated \u2014 largest consensus macro trade among buy-siders. [Druckenmiller, Gundlach, Ackman, Bass]",
+      "AI hardware bear thesis building: Nvidia short thesis from Substack + SMH vs SOXX divergence \u2014 hyperscaler accounting inflation in focus. [Burry]",
+      "AI bull side: 77% AI portfolio concentration at Appaloosa; 'greatest opportunity of a generation' despite near-term noise. [Tepper]",
+      "Fed has made a 'mistake' \u2014 rate hikes are rate-insensitive for AI capex; inflation structural, not demand-driven. [Ackman]",
+      "Late-cycle macro: copper and gold long, short dollar, long Japan/Korea with AI overlay. [Druckenmiller]"
+    ],
+    "sell_side_bullets": [
+      "Stagflation signal converging: post-September hike 'shortage of capital' + record oil/diesel + 30yr at multi-decade high. [Hartnett, Slok, Reid]",
+      "AI equity concentration extreme: $44.6bn into tech in 4 weeks, Bull & Bear at 9.6 (sell) \u2014 tech bonds > tech stocks. [Hartnett evolving]",
+      "Ice Age officially over: Edwards' 25-year deflation framework abandoned \u2014 fiscal dominance, double-digit inflation plausible. [Edwards shift]",
+      "Recession odds rising: US at 30-40%, Europe/Japan at 50%; negative equity risk premium at current P/E. [Rosenberg, Berezin]",
+      "Financial repression as the dominant debt resolution: 'Shock of 26' \u2014 negative real rates engineered deliberately. [Napier evolving]",
+      "Deutsche Bank World Outlook: '1999 meets 1990' \u2014 AI bubble + oil shock; global growth 3%, Japan 0.7%. [Reid]"
+    ],
+    "whats_new": [
+      "Edwards abandons Ice Age thesis for the first time in 25+ years \u2014 fiscal dominance replaces secular stagnation as his core framework.",
+      "Hartnett evolves from full-market bearish to 'tech bonds > tech stocks' \u2014 first intra-tech differentiation in 2026.",
+      "Berezin oscillates: 40% \u2192 30% \u2192 40% recession odds in a single week, tracking Iran escalation in real time.",
+      "Wilson upgrades S&P 500 to 8,500 mid-2027 \u2014 largest upward revision of any sell-side strategist in the month.",
+      "Napier publishes 'Shock of 26' \u2014 formal doctrine that 2026 marks the transition to intentional financial repression.",
+      "Druckenmiller's Q3 13F shows Natera as 20% of portfolio for sixth straight quarter \u2014 highest single-stock concentration in hedge-fund universe."
+    ],
+    "vs_market_buy": [
+      "Dalio/Druckenmiller: bonds are overpriced at current yield levels \u2014 rates to go higher despite 5%+ 30yr",
+      "Burry: AI hardware overvalued \u2014 market pricing 'bubble, not revolution' level capex perpetuity",
+      "Gundlach: recession sends long yields higher not lower \u2014 market misunderstanding next recession's bond dynamics"
+    ],
+    "vs_market_sell": [
+      "Rosenberg: negative equity risk premium (17.7x PE vs 5% risk-free) means equities are priced as risk-free assets \u2014 market ignoring this",
+      "Berezin 30-40% US recession odds vs. <15% market-implied \u2014 systematic divergence from consensus",
+      "Edwards: double-digit inflation not in any market forecast \u2014 regime change not priced"
+    ],
+    "buy_vs_sell_divergence": [
+      "Bessent/Tepper (buy): 3%+ GDP growth, AI-driven earnings boom, US exceptionalism intact; Rosenberg/Berezin/Napier (sell): recession, negative ERP, financial repression",
+      "Druckenmiller/Gundlach (buy): short bonds as rates go higher; Hatzius/Wilson (sell): Fed cuts in December, 10yr to fall",
+      "Burry (buy): short AI hardware bubble; Tepper (buy): 77% AI concentration; buy-side internally split on AI"
+    ],
+    "aligned": [
+      "Short long-duration bonds: near-universal agreement on higher-for-longer rates [Druckenmiller, Gundlach, Ackman, Napier, Reid, Hartnett, Rosenberg]",
+      "AI concentration is the principal equity risk: too much capital in too few stocks [Hartnett, Burry, Marks, Reid]",
+      "Middle East energy/oil is the dominant near-term macro shock [Reid, Berezin, Tudor Jones, Bass, Ackman, Bessent]",
+      "Geopolitics (Iran, Ukraine) creating regime uncertainty that suppresses multi-year planning [Ackman, Bessent, Dalio, Bass]",
+      "2027 upside scenario exists if geopolitics and inflation clear [Ackman, Bessent, Tudor Jones, Wilson, Yardeni]"
+    ],
+    "buy_side_trades": [
+      "Short US 30yr and 10yr Treasuries [Druckenmiller, Gundlach, Ackman]",
+      "Long copper and gold on supply-demand + dollar weakness [Druckenmiller]",
+      "Long Japan and Korea with AI infrastructure overlay [Druckenmiller]",
+      "Short Nvidia / long SOXX ex-AI hardware [Burry]",
+      "Long oil $20-25/bbl upside on Iran-US scenario [Tudor Jones]",
+      "Long Natera (genomics, single-name concentration) [Druckenmiller]"
+    ],
+    "sell_side_trades": [
+      "Tech bonds over tech stocks (high-grade credit > Mag-7 equities) [Hartnett]",
+      "Long Detroit (small/mid-caps, banks, REITs) / Short Davos (Mag-7, mega-cap AI) [Hartnett]",
+      "'Anything But Dollar': international/EM equities, non-dollar assets [Hartnett]",
+      "Underweight European and Japanese equities vs. US on oil/terms-of-trade exposure [Berezin]",
+      "Long crude / energy as geopolitical hedge [Berezin, Reid]",
+      "Short long-duration global government bonds [Napier, Reid, Rosenberg, Hartnett]"
+    ],
+    "dominant_themes": [
+      "AI concentration / peak AI equity bubble risk",
+      "Middle East energy shock / oil macro / geopolitical risk",
+      "Financial repression / bond bear market / higher-for-longer"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "bearish"
   }
 }
