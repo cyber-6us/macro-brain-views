@@ -3,196 +3,51 @@
   "today": {
     "date": "2026-11-19",
     "entries_count": 11,
-    "buy_side_bullets": [
-      "Zero net equity exposure, new short copper position - financial conditions deteriorating: credit spreads widening, Fed pausing, commodity cycle turning. [Druckenmiller shift]",
-      "Dot-com style equity supply tsunami building for 2027 - 2026 US issuance tracking above 2021's $540B record; S&P at 22x implies negative 10-yr forward returns. [Tudor Jones]",
-      "Largest Q3 portfolio rotation of any tracked investor: SpaceX +1,626% to $557M, Micron largest holding at $1.33B, exited AMD and Broadcom entirely. [Tepper]",
-      "Macro book -6% YTD from wrong Fed rate-cut bet; called SpaceX $1.75T IPO a 'major speculative top' - fund closed to new capital. [Einhorn]",
-      "Financial repression is the base case for debt resolution - hold gold, buy equities on dips; developed world rates suppressed below 4-5.5% inflation for years. [Napier]"
-    ],
-    "sell_side_bullets": [
-      "December Fed rate hike more likely than not; running short 30-year bonds; AI credit flashing pre-subprime signals - spreads too tight for embedded risk. [Gundlach]",
-      "Market correction nearly over in 2-3 weeks; S&P 500 target 8,500 by mid-2027; AI Phase 2 favors adopters over infrastructure builders. [Wilson shift]",
-      "Double-digit inflation ahead as fiscal dominance prevents unwinding; Ice Age framework ends - consumer tapped out with low savings rates. [Edwards]",
-      "2026 global growth on track at 2.7%; markets overpricing Fed hike path - Goldman sees fewer hikes than futures are pricing. [Hatzius]",
-      "Additional Fed hikes expected; unusually sharp sector rotations signal instability; narrow breadth = structural fragility. [Sonders]",
-      "Higher for longer: September hike followed by sticky inflation; AI is industrial renaissance not just tech; capital shortage meets abundant investment ideas. [Slok]"
-    ],
-    "whats_new": [
-      "Druckenmiller flips to zero equity and short copper - new stance vs Nov 16 entry where he held mixed positions; first fully flat equity book reported this year",
-      "Tepper's SpaceX +1,626% is largest single Q3 position change across all tracked investors - signals conviction shift to private AI infrastructure",
-      "Wilson (bearish/neutral most of 2026) now explicitly bullish for Q4 and sets 8,500 scenario target for mid-2027 - meaningful stance upgrade"
-    ],
-    "vs_market_buy": [
-      "Druckenmiller and Tudor Jones both flagging 2027 economic risk while consensus expects continued growth - well ahead of sellside 2027 forecasts",
-      "Einhorn calling SpaceX IPO a speculative top signals private markets overvaluation thesis not yet priced by consensus"
-    ],
-    "vs_market_sell": [
-      "Hatzius says Goldman expects FEWER Fed hikes than current futures pricing - contrarian bullish on rates vs consensus tightening path",
-      "Wilson sees S&P 8,500 by mid-2027 - above Morgan Stanley official target and above consensus sellside year-end numbers",
-      "Edwards predicts double-digit inflation against consensus single-digit peak; explicitly says doomsday is now, not 2028"
-    ],
-    "buy_vs_sell_divergence": [
-      "Buy side (Druckenmiller, PTJ, Einhorn) eliminating or cutting equity exposure sharply while sell side (Wilson) explicitly bullish with higher S&P targets - largest intraday divergence in weeks",
-      "Tepper (buy) adding aggressively to AI infrastructure plays while Edwards (sell) warns consumer and fiscal backdrop deteriorating - opposite equity conclusions from same AI premise"
-    ],
-    "aligned": [
-      "Both sides agree Fed rates staying higher near-term with no near-term cuts",
-      "AI-driven capital formation cycle is at late-stage risk - buy and sell side both flagging AI debt/supply as 2027 tail risk",
-      "Gold and hard assets favored as portfolio protection - Druckenmiller, Napier both long gold or commodity hedges"
-    ],
-    "buy_side_trades": [
-      "Short copper (Druckenmiller)",
-      "Long equities Q4 2026 tactical then flip short 2027 (Tudor Jones)",
-      "Long SpaceX and Micron, short AMD/Broadcom (Tepper)",
-      "Long gold and SOFR futures (Einhorn, Napier)",
-      "Buy equity dips in financial repression regime (Napier)"
-    ],
-    "sell_side_trades": [
-      "Short 30-year US Treasuries (Gundlach)",
-      "Long small caps on deregulation and domestic cyclicals (Wilson)",
-      "Long private credit over public bonds (Slok)",
-      "Long European fixed income vs US rates divergence (Slok)",
-      "Diversify away from index-level exposure; active sector selection (Sonders)"
-    ],
-    "dominant_themes": [
-      "Fed hawkishness: higher-for-longer with December hike likely; rates staying elevated into 2027",
-      "AI credit and equity supply cycle maturing - 2027 inflection risk as supply overwhelms demand",
-      "Financial repression vs inflation debate: Napier/Edwards vs Hatzius on the resolution mechanism for sovereign debt"
-    ],
-    "buy_side_sentiment": "bearish",
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "week": {
     "period_start": "2026-11-12",
     "period_end": "2026-11-19",
     "entries_count": 68,
-    "buy_side_bullets": [
-      "2026-2028 is most dangerous US period: fiscal overspending, weakening foreign Treasury demand, potential Fed yield suppression; 'synthetic storm' of five forces converging. [Dalio, Marks]",
-      "AI fault lines embedded in credit: ~$600B in AI-related global debt issuances, ~$400B into US IG bonds - systemic concentration risk in bond indexes. [Marks]",
-      "2027 economic disappointment flagged across multiple buy-side investors: short copper, no equity exposure, waiting for clearer signals. [Druckenmiller evolving]",
-      "Dot-com style equity supply tsunami building for 2027 as US issuance tracks above 2021 records; short equities all 2027 is stated intent. [Tudor Jones]",
-      "AI speculative top signals: SpaceX $1.75T IPO called 'major top,' macro books burned on wrong-way rate bets - buy side turning from AI bulls to skeptics. [Einhorn]"
-    ],
-    "sell_side_bullets": [
-      "BofA Bull & Bear Indicator at 9.6 (record extreme territory); strong dollar tightening global liquidity; defensive stance maintained with 3 key conditions unmet. [Hartnett]",
-      "December Fed rate hike more likely than not; AI credit flashing pre-subprime signals; 30-year bonds in outright short territory. [Gundlach]",
-      "2027 US recession base case: post-midterm Democratic House creates fiscal gridlock; long Treasuries as contrarian trade vs consensus. [Rosenberg]",
-      "Double-digit inflation structural shift; Ice Age ends; fiscal dominance means governments cannot unwind spending. [Edwards]",
-      "AI-driven industrial renaissance is real but sticky inflation means higher for longer rates; September hike not the last. [Slok]",
-      "Market correction nearly over; targets S&P 8,300-8,500 for 2027; AI Phase 2 favors adopters over infrastructure builders. [Wilson evolving]"
-    ],
-    "whats_new": [
-      "Druckenmiller moves from mixed/cautious (Nov 13-16) to zero equity + short copper by Nov 19 - most decisive repositioning of the week",
-      "Tepper Q3 13F: SpaceX +1,626%, exits AMD/Broadcom - signals buy-side rotation toward private AI infrastructure vs public chip names",
-      "Hatzius (Nov 19): Goldman sees FEWER Fed hikes than markets price - first explicit contra-consensus rate view from Goldman in months",
-      "Wilson upgrades S&P target to 8,500 scenario (from prior 7,800 year-end) - notable bullish escalation in final weeks of 2026"
-    ],
-    "vs_market_buy": [
-      "Druckenmiller and PTJ flagging 2027 slowdown/recession while consensus still expects growth - both historically early but accurate on cycle turns",
-      "Dalio's 2026-2028 'most dangerous period' framing stands well ahead of sellside consensus which still prices benign 2027"
-    ],
-    "vs_market_sell": [
-      "Hatzius explicitly says Goldman expects fewer hikes than markets price - contrarian bullish rates call vs current futures pricing",
-      "Wilson at 8,500 S&P scenario vs sellside consensus of roughly 8,000-8,200 for mid-2027",
-      "Edwards at double-digit inflation stands vs consensus single-digit peak expectation"
-    ],
-    "buy_vs_sell_divergence": [
-      "Buy side broadly bearish (Dalio, Druckenmiller, PTJ, Einhorn) on 2027 equity prospects while sellside is split: bearish camp (Hartnett, Rosenberg) vs bullish (Wilson, Hatzius, Yardeni)",
-      "Buy side cutting equity exposure; sellside Tepper increasing via Q3 13F - within buy side, Tepper stands alone as contrarian bull",
-      "Rates divergence: Gundlach short 30yr while Hatzius says fewer hikes than priced - both sell-side but opposing trade implications"
-    ],
-    "aligned": [
-      "Fed rates staying higher near-term: buy and sell side both acknowledge no near-term cuts",
-      "AI credit concentration is systemic risk - both sides flag $600B AI debt embedded in investment grade as 2027 risk",
-      "Gold is consensus long: Dalio, Druckenmiller, Einhorn, Napier all holding gold vs fiscal/repression risk"
-    ],
-    "buy_side_trades": [
-      "Long gold (Dalio, Einhorn, Napier)",
-      "Avoid long-duration Treasuries (Dalio)",
-      "Short copper (Druckenmiller)",
-      "Long SpaceX and Micron, exit AMD/Broadcom (Tepper)",
-      "Long equities Q4 tactical then short 2027 (Tudor Jones)"
-    ],
-    "sell_side_trades": [
-      "Short 30-year Treasuries (Gundlach)",
-      "Long US Treasuries for 2027 recession scenario (Rosenberg)",
-      "Long small caps and AI adopters over infrastructure (Wilson)",
-      "Long private credit and European fixed income (Slok)",
-      "Long gold, buy equity dips (Napier)"
-    ],
-    "dominant_themes": [
-      "2027 recession risk rising: multiple buy-side heavyweights positioning for economic disappointment, flagging credit deterioration and commodity peak",
-      "AI credit cycle maturity: $600B embedded in IG bonds, equity supply tsunami building, speculative top signals emerging",
-      "Federal Reserve path: December hike likely but Goldman sees fewer than markets price - rates uncertainty is #1 market driver"
-    ],
-    "buy_side_sentiment": "bearish",
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "month": {
     "period_start": "2026-10-20",
     "period_end": "2026-11-19",
     "entries_count": 182,
-    "buy_side_bullets": [
-      "Fiscal doom loop is structural: US deficit spending ~$1.25T this fiscal year, foreign demand for Treasuries weakening; Fed financial repression becomes baseline scenario. [Dalio, Napier]",
-      "AI credit issuance approaching $600B globally embedded in IG credit - 'fault lines' across portfolios; questions whether AI revenues justify capex. [Marks]",
-      "Buy-side consensus shifting from AI optimism to 2027 risk management: copper short, zero equity, equity supply warnings represent accumulated caution. [Druckenmiller, Tudor Jones, Einhorn]",
-      "Private AI infrastructure rotation: buy-side moving from public AI chips to private infra plays (SpaceX, CoreWeave, Micron) as AI cycle matures. [Tepper]",
-      "Financial repression thesis gaining adherents: gold consensus long across buy-side; anticipate nominal rates suppressed below 4-5.5% inflation for years. [Dalio, Napier, Einhorn]"
-    ],
-    "sell_side_bullets": [
-      "BofA Bull & Bear at record 9.6 extreme reading; global equity inflows tracking $1.2T record; concentration in 21 stocks echoes March 2000 dot-com top pattern. [Hartnett]",
-      "Economic cycle divergence: US higher-for-longer post-September hike; Europe/Japan falling inflation creating transatlantic rates gap. [Slok, Reid]",
-      "2027 recession risk building: AI capex cycle compares to 2001 telecom boom; 40-50% recession probability maintained; gridlock after midterms adds downside. [Berezin, Rosenberg]",
-      "Double-digit inflation structural shift: Ice Age ends, fiscal dominance replaces bond bull; consumer tapped out with savings exhausted. [Edwards]",
-      "Morgan Stanley upgrades S&P to 8,300-8,500 for mid-2027 as correction seen near end; AI Phase 2 favors adopters over builders. [Wilson evolving]",
-      "Goldman sees fewer Fed hikes than priced; global 2026 growth on track 2.7%; 2027 at 2.8% with downside risk from AI/energy. [Hatzius]"
-    ],
-    "whats_new": [
-      "Druckenmiller's TomorrowX remarks (Nov 17-19) represent most decisive stance change: from mixed to zero equity + short copper in final weeks of 2026",
-      "Tepper's Q3 SpaceX mega-bet (+1,626%) signals private AI infrastructure is the new institutional consensus trade heading into 2027",
-      "Marks November AI memo expands from June private credit concerns to systemic AI credit fault lines - escalating severity of warnings over the month",
-      "Wilson S&P upgrade to 8,500 scenario and Edwards double-digit inflation call represent polar extremes of the month's outlooks - widest sellside divergence seen in 2026"
-    ],
-    "vs_market_buy": [
-      "Dalio's 2026-2028 'most dangerous period' and financial repression call stands against consensus expectation of soft landing through 2027",
-      "Tudor Jones and Druckenmiller are well ahead of sellside consensus in flagging 2027 economic weakness - both historically early by 6-12 months on cycle calls"
-    ],
-    "vs_market_sell": [
-      "Hatzius says Goldman models fewer Fed hikes than current market pricing - most significant contrarian rates call from a major bank in Q4 2026",
-      "Wilson S&P 8,500 scenario is above consensus; Edwards double-digit inflation is well above consensus - sellside has unusually wide distribution of outcomes",
-      "Napier's financial repression thesis implies sustained negative real rates - most investors are still positioned for real rate normalization"
-    ],
-    "buy_vs_sell_divergence": [
-      "Buy side (Dalio, Druckenmiller, PTJ, Einhorn, Marks) broadly bearish on 2027 equity and macro prospects vs sellside (Wilson, Hatzius, Yardeni) bulls who see continued market gains",
-      "AI valuation: buy side (Einhorn) calling SpaceX IPO a speculative top while sellside (Slok, Wilson) still see AI as legitimate earnings growth driver",
-      "Duration: Gundlach short 30yr while Rosenberg and Hatzius both want to own Treasuries for different reasons (inflation vs recession) - three-way sellside split"
-    ],
-    "aligned": [
-      "Fed rates higher for longer: universal consensus across buy and sell side for the next 2-3 months",
-      "Gold as portfolio hedge: Dalio, Napier, Einhorn (buy) and Napier (sell-side) all recommending gold positions against fiscal and inflation risk",
-      "AI credit concentration is systemic risk - $600B+ embedded in IG bonds is flagged as a structural vulnerability by both sides"
-    ],
-    "buy_side_trades": [
-      "Long gold (Dalio, Einhorn, Napier)",
-      "Avoid long-duration Treasuries (Dalio)",
-      "Short copper (Druckenmiller)",
-      "Long SpaceX, Micron, CoreWeave; exit AMD/Broadcom (Tepper)",
-      "Long equities Q4 tactical then short all 2027 (Tudor Jones)"
-    ],
-    "sell_side_trades": [
-      "Short 30-year Treasuries (Gundlach)",
-      "Long US Treasuries for 2027 recession (Rosenberg)",
-      "Long small caps and AI adopters over infrastructure (Wilson)",
-      "Long private credit over public bonds; long European rates vs US (Slok)",
-      "Long gold; buy equity dips on repression scenario (Napier)"
-    ],
-    "dominant_themes": [
-      "US fiscal crisis and financial repression: 2026-2028 flagged as inflection period for US debt sustainability; gold and hard assets are consensus defensive plays",
-      "AI cycle maturity and 2027 equity risk: buy-side cutting exposure, equity supply tsunami thesis, $600B AI debt fault lines - coordinated warning ahead of 2027",
-      "Fed hawkishness and rates uncertainty: higher-for-longer confirmed by September hike; but Goldman/Hatzius say markets are over-discounting future hikes - rates are the key swing factor"
-    ],
-    "buy_side_sentiment": "bearish",
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   }
 }
