@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-19",
+  "generated_at": "2026-11-20",
   "today": {
-    "date": "2026-11-19",
-    "entries_count": 11,
+    "date": "2026-11-20",
+    "entries_count": 0,
     "buy_side_bullets": [],
     "sell_side_bullets": [],
     "whats_new": [],
@@ -17,37 +17,144 @@
     "sell_side_sentiment": "mixed"
   },
   "week": {
-    "period_start": "2026-11-12",
-    "period_end": "2026-11-19",
-    "entries_count": 68,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
+    "period_start": "2026-11-13",
+    "period_end": "2026-11-20",
+    "entries_count": 62,
+    "buy_side_bullets": [
+      "No net equity exposure — macro regime shift underway; sees no compelling risk/reward entry point in stocks. [Druckenmiller]",
+      "Dot-com-style equity supply tsunami building into 2027 — 2026 US issuance tracking $540B+ record; plans to short equities all of 2027. [Tudor Jones]",
+      "2026-2028 is the most dangerous period for the US as debt trap, geopolitical fragmentation, and AI disruption compound simultaneously. [Dalio]",
+      "December Fed rate hike more likely than not — nominal growth near 6% and sticky inflation leave no room for easing. [Gundlach]",
+      "AI-linked debt approaching $600B globally; hyperscalers inflating margins via useful-life accounting; short Nvidia/SMH expanding. [Marks, Burry]"
+    ],
+    "sell_side_bullets": [
+      "$44.6bn into tech funds in 4 weeks signals peak AI equity concentration — post-midterms favor 'Long Detroit, Short Davos' rotation. [Hartnett]",
+      "2026 feels like '1999 meets 1990' — AI euphoria layered on Middle East oil shock; Strait of Hormuz the key tail risk for all asset classes. [Reid]",
+      "S&P 500 market correction in final innings; 8,300-8,500 by mid-2027 on strong earnings, deregulation, and AI efficiency. [Wilson shift]",
+      "Iran war pushed US recession odds to 40%, Europe/Japan to 50%; sustained disruption could send crude toward $200/barrel. [Berezin]",
+      "Financial repression intensifying as only viable debt resolution — real assets structurally outperform nominal bonds. [Napier, Edwards shift]"
+    ],
+    "whats_new": [
+      "Druckenmiller moved to zero net equity exposure at TomorrowX — material shift from prior long Japan/Korea/copper. [Druckenmiller shift]",
+      "Tudor Jones now plans to be short equities 'the whole year' in 2027 following Q4 2026 tactical long. [Tudor Jones evolving]",
+      "Einhorn cut SOFR rate-cut bet by one-third after -6% macro book loss through Q3 — scaled back active macro positioning. [Einhorn shift]",
+      "Hartnett declares 'peak AI equity concentration' post-midterms — shift from tracking flows to recommending rotation out of tech. [Hartnett shift]",
+      "Hatzius expects December Fed rate hike (shifted from hold) following October update — previously saw extended pause. [Hatzius shift]",
+      "Tepper dramatically rotated into SpaceX (+1,626% new position) and held Micron as top AI memory conviction. [Tepper evolving]"
+    ],
+    "vs_market_buy": [
+      "Druckenmiller's zero equity exposure is significantly more bearish than the market's current moderate equity overweight.",
+      "Gundlach's hike call diverges materially from market consensus of an extended Fed hold through year-end.",
+      "Dalio's '2026-2028 most dangerous period' is more structurally pessimistic than consensus macro forecasts."
+    ],
+    "vs_market_sell": [
+      "Wilson's 8,300-8,500 mid-2027 target is above consensus Street estimate of ~8,000, making him the most bullish major strategist.",
+      "Hartnett's peak-AI rotation call runs counter to continued record tech fund inflow momentum from investors.",
+      "Berezin's 40% US recession odds are well above consensus 15-20% and imply much steeper market downside than priced."
+    ],
+    "buy_vs_sell_divergence": [
+      "Druckenmiller/Dalio (buy-side) see equity inflection with no compelling entry; Wilson/Hatzius (sell-side) see correction nearly over and a 2027 bull year.",
+      "Burry/Marks (buy-side) warn AI credit bubble as existential risk; Wilson/Yardeni (sell-side) see phenomenal earnings justifying AI infrastructure valuations.",
+      "Tudor Jones (buy-side) plans to short equities all of 2027; Wilson (sell-side) targets S&P 8,300-8,500 by mid-2027 — same timeframe, opposite direction."
+    ],
+    "aligned": [
+      "Iran war and oil supply shock is the near-term key macro swing variable — consensus across both sides.",
+      "No Fed rate cuts in 2026 — higher-for-longer is the dominant shared baseline; debate is now hike vs hold.",
+      "AI investment cycle continues but sustainability is increasingly questioned by both buy-side and sell-side."
+    ],
+    "buy_side_trades": [
+      "Short long-duration US Treasuries [Gundlach, Druckenmiller, Dalio]",
+      "Short copper as leading macro demand indicator [Druckenmiller]",
+      "Short Nvidia and AI semiconductor ETFs (SMH/SOXX) [Burry]",
+      "Long SpaceX and Micron as AI infrastructure plays [Tepper]",
+      "Long crude oil through post-midterm resolution [Tudor Jones]"
+    ],
+    "sell_side_trades": [
+      "Long small/mid-caps vs short Magnificent 7 [Hartnett]",
+      "Long US equities on dips toward current levels (target 7,900-8,300) [Yardeni, Wilson]",
+      "Long gold and real assets on financial repression thesis [Napier, Edwards]",
+      "Short long-duration government bonds globally [Edwards, Reid, Gundlach]",
+      "Underweight global equities, especially energy-importing regions [Berezin]"
+    ],
+    "dominant_themes": [
+      "AI valuation bubble risk vs phenomenal earnings — peak concentration debate intensifying post-midterms",
+      "Iran war and oil supply shock amplifying recession risk and cementing hawkish Fed path",
+      "Financial repression as structural macro theme — real assets over nominal bonds as primary portfolio hedge"
+    ],
+    "buy_side_sentiment": "bearish",
     "sell_side_sentiment": "mixed"
   },
   "month": {
-    "period_start": "2026-10-20",
-    "period_end": "2026-11-19",
-    "entries_count": 182,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
+    "period_start": "2026-10-21",
+    "period_end": "2026-11-20",
+    "entries_count": 180,
+    "buy_side_bullets": [
+      "Unprecedented buy-side bearishness: Druckenmiller (no exposure), Dalio (most dangerous period), PTJ (2027 short all year), Burry (AI bubble), Einhorn (failed rate-cut bet) — only Tepper and Bessent in meaningful bull camp. [Druckenmiller, Dalio, Tudor Jones, Burry, Einhorn]",
+      "September Fed rate hike to 4.0% was a macro inflection — read as 'mistake' by Ackman (AI is rate-insensitive) or 'necessary and more coming' by Gundlach; no consensus on Fed path. [Ackman, Gundlach]",
+      "Gold gaining structural consensus as principal macro hedge against financial repression, debt debasement, and geopolitical fragmentation. [Dalio, Marks, Einhorn, Howard]",
+      "China positioning diverging: Bass warns of slow-motion banking crisis; Tepper rotated out of Chinese tech but held selective AI exposure. [Bass, Tepper]",
+      "Equity issuance supply tsunami — 2026 tracking toward record $540B+ in US equity issuance, mirroring dot-com era secondary wave. [Tudor Jones]"
+    ],
+    "sell_side_bullets": [
+      "Autumn stagflation trinity identified: record diesel prices + 30-year Treasury at multi-decade high + AI fund flows at record = historically clustered sell signals. [Hartnett]",
+      "Financial repression has structurally begun — Warsh's 'money matters' comment signals deliberate pivot to below-inflation engineered rates; savers penalised by design. [Napier]",
+      "Goldman and Morgan Stanley converging on S&P 8,300-8,500 by mid-2027 — above-consensus driven by AI efficiency gains and earnings resilience. [Wilson, Hatzius]",
+      "BofA's 'Long Detroit, Short Davos' rotation call: small/mid-caps, banks, REITs, and international DM structurally replacing Magnificent 7 leadership. [Hartnett]",
+      "Yardeni remains the most bullish sell-side voice — year-end 7,900 target, Roaring 2020s at 60% base case, GDP at 3%; outlier vs bear consensus. [Yardeni]"
+    ],
+    "whats_new": [
+      "Druckenmiller's shift to zero equity exposure at TomorrowX (Nov 17) — largest change in his disclosed posture this year. [Druckenmiller shift]",
+      "Tudor Jones announced 2027 short-equities stance for the whole year — moved from tactical Q4 long to committed 2027 bear. [Tudor Jones shift]",
+      "Hartnett's peak-AI call post-midterms is a regime shift in his narrative from monitoring flows to actively recommending rotation. [Hartnett shift]",
+      "Einhorn acknowledged rate-cut thesis was wrong and cut SOFR position by 1/3 — first explicit capitulation on a major macro bet. [Einhorn shift]",
+      "Hatzius moved to expecting December Fed hike (from prior hold call) — represents Goldman's most hawkish stance of the year. [Hatzius shift]",
+      "Edwards declared Ice Age (structural deflation) over and replaced with fiscal dominance/double-digit inflation thesis — 30-year framework reversal. [Edwards shift]"
+    ],
+    "vs_market_buy": [
+      "Druckenmiller's zero equity exposure is a dramatic departure from sell-side consensus of equities overweight into year-end.",
+      "Gundlach's December hike call and 30-year yield rising further contrasts with market pricing of yields stabilising near current levels.",
+      "Dalio's structural pessimism about 2026-2028 is significantly more bearish than any major institutional forecast."
+    ],
+    "vs_market_sell": [
+      "Wilson's 8,300-8,500 mid-2027 target is the most bullish major-bank S&P call, well above consensus ~8,000.",
+      "Hartnett's peak-AI rotation call remains a minority view on the sell-side given persistent tech fund inflows.",
+      "Berezin's US recession odds at 40% are approximately double consensus estimates of 15-20%.",
+      "Yardeni's Roaring 2020s at 60% probability is a structurally more optimistic macro view than any major competitor."
+    ],
+    "buy_vs_sell_divergence": [
+      "On equities into 2027: Druckenmiller/PTJ plan to be flat-to-short; Wilson/Hatzius see S&P 8,300-8,500 — stark directional disagreement.",
+      "On AI: Burry/Marks warn of existential credit and valuation bubble; Wilson/Hatzius/Yardeni see AI as the primary earnings growth driver.",
+      "On Fed: Gundlach (buy-side) and Hatzius (sell-side) now agree on December hike — unusual buy/sell alignment against market pricing.",
+      "On recession: Berezin/Rosenberg (sell-side bears) at 40% US odds; Bessent/Tepper (buy-side bulls) dismiss recession scenario entirely."
+    ],
+    "aligned": [
+      "Iran war and oil supply shock is the dominant near-term macro risk — cited as key variable across all sides.",
+      "No Fed rate cuts in 2026 — higher-for-longer is the consensus baseline; December hike increasingly expected by both sides.",
+      "AI investment cycle continues but sustainability questioned — capex justification scrutinised by buy-side and select sell-side alike.",
+      "Gold as macro hedge gaining buy-side consensus — multiple independent recommenders across political and macro orientations."
+    ],
+    "buy_side_trades": [
+      "Short long-duration US Treasuries [Gundlach, Druckenmiller, Dalio, Ackman]",
+      "Long gold as financial repression and debt debasement hedge [Dalio, Einhorn, Howard]",
+      "Short Nvidia and AI semiconductor complex [Burry]",
+      "Long SpaceX and AI infrastructure (Micron) [Tepper]",
+      "Long crude oil through Iran conflict resolution [Tudor Jones]",
+      "Short copper as macro demand leading indicator [Druckenmiller]"
+    ],
+    "sell_side_trades": [
+      "Long small/mid-caps vs short Magnificent 7 [Hartnett]",
+      "Long US equities on any dip toward current levels [Yardeni, Wilson]",
+      "Long gold and real assets on financial repression [Napier, Edwards]",
+      "Short long-duration global government bonds [Edwards, Napier, Gundlach]",
+      "Underweight European and Japanese equities on Iran oil shock [Berezin]",
+      "Long North American energy producers as terms-of-trade beneficiary [Rosenberg]"
+    ],
+    "dominant_themes": [
+      "AI cycle inflection — from expansion phase to peak concentration to potential bubble; every major voice now weighing in on sustainability",
+      "Iran war and oil supply shock resetting global macro fundamentals — oil shock risk premia now embedded in rates, equities, and growth forecasts",
+      "Higher-for-longer Fed transition after September 2026 rate hike — December hike increasingly priced, 2027 rate path the new key variable"
+    ],
+    "buy_side_sentiment": "bearish",
     "sell_side_sentiment": "mixed"
   }
 }
