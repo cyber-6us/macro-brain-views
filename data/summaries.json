@@ -1,52 +1,173 @@
 {
-  "generated_at": "2026-11-20",
+  "generated_at": "2026-11-21",
   "today": {
-    "date": "2026-11-20",
-    "entries_count": 0,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
+    "date": "2026-11-21",
+    "entries_count": 2,
+    "buy_side_bullets": [
+      "No recession risk from government shutdown - $11bn economic hit is one-time, not systemic. [Bessent]",
+      "Maintains 3.5%+ 2026 GDP growth forecast; tariff revenue and trade deals as offset. [Bessent]",
+      "Bloomberg credibility concerns: pattern of optimistic public forecasts now a vulnerability. [Bessent]",
+      "Still targeting 'non-inflationary boom' tied to One Big Beautiful Bill and reshoring. [Bessent]"
+    ],
+    "sell_side_bullets": [
+      "13% market pullback risk - advising shift from growth to defensive value. [Bannister]",
+      "S&P 500 'sugar high' fading - fiscal stimulus tailwind exhausting. [Bannister]",
+      "Equity returns must come from earnings, not multiple expansion - multiples already stretched. [Bannister]",
+      "S&P 500 range 6,500-7,500 implies current levels are at the high end of fair value. [Bannister]"
+    ],
+    "whats_new": [
+      "Sentiment shift to bullish. [Bessent shift]"
+    ],
     "vs_market_buy": [],
     "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "buy_vs_sell_divergence": [
+      "Overall sentiment divergence: buy-side is bullish while sell-side is bearish on equities.",
+      "Buy-side more constructive on economic growth trajectory vs. sell-side caution on earnings sustainability."
+    ],
+    "aligned": [
+      "AI investment boom driving markets but creating concentration risk and valuation questions."
+    ],
+    "buy_side_trades": [
+      "Long US economic resilience plays; short-duration rates over long-end Treasuries. [Bessent]"
+    ],
+    "sell_side_trades": [
+      "Long defensive sectors: healthcare, consumer staples, gold, waste management, software. [Bannister]",
+      "Short or underweight large-cap cyclical growth stocks. [Bannister]",
+      "Hedge AI/tech exposure with defensive value. [Bannister]"
+    ],
+    "dominant_themes": [
+      "AI investment & concentration risk",
+      "Recession risk / growth slowdown",
+      "Sticky inflation above target"
+    ],
+    "buy_side_sentiment": "bullish",
+    "sell_side_sentiment": "bearish"
   },
   "week": {
-    "period_start": "2026-11-13",
-    "period_end": "2026-11-20",
-    "entries_count": 62,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
+    "period_start": "2026-11-14",
+    "period_end": "2026-11-21",
+    "entries_count": 45,
+    "buy_side_bullets": [
+      "No recession risk from government shutdown - $11bn economic hit is one-time, not systemic. [Bessent]",
+      "Maintains 3.5%+ 2026 GDP growth forecast; tariff revenue and trade deals as offset. [Bessent]",
+      "Bloomberg credibility concerns: pattern of optimistic public forecasts now a vulnerability. [Bessent]",
+      "Still targeting 'non-inflationary boom' tied to One Big Beautiful Bill and reshoring. [Bessent]",
+      "No net equity exposure - 'taking a break from stocks'; sees no compelling entry in current risk/reward landscape. [Druckenmiller]"
+    ],
+    "sell_side_bullets": [
+      "13% market pullback risk - advising shift from growth to defensive value. [Bannister]",
+      "S&P 500 'sugar high' fading - fiscal stimulus tailwind exhausting. [Bannister]",
+      "Equity returns must come from earnings, not multiple expansion - multiples already stretched. [Bannister]",
+      "S&P 500 range 6,500-7,500 implies current levels are at the high end of fair value. [Bannister]",
+      "December Fed rate hike more likely than not; nominal growth ~6% means Fed is still behind the curve. [Gundlach]"
+    ],
+    "whats_new": [
+      "Sentiment shift to bullish. [Bessent shift]",
+      "Sentiment shift to bearish. [Jones shift]",
+      "Sentiment shift to mixed. [Napier shift]",
+      "Sentiment shift to bearish. [Marks shift]"
+    ],
     "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "vs_market_sell": [
+      "Markets overpricing Fed rate hikes: Goldman expects FEWER hikes than futures are pricing - contrarian bullish on rates. [Hatzius]",
+      "US remains most optimistic relative to consensus; euro area decent at 1.3% growth. [Hatzius]",
+      "Expects additional Fed rate hikes as inflation remains sticky; policy rate path higher than consensus expects. [Sonders]"
+    ],
+    "buy_vs_sell_divergence": [
+      "Buy-side dismisses recession risk; sell-side maintains elevated recession probability."
+    ],
+    "aligned": [
+      "AI investment boom driving markets but creating concentration risk and valuation questions.",
+      "Fed policy is a critical variable; rate hikes more likely than cuts in current cycle.",
+      "Inflation remains above target; disinflationary trend less certain than consensus."
+    ],
+    "buy_side_trades": [
+      "Long US economic resilience plays; short-duration rates over long-end Treasuries. [Bessent]",
+      "Short copper as macro leading indicator of demand weakness. [Druckenmiller]",
+      "No net equity exposure; preserving capital ahead of potential 2027 slowdown. [Druckenmiller]",
+      "Long equities for Q4 2026 tactical rally, then flip short heading into 2027. [Jones]",
+      "Short equities 2027 on equity supply wave and valuation compression. [Jones]",
+      "Long SpaceX and Micron as AI infrastructure plays. [Tepper]"
+    ],
+    "sell_side_trades": [
+      "Long defensive sectors: healthcare, consumer staples, gold, waste management, software. [Bannister]",
+      "Short or underweight large-cap cyclical growth stocks. [Bannister]",
+      "Hedge AI/tech exposure with defensive value. [Bannister]",
+      "Short 30-year US Treasuries. [Gundlach]",
+      "High quality credit (BBB+) over duration risk. [Gundlach]",
+      "Avoid long-end government bonds globally. [Gundlach]"
+    ],
+    "dominant_themes": [
+      "AI investment & concentration risk",
+      "Fed policy & rates (higher-for-longer)",
+      "US fiscal/debt sustainability"
+    ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "month": {
-    "period_start": "2026-10-21",
-    "period_end": "2026-11-20",
-    "entries_count": 180,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "period_start": "2026-10-22",
+    "period_end": "2026-11-21",
+    "entries_count": 177,
+    "buy_side_bullets": [
+      "No recession risk from government shutdown - $11bn economic hit is one-time, not systemic. [Bessent]",
+      "Maintains 3.5%+ 2026 GDP growth forecast; tariff revenue and trade deals as offset. [Bessent]",
+      "Bloomberg credibility concerns: pattern of optimistic public forecasts now a vulnerability. [Bessent]",
+      "Still targeting 'non-inflationary boom' tied to One Big Beautiful Bill and reshoring. [Bessent]",
+      "No net equity exposure - 'taking a break from stocks'; sees no compelling entry in current risk/reward landscape. [Druckenmiller]"
+    ],
+    "sell_side_bullets": [
+      "13% market pullback risk - advising shift from growth to defensive value. [Bannister]",
+      "S&P 500 'sugar high' fading - fiscal stimulus tailwind exhausting. [Bannister]",
+      "Equity returns must come from earnings, not multiple expansion - multiples already stretched. [Bannister]",
+      "S&P 500 range 6,500-7,500 implies current levels are at the high end of fair value. [Bannister]",
+      "December Fed rate hike more likely than not; nominal growth ~6% means Fed is still behind the curve. [Gundlach]"
+    ],
+    "whats_new": [
+      "Sentiment shift to bullish. [Bessent shift]",
+      "Sentiment shift to bearish. [Jones shift]",
+      "Sentiment shift to mixed. [Napier shift]",
+      "Sentiment shift to bearish. [Marks shift]"
+    ],
+    "vs_market_buy": [
+      "Elevated inflation and recession risk not fully priced into equities or rates. [Einhorn]",
+      "Elevated inflation and recession risk not fully priced into equities or rates. [Einhorn]",
+      "US GDP growth of 3.5%+ projected for 2026 - significantly above consensus. [Bessent]"
+    ],
+    "vs_market_sell": [
+      "Markets overpricing Fed rate hikes: Goldman expects FEWER hikes than futures are pricing - contrarian bullish on rates. [Hatzius]",
+      "US remains most optimistic relative to consensus; euro area decent at 1.3% growth. [Hatzius]",
+      "Expects additional Fed rate hikes as inflation remains sticky; policy rate path higher than consensus expects. [Sonders]"
+    ],
+    "buy_vs_sell_divergence": [
+      "Buy-side dismisses recession risk; sell-side maintains elevated recession probability."
+    ],
+    "aligned": [
+      "AI investment boom driving markets but creating concentration risk and valuation questions.",
+      "Fed policy is a critical variable; rate hikes more likely than cuts in current cycle.",
+      "Inflation remains above target; disinflationary trend less certain than consensus."
+    ],
+    "buy_side_trades": [
+      "Long US economic resilience plays; short-duration rates over long-end Treasuries. [Bessent]",
+      "Short copper as macro leading indicator of demand weakness. [Druckenmiller]",
+      "No net equity exposure; preserving capital ahead of potential 2027 slowdown. [Druckenmiller]",
+      "Long equities for Q4 2026 tactical rally, then flip short heading into 2027. [Jones]",
+      "Short equities 2027 on equity supply wave and valuation compression. [Jones]",
+      "Long SpaceX and Micron as AI infrastructure plays. [Tepper]"
+    ],
+    "sell_side_trades": [
+      "Long defensive sectors: healthcare, consumer staples, gold, waste management, software. [Bannister]",
+      "Short or underweight large-cap cyclical growth stocks. [Bannister]",
+      "Hedge AI/tech exposure with defensive value. [Bannister]",
+      "Short 30-year US Treasuries. [Gundlach]",
+      "High quality credit (BBB+) over duration risk. [Gundlach]",
+      "Avoid long-end government bonds globally. [Gundlach]"
+    ],
+    "dominant_themes": [
+      "AI investment & concentration risk",
+      "Fed policy & rates (higher-for-longer)",
+      "US fiscal/debt sustainability"
+    ],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   }
