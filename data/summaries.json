@@ -1,53 +1,152 @@
 {
-  "generated_at": "2026-11-21",
+  "generated_at": "2026-11-22",
   "today": {
-    "date": "2026-11-21",
-    "entries_count": 2,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
+    "date": "2026-11-22",
+    "entries_count": 6,
+    "buy_side_bullets": [
+      "2026 worst year for US consumer sentiment on record \u2014 exhaustion beneath surface indices [Michael Burry]",
+      "$50B precision weapons defense bill is the most actionable investment theme \u2014 US procurement structurally underfunded vs adversary buildout [Kyle Bass]"
+    ],
+    "sell_side_bullets": [
+      "Strong dollar is the primary global liquidity tightening mechanism \u2014 all three BofA entry conditions for risk-on remain unmet [Michael Hartnett]",
+      "Disinflation is the defining macro story of 2026 \u2014 consensus anchored to last cycle's inflation surge, creating rate-sensitive mispricing [David Rosenberg]",
+      "S&P 500 near a bottom as midterm tailwind and seasonality converge \u2014 but cautions 'seasonality is not destiny' [Jim Reid]",
+      "Nasdaq negative YTD as of Nov 20 \u2014 headline calm conceals intense subsurface churn across sectors [Liz Ann Sonders]"
+    ],
     "whats_new": [],
     "vs_market_buy": [],
     "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "buy_vs_sell_divergence": [
+      "Buy-side bears (Michael Burry, Kyle Bass) more cautious than sell-side consensus",
+      "Sell-side bulls (Jim Reid) more constructive than buy-side"
+    ],
+    "aligned": [
+      "Both sides monitoring elevated bond yields and duration risk",
+      "Equity market breadth narrowing \u2014 consensus across buy and sell side"
+    ],
+    "buy_side_trades": [
+      "Short AI/semiconductor names (NVIDIA, SMH vs SOXX) [Michael Burry]",
+      "Long put options as tail hedges given suppressed fear cycles [Michael Burry]",
+      "Long US defense/precision weapons contractors [Kyle Bass]",
+      "Short China assets as decoupling accelerates [Kyle Bass]"
+    ],
+    "sell_side_trades": [
+      "Defensives over cyclicals; cash over risk assets until dollar peak [Michael Hartnett]",
+      "Non-US equities favored over US once dollar turns [Michael Hartnett]",
+      "Commodities remain strongest major asset class of 2026 (+83% YTD) [Michael Hartnett]",
+      "Long duration Treasuries as disinflation trade [David Rosenberg]",
+      "Underweight equities on negative equity risk premium [David Rosenberg]"
+    ],
+    "dominant_themes": [
+      "equities",
+      "bonds",
+      "fx"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "bearish"
   },
   "week": {
-    "period_start": "2026-11-14",
-    "period_end": "2026-11-21",
+    "period_start": "2026-11-15",
+    "period_end": "2026-11-22",
     "entries_count": 45,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
+    "buy_side_bullets": [
+      "2026 worst year for US consumer sentiment on record \u2014 exhaustion beneath surface indices [Michael Burry]",
+      "$50B precision weapons defense bill is the most actionable investment theme \u2014 US procurement structurally underfunded vs adversary buildout [Kyle Bass]",
+      "No recession risk from government shutdown - $11bn economic hit is one-time, not systemic [Scott Bessent]",
+      "No net equity exposure - 'taking a break from stocks'; sees no compelling entry in current risk/reward landscape [Stan Druckenmiller]",
+      "2026 US equity issuance tracking to surpass $540B 2021 record - dot-com style supply tsunami hits 2027 [Paul Tudor Jones]"
+    ],
+    "sell_side_bullets": [
+      "Strong dollar is the primary global liquidity tightening mechanism \u2014 all three BofA entry conditions for risk-on remain unmet [Michael Hartnett]",
+      "Disinflation is the defining macro story of 2026 \u2014 consensus anchored to last cycle's inflation surge, creating rate-sensitive mispricing [David Rosenberg]",
+      "S&P 500 near a bottom as midterm tailwind and seasonality converge \u2014 but cautions 'seasonality is not destiny' [Jim Reid]",
+      "Nasdaq negative YTD as of Nov 20 \u2014 headline calm conceals intense subsurface churn across sectors [Liz Ann Sonders]",
+      "13% market pullback risk - advising shift from growth to defensive value [Barry Bannister]"
+    ],
     "whats_new": [],
     "vs_market_buy": [],
     "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "buy_vs_sell_divergence": [
+      "Buy-side bears (Howard Marks, Ray Dalio, Bill Ackman) more cautious than sell-side consensus",
+      "Sell-side bulls (Jordi Visser, Ed Yardeni, Torsten Slok) more constructive than buy-side"
+    ],
+    "aligned": [
+      "Both sides monitoring elevated bond yields and duration risk",
+      "Equity market breadth narrowing \u2014 consensus across buy and sell side",
+      "Oil/commodities as inflation anchor \u2014 both sides cite energy/geopolitics"
+    ],
+    "buy_side_trades": [
+      "Cautious on AI-linked investment-grade credit [Howard Marks]",
+      "Watch AI debt concentration in fixed income portfolios as systemic risk [Howard Marks]",
+      "Avoid long-duration US Treasuries [Ray Dalio]",
+      "Long gold as hedge against fiscal dominance and financial repression [Ray Dalio]",
+      "Short long-duration Treasuries (30yr) [Bill Ackman]"
+    ],
+    "sell_side_trades": [
+      "Long US Treasuries (yield decline on gridlock/slowdown scenario) [David Rosenberg]",
+      "Underweight US equities; prefer equal-weight or defensive allocation over cap-weighted S&P 500 [David Rosenberg]",
+      "Cautious on risk assets at 5% 10Y yields [Jordi Visser]",
+      "Watching Bitcoin sentiment as contrarian macro signal for broader risk regime [Jordi Visser]",
+      "Long US equities vs. short European energy-exposed equities [Jim Reid]"
+    ],
+    "dominant_themes": [
+      "equities",
+      "bonds",
+      "rates"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "bearish"
   },
   "month": {
-    "period_start": "2026-10-22",
-    "period_end": "2026-11-21",
-    "entries_count": 177,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
+    "period_start": "2026-10-23",
+    "period_end": "2026-11-22",
+    "entries_count": 183,
+    "buy_side_bullets": [
+      "2026 worst year for US consumer sentiment on record \u2014 exhaustion beneath surface indices [Michael Burry]",
+      "$50B precision weapons defense bill is the most actionable investment theme \u2014 US procurement structurally underfunded vs adversary buildout [Kyle Bass]",
+      "No recession risk from government shutdown - $11bn economic hit is one-time, not systemic [Scott Bessent]",
+      "No net equity exposure - 'taking a break from stocks'; sees no compelling entry in current risk/reward landscape [Stan Druckenmiller]",
+      "2026 US equity issuance tracking to surpass $540B 2021 record - dot-com style supply tsunami hits 2027 [Paul Tudor Jones]"
+    ],
+    "sell_side_bullets": [
+      "Strong dollar is the primary global liquidity tightening mechanism \u2014 all three BofA entry conditions for risk-on remain unmet [Michael Hartnett]",
+      "Disinflation is the defining macro story of 2026 \u2014 consensus anchored to last cycle's inflation surge, creating rate-sensitive mispricing [David Rosenberg]",
+      "S&P 500 near a bottom as midterm tailwind and seasonality converge \u2014 but cautions 'seasonality is not destiny' [Jim Reid]",
+      "Nasdaq negative YTD as of Nov 20 \u2014 headline calm conceals intense subsurface churn across sectors [Liz Ann Sonders]",
+      "13% market pullback risk - advising shift from growth to defensive value [Barry Bannister]"
+    ],
     "whats_new": [],
     "vs_market_buy": [],
     "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "buy_vs_sell_divergence": [
+      "Buy-side bears (Howard Marks, Ray Dalio, Bill Ackman) more cautious than sell-side consensus",
+      "Sell-side bulls (Jordi Visser, Ed Yardeni, Torsten Slok) more constructive than buy-side"
+    ],
+    "aligned": [
+      "Both sides monitoring elevated bond yields and duration risk",
+      "Equity market breadth narrowing \u2014 consensus across buy and sell side",
+      "Oil/commodities as inflation anchor \u2014 both sides cite energy/geopolitics"
+    ],
+    "buy_side_trades": [
+      "Cautious on AI-linked investment-grade credit [Howard Marks]",
+      "Watch AI debt concentration in fixed income portfolios as systemic risk [Howard Marks]",
+      "Avoid long-duration US Treasuries [Ray Dalio]",
+      "Long gold as hedge against fiscal dominance and financial repression [Ray Dalio]",
+      "Short long-duration Treasuries (30yr) [Bill Ackman]"
+    ],
+    "sell_side_trades": [
+      "Long US Treasuries (yield decline on gridlock/slowdown scenario) [David Rosenberg]",
+      "Underweight US equities; prefer equal-weight or defensive allocation over cap-weighted S&P 500 [David Rosenberg]",
+      "Cautious on risk assets at 5% 10Y yields [Jordi Visser]",
+      "Watching Bitcoin sentiment as contrarian macro signal for broader risk regime [Jordi Visser]",
+      "Long US equities vs. short European energy-exposed equities [Jim Reid]"
+    ],
+    "dominant_themes": [
+      "equities",
+      "bonds",
+      "rates"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "bearish"
   }
 }
