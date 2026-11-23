@@ -3,105 +3,33 @@
   "today": {
     "date": "2026-11-23",
     "entries_count": 3,
-    "buy_side_bullets": [
-      "Bridgewater cut S&P 500 index fund exposure by $2.6B in Q3 2026 \u2014 more than a third reduction in a single quarter, before the November selloff. [Ray Dalio]",
-      "Still holds 16% of $23B reported US stock portfolio in SPY/IVV, down from ~24% \u2014 retaining core US equity exposure but materially de-risked. [Ray Dalio]",
-      "Portfolio action confirms Dalio 2026-28 fiscal risk thesis: reducing US equity beta into elevated yields and deteriorating foreign Treasury demand. [Ray Dalio]",
-      "Gold thesis intact: 15% allocation idea tied to fiscal dominance / debt monetization scenario remains core to Bridgewater's macro framework. [Ray Dalio]",
-      "December Fed hike would cause recession: IG borrowers paying 8.26% secured vs. <6% at IPO \u2014 financial conditions already tight enough. [Bill Ackman]"
-    ],
-    "sell_side_bullets": [
-      "AI selloff = $70B forced hedge fund deleveraging, not a bubble pop; market regime intact \u2014 buying Micron and AI infrastructure on the dip. [Jordi Visser]",
-      "First AI-dip nibbles on Oct 27; building position into weakness \u2014 conviction that AI capex cycle has years to run. [Jordi Visser]",
-      "1y and 2y inflation swaps at lowest since 2022 \u2014 inflation risk premium being quietly priced out even as Fed considers December hike. [Jordi Visser]",
-      "Bitcoin 7-sigma week in August signaled broader 'macro transition': economy now operating on a faster clock than financial institutions can track. [Jordi Visser]"
-    ],
-    "whats_new": [
-      "Ray Dalio: Bridgewater's Q3 13F (filed Nov 16) shows the firm cut its S&P 500 index fund holdings by $2.6 billi...",
-      "Bill Ackman: Ackman posted this week that a December Fed rate hike would be 'another mistake' \u2014 warning that hiki...",
-      "Jordi Visser: Visser argues the recent AI selloff was a hedge fund forced deleveraging event \u2014 not the bursting of..."
-    ],
-    "vs_market_buy": [
-      "Bridgewater cut S&P 500 index fund exposure by $2.6B in Q3 2026 \u2014 more than a third reduction in a single quarter, before the November selloff. [Ray Dalio]",
-      "Still holds 16% of $23B reported US stock portfolio in SPY/IVV, down from ~24% \u2014 retaining core US equity exposure but materially de-risked. [Ray Dalio]"
-    ],
-    "vs_market_sell": [
-      "AI selloff = $70B forced hedge fund deleveraging, not a bubble pop; market regime intact \u2014 buying Micron and AI infrastructure on the dip. [Jordi Visser]",
-      "First AI-dip nibbles on Oct 27; building position into weakness \u2014 conviction that AI capex cycle has years to run. [Jordi Visser]"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
     "buy_vs_sell_divergence": [],
     "aligned": [],
-    "buy_side_trades": [
-      "Reduce US equity index exposure (SPY/IVV); Bridgewater cutting > one-third of position in a quarter [Ray Dalio]",
-      "Long gold as fiscal dominance / financial repression hedge [Ray Dalio]",
-      "No December hike priced in Ackman's view \u2014 market still pricing hike; potential trade in rate vol if Fed pauses [Bill Ackman]",
-      "Earlier (April) view: 'very good time' to put capital to work on potential rate cut pivot [Bill Ackman]"
-    ],
-    "sell_side_trades": [
-      "Long Micron (bought on AI selloff dip; first nibbles Oct 27, 2026) [Jordi Visser]",
-      "Long AI infrastructure equities on forced-deleveraging dips [Jordi Visser]",
-      "Inflation swaps at lows \u2014 potential duration trade as inflation premium evaporates [Jordi Visser]"
-    ],
-    "dominant_themes": [
-      "Mixed sentiment \u2014 bulls and bears roughly balanced",
-      "Focus on equities, bonds as primary asset classes",
-      "Fed policy path and AI capex cycle as central macro debate"
-    ],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "bullish"
+    "sell_side_sentiment": "mixed"
   },
   "week": {
     "period_start": "2026-11-16",
     "period_end": "2026-11-23",
     "entries_count": 34,
-    "buy_side_bullets": [
-      "Bridgewater cut S&P 500 index fund exposure by $2.6B in Q3 2026 \u2014 more than a third reduction in a single quarter, before the November selloff. [Ray Dalio]",
-      "Still holds 16% of $23B reported US stock portfolio in SPY/IVV, down from ~24% \u2014 retaining core US equity exposure but materially de-risked. [Ray Dalio]",
-      "Portfolio action confirms Dalio 2026-28 fiscal risk thesis: reducing US equity beta into elevated yields and deteriorating foreign Treasury demand. [Ray Dalio]",
-      "Gold thesis intact: 15% allocation idea tied to fiscal dominance / debt monetization scenario remains core to Bridgewater's macro framework. [Ray Dalio]",
-      "December Fed hike would cause recession: IG borrowers paying 8.26% secured vs. <6% at IPO \u2014 financial conditions already tight enough. [Bill Ackman]"
-    ],
-    "sell_side_bullets": [
-      "AI selloff = $70B forced hedge fund deleveraging, not a bubble pop; market regime intact \u2014 buying Micron and AI infrastructure on the dip. [Jordi Visser]",
-      "First AI-dip nibbles on Oct 27; building position into weakness \u2014 conviction that AI capex cycle has years to run. [Jordi Visser]",
-      "1y and 2y inflation swaps at lowest since 2022 \u2014 inflation risk premium being quietly priced out even as Fed considers December hike. [Jordi Visser]",
-      "Bitcoin 7-sigma week in August signaled broader 'macro transition': economy now operating on a faster clock than financial institutions can track. [Jordi Visser]",
-      "Strong dollar is the primary global liquidity tightening mechanism \u2014 all three BofA entry conditions for risk-on remain unmet. [Michael Hartnett]"
-    ],
-    "whats_new": [
-      "Ray Dalio: Bridgewater's Q3 13F (filed Nov 16) shows the firm cut its S&P 500 index fund holdings by $2.6 billi...",
-      "Bill Ackman: Ackman posted this week that a December Fed rate hike would be 'another mistake' \u2014 warning that hiki...",
-      "Jordi Visser: Visser argues the recent AI selloff was a hedge fund forced deleveraging event \u2014 not the bursting of..."
-    ],
-    "vs_market_buy": [
-      "Bridgewater cut S&P 500 index fund exposure by $2.6B in Q3 2026 \u2014 more than a third reduction in a single quarter, before the November selloff. [Ray Dalio]",
-      "Still holds 16% of $23B reported US stock portfolio in SPY/IVV, down from ~24% \u2014 retaining core US equity exposure but materially de-risked. [Ray Dalio]"
-    ],
-    "vs_market_sell": [
-      "AI selloff = $70B forced hedge fund deleveraging, not a bubble pop; market regime intact \u2014 buying Micron and AI infrastructure on the dip. [Jordi Visser]",
-      "First AI-dip nibbles on Oct 27; building position into weakness \u2014 conviction that AI capex cycle has years to run. [Jordi Visser]"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
     "buy_vs_sell_divergence": [],
     "aligned": [],
-    "buy_side_trades": [
-      "Reduce US equity index exposure (SPY/IVV); Bridgewater cutting > one-third of position in a quarter [Ray Dalio]",
-      "Long gold as fiscal dominance / financial repression hedge [Ray Dalio]",
-      "No December hike priced in Ackman's view \u2014 market still pricing hike; potential trade in rate vol if Fed pauses [Bill Ackman]",
-      "Earlier (April) view: 'very good time' to put capital to work on potential rate cut pivot [Bill Ackman]",
-      "Short AI/semiconductor names (NVIDIA, SMH vs SOXX) [Michael Burry]"
-    ],
-    "sell_side_trades": [
-      "Long Micron (bought on AI selloff dip; first nibbles Oct 27, 2026) [Jordi Visser]",
-      "Long AI infrastructure equities on forced-deleveraging dips [Jordi Visser]",
-      "Inflation swaps at lows \u2014 potential duration trade as inflation premium evaporates [Jordi Visser]",
-      "Defensives over cyclicals; cash over risk assets until dollar peak [Michael Hartnett]",
-      "Non-US equities favored over US once dollar turns [Michael Hartnett]"
-    ],
-    "dominant_themes": [
-      "Risk-off sentiment dominates \u2014 majority bearish across both sides",
-      "Focus on equities, bonds as primary asset classes",
-      "Fed policy path and AI capex cycle as central macro debate"
-    ],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
@@ -109,54 +37,16 @@
     "period_start": "2026-10-24",
     "period_end": "2026-11-23",
     "entries_count": 176,
-    "buy_side_bullets": [
-      "Bridgewater cut S&P 500 index fund exposure by $2.6B in Q3 2026 \u2014 more than a third reduction in a single quarter, before the November selloff. [Ray Dalio]",
-      "Still holds 16% of $23B reported US stock portfolio in SPY/IVV, down from ~24% \u2014 retaining core US equity exposure but materially de-risked. [Ray Dalio]",
-      "Portfolio action confirms Dalio 2026-28 fiscal risk thesis: reducing US equity beta into elevated yields and deteriorating foreign Treasury demand. [Ray Dalio]",
-      "Gold thesis intact: 15% allocation idea tied to fiscal dominance / debt monetization scenario remains core to Bridgewater's macro framework. [Ray Dalio]",
-      "December Fed hike would cause recession: IG borrowers paying 8.26% secured vs. <6% at IPO \u2014 financial conditions already tight enough. [Bill Ackman]"
-    ],
-    "sell_side_bullets": [
-      "AI selloff = $70B forced hedge fund deleveraging, not a bubble pop; market regime intact \u2014 buying Micron and AI infrastructure on the dip. [Jordi Visser]",
-      "First AI-dip nibbles on Oct 27; building position into weakness \u2014 conviction that AI capex cycle has years to run. [Jordi Visser]",
-      "1y and 2y inflation swaps at lowest since 2022 \u2014 inflation risk premium being quietly priced out even as Fed considers December hike. [Jordi Visser]",
-      "Bitcoin 7-sigma week in August signaled broader 'macro transition': economy now operating on a faster clock than financial institutions can track. [Jordi Visser]",
-      "Strong dollar is the primary global liquidity tightening mechanism \u2014 all three BofA entry conditions for risk-on remain unmet. [Michael Hartnett]"
-    ],
-    "whats_new": [
-      "Ray Dalio: Bridgewater's Q3 13F (filed Nov 16) shows the firm cut its S&P 500 index fund holdings by $2.6 billi...",
-      "Bill Ackman: Ackman posted this week that a December Fed rate hike would be 'another mistake' \u2014 warning that hiki...",
-      "Jordi Visser: Visser argues the recent AI selloff was a hedge fund forced deleveraging event \u2014 not the bursting of..."
-    ],
-    "vs_market_buy": [
-      "Bridgewater cut S&P 500 index fund exposure by $2.6B in Q3 2026 \u2014 more than a third reduction in a single quarter, before the November selloff. [Ray Dalio]",
-      "Still holds 16% of $23B reported US stock portfolio in SPY/IVV, down from ~24% \u2014 retaining core US equity exposure but materially de-risked. [Ray Dalio]"
-    ],
-    "vs_market_sell": [
-      "AI selloff = $70B forced hedge fund deleveraging, not a bubble pop; market regime intact \u2014 buying Micron and AI infrastructure on the dip. [Jordi Visser]",
-      "First AI-dip nibbles on Oct 27; building position into weakness \u2014 conviction that AI capex cycle has years to run. [Jordi Visser]"
-    ],
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
     "buy_vs_sell_divergence": [],
     "aligned": [],
-    "buy_side_trades": [
-      "Reduce US equity index exposure (SPY/IVV); Bridgewater cutting > one-third of position in a quarter [Ray Dalio]",
-      "Long gold as fiscal dominance / financial repression hedge [Ray Dalio]",
-      "No December hike priced in Ackman's view \u2014 market still pricing hike; potential trade in rate vol if Fed pauses [Bill Ackman]",
-      "Earlier (April) view: 'very good time' to put capital to work on potential rate cut pivot [Bill Ackman]",
-      "Short AI/semiconductor names (NVIDIA, SMH vs SOXX) [Michael Burry]"
-    ],
-    "sell_side_trades": [
-      "Long Micron (bought on AI selloff dip; first nibbles Oct 27, 2026) [Jordi Visser]",
-      "Long AI infrastructure equities on forced-deleveraging dips [Jordi Visser]",
-      "Inflation swaps at lows \u2014 potential duration trade as inflation premium evaporates [Jordi Visser]",
-      "Defensives over cyclicals; cash over risk assets until dollar peak [Michael Hartnett]",
-      "Non-US equities favored over US once dollar turns [Michael Hartnett]"
-    ],
-    "dominant_themes": [
-      "Risk-off sentiment dominates \u2014 majority bearish across both sides",
-      "Focus on equities, bonds as primary asset classes",
-      "Fed policy path and AI capex cycle as central macro debate"
-    ],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
     "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   }
