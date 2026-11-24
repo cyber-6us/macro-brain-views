@@ -3,202 +3,51 @@
   "today": {
     "date": "2026-11-24",
     "entries_count": 9,
-    "buy_side_bullets": [
-      "Capital preservation mode: equities sidelined, copper shorted \u2014 'never seen such low 12-month visibility in 50-year career'; Fed stopped cutting, commodities falling, credit spreads widening. [Druckenmiller shift]",
-      "AI debt issuance reached ~$600B globally in 2026 ($400B in US IG alone) \u2014 a 'fault line' running through portfolios; AI concentration in credit creates systemic risk if capex reverses. [Marks]",
-      "Appaloosa's Q3 13F: Micron at 17.6% of portfolio (new #1), SpaceX added 17x to $557M \u2014 systematic exit of AMD, AAPL, AVGO, QCOM; highest active share in years. [Tepper]",
-      "US equities 'most expensive since we began managing money'; macro book -6% YTD after wrong-way rate-cut bet \u2014 November delivering further setbacks. [Einhorn evolving]",
-      "Brevan Howard loses 5 credit PMs amid volatility; Alpha Strategies Fund -1% Oct, Master Fund +0.4% Oct; YTD loss trimmed to 0.2% \u2014 rates book pressured all year. [Howard]"
-    ],
-    "sell_side_bullets": [
-      "AI spending powers ~65% of GDP growth; inflation stopped falling and now rising after 3 years at ~3% core \u2014 Fed is behind the curve; higher for longer makes IG credit most attractive. [Slok shift]",
-      "S&P 500 2027 target raised to 8,700 (15% upside); correction in final innings \u2014 rotate from mega-cap tech into quality cyclicals and industrials; midterms provide entry catalyst. [Wilson]",
-      "Goldman 2027 Macro Outlook: global GDP 2.8%, downside risks 'clearly tilted'; economy showed resilience after Iran War but 2027 growth path 'more rugged'. [Hatzius]",
-      "AI trade 'alive and well' \u2014 $45 gap in 2028 earnings forecasts shows analysts miss AI speed bumps; 60% Roaring 2020s base case maintained; 71% market-call accuracy tracked since 2022. [Yardeni]"
-    ],
-    "whats_new": [
-      "Druckenmiller moving to equity sideline and capital preservation is a material step-change from prior 'cautious but invested' stance",
-      "Howard Marks issuing dedicated AI memo with specific credit risk quantification ($600B debt issuance) is first such structured AI risk framework from his office",
-      "Mike Wilson raising S&P target to 8,700 from 8,000 represents meaningful upgrade to his 2027 bull thesis",
-      "Slok reframing inflation as now 'rising' (not 'falling slowly') is a key stance upgrade from earlier 'sticky' language",
-      "Tepper's portfolio now 17.6% Micron \u2014 a concentration level not seen in prior quarters"
-    ],
-    "vs_market_buy": [
-      "Druckenmiller more cautious than market: equity flat/sideline vs. market still pricing continued upside into year-end",
-      "Marks more concerned about AI credit risk than current IG spreads imply; $600B issuance not yet reflected in spread widening"
-    ],
-    "vs_market_sell": [
-      "Wilson above sell-side consensus for 2027 S&P target (8,700 vs ~8,100 street average)",
-      "Slok more hawkish than market: explicitly says inflation re-accelerating while market still prices Fed pausing after one more hike"
-    ],
-    "buy_vs_sell_divergence": [
-      "Risk appetite: buy-side (Druckenmiller, Einhorn, Howard) actively de-risking while sell-side (Wilson, Yardeni) telling clients to buy dips and add cyclical risk",
-      "AI view: Marks concerned AI debt concentration is a portfolio fault line; Slok and Yardeni argue AI is a durable GDP driver worth buying on weakness",
-      "2027 outlook: buy-side cautious/flat (Druckenmiller sees 2H 2027 disappointing); sell-side bullish (Wilson 8,700, Goldman 2.8% global GDP)"
-    ],
-    "aligned": [
-      "AI capex cycle is not over \u2014 both sides agree AI infrastructure spending continues driving the economy",
-      "Higher rates for longer: both buy- and sell-side acknowledge the Fed will not cut in December and rates stay elevated",
-      "US economy remains technically strong even as vulnerabilities accumulate (Druckenmiller, Hatzius both acknowledge resilience)"
-    ],
-    "buy_side_trades": [
-      "Short copper [Druckenmiller]",
-      "Long Micron (17.6% weight), Long SpaceX ($557M) [Tepper]",
-      "Underweight AI-heavy IG credit [Marks]",
-      "Reduced long rates/rate-cut position [Einhorn]"
-    ],
-    "sell_side_trades": [
-      "Long quality cyclicals and industrials over mega-cap tech; S&P buy target 7,100-7,300 entry window [Wilson]",
-      "Long high-quality investment-grade credit ('Higher for Longer Makes IG Credit More Attractive') [Slok]",
-      "Buy AI-linked equities on selloffs [Yardeni]"
-    ],
-    "dominant_themes": [
-      "AI as systemic credit risk vs. AI as durable GDP growth driver",
-      "2027 outlook: buy-side defensive, sell-side constructive \u2014 largest divergence in months",
-      "Higher for longer: Fed pausing but rates staying elevated; IG credit emerging as preferred asset class"
-    ],
-    "buy_side_sentiment": "bearish",
-    "sell_side_sentiment": "bullish"
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
+    "sell_side_sentiment": "mixed"
   },
   "week": {
     "period_start": "2026-11-17",
     "period_end": "2026-11-24",
     "entries_count": 39,
-    "buy_side_bullets": [
-      "Capital preservation, equity sideline, short copper \u2014 'lowest 12-month visibility in 50-year career'; 2H 2027 disappointing. [Druckenmiller evolving]",
-      "Bridgewater cut S&P index fund exposure by $2.6B in Q3 (>one-third in a single quarter) before the November selloff \u2014 portfolio action confirming fiscal risk thesis. [Dalio]",
-      "2027 set to be 'really, really challenging' for stocks; seasonal 4Q rally expected but sets up for full-year 2027 short. [Tudor Jones]",
-      "AI selloff is forced hedge-fund deleveraging, not a bubble pop \u2014 buying AI infrastructure; inflation swaps at 2022 lows signaling risk premium pricing out. [Visser shift]",
-      "December Fed hike would be 'another mistake'; AI investment breaks the standard rate-hike transmission; advocates 3% inflation target. [Ackman]",
-      "US equity market 'most expensive since we began managing money'; macro book -6% YTD as rate-cut thesis reverses. [Einhorn evolving]"
-    ],
-    "sell_side_bullets": [
-      "AI spending powers ~65% of GDP; inflation stopped falling, now rising; higher for longer makes IG credit most attractive. [Slok shift]",
-      "BofA Flow Show: 'AI euphoria is over'; dollar 'destroying everything'; Nasdaq-100 on track for worst November since 2008 \u2014 but no rush to fully cut risk. [Hartnett]",
-      "S&P 8,700 target for 2027 (15% upside); correction in final phase; rotate to quality cyclicals. [Wilson]",
-      "DB World Outlook 'It feels like 1999 meets 1990': global GDP 3%, global CPI 3.8% \u2014 higher inflation and lower growth than year-ago forecasts. [Reid]",
-      "Recession risk low; December hike possible; underlying US economy 'very strong' even as AI transition creates winners and losers. [Bessent]",
-      "Yardeni Research: AI trade alive and well, $45 earnings gap vs. consensus \u2014 analysts miss AI speed bumps. [Yardeni]"
-    ],
-    "whats_new": [
-      "Druckenmiller moving from cautious-but-invested to full equity sideline \u2014 unprecedented stance for his career",
-      "Slok's inflation framing upgrade: from 'stuck at 3%' to 'stopped falling, now rising' \u2014 meaningful hawkish shift",
-      "Wilson raising 2027 target to 8,700 from 8,000 reflects upgraded conviction on bull case after correction",
-      "Marks dedicating full memo to AI credit risk ($600B debt issuance) is new and specific vs. prior general bubble commentary",
-      "Hartnett 'AI euphoria is over' marks change from his earlier cautious but hedged tone"
-    ],
-    "vs_market_buy": [
-      "Tudor Jones and Druckenmiller more bearish on 2027 than futures markets imply",
-      "Dalio's -$2.6B Q3 equity reduction ran against consensus bullish positioning into year-end",
-      "Marks warning on AI credit risk runs against still-tight IG spreads for AI-linked issuers"
-    ],
-    "vs_market_sell": [
-      "Wilson at 8,700 above sell-side consensus; market sees ~7,900-8,100 for 2027",
-      "Slok more hawkish than market on inflation: says rising vs. market's priced-in pause",
-      "Hartnett more cautious than price action suggests: flagging Nasdaq worst November since 2008 when markets had been orderly"
-    ],
-    "buy_vs_sell_divergence": [
-      "Risk appetite: majority of buy-side (Druckenmiller, Dalio, Einhorn, Tudor Jones, Burry) de-risking while most sell-side (Wilson, Yardeni, Slok) recommending buying dips",
-      "AI view: buy-side sees late-cycle risk (Marks, Burry) while sell-side sees structural growth driver (Slok, Yardeni)",
-      "2027: buy-side cautious to bearish (PTJ full-year short, Druckenmiller flat); sell-side bullish (Wilson 8,700, Goldman 2.8% GDP)",
-      "Inflation: buy-side (Ackman) says hike would cause recession; sell-side (Slok) says inflation rising and Fed behind curve"
-    ],
-    "aligned": [
-      "AI capex cycle continues and is not over \u2014 consensus across both sides",
-      "Higher rates for longer: no December cut, rates stay elevated; December hike increasingly likely",
-      "US economy technically strong despite vulnerabilities accumulating \u2014 both sides acknowledge resilience"
-    ],
-    "buy_side_trades": [
-      "Short copper [Druckenmiller]",
-      "Long Micron, Long SpaceX; exited AMD/AAPL/AVGO [Tepper]",
-      "Long gold as fiscal dominance hedge [Dalio]",
-      "Underweight AI-heavy IG credit [Marks]",
-      "Long AI infrastructure on forced-deleveraging dips; long Micron [Visser]",
-      "No December hike priced \u2014 potential rate vol trade on pause [Ackman]"
-    ],
-    "sell_side_trades": [
-      "Long quality cyclicals and industrials; S&P 8,700 target 2027 [Wilson]",
-      "Long high-quality IG credit in higher-for-longer environment [Slok]",
-      "Buy AI equities on selloffs; S&P year-end 2026 target 7,700 [Yardeni]"
-    ],
-    "dominant_themes": [
-      "Buy-side vs. sell-side 2027 divergence: deepest schism of the year",
-      "AI: systemic credit fault line (Marks) vs. 65% of GDP growth (Slok) \u2014 existential disagreement",
-      "Fed: December hike risk and 'higher for longer' as central macro uncertainty"
-    ],
-    "buy_side_sentiment": "bearish",
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   },
   "month": {
     "period_start": "2026-10-25",
     "period_end": "2026-11-24",
     "entries_count": 183,
-    "buy_side_bullets": [
-      "Equities increasingly avoided or shorted into year-end: capital preservation, equity sidelines, 2027 short thesis \u2014 bear case building from multiple corners. [Druckenmiller, Tudor Jones, Dalio evolving]",
-      "AI selloff debate: forced hedge-fund deleveraging creating entry points vs. late-1999 bubble analogue \u2014 conviction on direction varies sharply. [Visser shift vs. Burry]",
-      "Gold and hard assets remain core: Bridgewater maintaining ~15% gold allocation; fiscal dominance / debt monetization thesis intact. [Dalio]",
-      "Credit conditions tightening: IG borrowers paying 8.26% secured vs. <6% at IPO; a December hike would transmit hard and fast into already-stressed credit. [Ackman]",
-      "Consumer exhaustion: 2026 worst year for US consumer sentiment on record; 'mechanical bid' from passive flows masking fragility \u2014 downside risk sudden when it arrives. [Burry]",
-      "US equities most expensive since inception of Greenlight; market overvalued by multiple measures \u2014 wrong-way rate-cut bet compounding losses. [Einhorn evolving]"
-    ],
-    "sell_side_bullets": [
-      "AI spending powers ~65% of US GDP growth; inflation re-accelerating; higher for longer makes IG credit the preferred asset class \u2014 private sector insulated from rate pressure. [Slok shift]",
-      "BofA: AI euphoria over, dollar destroying everything \u2014 Nasdaq worst November since 2008; two exogenous shocks needed to push stocks materially higher from lofty levels. [Hartnett]",
-      "DB World Outlook: global GDP 3%, global CPI 3.8% \u2014 'It feels like 1999 meets 1990'; AI optimism vs. Middle East geopolitical drag. [Reid]",
-      "Goldman 2027 Macro: global GDP 2.8%, 'Steady Baseline Downside Risks' \u2014 economy resilient post-Iran War but 2027 more rugged; no AI layoff wave materializing. [Hatzius]",
-      "S&P 8,700 for 2027 (15% upside); correction in final innings; rotate to quality cyclicals; oil decline supports margins. [Wilson]",
-      "Financial repression: central banks will suppress rates below inflation for 15+ years; hold hard assets, avoid long government bonds \u2014 savers systematically penalized. [Napier]"
-    ],
-    "whats_new": [
-      "Druckenmiller moving to full equity sideline is unprecedented in his 50-year career \u2014 signals genuine macro inflection concern",
-      "Slok reframing inflation from 'sticky' to 'now rising again' \u2014 most hawkish CPI language from sell-side in 2026",
-      "Wilson raising 2027 S&P target to 8,700 from 8,000 represents significant upgrade",
-      "Marks dedicating full AI memo specifically to $600B credit risk is new and actionable vs. prior general commentary",
-      "Tudor Jones formalizing 2027 full-year short intention is a major positioning signal"
-    ],
-    "vs_market_buy": [
-      "Dalio, Druckenmiller, Tudor Jones all more bearish on equities than current market positioning implies",
-      "Marks warning on AI credit contagion runs against tight IG spreads for AI-linked issuers",
-      "Ackman more cautious on December hike impact than Fed and market messaging suggests"
-    ],
-    "vs_market_sell": [
-      "Wilson (8,700) and Yardeni (7,700 year-end 2026) both above consensus sell-side targets",
-      "Slok more hawkish than market on inflation trajectory and Fed path",
-      "Hartnett more defensive than current risk asset pricing reflects"
-    ],
-    "buy_vs_sell_divergence": [
-      "2027 risk asset outlook: buy-side heavily bearish/flat (Druckenmiller flat, Tudor Jones full-year short); sell-side constructive (Wilson 8,700, Goldman 2.8% GDP)",
-      "AI direction: buy-side sees late-cycle excess and credit fault lines (Marks, Burry); sell-side sees structural growth driver justifying current valuations (Slok, Yardeni)",
-      "Fed policy: buy-side says hike would cause recession (Ackman) or is behind the curve (Gundlach); sell-side divided \u2014 Slok says Fed behind curve but economy can absorb it",
-      "Duration: buy-side cautious (Gundlach: low duration, avoid long bonds); sell-side divided (Reid cautious, Wilson bullish on rate vol stabilizing)"
-    ],
-    "aligned": [
-      "AI capex cycle continues \u2014 no one expects AI investment to stop in the near term",
-      "Higher rates for longer: consensus across all investors; December hike probability rising",
-      "US economy shows genuine resilience \u2014 2026 growth has outperformed most forecasts",
-      "2027 will be more challenging than 2026 \u2014 shared across buy- and sell-side despite disagreement on magnitude"
-    ],
-    "buy_side_trades": [
-      "Short copper [Druckenmiller]",
-      "Long gold as fiscal dominance / inflation hedge [Dalio, Bass]",
-      "Short stocks all of 2027; seasonal 4Q rally exit point [Tudor Jones]",
-      "Long Micron, Long SpaceX; exited mega-cap semis [Tepper]",
-      "Long AI infrastructure on forced-deleveraging dips [Visser]",
-      "Long Fannie Mae / Freddie Mac as optionality on government release [Ackman]"
-    ],
-    "sell_side_trades": [
-      "Long quality cyclicals and industrials; S&P 8,700 target for 2027 [Wilson]",
-      "Long high-quality investment-grade credit \u2014 'higher for longer makes IG more attractive' [Slok]",
-      "Long closed-end bond funds, Indian equities on rate normalization [Gundlach]",
-      "Buy AI equities on selloffs; S&P 7,700 year-end 2026 [Yardeni]",
-      "Underweight tech bonds relative to peers \u2014 30-year relative-return low creates entry [Hartnett]"
-    ],
-    "dominant_themes": [
-      "Buy-side vs. sell-side 2027 divergence at widest point of 2026",
-      "AI: credit fault line vs. GDP engine \u2014 the defining disagreement of the cycle",
-      "Higher for longer: Fed path and inflation re-acceleration reshaping asset allocation across all investors"
-    ],
-    "buy_side_sentiment": "bearish",
+    "buy_side_bullets": [],
+    "sell_side_bullets": [],
+    "whats_new": [],
+    "vs_market_buy": [],
+    "vs_market_sell": [],
+    "buy_vs_sell_divergence": [],
+    "aligned": [],
+    "buy_side_trades": [],
+    "sell_side_trades": [],
+    "dominant_themes": [],
+    "buy_side_sentiment": "mixed",
     "sell_side_sentiment": "mixed"
   }
 }
