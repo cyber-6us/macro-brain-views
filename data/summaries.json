@@ -1,53 +1,207 @@
 {
-  "generated_at": "2026-11-24",
+  "generated_at": "2026-11-25",
   "today": {
-    "date": "2026-11-24",
-    "entries_count": 9,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
+    "date": "2026-11-25",
+    "entries_count": 4,
+    "buy_side_bullets": [
+      "Softened Nvidia stance: opened door to Jensen Huang return after earlier backing outside candidate; signals deference to market forces [Scott Bessent]",
+      "Fed over-tightening is a 'policy mistake': third warning since Nov 13; pointed to tighter financial conditions over past few months [Scott Bessent]",
+      "Pushes back specifically on 50bp December hike: energy supply shock and declining crude justify restraint over aggression [Scott Bessent]",
+      "Security context: moved to military base amid Iranian threats; publicly blasted Iranian leadership in separate interview [Scott Bessent]",
+      "SPY down ~5% month-to-date as of Nov 22; Bessent still sees underlying economy as very strong but Fed risk elevated [Scott Bessent]"
+    ],
+    "sell_side_bullets": [
+      "'Global Equities' is a US tech bet: US now ~75% of developed-market equity value vs ~50% in 2008; cap-weighted global index = concentrated AI megacap exposure with hidden risk [Torsten Slok]",
+      "2027 World Outlook titled 'Great Expectations, but Risky Business': cautiously framed following turbulent 2026; 'risky business' implies elevated tail risks persist [Jim Reid]",
+      "Global monetary system fracturing: 30-year framework breaking down; austerity is politically and socially impossible \u2014 financial repression is the only exit [Russell Napier]",
+      "IG credit outperforms equities on risk-adjusted basis: all-in IG yield ~6% vs S&P 500 forward earnings yield ~4.5% \u2014 most favorable spread in years [Torsten Slok]",
+      "Financial repression benefits banks: forced to hold government bonds but asset base grows with nominal GDP; structural winners in repression regime [Russell Napier]"
+    ],
     "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
+    "vs_market_buy": [
+      "Fed over-tightening is a 'policy mistake': third warning since Nov 13; pointed to tighter financial conditions over past few months [Scott Bessent]"
+    ],
+    "vs_market_sell": [
+      "'Global Equities' is a US tech bet: US now ~75% of developed-market equity value vs ~50% in 2008; cap-weighted global index = concentrated AI megacap exposure with hidden risk [Torsten Slok]",
+      "US equity inflow reversal risk: persistent inflows that powered the bull market could reverse as valuations falter \u2014 a key inflection point [Russell Napier]",
+      "2027 World Outlook titled 'Great Expectations, but Risky Business': cautiously framed following turbulent 2026; 'risky business' implies elevated tail risks persist [Jim Reid]"
+    ],
+    "buy_vs_sell_divergence": [
+      "Buy side is mixed vs sell side bearish overall"
+    ],
+    "aligned": [
+      "Both sides focused on: AI",
+      "Both sides focused on: Rates/Fed",
+      "Both sides focused on: Credit/bonds"
+    ],
+    "buy_side_trades": [
+      "Implicit short-duration bias: over-tightening risk argues against long-bond shorts [Scott Bessent]",
+      "Nvidia uncertainty: Huang return possibility creates binary outcome for stock [Scott Bessent]"
+    ],
+    "sell_side_trades": [
+      "Underweight or hedge cap-weighted global equity ETFs (disguised US tech concentration) [Torsten Slok]",
+      "Avoid software sector (AI disruption + rate double squeeze) [Torsten Slok]",
+      "Favor investment-grade credit over equities (6% all-in yield vs 4.5% earnings yield) [Torsten Slok]",
+      "Long banks (financial repression beneficiary: rates capped but asset base grows) [Russell Napier]",
+      "Long Korean and Japanese industrials (reshoring and defense tailwinds) [Russell Napier]",
+      "Avoid long nominal government bonds (financial repression destroys real value) [Russell Napier]",
+      "Hold gold as preferred real asset [Russell Napier]",
+      "Await 6-8 week volatility resolution window before re-risking into equities [Jim Reid]"
+    ],
+    "dominant_themes": [
+      "AI",
+      "Credit/bonds",
+      "Rates/Fed"
+    ],
     "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "sell_side_sentiment": "bearish"
   },
   "week": {
-    "period_start": "2026-11-17",
-    "period_end": "2026-11-24",
+    "period_start": "2026-11-18",
+    "period_end": "2026-11-25",
     "entries_count": 39,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
+    "buy_side_bullets": [
+      "Softened Nvidia stance: opened door to Jensen Huang return after earlier backing outside candidate; signals deference to market forces [Scott Bessent]",
+      "Fed over-tightening is a 'policy mistake': third warning since Nov 13; pointed to tighter financial conditions over past few months [Scott Bessent]",
+      "Pushes back specifically on 50bp December hike: energy supply shock and declining crude justify restraint over aggression [Scott Bessent]",
+      "Security context: moved to military base amid Iranian threats; publicly blasted Iranian leadership in separate interview [Scott Bessent]",
+      "SPY down ~5% month-to-date as of Nov 22; Bessent still sees underlying economy as very strong but Fed risk elevated [Scott Bessent]"
+    ],
+    "sell_side_bullets": [
+      "'Global Equities' is a US tech bet: US now ~75% of developed-market equity value vs ~50% in 2008; cap-weighted global index = concentrated AI megacap exposure with hidden risk [Torsten Slok]",
+      "2027 World Outlook titled 'Great Expectations, but Risky Business': cautiously framed following turbulent 2026; 'risky business' implies elevated tail risks persist [Jim Reid]",
+      "Global monetary system fracturing: 30-year framework breaking down; austerity is politically and socially impossible \u2014 financial repression is the only exit [Russell Napier]",
+      "IG credit outperforms equities on risk-adjusted basis: all-in IG yield ~6% vs S&P 500 forward earnings yield ~4.5% \u2014 most favorable spread in years [Torsten Slok]",
+      "Financial repression benefits banks: forced to hold government bonds but asset base grows with nominal GDP; structural winners in repression regime [Russell Napier]"
+    ],
+    "whats_new": [
+      "Howard Marks: shifted from bearish to neutral",
+      "Jordi Visser: shifted from mixed to bullish",
+      "David Tepper: shifted from bullish to mixed",
+      "Torsten Slok: shifted from mixed to bearish",
+      "Russell Napier: shifted from mixed to bearish",
+      "Liz Ann Sonders: shifted from mixed to bearish",
+      "Scott Bessent: shifted from bullish to mixed",
+      "Jim Reid: shifted from mixed to bearish"
+    ],
+    "vs_market_buy": [
+      "Fed over-tightening is a 'policy mistake': third warning since Nov 13; pointed to tighter financial conditions over past few months [Scott Bessent]",
+      "Short copper; sees second half of 2027 as potentially disappointing for the economy (not a certain recession) [Stan Druckenmiller]",
+      "Who will profit from AI remains deeply uncertain; the future is not yet written and capital requirements may not be justified by revenues [Howard Marks]"
+    ],
+    "vs_market_sell": [
+      "'Global Equities' is a US tech bet: US now ~75% of developed-market equity value vs ~50% in 2008; cap-weighted global index = concentrated AI megacap exposure with hidden risk [Torsten Slok]",
+      "US equity inflow reversal risk: persistent inflows that powered the bull market could reverse as valuations falter \u2014 a key inflection point [Russell Napier]",
+      "2027 World Outlook titled 'Great Expectations, but Risky Business': cautiously framed following turbulent 2026; 'risky business' implies elevated tail risks persist [Jim Reid]"
+    ],
     "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "aligned": [
+      "Both sides focused on: AI",
+      "Both sides focused on: Rates/Fed",
+      "Both sides focused on: Recession risk",
+      "Both sides focused on: Inflation"
+    ],
+    "buy_side_trades": [
+      "Implicit short-duration bias: over-tightening risk argues against long-bond shorts [Scott Bessent]",
+      "Nvidia uncertainty: Huang return possibility creates binary outcome for stock [Scott Bessent]",
+      "Short copper [Stan Druckenmiller]",
+      "Flat equities / capital preservation \u2014 not adding new long risk [Stan Druckenmiller]",
+      "AI applications over AI infrastructure [Stan Druckenmiller]",
+      "Underweight AI-heavy credit exposure relative to benchmarks given 'fault line' framing [Howard Marks]",
+      "Avoid concentration in AI-related IG debt at current issuance volumes [Howard Marks]",
+      "Long Micron (largest position, +28% shares added in Q3) [David Tepper]"
+    ],
+    "sell_side_trades": [
+      "Underweight or hedge cap-weighted global equity ETFs (disguised US tech concentration) [Torsten Slok]",
+      "Avoid software sector (AI disruption + rate double squeeze) [Torsten Slok]",
+      "Favor investment-grade credit over equities (6% all-in yield vs 4.5% earnings yield) [Torsten Slok]",
+      "Long banks (financial repression beneficiary: rates capped but asset base grows) [Russell Napier]",
+      "Long Korean and Japanese industrials (reshoring and defense tailwinds) [Russell Napier]",
+      "Avoid long nominal government bonds (financial repression destroys real value) [Russell Napier]",
+      "Hold gold as preferred real asset [Russell Napier]",
+      "Await 6-8 week volatility resolution window before re-risking into equities [Jim Reid]"
+    ],
+    "dominant_themes": [
+      "AI",
+      "Credit/bonds",
+      "Rates/Fed"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "bearish"
   },
   "month": {
-    "period_start": "2026-10-25",
-    "period_end": "2026-11-24",
-    "entries_count": 183,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
+    "period_start": "2026-10-26",
+    "period_end": "2026-11-25",
+    "entries_count": 184,
+    "buy_side_bullets": [
+      "Softened Nvidia stance: opened door to Jensen Huang return after earlier backing outside candidate; signals deference to market forces [Scott Bessent]",
+      "Fed over-tightening is a 'policy mistake': third warning since Nov 13; pointed to tighter financial conditions over past few months [Scott Bessent]",
+      "Pushes back specifically on 50bp December hike: energy supply shock and declining crude justify restraint over aggression [Scott Bessent]",
+      "Security context: moved to military base amid Iranian threats; publicly blasted Iranian leadership in separate interview [Scott Bessent]",
+      "SPY down ~5% month-to-date as of Nov 22; Bessent still sees underlying economy as very strong but Fed risk elevated [Scott Bessent]"
+    ],
+    "sell_side_bullets": [
+      "'Global Equities' is a US tech bet: US now ~75% of developed-market equity value vs ~50% in 2008; cap-weighted global index = concentrated AI megacap exposure with hidden risk [Torsten Slok]",
+      "2027 World Outlook titled 'Great Expectations, but Risky Business': cautiously framed following turbulent 2026; 'risky business' implies elevated tail risks persist [Jim Reid]",
+      "Global monetary system fracturing: 30-year framework breaking down; austerity is politically and socially impossible \u2014 financial repression is the only exit [Russell Napier]",
+      "IG credit outperforms equities on risk-adjusted basis: all-in IG yield ~6% vs S&P 500 forward earnings yield ~4.5% \u2014 most favorable spread in years [Torsten Slok]",
+      "Financial repression benefits banks: forced to hold government bonds but asset base grows with nominal GDP; structural winners in repression regime [Russell Napier]"
+    ],
+    "whats_new": [
+      "Jordi Visser: shifted from mixed to bullish",
+      "Torsten Slok: shifted from mixed to bearish",
+      "Michael Hartnett: shifted from neutral to bearish",
+      "Jim Reid: shifted from mixed to bearish",
+      "Scott Bessent: shifted from bullish to mixed",
+      "Stan Druckenmiller: shifted from mixed to bearish",
+      "David Tepper: shifted from bullish to mixed",
+      "Liz Ann Sonders: shifted from neutral to bearish",
+      "Alan Howard: shifted from mixed to bearish",
+      "George Soros: shifted from bearish to mixed"
+    ],
+    "vs_market_buy": [
+      "Fed over-tightening is a 'policy mistake': third warning since Nov 13; pointed to tighter financial conditions over past few months [Scott Bessent]",
+      "Short copper; sees second half of 2027 as potentially disappointing for the economy (not a certain recession) [Stan Druckenmiller]",
+      "Who will profit from AI remains deeply uncertain; the future is not yet written and capital requirements may not be justified by revenues [Howard Marks]"
+    ],
+    "vs_market_sell": [
+      "'Global Equities' is a US tech bet: US now ~75% of developed-market equity value vs ~50% in 2008; cap-weighted global index = concentrated AI megacap exposure with hidden risk [Torsten Slok]",
+      "US equity inflow reversal risk: persistent inflows that powered the bull market could reverse as valuations falter \u2014 a key inflection point [Russell Napier]",
+      "2027 World Outlook titled 'Great Expectations, but Risky Business': cautiously framed following turbulent 2026; 'risky business' implies elevated tail risks persist [Jim Reid]"
+    ],
     "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "aligned": [
+      "Both sides focused on: AI",
+      "Both sides focused on: Rates/Fed",
+      "Both sides focused on: Recession risk",
+      "Both sides focused on: Inflation"
+    ],
+    "buy_side_trades": [
+      "Implicit short-duration bias: over-tightening risk argues against long-bond shorts [Scott Bessent]",
+      "Nvidia uncertainty: Huang return possibility creates binary outcome for stock [Scott Bessent]",
+      "Short copper [Stan Druckenmiller]",
+      "Flat equities / capital preservation \u2014 not adding new long risk [Stan Druckenmiller]",
+      "AI applications over AI infrastructure [Stan Druckenmiller]",
+      "Underweight AI-heavy credit exposure relative to benchmarks given 'fault line' framing [Howard Marks]",
+      "Avoid concentration in AI-related IG debt at current issuance volumes [Howard Marks]",
+      "Long Micron (largest position, +28% shares added in Q3) [David Tepper]"
+    ],
+    "sell_side_trades": [
+      "Underweight or hedge cap-weighted global equity ETFs (disguised US tech concentration) [Torsten Slok]",
+      "Avoid software sector (AI disruption + rate double squeeze) [Torsten Slok]",
+      "Favor investment-grade credit over equities (6% all-in yield vs 4.5% earnings yield) [Torsten Slok]",
+      "Long banks (financial repression beneficiary: rates capped but asset base grows) [Russell Napier]",
+      "Long Korean and Japanese industrials (reshoring and defense tailwinds) [Russell Napier]",
+      "Avoid long nominal government bonds (financial repression destroys real value) [Russell Napier]",
+      "Hold gold as preferred real asset [Russell Napier]",
+      "Await 6-8 week volatility resolution window before re-risking into equities [Jim Reid]"
+    ],
+    "dominant_themes": [
+      "AI",
+      "Credit/bonds",
+      "Rates/Fed"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "bearish"
   }
 }
