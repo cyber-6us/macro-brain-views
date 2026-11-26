@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-25",
+  "generated_at": "2026-11-26",
   "today": {
-    "date": "2026-11-25",
-    "entries_count": 4,
+    "date": "2026-11-26",
+    "entries_count": 0,
     "buy_side_bullets": [],
     "sell_side_bullets": [],
     "whats_new": [],
@@ -17,37 +17,131 @@
     "sell_side_sentiment": "mixed"
   },
   "week": {
-    "period_start": "2026-11-18",
-    "period_end": "2026-11-25",
-    "entries_count": 39,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "period_start": "2026-11-19",
+    "period_end": "2026-11-26",
+    "entries_count": 35,
+    "buy_side_bullets": [
+      "Capital preservation mode / near-zero net equity exposure — awaiting clarity on Fed path and 2027 growth. [Druckenmiller shift, Tudor Jones]",
+      "Bridgewater cut S&P 500 holdings by $2.6bn pre-November selloff; worst 'big cycle' risk in decades flagged, US debt unsustainable. [Dalio]",
+      "Fed December hike would be 'another mistake' — risks overtightening into slowing economy with Fannie/Freddie upside as asymmetric hedge. [Ackman]",
+      "AI selloff is forced hedge fund deleveraging, not bubble burst — Bitcoin and AI still in structural uptrend. [Visser shift]",
+      "Macro book down 6% YTD on wrong-way Fed cuts bet; Greenlight sharply reduced position but still expects some priced hikes to fail. [Einhorn]"
+    ],
+    "sell_side_bullets": [
+      "Strong dollar primary global liquidity tightening mechanism — all three BofA entry conditions for risk-on remain unmet; stay defensive into Q1 2027. [Hartnett]",
+      "2027 World Outlook: 'Great Expectations but Risky Business' — 15–20% US equity correction risk Q1 2027 as AI capex payback pressures emerge. [Jim Reid shift]",
+      "Financial repression regime intensifying — long-dated Treasuries lose safe-haven status; governments will suppress yields to inflate away debt. [Napier evolving]",
+      "Global equities are fundamentally a US tech bet: International holdings ex-US tech are hiding single-factor exposure; software distress worsening. [Slok evolving]",
+      "GS 2027 outlook: 'Steady Baseline, Downside Risks' — base case still no recession but tail risks elevated; AI productivity gains not yet in GDP. [Hatzius]",
+      "S&P 500 raises 12-month target to 8,700 (+15%): EPS growth, lower oil, stabilizing rate volatility support equity bull case despite near-term risk. [Mike Wilson]"
+    ],
+    "whats_new": [
+      "Slok's new framework: Global equities = US tech bet in disguise; software sector distress accelerating — shift from prior 'resilient economy' thesis [Slok shift]",
+      "Napier escalates financial repression call: government bond issuance should now be treated as risk asset, not safe haven [Napier evolving]",
+      "Jim Reid flags 1999/2000 analog: AI capex cycle vs dot-com capex cycle structural parallels in 2027 World Outlook [Jim Reid shift]"
+    ],
+    "vs_market_buy": [
+      "Druckenmiller and Tudor Jones are more bearish than consensus — both positioned for 2027 difficulty while market still at all-time highs",
+      "Ackman views December hike as consensus-defying policy mistake — market is pricing it as likely but Ackman argues against it"
+    ],
+    "vs_market_sell": [
+      "Napier is structurally more bearish on Treasuries than market consensus pricing implies",
+      "Hartnett's entry conditions model implies 3+ months before risk-on is justified — markets are pricing earlier recovery"
+    ],
+    "buy_vs_sell_divergence": [
+      "AI selloff interpretation: buy-side Visser sees forced deleveraging (not bubble burst); sell-side Hartnett sees 'AI euphoria over' and structural rotation away",
+      "Equities near-term: Yardeni/Wilson bullish on S&P to 7,700–8,700; Druckenmiller/Tudor Jones at near-zero/short positioning for 2027",
+      "Fed policy: Ackman/Bessent warn over-tightening risk; Slok/Napier see higher-for-longer as structural, not error"
+    ],
+    "aligned": [
+      "December Fed rate hike risk is real and elevated — consensus concern across both sides",
+      "AI equity concentration has peaked and rotation is underway — tech bonds outperform tech stocks near-term",
+      "2027 economic outlook is significantly below 2026 consensus — earnings deceleration risk"
+    ],
+    "buy_side_trades": [
+      "Short copper, near-flat net equity — capital preservation posture [Druckenmiller]",
+      "Long Micron (top 17% position), SpaceX (17x increase in Q3) — AI infrastructure over software [Tepper]",
+      "Long Fannie/Freddie preferred as 'worst performer that could be a 10X' on Trump policy release [Ackman]",
+      "Long Bitcoin and AI infrastructure — structural uptrend intact despite deleveraging [Visser]"
+    ],
+    "sell_side_trades": [
+      "Long tech bonds, short tech stocks — 30yr relative return at 30-year low [Hartnett]",
+      "Long defensives, cash, non-US assets — stay defensive until USD peaks Q1-Q2 2027 [Hartnett]",
+      "Long defensive value over growth — 13% pullback risk from fiscal sugar-high fade [Bannister]",
+      "Short long-dated Treasuries — financial repression makes them structurally unattractive [Napier]"
+    ],
+    "dominant_themes": [
+      "Fed over-tightening risk and December hike debate",
+      "AI equity concentration peak and rotation to tech bonds / defensives",
+      "Capital preservation wave among major macro managers ahead of 2027"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "bearish"
   },
   "month": {
-    "period_start": "2026-10-26",
-    "period_end": "2026-11-25",
-    "entries_count": 184,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "period_start": "2026-10-27",
+    "period_end": "2026-11-26",
+    "entries_count": 178,
+    "buy_side_bullets": [
+      "Capital preservation wave: Druckenmiller (near-zero equities, short copper), Tudor Jones (short 2027), Dalio (cut S&P 500 by $2.6bn) all shifted to defensive in Oct-Nov. [Druckenmiller, Tudor Jones, Dalio]",
+      "AI bubble risk rising: Bridgewater flagged 'typical AI investment bubble, final stage' — mirroring Dalio's 80-year big-cycle warning; Burry's AI short thesis and consumer confidence at record lows reinforce bear case. [Dalio, Burry]",
+      "Howard Marks issued first-ever dedicated AI memo: asks 11 questions on AI profitability, flags $600bn AI-related debt issuance as 'fault line in portfolios.' [Marks]",
+      "Tepper concentrated into AI infrastructure (Micron 17%, SpaceX 7%) — contrarian bet that AI hardware cycle continues despite software slowdown. [Tepper shift]",
+      "Bessent warning escalation: CBS Face the Nation Nov 22 saw explicit 'policy mistake' language on Fed; prior optimism on 'very strong economy' is narrowing. [Bessent evolving]"
+    ],
+    "sell_side_bullets": [
+      "Hartnett's regime shift: 'Anything But Dollar' and 'Stay Long Detroit, Short Davos' — US exceptionalism trade ended; rotation from Mag7 to Main Street, international, defensives. [Hartnett evolving]",
+      "GS/Morgan Stanley bull: 2027 outlooks are bullish (Hatzius: steady baseline; Wilson: S&P to 8,700) despite near-term correction risk — constructive 12-month view diverges from macro bears. [Hatzius, Mike Wilson]",
+      "Napier's financial repression intensification: governments suppressing yields structurally; long-dated Treasuries no longer safe-haven assets. [Napier]",
+      "Slok's AI economy pivot: AI boom and data center spending still the key support for US growth but software distress worsening; global equities are a hidden single-factor US tech bet. [Slok]",
+      "Albert Edwards: double-digit inflation structural, not transitory; Ice Age framework morphing into fiscal dominance inflation era. [Edwards]",
+      "Rosenberg: disinflation is the defining 2026 story; market consensus still wrong on recession timing — 'very significant' 2027 recession his base case. [Rosenberg]"
+    ],
+    "whats_new": [
+      "Slok pivoted from 'resilient economy / no recession' to flagging software distress and global equity as hidden US tech concentration risk [Slok shift]",
+      "Bessent sharpened warnings from 'very strong economy' rhetoric to 'policy mistake' language on Fed over-tightening [Bessent evolving]",
+      "Hartnett formally closed 'US exceptionalism' trade and opened 'Stay Long Detroit, Short Davos' rotation [Hartnett shift]",
+      "Napier escalated financial repression from thesis to investment imperative: treat government bonds as risk assets [Napier evolving]"
+    ],
+    "vs_market_buy": [
+      "Druckenmiller/Tudor Jones are dramatically more bearish than the consensus equity market level implies",
+      "Marks raises AI debt concentration as systemic portfolio risk — markets not pricing the $600bn AI debt overhang"
+    ],
+    "vs_market_sell": [
+      "Napier's financial repression thesis implies long-term government bond yields structurally higher than market terminal rate pricing",
+      "Rosenberg's 2027 recession base case is well above consensus probability — his 'very significant' recession call is an outlier"
+    ],
+    "buy_vs_sell_divergence": [
+      "2027 equity direction: Druckenmiller/Tudor Jones positioning for significant losses; Wilson/Hatzius/Yardeni see 10-15% upside",
+      "Inflation trajectory: Edwards/Napier see structural re-inflation; Rosenberg sees disinflation winning; Yardeni sees Roaring 2020s AI productivity",
+      "Recession probability: Rosenberg/Berezin at 40-50%+ odds; Hatzius/Wilson at <15% base case"
+    ],
+    "aligned": [
+      "AI equity concentration peaked — consensus across both sides that the Mag7-led tech rally is over for now",
+      "2027 economic outlook below 2026 — both sides see deceleration ahead even if baseline is not recession",
+      "Fed rate path highly uncertain — widespread disagreement on December hike with bimodal risk outcome",
+      "Financial market volatility elevated structurally — leverage-driven swings not fundamental macro shifts"
+    ],
+    "buy_side_trades": [
+      "Short copper, near-flat equities [Druckenmiller]",
+      "Long Micron, SpaceX, AI infrastructure [Tepper]",
+      "Long Fannie/Freddie preferred [Ackman]",
+      "Long Bitcoin, AI infrastructure names [Visser]",
+      "Short long-dated Treasuries, long gold [Einhorn — via macro book]"
+    ],
+    "sell_side_trades": [
+      "Long tech bonds, short tech stocks [Hartnett]",
+      "Long defensives, cash, non-US assets [Hartnett]",
+      "Long defensive value over growth [Bannister]",
+      "Short long-dated Treasuries [Napier]",
+      "Long Indian equities, long closed-end bond funds [Gundlach]"
+    ],
+    "dominant_themes": [
+      "AI bubble risk and capital preservation wave among top macro managers",
+      "Financial repression regime / structural rate suppression displacing bond safe-haven status",
+      "2027 recession risk debate: bull-side Goldman/Morgan Stanley vs bear-side Rosenberg/Druckenmiller/Tudor Jones"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "bearish"
   }
 }
