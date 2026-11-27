@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-26",
+  "generated_at": "2026-11-27",
   "today": {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "entries_count": 0,
     "buy_side_bullets": [],
     "sell_side_bullets": [],
@@ -17,37 +17,156 @@
     "sell_side_sentiment": "mixed"
   },
   "week": {
-    "period_start": "2026-11-19",
-    "period_end": "2026-11-26",
-    "entries_count": 35,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
+    "period_start": "2026-11-20",
+    "period_end": "2026-11-27",
+    "entries_count": 24,
+    "buy_side_bullets": [
+      "Capital preservation mode as macro visibility hits 50-year low — cutting equity exposure, nearly flat on stocks. [Druckenmiller]",
+      "Bridgewater cut S&P 500 index fund exposure by $2.6B in Q3 — largest single-quarter reduction in years, before the November selloff. [Dalio]",
+      "Fed over-tightening is 'policy mistake' — December 50bp hike would cause recession amid 8.26% IG borrowing costs; three consecutive public warnings. [Bessent, Ackman]",
+      "AI debt 'fault line': $600B in AI-related IG issuance globally in 2026 — who profits from AI remains uncertain; macro hedge funds losing on wrong-way rate bets. [Marks, Einhorn]",
+      "Financial repression intensifying: banks structurally favored as rates capped below inflation; Korean/Japanese industrials as reshoring plays. [Napier]"
+    ],
+    "sell_side_bullets": [
+      "S&P 500 2026 correction in final phase — 7,100-7,300 entry window to buy; 2027 target raised to 8,700 on healthy EPS growth, lower oil, AI investment adoption. [Wilson]",
+      "Post-midterm tactical buy signal emerging vs. 'risky business' 2027 outlook — midterm tailwind and seasonality constructive but fundamental backdrop treacherous. [Reid]",
+      "AI economy now ~65% of GDP growth but software sector under double squeeze from AI disruption + higher rates — largest LBO share decline in years. [Slok]",
+      "Dollar peak in Q1-Q2 2027 is the key market pivot: stay defensive, hold cash, prefer non-US assets until dollar rolls over. [Hartnett]",
+      "Disinflation trade alive: Nasdaq negative YTD, housing deflation accelerating (21% of sellers cutting prices, record for this time of year), consumer increasingly stretched. [Rosenberg, Sonders]"
+    ],
+    "whats_new": [
+      "Druckenmiller 'taking a break' from stocks — a genuinely new and unprecedented stance for the most prominent global macro manager in 50 years of career. [Druckenmiller shift]",
+      "Wilson formally issued 2027 target of 8,700 raised from 8,000, retiring his 2026 year-end framework — signals a bull that survived the 2026 correction. [Wilson]",
+      "Bessent escalated language from 'concern' to 'policy mistake' on Fed tightening — his third public warning in 10 days is the loudest signal yet from Treasury. [Bessent evolving]",
+      "Einhorn admitted wrong-way rate-cut bet cost the macro book -6% YTD — cutting position by one-third but not capitulating; calling market over-pricing of hikes. [Einhorn shift]",
+      "Brevan Howard seeing talent drain — 5 credit portfolio managers departed in November; performance pressure intensifying alongside strategy pivot. [Howard]"
+    ],
+    "vs_market_buy": [
+      "Market pricing modest rate volatility; Druckenmiller/Dalio reducing equity risk as if a cycle top is forming — a stark divergence from consensus positioning.",
+      "Market expects S&P to remain range-bound; Dalio sold >$2.6B of index funds in Q3 — positioning diverges from implicit macro consensus.",
+      "Bessent publicly flagging Fed policy mistake while market still prices ~40% chance of December hike — Treasury Secretary vs. futures market in real time."
+    ],
+    "vs_market_sell": [
+      "Market pricing defensives under pressure; Hartnett says stay defensive until Q1-Q2 2027 dollar peak — a minority view among sell-side strategists.",
+      "Consensus expects AI selloffs to be transient; Slok frames AI concentration as systemic risk, not a temporary factor.",
+      "Market pricing continued IG credit spread stability; Slok argues IG credit outperforms equities on risk-adjusted basis at ~6% all-in yield."
+    ],
+    "buy_vs_sell_divergence": [
+      "Equity direction: Buy-side macro managers (Druckenmiller, Dalio, Burry, Einhorn) cutting or shorting equities while sell-side strategists (Wilson, Yardeni, Visser) are buyers on dips — the widest buy-vs-sell divergence of the quarter.",
+      "Rate path: Buy-side (Ackman, Bessent) warn December hike would cause recession; sell-side (Napier, Gundlach via month entries) expect further tightening as structurally necessary — directly opposite prescriptions.",
+      "AI: Buy-side (Marks, Einhorn) flagging AI debt/credit as a 'fault line'; sell-side (Visser, Wilson, Yardeni) treating AI selloffs as buying opportunities with the capex cycle intact."
+    ],
+    "aligned": [
+      "Fed over-tightening risk is a shared concern — both Bessent (buy-side, Treasury) and Hartnett (sell-side, BofA) warn about policy error in December.",
+      "AI concentration risk — both sides flagging tech/AI overweight risk in portfolios, though with different prescriptions (reduce vs. rotate).",
+      "Financial repression as secular force — Napier (sell) and Dalio (buy) both pointing to gold, real assets, and banks as beneficiaries of rate-capped-below-inflation regime.",
+      "Non-US equities as eventual outperformers — Hartnett (sell) and Dalio/Napier (buy) aligned that dollar peak will drive rotation out of US assets."
+    ],
+    "buy_side_trades": [
+      "Short copper as macro demand leading indicator. [Druckenmiller]",
+      "Flat equities / capital preservation — not adding new long risk. [Druckenmiller]",
+      "Reduce S&P 500 index exposure (SPY/IVV); long gold as fiscal dominance hedge. [Dalio]",
+      "Long Micron as largest position (+28% shares added in Q3); long SpaceX (17x stake increase). [Tepper]",
+      "Short AI/semiconductor names (NVIDIA, SMH vs SOXX); long put options as tail hedges. [Burry]",
+      "Long US defense/precision weapons contractors; short China assets. [Bass]",
+      "Underweight AI-heavy IG credit; avoid concentration in AI-related debt. [Marks]",
+      "Implicit short-duration bias: over-tightening risk argues against long-bond shorts. [Bessent]"
+    ],
+    "sell_side_trades": [
+      "Buy S&P 500 dip at 7,100-7,300 entry window; 2027 target 8,700; long quality cyclicals and industrials. [Wilson]",
+      "Buy AI-linked equities on selloffs — AI trade alive and well; S&P year-end 2026 target 7,700. [Yardeni]",
+      "Defensives over cyclicals; cash over risk assets; non-US equities over US until dollar peak. [Hartnett]",
+      "Long duration Treasuries as disinflation trade; underweight equities on negative equity risk premium. [Rosenberg]",
+      "Long banks (financial repression beneficiary); long Korean/Japanese industrials; hold gold. [Napier]",
+      "Underweight cap-weighted global equity ETFs (US tech concentration risk); favor IG credit at 6% yield. [Slok]",
+      "Long defensive sectors: healthcare, consumer staples, gold; short large-cap cyclical growth. [Bannister]",
+      "Long Micron and AI infrastructure equities on forced-deleveraging dips. [Visser]",
+      "Await 6-8 week volatility resolution before re-risking into equities; cautious on AI megacaps at current valuations. [Reid]"
+    ],
+    "dominant_themes": [
+      "Fed over-tightening risk and December hike debate",
+      "AI capex cycle integrity vs. bubble/concentration risk",
+      "Market correction as cycle peak vs. buyable dip"
+    ],
+    "buy_side_sentiment": "bearish",
     "sell_side_sentiment": "mixed"
   },
   "month": {
-    "period_start": "2026-10-27",
-    "period_end": "2026-11-26",
-    "entries_count": 178,
-    "buy_side_bullets": [],
-    "sell_side_bullets": [],
-    "whats_new": [],
-    "vs_market_buy": [],
-    "vs_market_sell": [],
-    "buy_vs_sell_divergence": [],
-    "aligned": [],
-    "buy_side_trades": [],
-    "sell_side_trades": [],
-    "dominant_themes": [],
-    "buy_side_sentiment": "mixed",
-    "sell_side_sentiment": "mixed"
+    "period_start": "2026-10-28",
+    "period_end": "2026-11-27",
+    "entries_count": 174,
+    "buy_side_bullets": [
+      "Capital preservation and risk reduction dominate: Druckenmiller flat on equities (unprecedented 50-year career low), Dalio cut index exposure by $2.6B in Q3, Einhorn macro book -6% YTD on wrong-way rate bets. [Druckenmiller, Dalio, Einhorn]",
+      "AI capex cycle divides hedge funds: some buying dips as forced deleveraging (Tepper adding Micron +28%, SpaceX 17x; Visser long AI infra); others treating AI debt as systemic 'fault line' (Marks) or shorting semiconductors outright (Burry). [Tepper, Marks, Burry]",
+      "Financial repression accelerating: gold, banks, and real assets preferred over nominal government bonds; Asian industrials as reshoring plays; 15-year structural horizon. [Dalio, Napier, Gundlach]",
+      "Defense sector emerges as top investment theme: $50B US precision weapons procurement bill = structural capex tailwind amid adversary buildout. [Bass]",
+      "Fed over-tightening risk flagged repeatedly: December hike would cause recession per Ackman; Bessent issued three public warnings; Treasury Secretary vs. futures market divergence widening. [Ackman, Bessent]"
+    ],
+    "sell_side_bullets": [
+      "AI economy now ~65% of US GDP growth (Slok) but software sector under double squeeze from AI disruption + higher-for-longer rates — a 'double whammy' creating distress in LBO market. [Slok]",
+      "Post-midterm setup constructive: S&P 500 correction completing with 7,100-7,300 entry window; 2027 target raised to 8,700; AI selloffs are buying opportunities. [Wilson, Yardeni, Visser]",
+      "Fed rate hike cycle re-initiating: no cuts in 2026, December hike probable, long-duration government bonds avoided globally; debt restructuring hedge emerging. [Gundlach, Napier, Reid]",
+      "Dollar peak in Q1-Q2 2027 is the key pivot for global risk assets: until then, stay defensive, hold cash, favor non-US equities and commodities (+83% YTD). [Hartnett]",
+      "Financial repression as secular theme — rates structurally capped below inflation; banks as forced government bond holders benefit from asset base growth; 15-year horizon to work off debt overhang. [Napier, Slok]"
+    ],
+    "whats_new": [
+      "Druckenmiller 'taking a break' from stocks — the most decisive capital-preservation pivot in his 50-year career, triggered by unprecedented macro uncertainty. [Druckenmiller shift]",
+      "Wilson formally issued a 2027 S&P 500 target (8,700) for the first time, signaling his conviction that the 2026 bear phase is a mid-cycle correction. [Wilson]",
+      "Bessent escalated Fed criticism to 'policy mistake' language — from cautious critique in October to explicit warning in November, three times in 10 days. [Bessent evolving]",
+      "Einhorn cut his rate-cut macro bet by one-third — first meaningful capitulation after a -6% YTD macro book performance driven by that wrong-way bet. [Einhorn shift]",
+      "Slok published two new analytical frameworks in a single week: global equities as a disguised US tech bet (75% US weighting) and software 'double whammy.' [Slok evolving]",
+      "Napier's 'The Shock of 26' report signaled a potential acceleration in the financial repression timeline — higher yields + recession = forced government intervention. [Napier evolving]"
+    ],
+    "vs_market_buy": [
+      "Market consensus expects soft landing and no December hike; Druckenmiller/Dalio reducing equity exposure as if cycle top is forming — stark divergence from implied volatility pricing.",
+      "Market pricing AI capex as indefinitely self-funding; Marks frames $600B in AI-related debt as a 'fault line' — a minority view among allocators but backed by the most prominent memo-writer in credit.",
+      "Market expects Fed to pause December; Bessent (Treasury Secretary) is publicly calling it a policy mistake three times in 10 days — an unusual level of executive branch jawboning."
+    ],
+    "vs_market_sell": [
+      "Consensus has gone risk-on post-midterms; Hartnett's three BofA entry conditions for risk-on remain unmet — staying defensive while most sell-side colleagues buy.",
+      "Market pricing normal credit cycles; Napier sees financial repression as structurally necessary — a view shared by fewer than 20% of institutional strategists.",
+      "Market prices AI as productivity boom; Edwards (SocGen) says AI doomsday is here now, not 2028 — the most bearish framing on the street for the AI cycle."
+    ],
+    "buy_vs_sell_divergence": [
+      "Equity exposure: Buy-side macro managers (Druckenmiller, Dalio, Burry, Einhorn) reducing or shorting equities; sell-side strategists (Wilson, Yardeni, Visser) are systematic buyers on dips — the most persistent divergence of the 30-day period.",
+      "Rate cycle: Buy-side Ackman/Bessent warning December hike = recession; sell-side Napier/Gundlach argue further tightening is structurally appropriate — the same data interpreted as over-tight vs. not-tight-enough.",
+      "AI credit: Buy-side Marks treating AI IG issuance as a 'fault line'; sell-side Slok framing IG credit at 6% as the best risk-adjusted trade — directly opposite prescriptions from the same asset class."
+    ],
+    "aligned": [
+      "Fed over-tightening risk as near-term concern: Bessent, Ackman (buy), Hartnett, Reid (sell) all warn about policy error in December — rare cross-side alignment.",
+      "Financial repression as secular regime: Dalio, Napier, Gundlach (buy/sell) aligned on gold, real assets, banks as multi-year beneficiaries; nominal government bonds avoided.",
+      "Non-US equities as eventual outperformers when dollar peaks: Hartnett (sell) and Dalio/Napier (buy) share this conviction, differing only on timing.",
+      "AI concentration risk: both sides flag US tech/AI overweight in cap-weighted portfolios as systemic — Slok (sell) via US weighting data, Marks (buy) via credit fault-line framing."
+    ],
+    "buy_side_trades": [
+      "Short copper as macro demand leading indicator; flat equities / capital preservation. [Druckenmiller]",
+      "Reduce US equity index exposure (SPY/IVV); long gold as fiscal dominance / financial repression hedge. [Dalio]",
+      "Long Micron (#1 position, +28% shares added Q3); long SpaceX (17x stake increase, $557M). [Tepper]",
+      "Short AI/semiconductor names (NVIDIA, SMH vs SOXX); long put options as cycle-peak hedges. [Burry]",
+      "Long US defense/precision weapons contractors; short China assets on decoupling. [Bass]",
+      "Underweight AI-heavy IG credit; avoid AI-related debt concentration. [Marks]",
+      "Long banks (financial repression beneficiary); long Korean/Japanese industrials; hold gold. [Napier, Dalio]",
+      "Avoid long nominal government bonds; hold gold as preferred real asset. [Gundlach, Napier]",
+      "Short-duration bias; implicit short on over-tightening tail risk. [Bessent, Einhorn]"
+    ],
+    "sell_side_trades": [
+      "Buy S&P 500 at 7,100-7,300 entry; 2027 target 8,700; rotate into quality cyclicals and industrials from tech. [Wilson]",
+      "Buy AI-linked equities on selloffs; S&P year-end 2026 target 7,700; AI earnings gap vs consensus = alpha source. [Yardeni]",
+      "Defensives over cyclicals; cash over risk assets; non-US equities favored; commodities as strongest major asset class (+83% YTD). [Hartnett]",
+      "Long duration Treasuries as disinflation trade; underweight equities on negative equity risk premium. [Rosenberg]",
+      "Underweight cap-weighted global equity ETFs (US tech concentration risk); favor IG credit at 6% all-in yield. [Slok]",
+      "Long banks and real assets for financial repression regime; avoid long nominal government bonds; 15-year horizon. [Napier]",
+      "Avoid long-duration government bonds globally; focus on low-duration assets; debt restructuring hedge via lowest-coupon Treasuries. [Gundlach]",
+      "Long defensive sectors: healthcare, consumer staples, gold; short large-cap cyclical growth. [Bannister]",
+      "Long Micron and AI infrastructure equities on forced-deleveraging dips; inflation swaps at lows as duration trade. [Visser]",
+      "Tactically long US equities post-midterm; avoid long-duration government bonds; watch German fiscal reform. [Reid]"
+    ],
+    "dominant_themes": [
+      "Fed over-tightening risk and December rate hike debate",
+      "AI capex cycle integrity vs. bubble/concentration/credit risk",
+      "Financial repression as secular regime — gold, banks, real assets over bonds"
+    ],
+    "buy_side_sentiment": "bearish",
+    "sell_side_sentiment": "bearish"
   }
 }
